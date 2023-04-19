@@ -1,0 +1,18 @@
+save_data: nlmaps_v2/
+## Where the vocab(s) will be written
+src_vocab: nlmaps_v2/nlmaps_vocab/nlmaps.vocab.src
+tgt_vocab: nlmaps_v2/nlmaps_vocab/nlmaps.vocab.tgt
+# Prevent overwriting existing files in the folder
+overwrite: True
+# Corpus opts:
+data:
+    corpus_1:
+        path_src: nlmaps_v2/nlmaps_v2_processed/train_src.txt
+        path_tgt: nlmaps_v2/nlmaps_v2_processed/train_tgt.txt
+    valid:
+        path_src: nlmaps_v2/nlmaps_v2_processed/dev_src.txt
+        path_tgt: nlmaps_v2/nlmaps_v2_processed/dev_tgt.txt
+
+## Train on a single GPU
+world_size: 1
+gpu_ranks: [0]

@@ -1,0 +1,540 @@
+question: what state has the largest city ?
+question: what is the population of minnesota ?
+question: of the states washed by the mississippi river which has the lowest point ?
+question: what is the population of the largest state that borders texas ?
+question: what state has the smallest area ?
+question: what is the highest point in the state with the capital des moines ?
+question: which states have points that are higher than the highest point in texas ?
+question: where is indianapolis ?
+question: what is the largest capital ?
+question: how many citizens in boulder ?
+question: what is the smallest city in alaska ?
+question: which state has the highest peak in the country ?
+question: what are the major cities in wyoming ?
+question: how many rivers are there in idaho ?
+question: how many people live in san francisco ?
+question: what is the biggest city in the smallest state ?
+question: what are the highest points of states surrounding mississippi ?
+question: what rivers run through louisiana ?
+question: what is the state with the largest density in usa ?
+question: how many big cities are in pennsylvania ?
+question: where is san jose ?
+question: what is the state with the largest population density ?
+question: how big is texas ?
+question: what is the highest point in rhode island ?
+question: what rivers are in oregon ?
+question: what is the capital of texas ?
+question: what is the highest point in the state with the smallest population ?
+question: which state has the largest city ?
+question: what states does the mississippi run through ?
+question: what states does the missouri river run through ?
+question: what state has highest elevation ?
+question: what is the area of the largest state ?
+question: which states have a major city named austin ?
+question: what states border missouri ?
+question: what is the population of the capital of the largest state ?
+question: name all the rivers in colorado .
+question: what are the major cities in missouri ?
+question: how high is the highest point of florida ?
+question: what is the capital of maryland ?
+question: people in boulder ?
+question: where is new hampshire ?
+question: what is largest capital ?
+question: what is the highest point in florida ?
+question: how many citizens in alabama ?
+question: how many states does the mississippi run through ?
+question: what is the capital of maine ?
+question: what is the population of montana ?
+question: what is the average population of the us by state ?
+question: what is the smallest state by area ?
+question: which states does the missouri river pass through ?
+question: what is the tallest mountain in america ?
+question: what river traverses the most states ?
+question: how many people live in chicago ?
+question: what are the populations of the states through which the mississippi river runs ?
+question: what state is the biggest ?
+question: where is mount whitney ?
+question: what is the capital city of the largest state in the us ?
+question: what is the population density in the state with capital austin ?
+question: what is the population of sacramento ?
+question: what states border the states with the most cities ?
+question: what is the city with the smallest population ?
+question: how many states have a city called rochester ?
+question: can you tell me the capital of texas ?
+question: what is the largest city in alabama ?
+question: what state is dallas in ?
+question: how many major cities are there ?
+question: show me all the major lakes in the us .
+question: what rivers run through the states that border the state with the capital atlanta ?
+question: what rivers run through the state with the lowest point in the usa ?
+question: what are the states ?
+question: which rivers are in alaska ?
+question: what is the population of austin ?
+question: how many people live in south dakota ?
+question: what are the lakes in states bordering texas ?
+question: what is the height of the highest point in the usa ?
+question: what is the population of the major cities in wisconsin ?
+question: what state has the highest population ?
+question: number of citizens in boulder ?
+question: what are the major cities of the united states ?
+question: which state is kalamazoo in ?
+question: what is the shortest river in nebraska ?
+question: what is the population density of wyoming ?
+question: what is the shortest river in the united states ?
+question: what is the longest river that flows through colorado ?
+question: what state has the city with the most population ?
+question: which states border states through which the mississippi traverses ?
+question: what are the rivers of montana ?
+question: what are the capital cities of the states which border texas ?
+question: how many major rivers cross ohio ?
+question: what is the largest city in missouri ?
+question: what is the lowest point in the united states ?
+question: what states have no bordering state ?
+question: what is the biggest city in nebraska ?
+question: what state has the most people ?
+question: how many people live in spokane washington ?
+question: where is the lowest spot in iowa ?
+question: what state borders michigan ?
+question: what state is columbus the capital of ?
+question: how many major cities are in florida ?
+question: which rivers run through states bordering new mexico ?
+question: what is the height of mount mckinley ?
+question: what is the largest city in a state that borders texas ?
+question: how many rivers are in colorado ?
+question: what is the population of idaho ?
+question: how many states have a city named springfield ?
+question: what is the longest river in the smallest state in the usa ?
+question: what are the populations of the states through which the mississippi runs ?
+question: how many people are there in new york ?
+question: what is the combined population of all 50 states ?
+question: what is the length of the river that runs through the most number of states ?
+question: what are the neighboring states for michigan ?
+question: what are the major cities in the smallest state in the us ?
+question: what are the major cities of texas ?
+question: how long is the mississippi ?
+question: how many states have cities named austin ?
+question: give me all the states of usa .
+question: where is springfield ?
+question: what is the area of maryland in square kilometers ?
+question: which state contains most rivers ?
+question: what is the state with the lowest population density ?
+question: what states border alaska ?
+question: which state has the most rivers running through it ?
+question: which is the shortest river ?
+question: how many rivers are there in us ?
+question: what is the highest elevation in new mexico ?
+question: name the 50 capitals in the usa .
+question: what state has the least population density ?
+question: what is the largest state traversed by the mississippi river ?
+question: what is the population of new york ?
+question: what is the largest state ?
+question: what are major rivers in texas ?
+question: what is the area of texas ?
+question: where is fort wayne ?
+question: what is the shortest river in texas ?
+question: what rivers flow through states that alabama borders ?
+question: which rivers flow through alaska ?
+question: what are the populations of states through which the mississippi river runs ?
+question: what are the major cities in the largest state ?
+question: which states border iowa ?
+question: what are the major cities in rhode island ?
+question: what state has the sparsest population density ?
+question: in which state is rochester ?
+question: what is the capital of hawaii ?
+question: what is the biggest state ?
+question: what is the shortest river in iowa ?
+question: what is the area of all the states combined ?
+question: what are the major cities in kansas ?
+question: what states border arkansas ?
+question: what are the major cities in delaware ?
+question: what is the highest point in the country ?
+question: sacramento is the capital of which state ?
+question: what states border the mississippi river ?
+question: what is the area of alaska ?
+question: how many states does the missouri river run through ?
+question: what city has the largest population ?
+question: how large is the largest city in alaska ?
+question: what states border states which the mississippi runs through ?
+question: which states does not border texas ?
+question: give me the lakes in california .
+question: how many major cities are there in oregon ?
+question: how many people live in kansas ?
+question: what is the capital of the state with the highest elevation ?
+question: what is the longest river in the united states ?
+question: how long is the mississippi river in miles ?
+question: where is baton rouge ?
+question: how many states does the mississippi river run through ?
+question: name the states which have no surrounding states .
+question: what is the length of the river that traverses the most states ?
+question: what is the population of boston massachusetts ?
+question: what is the most populated state bordering oklahoma ?
+question: what is the size of texas ?
+question: how many major cities are in states bordering nebraska ?
+question: how many states border the state that borders the most states ?
+question: what is the capital of indiana ?
+question: which states adjoin alabama ?
+question: what is the longest river in pennsylvania ?
+question: what cities in texas have the highest number of citizens ?
+question: what rivers run through west virginia ?
+question: what city has the least population ?
+question: how many states border the largest state ?
+question: how many people are in the state of nevada ?
+question: what is the elevation of the highest point in the usa ?
+question: what is the population of washington dc ?
+question: what is the capital of washington ?
+question: in which state does the highest point in usa exist ?
+question: what is the smallest city in washington ?
+question: what is the capital of utah ?
+question: what is the population of seattle washington ?
+question: what is the highest point of the state with the largest area ?
+question: how many states are there in united states ?
+question: what is the biggest city in the us ?
+question: name the rivers in arkansas .
+question: what is the population in boston ?
+question: how big is new mexico ?
+question: how many people are there in iowa ?
+question: what texas city has the largest population ?
+question: what is the population of arizona ?
+question: which states border new york ?
+question: what is the size of california ?
+question: how high is the highest point in the largest state ?
+question: what are the major cities in texas ?
+question: what is the population of denver ?
+question: through which states does the mississippi flow ?
+question: what are the major cities in ohio ?
+question: what is the longest river in texas ?
+question: which states border michigan ?
+question: what is the smallest city in arkansas ?
+question: what is the shortest river in alaska ?
+question: how many rivers are in new york ?
+question: what is the biggest state in the usa ?
+question: what states does the shortest river run through ?
+question: what state has the largest urban population ?
+question: where is san diego ?
+question: which state has the most people ?
+question: which river runs through the most states ?
+question: what is the largest state bordering texas ?
+question: what river flows through texas ?
+question: what state is pittsburgh in ?
+question: what is the area of new mexico ?
+question: what is the area of idaho ?
+question: what is the area of the states ?
+question: what rivers run through austin texas ?
+question: how many states have cities or towns named springfield ?
+question: how many states in the us does the shortest river run through ?
+question: what is the largest state in usa ?
+question: what is the longest river in the us ?
+question: how long is rio grande ?
+question: what is the highest point in kansas ?
+question: how many people live in the smallest state bordering wyoming ?
+question: what is the major cities in montana ?
+question: what is the longest river in california ?
+question: which state is the largest city in montana in ?
+question: what is the highest mountain in alaska ?
+question: what river flows through kansas ?
+question: what are the states that border the state with the greatest population ?
+question: which states does the mississippi river run through ?
+question: what is the biggest city in arizona ?
+question: how many citizens live in california ?
+question: what is the population of the largest state ?
+question: give me the longest river that passes through the us .
+question: what is the longest river that does not run through texas ?
+question: what state has the city flint ?
+question: what is the highest point in the state with capital des moines ?
+question: what rivers flow through the state with the largest population ?
+question: what is the smallest state bordering ohio ?
+question: which states border arizona ?
+question: what states neighbor maine ?
+question: what is the largest city in wisconsin ?
+question: what is the largest state that borders the state with the highest population ?
+question: what river is the longest one in the united states ?
+question: what state has the smallest population density ?
+question: what is the highest point in each state whose lowest point is sea level ?
+question: what is the capital of vermont ?
+question: how many cities are there in us ?
+question: which is the lowest point of the states that the mississippi runs through ?
+question: what is the highest elevation in south carolina ?
+question: what is the highest point in the smallest state ?
+question: what state borders the least states excluding alaska and excluding hawaii ?
+question: what are the names of the major cities in illinois ?
+question: how many major cities are in arizona ?
+question: where is austin ?
+question: what are the major rivers in the us ?
+question: which states border alabama ?
+question: what states are next to texas ?
+question: how many people live in the state with the largest population density ?
+question: what states have towns named springfield ?
+question: could you tell me what is the highest point in the state of oregon ?
+question: what are the capitals of the states that border texas ?
+question: what cities are located in pennsylvania ?
+question: how many states border tennessee ?
+question: which states does the missouri river run through ?
+question: what state is the state with the most rivers ?
+question: what is the biggest city in oregon ?
+question: what is the population of texas ?
+question: which state has the sparsest population density ?
+question: what states does the colorado river run through ?
+question: what are the states that the potomac runs through ?
+question: what state borders the least states ?
+question: what is the river that cross over ohio ?
+question: how many states border on the state whose capital is boston ?
+question: what major rivers run through illinois ?
+question: how high is the highest point in montana ?
+question: give me the cities which are in texas .
+question: which states border texas ?
+question: how many people live in washington dc ?
+question: how many people in boulder ?
+question: what are the populations of states through which the mississippi runs ?
+question: what states in the united states have a city of springfield ?
+question: how many people live in new mexico ?
+question: name the longest river in us .
+question: what state borders the state with the smallest population ?
+question: what is the biggest state in continental us ?
+question: show major cities in colorado .
+question: what rivers flow through the largest state ?
+question: what is the population of the capital of the largest state through which the mississippi runs ?
+question: what is the area of california ?
+question: what is the capital of the alabama state ?
+question: what state has the most rivers running through it ?
+question: where is massachusetts ?
+question: what is the population of seattle ?
+question: what rivers do not run through tennessee ?
+question: which states border colorado ?
+question: what is the size of the capital of texas ?
+question: what states border delaware ?
+question: how many major cities are in states bordering utah ?
+question: what is the lowest point in the state of texas ?
+question: what is the population density of texas ?
+question: where is the highest point in montana ?
+question: how many states border the mississippi river ?
+question: which state borders most states ?
+question: what are the major cities in oklahoma ?
+question: what is the area of the state with the capital albany ?
+question: what is the most populous city in wyoming ?
+question: give me the cities in usa .
+question: how many people live in montana ?
+question: what states border states that the mississippi runs through ?
+question: what is the highest point in the united states ?
+question: what state's capital is dover ?
+question: which state border kentucky ?
+question: how high is the highest point of louisiana ?
+question: what mountains are in alaska ?
+question: what is the shortest river ?
+question: what states border states that border colorado ?
+question: what is the city in texas with the largest population ?
+question: how high are the highest points of all the states ?
+question: what is the population of atlanta ?
+question: what is the longest river flowing through new york ?
+question: what is the population of the capital of the smallest state ?
+question: what states border new hampshire ?
+question: what is the highest point in new mexico ?
+question: what is the lowest point of the us ?
+question: how many people stay in utah ?
+question: name the major lakes in michigan .
+question: how long is the rio grande river ?
+question: what is the biggest city in wyoming ?
+question: how many rivers are in missouri ?
+question: what rivers run through colorado ?
+question: what is the area of the state with the smallest population density ?
+question: what is the number of neighboring states for kentucky ?
+question: what is the area of maine ?
+question: how big is north dakota ?
+question: what is the population of austin texas ?
+question: what is the largest city in states that border california ?
+question: what's the largest city ?
+question: what is the biggest river in illinois ?
+question: what is the lowest point in louisiana ?
+question: how many states does the colorado river run through ?
+question: what is the population of rhode island ?
+question: what is the smallest city in the largest state ?
+question: what is the population of springfield missouri ?
+question: how many states are in the united states ?
+question: what is the length of the colorado river in texas ?
+question: give me the cities in virginia .
+question: which states have points higher than the highest point in colorado ?
+question: which rivers run through the state with the largest city in the us ?
+question: what is the area of the smallest state ?
+question: what is the population of the state with the largest area ?
+question: what are the major cities in new mexico ?
+question: how many people live in new hampshire ?
+question: what rivers flow through missouri ?
+question: what state has the most major rivers running through it ?
+question: what is the largest state that borders the state with the lowest point in the usa ?
+question: what is the state with the lowest point ?
+question: what is the smallest state that borders texas ?
+question: what are the biggest rivers in texas ?
+question: what is the longest river in mississippi ?
+question: what are the populations of the states through which the mississippi runs ?
+question: what is the capital of the state that borders the most states ?
+question: how many states have major rivers ?
+question: how many people live in new york ?
+question: which states border south dakota ?
+question: what state has the smallest population ?
+question: what state has the shortest river ?
+question: what states border hawaii ?
+question: how many cities does texas have ?
+question: what is the capital of georgia ?
+question: what is the shortest river in the us ?
+question: what is the population of atlanta ga ?
+question: what is the largest city in michigan ?
+question: how many people live in washington ?
+question: what is the size of the largest state in the usa ?
+question: what is the most populated capital in the usa ?
+question: what is capital of iowa ?
+question: what states border wisconsin ?
+question: what is the lowest point of colorado ?
+question: what are the major cities in north carolina ?
+question: what is the height of the highest mountain in texas ?
+question: what is the state with the highest elevation in the united states ?
+question: which state has the smallest area that borders texas ?
+question: what state has the largest population density ?
+question: which states border the longest river in the usa ?
+question: give me the cities in texas .
+question: how many rivers are there in texas ?
+question: where is new orleans ?
+question: what is the biggest city in the usa ?
+question: what is the total population of the states that border texas ?
+question: how many people live in austin texas ?
+question: name all the lakes of us .
+question: what is the highest point in ohio ?
+question: what are the populations of all the major cities in montana ?
+question: what states have a city named austin ?
+question: how many rivers are called colorado ?
+question: what is the population density of the smallest state ?
+question: what is the smallest city of the smallest state in the us ?
+question: how long is the mississippi river ?
+question: what is the shortest river in the usa ?
+question: how many states border hawaii ?
+question: what is the population density of south dakota ?
+question: what state has the smallest capital ?
+question: how many rivers are in the state with the highest point ?
+question: what is the largest city in texas ?
+question: what is the capital of new hampshire ?
+question: what states are next to the mississippi ?
+question: what are the rivers in the state of texas ?
+question: what states border georgia ?
+question: how many states border at least one other state ?
+question: what state has the capital salem ?
+question: what states border texas ?
+question: what rivers flow though colorado ?
+question: what is the length of the longest river in the usa ?
+question: how high is guadalupe peak ?
+question: what is the capital of michigan ?
+question: what is the elevation of death valley ?
+question: what rivers run through arizona ?
+question: how many rivers does alaska have ?
+question: which states do colorado river flow through ?
+question: what are the populations of the states through which the mississippi river runs ?
+question: what are the major cities in california ?
+question: what is the lowest point in wisconsin ?
+question: how many cities are in montana ?
+question: how many states does the colorado river flow through ?
+question: how many cities are in louisiana ?
+question: what states have rivers named colorado ?
+question: what river runs through virginia ?
+question: what state is austin the capital of ?
+question: which states border hawaii ?
+question: what is the average population per square km in pennsylvania ?
+question: what is the highest point in the state with the most rivers ?
+question: what state borders most other states ?
+question: what is the population density of the state with the smallest area ?
+question: what state is boston in ?
+question: what is the state that contains the highest point ?
+question: what is the population of south dakota ?
+question: how many states border texas ?
+question: what is the capital of the state texas ?
+question: what state has the highest population density ?
+question: what is the population of portland maine ?
+question: how many rivers in washington ?
+question: how many states are next to major rivers ?
+question: give me the largest state .
+question: what state has the greatest population density ?
+question: how big is the city of new york ?
+question: what state which the mississippi runs through has the largest population ?
+question: what river runs through the most states ?
+question: what can you tell me about the population of missouri ?
+question: how many inhabitants does montgomery have ?
+question: what is the adjacent state of california ?
+question: how many people live in california ?
+question: where is mount whitney located ?
+question: what river runs through illinois ?
+question: which states does the longest river cross ?
+question: how many rivers run through the states bordering colorado ?
+question: what is the lowest point in california ?
+question: which state has the largest density ?
+question: how big is alaska ?
+question: how many cities are there in the us ?
+question: what is the population density of the state with the smallest population ?
+question: where is scotts valley ?
+question: what is the highest point in texas ?
+question: what state has the largest population ?
+question: which state has the longest river ?
+question: what is the largest city of kansas ?
+question: what is the total area of the usa ?
+question: how high is the highest point of delaware ?
+question: what state's high point is higher than that of colorado ?
+question: what is the population of california ?
+question: what rivers flow through states that border the state with the largest population ?
+question: how many people live in texas ?
+question: what states have a capital that is the highest point in the state ?
+question: how many major cities are in texas ?
+question: how long is the missouri river ?
+question: what is the tallest mountain in the united states ?
+question: what is the average population per square km in the us ?
+question: what are the major cities of the us ?
+question: how many rivers are in the state with the largest population ?
+question: which state borders florida ?
+question: what capital has the largest population ?
+question: how many states does missouri border ?
+question: what is the population of illinois ?
+question: what states border ohio ?
+question: population of boulder ?
+question: what is the population of springfield south dakota ?
+question: give me the cities in virginia .
+question: in what state is mount mckinley ?
+question: which states border no other states ?
+question: what rivers are in utah ?
+question: what are the major lakes in united states ?
+question: what is the longest river that passes the states that border the state that borders the most states ?
+question: what is the largest state that borders california ?
+question: which rivers run through the state with the lowest elevation in the usa ?
+question: how many people live in austin ?
+question: what is the longest river in new york ?
+question: what are the major cities in the states through which the major river in virginia runs ?
+question: how many cities named austin are there in the usa ?
+question: what are the rivers in the state of indiana ?
+question: what is the smallest state in the usa ?
+question: what states border states that border states that border florida ?
+question: what state has the most cities ?
+question: what is the population of dallas ?
+question: what is the lowest point in texas ?
+question: which states border alaska ?
+question: what states border states that border states that border states that border texas ?
+question: what state has the highest elevation ?
+question: what is the highest point in the us ?
+question: what rivers are in nevada ?
+question: what is the biggest city in georgia ?
+question: what is the capital of pennsylvania ?
+question: what is the highest point in wyoming ?
+question: what is the smallest city in hawaii ?
+question: which capitals are in the states that border texas ?
+question: how many cities are there in usa ?
+question: what are the largest cities in the states that border the largest state ?
+question: name the rivers in arkansas .
+question: how many rivers do not traverse the state with the capital albany ?
+question: how many people live in riverside ?
+question: what state that borders texas has the highest population ?
+question: which state has the red river ?
+question: how long is the shortest river in the usa ?
+question: what capital is the largest in the us ?
+question: what cities in california ?
+question: what are the states through which the longest river runs ?
+question: what is the largest state capital in population ?
+question: what is the capital of the state that borders the state that borders texas ?
+question: what is the lowest elevation in pennsylvania ?
+question: which states lie on the largest river in the united states ?
+question: which capitals are not major cities ?
+question: what state has no rivers ?
+question: what is the largest of the states that the rio grande runs through ?
+question: what is the area of seattle ?
+question: what is the most populous state in the us ?

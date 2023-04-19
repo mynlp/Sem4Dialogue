@@ -1,0 +1,7368 @@
+<NoACT>
+ leave arrive
+ car blue honda phone 07218068540
+<NoACT>
+<NoACT>
+ food
+ name name nandos
+ type entertainment addr unit g6 addr cambridge leisure park addr clifton road area south
+ post cb17dy addr unit g6 addr cambridge leisure park addr clifton road .
+ price food indian area centre choice 9
+ price expensive food italian name saffron brasserie
+ addr hills road city centre
+ food indian name saffron brasserie
+<NoACT>
+<NoACT>
+ area food choice many options
+ food choice 21 area centre of town
+<NoACT>
+ post cb21sj name the copper kettle addr 4 kings parade city centre food british
+ type multiple sports area east of town choice the only
+ area centre of town type architectural name all saints church fee free
+ phone 01223452587
+ type architecture
+ addr jesus lane
+ fee free
+<NoACT>
+ food
+ none none price cheap name dojo noodle bar food chinese area centre
+ time day
+<NoACT>
+ type area
+<NoACT>
+ fee free
+ leave
+ car blue bmw phone 07239644669
+<NoACT>
+<NoACT>
+ none none food french addr 22 chesterton road chesterton name restaurant 2 two
+ time
+<NoACT>
+ dest
+ arrive 13:24 id tr3934 time 50 minutes leave 12:34
+<NoACT>
+<NoACT>
+ depart dest
+ choice 5
+ id tr8259
+<NoACT>
+ area choice 17 type hotel -s
+ none none area north price moderate -ly priced choice 8
+ stay
+<NoACT>
+<NoACT>
+ stay people
+<NoACT>
+<NoACT>
+ area
+ choice 7
+ addr cafe jello gallery addr 13 magdalene street post cb30af fee free name cafe jello gallery
+ arrive leave
+ phone 07941424083 car blue volvo
+<NoACT>
+ type type architecture type college type museum choice several
+<NoACT>
+ choice plenty depart leicester dest
+ arrive 15:54 id tr0330 leave 14:09
+ time 105 minutes
+ people
+<NoACT>
+<NoACT>
+<NoACT>
+ area food
+ none none price expensive range name cote area centre
+<NoACT>
+ time
+ time 16:30 people 8 day friday
+<NoACT>
+ choice lots day
+<NoACT>
+<NoACT>
+ food portuguese choice 2
+ choice 2 price expensive food turkish area centre
+ name the anatolia price moderate
+<NoACT>
+<NoACT>
+ stars area
+ none none name the bridge guest house type guesthouse area south stars 3
+ people
+ stay day
+<NoACT>
+<NoACT>
+<NoACT>
+ none none name hakka name the hotpot food chinese
+<NoACT>
+ day
+ arrive 12:45 choice 4 leave
+<NoACT>
+<NoACT>
+ area type entertainment choice 5
+ post cb58hy addr 8 mercers row addr mercers row industrial estate
+ name funky fun house area east
+ area centre of town area west choice 5
+ day
+ people name saint johns chop house
+<NoACT>
+ arrive 19:30 phone 07566667235 dest the restaurant leave 19:00 car blue volvo depart the funky fun house
+<NoACT>
+ name
+ price expensive name the maharajah tandoori restaurant food indian phone 01223358399 area west
+<NoACT>
+ addr the plough addr green end addr fen ditton name camboats
+ phone 01223902112 post cb58sx
+<NoACT>
+ day
+ time 47 minutes id tr9057 ticket 9.80 pounds
+ leave 13.45 depart leaving kings lynn leave
+ choice 10
+ arrive 14:58 id tr8143 ticket 9.80 pounds
+ area
+ none none none none
+ phone 01223210353
+<NoACT>
+ area centre area south type theater choice 5
+ name the junction fee not sure phone 01223511511 addr clifton way
+ name price expensive choice 5 type hotel
+ stars internet none choice 5
+ day
+<NoACT>
+ leave
+ phone 07895414336 car blue ford depart the hotel
+<NoACT>
+ day
+ dest
+ id tr3823 arrive 16:55
+ food area
+ price
+<NoACT>
+<NoACT>
+ area price parking none type hotel -s
+ price expensive price cheap -ly priced internet none type hotel type guesthouse name university arms name alexander bed and breakfast stars 4 stars 4
+<NoACT>
+<NoACT>
+<NoACT>
+ choice 5 area centre area
+<NoACT>
+ fee free name corpus christi college
+ post cb23bu fee free phone 01223334900
+<NoACT>
+ none none food gastropub price expensive area centre name the slug and lettuce
+<NoACT>
+ choice a lot area south side
+ fee unknown name the place
+<NoACT>
+ fee need to call name the place addr 22 sidney street phone 01223324600
+ leave arrive
+ area north area east price moderate price expensive choice 3 choice 2 choice 1
+ name ashley hotel name lovell lodge
+ name ashley hotel
+<NoACT>
+ none none
+<NoACT>
+<NoACT>
+ day
+ day saturday leave 19:00
+<NoACT>
+ food choice 33
+ name don pasquale pizzeria
+ time
+<NoACT>
+<NoACT>
+<NoACT>
+<NoACT>
+ phone 08451962320 addr anglia ruskin enterprise addr east road
+ none none choice 2 name cote area centre of town
+ post cb21uf phone 01223311053
+<NoACT>
+ choice many day friday leave
+ arrive 6:07 leave 5:29 depart cambridge dest bishops stortford id tr4283
+ ticket 10.10 pounds dest bishops stortford arrive 6:07 time 38 minutes leave 5:29 depart cambridge
+ choice 4
+ none none
+<NoACT>
+<NoACT>
+ leave
+ arrive 15:27 id tr2141
+<NoACT>
+ name tandoori area south area west area east food indian choice 4
+ name tandoori area east side
+<NoACT>
+<NoACT>
+ ref wx660x0m
+<NoACT>
+ area choice multiple price cheap parking none type hotel -s
+<NoACT>
+<NoACT>
+ choice 3
+ none none name hamilton lodge
+ name hamilton lodge internet none
+ none none phone 01223365664 addr 156 chesterton road name hamilton lodge post cb41da
+ none none food gastropub name cow pizza kitchen and bar area centre of town price moderate -ly priced
+ addr corn exchange street
+ phone 07214110599
+ car red audi
+<NoACT>
+ choice first leave 15:00 leave every 51 minutes
+ arrive 16:44 leave 14:01 depart cambridge dest birmingham new street
+ time 163 minutes
+ area type colleges area cambridge choice 18
+<NoACT>
+ addr saint andrew s street name christ s college phone 01223334900
+<NoACT>
+<NoACT>
+ choice 133 depart norwich dest cambridge day
+ leave as early as 05:16 leave as late as 17:16 depart norwich leave
+<NoACT>
+ area that area choice many
+ fee no entrance fee phone 01223464646 name byard art museum
+<NoACT>
+ day
+ arrive 10:07 leave 9:50 depart cambridge dest ely id tr8399
+ ticket 4.40 pounds time 17 minutes
+ price area
+ area choice more than 20 type hotel -s stars 4
+ none none
+<NoACT>
+<NoACT>
+<NoACT>
+ fee the entrance fee is not listed area south name nusha type entertainment
+ name nusha phone 01223902158 area south
+ dest cambridge choice several depart
+<NoACT>
+<NoACT>
+<NoACT>
+<NoACT>
+ area choice quite a few
+ choice 3 name graffiti name saint john s chop house name traveller s rest
+ none none phone 01223277977 addr hotel felix whitehouse lane huntingdon road post cb30lx
+<NoACT>
+ id tr1006 leave 19:00
+ day tuesday leave 19:00 depart cambridge dest london kings cross id tr4125
+<NoACT>
+ none none
+ ref eznvjapg people
+<NoACT>
+<NoACT>
+<NoACT>
+ name christ s college name churchill college name clare college name clare hall name corpus christi name downing college name emmanuel college name huges hall
+ name christ s college post cb23bu fee free phone 01223334900
+ name christ s college fee free
+ arrive 16:23 id tr6359 leave 13:40
+<NoACT>
+<NoACT>
+ name the museum of archaelogy and anthropology addr university of cambridge addr downing street phone 01223333516
+ type museum
+<NoACT>
+ none none name city stop restaurant area north food european choice only price expensive
+ time
+<NoACT>
+<NoACT>
+<NoACT>
+ area city centre
+ addr park street
+<NoACT>
+ none none name avalon addr 62 gilbert road
+ day stay
+ people 6
+ internet none addr 62 gilbert road stars 4 phone 01223353071 type hotel
+<NoACT>
+ name avalon stay 1
+<NoACT>
+<NoACT>
+ depart cambridge day friday leave 5:01 arrive 7:44 dest birmingham new street
+ arrive 9:01 day friday depart cambridge dest birmingham new street
+ people
+ ticket 75.10 pounds time 163 minutes
+<NoACT>
+ internet none choice 3 parking none type guesthouses
+<NoACT>
+<NoACT>
+ area centre area north end food indian choice 4 price cheap
+ none none
+<NoACT>
+ leave
+ phone 07340953955
+ car grey skoda
+<NoACT>
+ choice quite a few day
+<NoACT>
+ id tr6357
+ type parks choice 2 name sheep s green and lammas land park fen causeway name wandlebury country park
+ phone 01223302580 phone 01223243830 name sheep s green and lammas land park fen causeway name wandlebury country park post cb22ad post cb223ae
+ addr fen causeway addr newnham road addr wandlebury ring addr gog magog hills addr babraham name sheep s green & lammas land park fen causeway name wandlebury country park
+<NoACT>
+ food italian price moderate area west addr 2124 northampton road name prezzo
+ none none
+ type choice 44 area centre
+ addr trinity lane type architectural area centre name old schools
+ addr trinity lane post cb21tt
+<NoACT>
+<NoACT>
+ food chinese food modern european choice many name golden house name the river bar steakhouse and grill
+ addr 12 lensfield road city centre phone 01842753771 post cb21eg
+<NoACT>
+ price choice 33
+<NoACT>
+ none none
+ post cb13lh
+ dest depart
+ ticket 18.88 pounds leave 19:00 arrive 19:51 id tr0427 day saturday
+<NoACT>
+<NoACT>
+ stay people day
+ day stay
+<NoACT>
+ stay
+ day stay
+<NoACT>
+ type choice 40
+<NoACT>
+ post cb58bs phone 01223452587 addr jesus lane
+ name all saints church type architecture
+ leave arrive
+ car blue skoda phone 07611523004
+<NoACT>
+ none none area east price moderate -ly priced
+ phone 01223315702 post cb12dp addr 124 tenison road
+<NoACT>
+ dest
+ arrive 13:24 day thursday leave 12:34 depart cambridge dest peterborough id tr8124
+ ticket 16.50 pounds
+ choice 3
+ name the express by holiday inn cambridge area east choice expensive 1 choice other 2
+ post cb13lh
+<NoACT>
+ day
+ choice several leave
+ ticket 18.88 id tr6203 arrive 15:51
+ parking internet
+ choice 3 type guesthouses
+ area parking none choice all
+<NoACT>
+<NoACT>
+ area price choice 21 parking none type guesthouses
+ price
+<NoACT>
+<NoACT>
+<NoACT>
+<NoACT>
+ area
+<NoACT>
+ stay people
+ leave arrive
+ leave 10:11
+<NoACT>
+<NoACT>
+ area center of town name regency gallery type museum
+ name the regency gallery addr 39 fitzroy street area centre
+ day
+ depart
+ arrive 9:15 arrive 6:54 arrive 7:54 arrive 8:54 choice 3
+<NoACT>
+<NoACT>
+ post cb12tz name cityroomz addr sleeperz hotel addr station road phone 01223304050
+ name cityroomz
+ addr lensfield road area centre
+ type museum name the scott polar museum
+<NoACT>
+<NoACT>
+ area type
+ choice a lot type colleges type museums area west
+<NoACT>
+ area type hotel -s choice 21 stars 4
+ none none
+ none none
+ none none
+<NoACT>
+ leave
+<NoACT>
+<NoACT>
+ car red skoda
+ phone 8675309
+<NoACT>
+<NoACT>
+ food price choice 60 area center of town
+ food several different price cheap
+ none none
+ post cb21ab
+ name area type locales type attractions choice a lot
+ choice 44 area center of town
+<NoACT>
+ phone 07135477113 dest vue cinema leave 22:15 car grey honda depart zizzi cambridge
+<NoACT>
+<NoACT>
+ price choice 6 type guesthouse
+<NoACT>
+ area centre choice many
+ none none
+ leave
+<NoACT>
+ phone 07888569243 car red audi a
+<NoACT>
+ depart dest
+ choice 7 leave 5:09
+ ticket 37.80 pounds time 105 minutes
+<NoACT>
+ fee no charge for entry phone 01223334900
+<NoACT>
+ price food chinese choice quite a few
+ name jinling noodle bar
+ none none phone 01223566188 addr 11 peas hill city centre
+ none none price moderate
+ id tr5933 depart peterborough leave 15:19
+<NoACT>
+<NoACT>
+ food choice 21
+ name yippee noodle bar
+<NoACT>
+<NoACT>
+ type architecture attractions to explore type boats and swimming type colleges type museums type parks type theatres and even nightclubs
+<NoACT>
+<NoACT>
+ phone 01223866800 price expensive area east
+<NoACT>
+ depart arrive leave dest
+ phone 07272096370 car yellow honda
+<NoACT>
+<NoACT>
+<NoACT>
+ fee no entrance fee area centre name the fitzwilliam museum phone 01223332900
+ post cb21rb
+ none none area west part of town price cheap choice only 1 name the cambridge belfry type hotel
+ stars 4
+ choice 2 choice both internet none type hotel -s parking none
+ phone 01223366611 area centre of town name gonville hotel type hotel
+<NoACT>
+ internet none type hotel -s
+ price
+ area stars parking none choice 8
+<NoACT>
+ day
+ stars 2 stars 4 name express by holiday inn and cambridge name huntingdon marriott hotel
+ area choice both parking none name marriott name holiday inn area west area east internet none
+<NoACT>
+ name ashley hotel
+ internet none area centre name university arms hotel parking none
+ leave dest
+ dest
+ arrive 11:44 id tr2636
+ ticket 75.10 pounds
+<NoACT>
+ type area east choice plenty
+ name cambridge artworks fee free
+ dest
+ choice 10 leave arrive
+ arrive 14:07 id tr2402 people
+ ticket 8.08
+ people
+<NoACT>
+<NoACT>
+ food
+<NoACT>
+ phone 01223412430 name frankie and bennys
+ depart
+ arrive 09:52 id tr0031 dest cambridge depart stansted airport leave 09:24
+ ticket 10.10 pounds
+<NoACT>
+ name queen s college addr silver street phone 01223335511
+ fee 2.50 pounds
+ dest
+ leave
+ people
+<NoACT>
+<NoACT>
+<NoACT>
+ none none area west area internet none price very cheap parking none stars 4
+ addr back lane addr cambourne
+<NoACT>
+ none none name the cambridge belfry
+<NoACT>
+ phone 01223474144
+<NoACT>
+ leave
+ arrive 18:07 leave 17:29 dest bishops stortford id tr6742
+<NoACT>
+ stars 4 price expensive area west
+ parking none
+<NoACT>
+<NoACT>
+ choice list price expensive parking none
+ none none
+ stay day
+<NoACT>
+ type colleges area centre choice 13
+<NoACT>
+ arrive leave
+ phone 07324891478 leave 24:30 car black volkswagen depart christ s college
+<NoACT>
+<NoACT>
+ type colleges choice many
+ name downing college post cb21dq addr regent street
+ fee free
+ none none name the allenbell area east side type guesthouse stars 4 price cheap
+<NoACT>
+<NoACT>
+ choice a couple
+ name royal spice name da vinci pizzeria food indian food italian
+ type
+ stars price
+ name ashley hotel name lovell lodge choice 2
+ day
+<NoACT>
+<NoACT>
+ day
+ arrive 14:00 choice 9 leave
+ ticket 9.80 pounds
+ type hotel choice a lot price moderate -ly priced
+ none none name bridge guest house area south internet none type guesthouse stars 3 price moderate -ly priced
+ stay
+<NoACT>
+<NoACT>
+ choice many
+ area price choice 5
+ addr 5357 lensfield road cb21en area south name the lensfield hotel
+ none none name kohinoor addr 74 mill road city centre price cheap
+ none none post cb12as phone 01223323639
+ phone 07234107803
+ car yellow bmw
+<NoACT>
+ choice many arrive that time
+ arrive 16:07 arrive 18:07
+ ticket 8.08 pounds dest cambridge arrive 18:07 leave 17:29
+ area choice 5
+ none none
+<NoACT>
+<NoACT>
+ food price
+ price food
+ area choice many
+ price
+ post cb58jj
+ type
+ type
+<NoACT>
+ fee 5 pounds
+ addr 1 station road post cb12jb
+<NoACT>
+ area
+ price choice several
+ choice 9 food indian area centre of town price expensive
+ people
+<NoACT>
+<NoACT>
+<NoACT>
+ area east area north area centre type pool choice 4
+ name abbey pool and astroturf pitch addr pool way addr whitehill road addr off newmarket road
+<NoACT>
+ depart
+ leave
+<NoACT>
+<NoACT>
+ food price expensive choice many area west cambridge
+ food indian choice 5 price expensive area west
+ name the rice boat
+<NoACT>
+ choice 70 dest stevenage depart
+ leave day arrive
+ id tr2860 dest cambridge arrive 10:43 leave 9:54 day friday depart stevenage
+<NoACT>
+<NoACT>
+ area centre of town name christ s college
+ fee free post cb23bu
+<NoACT>
+ depart dest
+<NoACT>
+ area choice 10
+ price stars
+ stars 3 price moderate -ly priced choice 3 type guesthouses
+ area
+ none none stay people
+<NoACT>
+<NoACT>
+<NoACT>
+ food indian food italian name curry prince name rajmahal name the pizza hut fen ditton
+<NoACT>
+<NoACT>
+ type
+ addr colville road addr cherry hinton name the cherry hinton village centre choice 1
+ phone 01223576412
+<NoACT>
+ area centre of town addr regent street
+<NoACT>
+ depart dest leave day
+ leave
+ arrive 14:38 id tr9407 dest cambridge depart peterborough ticket 13.20 pounds time 50 minute trip leave 13:48
+<NoACT>
+<NoACT>
+ choice 2
+ addr 7 milton road chesterton name the nirala post cb41uy
+<NoACT>
+ arrive
+ car blue tesla phone 07814723348
+<NoACT>
+ area centre name the cambridge corn exchange addr wheeler street phone 01223357851
+ name the cambridge corn exchange type theatre
+ leave day
+ depart cambridge dest birmingham new street ticket 75.10 pounds arrive 10:44 id tr6628 leave 08:01
+ id tr6628 time 163 minutes leave 08:01
+<NoACT>
+ area people choice a number of
+<NoACT>
+<NoACT>
+ post cb58bs fee no entrance fee
+ leave
+ leave 15:30 phone 07272341684 car black volvo depart all saints
+<NoACT>
+ fee 4 pounds area centre of town name cambridge university botanic gardens addr bateman street
+ type park
+ leave depart
+ dest stevenage arrive 12:10 id tr6009 leave 11:21
+ time 49 minutes
+ food
+<NoACT>
+<NoACT>
+ food
+ food
+ none none choice 2 food turkish area centre price moderate -ly
+ addr 30 bridge street city centre addr king street city centre
+ day people post cb21uj phone 01223362372 name anatolia restauran
+ leave arrive
+ id tr8821 depart cambridge leave 08:34 ticket 13.2 pounds
+ time 50 minutes
+<NoACT>
+ area food price
+ choice lots of
+ area
+ choice 5
+ area center of town addr jesus lane name all saints
+ addr jesus lane post cb58bs fee free
+ none none name j restaurant
+<NoACT>
+ depart dest
+ phone 07072342612 car white volkswagen
+<NoACT>
+ dest
+ car white honda phone 07040297067
+<NoACT>
+ area
+ price cheap price moderate choice lots of type guesthouses type hotel -s stars 4
+ phone 01223210353 name allenbell
+ choice 202 dest cambridge day tuesday depart
+ arrive 7:54 id tr6932 leave 6:09
+ ticket 37.80 pounds
+<NoACT>
+ choice 5
+ name cambridge arts theater post cb23pj fee no entrance fee information listed area center of town
+ depart
+ dest cambridge arrive 11:32 id tr1819
+<NoACT>
+<NoACT>
+ price
+ area choice several
+ none none
+ post cb17aa phone 01223412299 addr 64 cherry hinton road cherry hinton
+ choice a number of
+<NoACT>
+<NoACT>
+ dest area south name wandlebury country park
+ depart leave dest arrive
+ phone 07162438055 car white tesla
+<NoACT>
+ choice thirteen
+ name christ s college post cb23bu addr saint andrew s street
+ fee free
+ none none addr 1517 norman way addr coldhams business park
+ type hotel stars 2
+<NoACT>
+ area price choice 6 type hotel -s type guesthouses stars 3
+<NoACT>
+<NoACT>
+ choice 4
+ type guesthouses
+ none none phone 01223365664
+ addr 156 chesterton road
+<NoACT>
+ area choice a number
+<NoACT>
+ none none post cb17ag
+ choice a lot leave depart
+ dest depart
+ leave 20:21 arrive 22:06 choice 4
+<NoACT>
+<NoACT>
+<NoACT>
+ none none price moderate -ly priced name saint johns chop house food british area west side
+ phone 01223353110
+ id tr7909
+<NoACT>
+<NoACT>
+ depart
+<NoACT>
+ depart dest
+ arrive 18:07 leave 17:50 id tr4294
+<NoACT>
+ food choice many
+ area
+<NoACT>
+<NoACT>
+ dest
+ car grey toyota phone 07997985529
+<NoACT>
+ fee no entrance fee area centre of town name king s college type college
+ phone 01223331100
+ food
+<NoACT>
+<NoACT>
+ area centre food indian choice 6
+ time day
+ time
+<NoACT>
+<NoACT>
+ food chinese food italian food spanish food turkish food british choice quite a few area centre of town
+ addr 59 hills road city centre name ali baba food lebanese
+ people
+ name the ali baba addr 59 hills road city centre
+<NoACT>
+ area choice many
+ addr 71 castle street city centre area west side
+ none none phone 01223366668 post cb30ah
+<NoACT>
+ type theatre addr 6 saint edward s passage
+ car blue skoda phone 07407252623
+<NoACT>
+<NoACT>
+ food
+ price area choice 15 food italian
+ choice just 1 name pizza hut cherry hinton addr g4 cambridge leisure park clifton way cherry hinton price moderate -ly priced
+<NoACT>
+ day depart
+ id tr9102
+<NoACT>
+<NoACT>
+ type
+ name cherry hinton park and abbey pool and astroturf pitch
+ phone 01223902088
+ addr pool way addr whitehill road addr off newmarket road
+<NoACT>
+ area
+<NoACT>
+ none none internet none
+ addr 56 saint barnabas road phone 01223525725
+<NoACT>
+ day
+ arrive 12:07 id tr1159
+<NoACT>
+<NoACT>
+<NoACT>
+ food price
+ area food italian choice 5 price expensive
+ none none
+<NoACT>
+ fee free area centre
+ post cb23bu
+ phone 01223334900 name christ s college
+ post cb23bu name christ s college
+ depart leave dest
+<NoACT>
+ phone 07168633535 car black lexus
+<NoACT>
+ stars area choice 5
+ price type
+ stars 4 name the allenbell type guesthouse
+<NoACT>
+<NoACT>
+ area choice 4
+<NoACT>
+ addr 12 norfolk street city centre post cb12lf
+ none none type guesthouse name the limehouse price moderate area north
+<NoACT>
+ phone 07540575588 car grey audi
+ phone 07540575588 car grey audi
+<NoACT>
+ food choice 69 area centre
+ choice 2 name de luca cucina and bar name riverside brasserie
+<NoACT>
+ type choice many
+<NoACT>
+ addr granta place addr mill lane addr 251a chesterton road name scudamores punting co name the cambridge punter
+ phone 07807718591 name the cambridge punter
+ depart
+ car black tesla phone 07774975314
+<NoACT>
+ area price cheap choice 22
+ food choice several
+ none none name the golden house post cb21eg
+ type guesthouse type hotel
+ name university arms hotel phone 01223351241
+<NoACT>
+<NoACT>
+ name acorn guest house price moderate -ly parking none
+ price moderate name ashley hotel parking none stars 2
+ none none parking none name the ashley hotel internet none
+ addr 74 chesterton road name the ashley hotel
+ post cb41er
+ area north
+<NoACT>
+ food choice many area centre
+ choice 4
+<NoACT>
+ post cb21nw phone 01223358899 name sesame restaurant and bar addr 17 hills road city centre
+ type area centre of town choice many
+ post cb23ap phone 01223334200
+<NoACT>
+<NoACT>
+ choice 18
+<NoACT>
+ internet parking area north choice 7 type guesthouses
+ phone 01223575314 post cb43pe addr 52 gilbert road
+ none none area centre price cheap
+<NoACT>
+ phone 07710839987 arrive 5:15 car yellow skoda
+<NoACT>
+ area east price moderate type hotel stars 4
+ parking none
+ price area food
+<NoACT>
+ none none food spanish area center of town price cheap name la raza
+<NoACT>
+<NoACT>
+ area price
+ none none choice over type guesthouses
+ none none stars 4
+<NoACT>
+ id tr1079 arrive 10:54 choice several leave 09:09
+<NoACT>
+<NoACT>
+ area east side name express by holiday inn cambridge price expensive
+ none none
+<NoACT>
+<NoACT>
+ depart cambridge day tuesday dest london kings cross leave 15:00 arrive 15:51
+ arrive 17:51 leave 17:00 depart cambridge dest london kings cross id tr0945
+<NoACT>
+ type
+<NoACT>
+<NoACT>
+<NoACT>
+ fee free addr trumpington street
+ phone 01223332900
+ day
+ arrive 17:52 depart ely ticket 4.40 pounds leave 17:35
+<NoACT>
+<NoACT>
+ area food price choice a vast array
+ price expensive addr 10 homerton street city centre food chinese
+ price price cheap price expensive choice 5
+ none none type hotel choice 1 name cityroomz price moderate
+<NoACT>
+ depart
+ phone 07753558780 car white lexus
+<NoACT>
+ dest
+ arrive 14:01 day thursday dest broxbourne id tr0071
+<NoACT>
+ stars price area parking internet choice 33
+ area price choice 3 internet none type hotel -s stars 2
+ area north name the ashley hotel
+<NoACT>
+<NoACT>
+ area centre type museums choice 11
+ fee free
+ addr university of cambridge addr downing street post cb23dz
+ dest
+ day
+ leave 5:36 leave 19:36 arrive 6:55 arrive 20:55 id tr1006 id tr5892
+<NoACT>
+<NoACT>
+ area choice 9
+ choice 7 type guesthouse
+ none none area west stars 4 parking none price inexpensive name finches bed and breakfast type guesthouse internet none
+ area centre name the man on the moon
+ area south name nusha and tenpin
+ addr unit g6 addr cambridge leisure park addr clifton road name nusha phone 01223902158
+<NoACT>
+ day
+ choice 14 leave 05:01 leave
+ ticket 60.08 pounds id tr2631 dest birmingham arrive 19:44 leave 17:01 depart cambridge
+ choice many area the north side
+ choice 7 type hotel -s price moderate -ly priced price cheap
+<NoACT>
+ choice 7
+ none none name arbury lodge guesthouse price moderate addr 82 arbury road phone 01223364319
+ type guesthouse
+<NoACT>
+ depart leave day
+ area choice 23
+ name broughton house gallery phone 01223314960 fee free
+ none none
+ time
+<NoACT>
+<NoACT>
+ depart
+ car grey volkswagen phone 07828883795
+<NoACT>
+<NoACT>
+ choice lots depart
+ leave
+ arrive 15:07
+<NoACT>
+ fee 2 pounds fee free type architecture area centre choice 5
+ name all saints church phone 01223452587
+<NoACT>
+ area east name cherry hinton hall and grounds
+ post cb18dw addr cherry hinton road
+ fee the entrance fee is not listed
+<NoACT>
+ none none food modern european price expensive area centre name darrys cookhouse and wine shop
+ price expensive addr 40270 king street city name darrys cookhouse food modern european area centre
+ type type architecture type cinema type college
+ type museum area centre name the broughton house gallery
+ phone 01223314960
+<NoACT>
+ area north choice 2 choice 11 type hotel -s type guesthouses
+ none none price moderate choice both type hotel -s
+ none none parking none choice both choice both name the ashley hotel name the lovell lodge
+ name the river bar steakhouse and grill area centre food modern european price inexpensive
+ day time people
+<NoACT>
+ depart dest
+ phone 07799854342 car yellow tesla
+<NoACT>
+<NoACT>
+ food area
+ none none people choice 2 name the good luck chinese food takeaway name peking restaurant food chinese price expensive
+ time day
+<NoACT>
+<NoACT>
+<NoACT>
+ area west name magdalene college addr magdalene street
+ post cb30ag type college
+ addr magdalene street
+ day
+ choice a number leave
+ id tr7802
+<NoACT>
+<NoACT>
+<NoACT>
+ stars 0 stars 4
+<NoACT>
+ stay day people
+<NoACT>
+ none none name worth house name city centre north bed and breakfast
+<NoACT>
+<NoACT>
+ none none choice 3 type guesthouses
+<NoACT>
+ area area east price cheap choice all of
+ none none price expensive
+<NoACT>
+ none none area same area as the hotel name yu garden price expensive
+<NoACT>
+<NoACT>
+ choice 133 leave day
+ choice 12
+ choice 12 leave 05:16 leave 16:16
+ type cinema area south
+<NoACT>
+ area
+ name adc theatre area centre of town
+ food choice 5
+ choice 2
+ time people
+ post cb28nx phone 01223354755
+ addr 10 homerton street city centre
+<NoACT>
+ depart leave
+ choice 2 choice 828 arrive
+ choice 10 leave
+ people
+ arrive 06:54 id tr1903 dest cambridge depart leicester leave 05:09
+ choice several
+ area west side phone 01223336233 post cb30ds name churchill college
+<NoACT>
+ none none food indian area west end name meghna
+ price moderate name meghna
+ dest day
+ leave
+ day tuesday id tr6524 leave 15:36
+ time 79 minutes ticket 17.60 pounds arrive 16:55
+<NoACT>
+<NoACT>
+ choice 10 depart london kings cross leave 5:17 leave every 2 hour -s
+ people
+<NoACT>
+ name the cambridge punter area centre
+<NoACT>
+<NoACT>
+ stars price internet none choice 5 parking none type hotel
+ name huntingdon marriott name cambridge belfry name the university arms choice 3 type hotel area west of town area center
+ none none addr kingfisher way addr hinchinbrook business park addr huntingdon
+ type hotel day
+ arrive 17:51 id tr0945 dest london kings cross depart cambridge leave 17:00
+ time 51 minutes
+<NoACT>
+ area north choice 2 price moderate
+ area stars stars 2
+ price price moderate price cheap choice several choice 1
+ name worth house
+<NoACT>
+<NoACT>
+<NoACT>
+ type price area central choice 44
+ name cambridge university botanic gardens addr bateman street
+ phone 01223336265
+ area centre area of town addr bateman street
+ post cb21jf
+<NoACT>
+ none none name el shaddai
+ parking none post cb11eg price cheap -ly priced
+<NoACT>
+<NoACT>
+<NoACT>
+ day depart
+<NoACT>
+<NoACT>
+ choice 2
+<NoACT>
+<NoACT>
+ choice 70 depart cambridge dest bishops stortford arrive day
+ arrive 14:07 id tr2771
+<NoACT>
+ choice 2
+ addr 35 saint andrews street city centre
+<NoACT>
+ depart dest
+ arrive 18:07 choice 1 leave 17:29 dest bishop s stortford
+<NoACT>
+<NoACT>
+<NoACT>
+ area choice several
+ none none choice 7 choice 2 type guesthouses type hotel -s
+ stars 4 phone 01223353888 name acorn guest house
+ choice 42 depart kings lynn dest cambridge arrive 11:45 day
+ day wednesday arrive 10:58 id tr3225 dest cambridge depart kings lynn leave 10:11
+<NoACT>
+<NoACT>
+ depart dest
+ leave 11:39 id tr9835
+ ref yqxhm46f
+ area choice 5
+ ref 12slbu92
+<NoACT>
+ type area that side of town choice several
+<NoACT>
+<NoACT>
+<NoACT>
+ post cb58wr phone 01223323737
+<NoACT>
+ post cb58ld
+<NoACT>
+ day
+ leave
+ id tr1160 arrive 15:15 arrive 15:06 leave 5:21
+ ticket 37.80 pounds
+ ref 6sxpqrzj
+ type
+ area
+ area east side of town name cambridge museum of technology addr the site of the old pumping station on cheddar s lane
+ post cb58ld phone 01223368650 fee 5 pounds
+<NoACT>
+ name
+ day
+<NoACT>
+ type area
+<NoACT>
+ post cb58bs phone 01223452587 fee free
+ none none
+<NoACT>
+ area east type museums choice 4
+ post cb13ew
+ choice 2 choice 1 food indian food italian
+<NoACT>
+<NoACT>
+<NoACT>
+<NoACT>
+ choice 2 name nusha name tenpin
+ phone 01223902158 name nusha fee is not shown
+ none none
+<NoACT>
+ depart dest
+<NoACT>
+ depart
+ leave
+ phone 07395163696 car yellow audi
+<NoACT>
+ area centre of town area south name gonville hotel name the lensfield hotel
+ choice both
+ none none parking none choice both
+<NoACT>
+ fee free fee 2.50 choice 3 choice 2
+ post cb30ds name churchill college phone 01223336233 fee free
+<NoACT>
+ type
+ choice 9
+ addr 710 newmarket road addr cb58rs phone 01223575122 name autumn house
+<NoACT>
+ phone 01223748100 addr castle street
+ area west
+ post cb30aq name kettle s yard
+<NoACT>
+ area centre of town name great saint mary s church type architecture
+ phone 01223350914
+ none none name little seoul addr 108 regent street city centre
+ post cb21dp phone 01223308681
+ leave
+ phone 07216248494 car grey vw
+<NoACT>
+ leave arrive
+ car yellow toyota phone 07598718295
+<NoACT>
+<NoACT>
+ choice quite a few dest cambridge depart
+ depart
+ arrive 14:43 leave 13:54 day
+ arrive 14:43
+<NoACT>
+ type hotel -s type hotel -s choice 2
+ parking none
+ none none name the gonville hotel name the university arms hotel addr gonville place addr regent street stars 3 stars 4
+ day
+ phone 01223351241
+<NoACT>
+ area price choice 23 type hotel -s
+ area choice 9 type guesthouse hotel -s area various
+ people 6 stay 4 stars 4 type hotel people
+<NoACT>
+ name ask
+ none none name ask restaurant
+<NoACT>
+<NoACT>
+ none none name cambridge lodge restaurant choice 1
+ price expensive
+<NoACT>
+<NoACT>
+ area choice 5 choice all internet none type hotel -s price expensive
+ none none
+ phone 01480446000 type hotel
+ stars 4 type hotel
+ depart leave
+ phone 07509141470 car yellow audi
+<NoACT>
+ name
+ none none price expensive name the gonville area centre of town stars 3
+ none none stay people
+<NoACT>
+<NoACT>
+ name gonville hotel type museum name the broughton house gallery
+ phone 01223314960
+<NoACT>
+ choice thousands depart arrive leave day
+ day monday leave 7:17am depart london kings cross
+<NoACT>
+ name golden house area centre of town food chinese price inexpensive
+ addr 12 lensfield road city centre price cheap phone 01842753771
+<NoACT>
+<NoACT>
+ day
+ dest
+ leave
+ arrive 12:08 leave 11:17 id tr7850
+ ticket 23.60 gbp
+ type
+ area type
+ area south addr clifton way name the junction theatre
+ phone 01223511511 name the junction theater addr clifton way
+<NoACT>
+ area price choice 33
+ name university arms hotel internet none parking none
+<NoACT>
+ price area centre choice 13
+ fee free area centre name christ s college
+ post cb23bu name christ s college
+<NoACT>
+ depart
+ dest
+ leave
+ arrive 19:54 id tr2515
+ day saturday arrive 16:54 dest cambridge id tr2515 depart leicester time 105 minutes leave 15:09
+<NoACT>
+<NoACT>
+ depart dest
+ dest
+ arrive
+<NoACT>
+ area price choice many
+<NoACT>
+<NoACT>
+ area area cambridge choice many
+ price cheap name rice house food chinese phone 01223367755 area center
+ none none
+<NoACT>
+ phone 01223474144 post cb12lf
+<NoACT>
+<NoACT>
+<NoACT>
+ area type museums choice 23
+ name broughton house gallery addr 98 king street area centre
+ price choice 10 area centre
+ none none
+ day time
+<NoACT>
+ time
+ none none none none
+ day time
+ name golden house
+ leave arrive
+ car yellow ford phone 07311583269
+<NoACT>
+ area choice many
+ choice 14 type hotel -s
+ area north choice 2 name ashley hotel name lovell hotel type hotel -s
+ type hotel phone 01223425478 addr 365 milton road name the lovell
+ name the lovell stars 2
+ post cb23pj
+<NoACT>
+ area choice plenty
+ choice 2
+ stay day
+<NoACT>
+<NoACT>
+ none none
+ none none
+ time day people
+<NoACT>
+ area west side addr 144 thornton road type guesthouse stars 4
+<NoACT>
+ depart dest
+ phone 07359871598 car blue toyota
+<NoACT>
+ area north name jesus green outdoor pool and kings hedges learner pool type swimming pool choice 2
+ fee i do not have the entrance fee listed here
+ phone 01223353248
+ leave arrive
+ arrive 19:07
+ leave 17:39 id tr8530
+ time 88 minutes
+ time 88 minutes
+<NoACT>
+ area price
+<NoACT>
+ post cb28rj
+<NoACT>
+ area centre addr saint andrew s street
+<NoACT>
+ choice 3 choice 1 area center area north
+<NoACT>
+ type
+<NoACT>
+ fee free choice thirteen choice all but 3
+ fee free
+ post cb23bu name christ s college
+<NoACT>
+ area centre area south choice 4 choice 1
+ addr clifton way
+ type theatre name the junction phone 01223511511 area south fee i do not have the admission listed in my database
+ fee we have no entrance fee information for any of the theatres at this time
+ id tr2013 leave 6:07
+ time 17 minutes ticket 4.40 pounds
+<NoACT>
+ choice 133 arrive leave day
+ leave 22:11 id tr0672 people
+<NoACT>
+<NoACT>
+ day
+ choice 5 choice first leave 05:59
+ id tr7299
+ type colleges type entertainment venue -s type museums area west
+ fee an entrance fee fee free type museums area west choice 7 choice 1 choice rest
+ post cb30aq name the lynne strover gallery
+<NoACT>
+ food british price expensive area center of town
+<NoACT>
+ type choice many area east
+ fee free to visit
+ dest the restaurant car black tesla depart cambridge artworks phone 07036386739
+<NoACT>
+<NoACT>
+ post cb58ld type museum
+ type museums phone 01223368650
+ price
+ area
+ none none
+<NoACT>
+ phone 07980459302 car black ford
+<NoACT>
+ food choice 15
+ name zizzi cambridge phone 01223365599
+ arrive 1945 choice 294 depart dest
+ choice 7 arrive 19:45 leave
+ arrive 18:07 id tr1567 dest bishops stortford depart cambridge leave 17:29
+<NoACT>
+ type area centre of town choice 5 type hotel -s type guesthouses
+ none none price expensive name the university arms hotel area centre stars 4
+<NoACT>
+<NoACT>
+<NoACT>
+<NoACT>
+ food
+<NoACT>
+<NoACT>
+<NoACT>
+<NoACT>
+ phone 01223304705
+ price choice 4 choice 2 choice 2 food indian price moderate -ly priced price expensive
+<NoACT>
+ post cb58rg phone 01223244955
+<NoACT>
+ depart dest
+ arrive 10:32 id tr5167
+ ticket 35.79 gbp ref 8g3vld0w
+ none none name the express by holiday inn cambridge
+ parking none
+<NoACT>
+<NoACT>
+ price moderate price expensive choice 7 choice 4 choice 3
+ food time
+ none none
+ name fitzbillies restaurant name the cambridge chop house name midsummer house area centrally located food british price very expensive
+ name the cambridge chop house
+<NoACT>
+<NoACT>
+ choice a lot of
+ none none addr 35 millers yard mill lane name mahal of cambridge
+ time people
+<NoACT>
+ arrive depart leave
+ id tr6437 people
+ day thursday arrive 07:52 leave 07:24
+ depart cambridge dest stansted airport time 28 minutes
+<NoACT>
+ dest
+ choice oodles depart bishops stortford dest cambridge day leave
+ leave 15:29
+ time 38 minutes
+ addr cambridge passenger cruisers addr jubilee house name riverboat georgina
+ phone 01223902091
+ addr cambridge passenger cruisers addr jubilee house
+ none none
+<NoACT>
+<NoACT>
+ none none name huntingdon marriott name cambridge belfry internet none parking none stars 4
+ none none price expensive price cheap area west name huntingdon marriott hotel name cambridge belfry
+<NoACT>
+ day dest
+<NoACT>
+ time 38 minutes leave 9:29 arrive 10:07
+<NoACT>
+ leave
+ arrive 07:01 choice 1
+<NoACT>
+ choice a few area other parts of town
+ fee free fee with entrance fees area west side of town type colleges choice 5 choice 3 choice 2
+ phone 01223333200
+<NoACT>
+ leave
+ dest
+ car red bmw phone 07207233794
+<NoACT>
+ none none
+ price rather expensive price more moderate -ly priced choice 2
+<NoACT>
+ phone 01223355017 addr 5357 lensfield road
+<NoACT>
+ choice 70 leave day
+ choice 5 leave 5:00 leave
+ ticket 23.60 pounds time 51 minutes
+ type area west choice 5
+<NoACT>
+<NoACT>
+<NoACT>
+ depart
+ dest
+ ticket 23.60 pounds id tr9332 leave 19:17
+<NoACT>
+ area choice 33
+ price
+ none none choice 6 type guest houses
+ type guesthouse
+<NoACT>
+<NoACT>
+ dest
+ leave day arrive
+ id tr6908 arrive 16:44 choice 10 leave 05:01 to 14:01
+ ticket 60.08 pounds time 163 minutes
+<NoACT>
+ food
+ food name bedouin area city centre
+ price choice several area city center
+ phone 01223308871 name cow pizza kitchen and bar addr corn exchange street cb23qf
+ phone 01223295264 addr fulbourn name gallery at 12
+ addr high street post cb15dh type museum name gallery at 12 fee free
+ leave
+ phone 07600966751 car blue volvo
+ car blue volvo phone 07600966751
+<NoACT>
+ area centre type nightclubs choice 6
+<NoACT>
+ dest
+ choice 3 dest cambridge arrive 11:30 leave 05:52 leave 07:35 leave 09:35
+ id tr7745
+<NoACT>
+ ticket 4.40 pounds
+<NoACT>
+ food price expensive choice many area that area
+ choice 4
+ time choice 4
+<NoACT>
+ dest depart
+ arrive 12:08 id tr2417 day wednesday dest cambridge
+<NoACT>
+<NoACT>
+ day
+ leave 17:17 id tr7804
+ arrive 18:08 people
+ name the cambridge belfry area north
+ type hotel
+<NoACT>
+<NoACT>
+ fee 2 pounds area centre of town type architecture post cb23pq addr market square phone 01223350914
+<NoACT>
+<NoACT>
+ none none name gonville hotel name lensfield hotel
+ stay choice both parking none
+ day
+<NoACT>
+<NoACT>
+ area city centre addr 3334 saint andrews street name nandos
+<NoACT>
+ area east name a and b type guesthouse style hotel
+<NoACT>
+ none none name city centre north bed and breakfast area north internet none parking none
+ phone 01223312843 price cheap name city centre north bed and breakfast
+<NoACT>
+<NoACT>
+ fee free name christ s college addr saint andrew s street phone 01223334900
+ post cb23bu type college
+ choice 1400 depart leave day
+ day
+ day frday arrive 11:09 id tr2105 dest peterborough
+ arrive 11:30 id tr2105
+<NoACT>
+<NoACT>
+ depart
+ leave arrive
+ car yellow lexus phone 07014284224
+<NoACT>
+ area center of town name la tasca
+ day people
+<NoACT>
+ choice 10 leave dest
+ arrive 6:08 arrive 8:08 leave 5:17 leave 7:17
+ ticket $7.50 id 407
+ id tr4543 ticket 23.60
+ arrive 08:08 leave 07:17 depart london kings id tr4543 dest cambridge
+<NoACT>
+<NoACT>
+ name the huntingdon marriot name the university arms choice 2 area on the west side area in the center
+ none none stars 4 stay people
+ people
+ day stay
+ stay
+<NoACT>
+<NoACT>
+<NoACT>
+ dest
+ arrive 08:07 day sunday leave 07:50 id tr2475
+ ticket 3.52 pounds
+ people
+ type museum area east name cambridge artworks name cambridge museum of technology name gallery at 12 a high street name saint barnabas press gallery choice 4
+ none none people fee 5 pounds name cambridge museum of technology
+ post cb58ld
+<NoACT>
+ area west type museum
+ phone 01223338901
+ dest leave day
+ depart cambridge dest birmingham new street day thursday arrive 14:44 id tr6576 leave 12:01
+ ticket 75.10 pounds
+<NoACT>
+<NoACT>
+<NoACT>
+ area area north area east stars 2 price expensive price moderate price expensive choice 2 choice 1 choice 1 choice 1 type hotel -s type hotel
+ parking none name express by holiday inn cambridge
+ none none area east side
+ post cb13lh
+ day depart
+ day
+ day saturday dest cambridge choice 5 leave
+<NoACT>
+ leave 13:39
+ people
+<NoACT>
+<NoACT>
+<NoACT>
+ depart
+ dest
+ car blue bmw phone 07860072749
+<NoACT>
+ depart
+ car red bmw
+ phone 07934564095
+<NoACT>
+<NoACT>
+ food international area east addr finders corner newmarket road name missing sock
+ phone 01223812660
+ leave 8:11 day friday
+ choice 5 dest kings lynn arrive 19:58 id tr0525 leave 19:11
+<NoACT>
+<NoACT>
+ depart dest
+ day saturday leave 10:24 qm depart cambridge id tr6310 ticket 8.08 pounds
+<NoACT>
+ time 28 minutes
+ time 28 minutes
+ ticket 8.08 pounds
+<NoACT>
+ choice many dest leicester depart day
+ time 105 minutes arrive 16:06 leave 14:21 dest leicester id tr0623 ticket 37.80 pounds
+<NoACT>
+ addr park street phone 01223300085 name adc theatre
+ fee the entrance fee isnt stated phone 01223300085
+ addr park street post cb58as
+<NoACT>
+ leave arrive
+ depart
+ car white volkswagen
+ phone 07829671088
+<NoACT>
+ name ashley hotel addr 74 chesterton road stars 2
+ none none internet none
+ stay day people
+<NoACT>
+ name ashley name express holiday inn by cambridge area east
+<NoACT>
+ day
+<NoACT>
+ time 50 minutes leave 10:48
+<NoACT>
+ choice 10 depart ely day thursday dest
+ time 17 minute arrive 19:52 choice 3 leave 18:00 leave 19:35 depart ely
+<NoACT>
+ internet choice 11
+ stars choice 9 type guesthouses
+<NoACT>
+<NoACT>
+<NoACT>
+ choice several dest cambridge
+ choice 5 arrive
+ id tr5754 leave 11:24
+ name acorn guest house
+<NoACT>
+<NoACT>
+ dest
+ day
+ leave
+ id tr3034 arrive 14:55
+<NoACT>
+<NoACT>
+ food choice 69 area centre
+ none none
+<NoACT>
+<NoACT>
+<NoACT>
+<NoACT>
+ area price type choice 29
+ area choice 9 choice 1 type guesthouses type hotel
+ stay
+ people
+ day
+<NoACT>
+<NoACT>
+ food choice lots of options
+<NoACT>
+<NoACT>
+ type colleges type architecture type boats type museums type concert hall type nightclubs type park type swimming pool type theatres area center
+<NoACT>
+ phone 01223355397 fee free
+<NoACT>
+ area food indian price expensive choice 14
+ none none
+<NoACT>
+<NoACT>
+ fee i do not have any info choice 4
+<NoACT>
+ dest depart
+ choice 10 leave 05:59 leave 23:59 leave arrive
+ arrive 09:27 arrive 01:27 people tr4259
+<NoACT>
+<NoACT>
+ fee 2 pounds area centre post cb23pq addr market square
+<NoACT>
+ phone 01223350914
+ people
+ arrive 20:23 id tr3130 dest cambridge time 163 minutes leave 17:40
+<NoACT>
+<NoACT>
+ leave
+ depart
+ id tr3420 dest ely arrive 14:07 time 17 minute leave 13:50
+ people
+ area price
+ stars 3 name alpha milton guest house internet none
+<NoACT>
+<NoACT>
+ none none name acorn guest house internet none choice 24 parking none type guesthouses stars 4
+ none none choice 2 area center name acorn guesthouse name alexander bed and breakfast stars 4
+ stay day
+ none none
+ name alexander bed and breakfast phone 01223525725
+ phone 01223525725 name alexander bed and breakfast
+ type hotel -s addr 56 saint barnabas road
+ area choice 6
+ area west name graffiti
+ name graffiti
+<NoACT>
+<NoACT>
+ food
+ area choice quite a few food italian
+ time day people
+<NoACT>
+ day
+ leave 08:40 arrive 11:23 id tr5635
+ ticket 75.10 each
+ time 163 minutes
+<NoACT>
+<NoACT>
+<NoACT>
+ id tr2586 arrive 14:56 leave 14:06
+ ticket 16.50 pounds
+ time 50 minutes none none
+ addr 5 greens road
+<NoACT>
+ leave dest arrive
+ leave arrive
+ car red ford phone 07756177529
+<NoACT>
+ depart dest
+ choice nineteen leave
+ id tr2162 leave 14:11
+ arrive 14:58
+ leave 14:11
+<NoACT>
+ phone 01223304705 post cb58hy
+<NoACT>
+ area
+<NoACT>
+ phone 01223338901
+ depart
+<NoACT>
+<NoACT>
+<NoACT>
+ choice most days depart cambridge leave 17:36
+ day friday choice 7 dest norwich arrive
+ dest norwich id tr3833 leave 17:36 depart cambridge
+<NoACT>
+<NoACT>
+<NoACT>
+ fee 2 pound area center of town name corpus christi type college addr king s parade
+ post cb21rh
+ none none choice 1 name bedouin
+ none none price expensive
+ ref 57kudr6y
+<NoACT>
+ none none area west name cafe jello type museum
+ addr cafe jello gallery addr 13 magdalene street
+ leave depart day
+ arrive 08:35 id tr3948
+ people
+ people
+ id tr3948
+<NoACT>
+ area
+ area price cheap choice 9 type guesthouses
+<NoACT>
+ stars
+ none none name avalon area north side of town type guesthouse price moderate
+ addr 62 gilbert road
+ phone 01223353071 name avalon guesthouse
+<NoACT>
+<NoACT>
+<NoACT>
+ price
+ area west name whale of a time type entertainment attraction fee i do not have any information
+ post cb238el addr unit 8 addr viking way addr bar hill
+<NoACT>
+<NoACT>
+ time
+<NoACT>
+ price area choice over 20
+ none none area south choice 1 price cheap
+ none none food portuguese
+ none none name rosa s bed and breakfast
+ none none internet none
+ post cb22ha area south
+<NoACT>
+ food
+ choice a variety
+ area choice 14 food indian price expensive
+ none none
+<NoACT>
+ arrive
+ day wednesday id tr8304 depart cambridge dest leicester leave 18:21 ticket 37.80
+<NoACT>
+ day wednesday arrive 20:06 time 105 minutes leave 18:21
+<NoACT>
+<NoACT>
+ area
+ none none name el shaddai internet none type guesthouse parking none area centre stars 0 day
+ none none
+<NoACT>
+ fee free entrance choice about 11
+ addr lensfield road post cb21er phone 01223336540
+ none none
+ none none
+ car white volvo phone 07499481174
+<NoACT>
+ fee no entrance fee name magdalene college area the west side
+ fee free post cb30ag
+ addr magdalene street
+ food choice many
+ name dojo noodle bar
+ none none phone 01223363471
+ depart leave
+ phone 07882764497 dest magdalene college car white honda depart dojo
+<NoACT>
+ none none price expensive area city centre addr 52 mill road
+<NoACT>
+ ref al0qeu6x day
+ depart bishops stortford dest cambridge arrive 18:07 leave 17:29
+ day monday arrive 06:07 depart bishops stortford leave 05:29
+ ticket 10.10 pounds
+<NoACT>
+ area type colleges choice 18
+ name christ s college fee free entrance addr saint andrew s street area town centre
+ price choice 9 name christ s college addr saint andrew s street phone 01223334900
+ none none name statizione restaurant and coffee bar name clowns cafe name don pasquale pizzeria name caffe uno choice 4
+<NoACT>
+<NoACT>
+<NoACT>
+ area choice more than 70
+<NoACT>
+ name downing college addr regent street area center
+ price area
+ price
+ area price choice 16
+ choice all 16 type guesthouse
+ day
+<NoACT>
+ depart dest
+ phone 07481168457 car black toyota
+<NoACT>
+ depart
+ choice 19 leave
+ id tr7964 arrive 5:58 leave 5:11
+ time about an hour
+ time 47 minutes
+ none none addr 2g cambridge leisure park cherry hinton road cherry hinton phone 01223400170 price expensive
+ time day
+ day
+<NoACT>
+<NoACT>
+ day
+ id tr3947
+ ticket 9.80 pounds id tr2764 arrive 08:58 leave 08:11
+ time 47 minutes
+ area
+ choice some type church name all saints church
+ fee no name all saints church
+ arrive 19:15 people
+<NoACT>
+ area choice several
+ day time
+<NoACT>
+ addr 2 norfolk street area centre name the man on the moon
+ fee no information phone 01223474144 type concerthall
+ phone 07583896240 car red honda
+ phone 07583896240
+<NoACT>
+ name varsity restaurant
+<NoACT>
+ depart day
+<NoACT>
+<NoACT>
+<NoACT>
+<NoACT>
+ choice 4 day
+ dest
+ dest cambridge id tr9084 arrive 08:52 leave 08:24 depart airport
+<NoACT>
+<NoACT>
+<NoACT>
+ name primavera fee free type museum addr 10 king s parade area centre
+ dest leave arrive
+<NoACT>
+ ticket 23.60 pounds
+<NoACT>
+ depart cambridge day friday dest stansted airpot leave 12:40 depart day
+ arrive
+ dest stansted airport arrive 13:03 leave 12:40 day tuesday depart cambridge
+ arrive 13:08
+<NoACT>
+ day stay
+ people
+<NoACT>
+<NoACT>
+ name
+ name nusha type entertainment area south
+ phone 01223362456 food vietnamese name thanh binh addr 17 magdalene street city centre cd30af
+<NoACT>
+<NoACT>
+ choice many depart cambridge dest bishops stortford leave day
+ arrive 16:07 day thursday choice 6 leave 15:29
+ id tr7759 arrive 16:07 leave 15:29 day thursday
+<NoACT>
+ people area centre price expensive name wagamama
+ day
+ none none time
+ phone 01223462354 post cb23ar
+<NoACT>
+ area price
+ type
+ addr 52 gilbert road . name archway house
+ name archway house price moderate area north
+ addr 52 gilbert road .
+<NoACT>
+ choice 1 name yu garden
+<NoACT>
+<NoACT>
+ food chinese area centre addr regent street city centre phone 01223361763 name charlie chan
+ none none addr regent street city centre post cb21db
+ depart arrive
+ arrive 10:07 leave 09:50
+ arrive 14:07 id tr3420 dest ely depart cambridge leave 13:50
+ people
+<NoACT>
+ arrive 14:07 leave 13:50
+<NoACT>
+ type area city center choice 44
+ type museum choice 11
+ addr 98 king street post cb11ln
+ type guesthouse internet none parking none stars 4 name carolina bed and breakfast price moderate area east
+<NoACT>
+ leave
+ phone 07869666997 car yellow ford
+<NoACT>
+<NoACT>
+ area centre type architecture attractions choice 5
+<NoACT>
+ area centre of town
+ fee free
+ choice many dest peterborough arrive leave depart
+ arrive
+ arrive 14:24 leave 13:34
+<NoACT>
+<NoACT>
+<NoACT>
+<NoACT>
+<NoACT>
+<NoACT>
+ choice 2 parking none stars 3
+ addr gonville place name gonville hotel
+ stay
+<NoACT>
+<NoACT>
+ depart
+ leave arrive
+<NoACT>
+ food unusual area the north
+ food
+ choice 3 choice 2 choice the other food chinese area the north side of town price expensive price moderate -ly priced
+ none none
+ none none post cb41ep name the hotpot
+ price expensive
+ choice 2 type pools
+ phone 01223302579 name the jesus green outdoor pool addr between victoria road and the river
+ car white honda phone 07119708052 depart restaurant dest jesus green outdoor pool leave 4:00
+<NoACT>
+<NoACT>
+ depart
+ choice 7 leave 17:09 depart leicaster
+ ticket 30.24 pounds
+ area
+ none none name the cityroomz
+ stars 0 name cityroomz post cb12tz type hotel
+<NoACT>
+<NoACT>
+<NoACT>
+<NoACT>
+ day
+ arrive 18:55 id tr4018 leave 17:36
+ people
+ time 79 minutes
+<NoACT>
+ depart
+<NoACT>
+ fee free area centre name all saints church addr jesus lane
+ post cb58bs fee free addr jesus lane
+ none none
+ post cb11ee stars 4 name warkworth house
+ dest church car white lexus phone 07515585036
+<NoACT>
+ food international area centre name varsity restaurant name bloomsbury restaurant
+ choice both price moderate
+ none none
+<NoACT>
+<NoACT>
+ depart
+ arrive 10:07 leave 9:29 id tr0635
+ time 38 minutes
+ area type multiple sports area the centre
+ fee free entry type museums area center choice 11 choice all
+<NoACT>
+<NoACT>
+ choice 5
+ name great saint mary s church fee 2 pounds fee free choice 4
+ addr market square post cb23pq
+<NoACT>
+ none none
+ people day time
+ addr 54 king street city centre post cb11ln name clowns cafe
+<NoACT>
+ food price
+ food food indian
+ area choice a number of food british price expensive
+ none none name the grafton hotel restaurant
+ post cb58pa phone 01223241387
+ area east parking none stars 4 addr 124 tension road name the a and b guest house type guesthouse internet none
+ addr 124 tenison road post cb12dp
+<NoACT>
+<NoACT>
+<NoACT>
+<NoACT>
+ type area
+ name magdalene college fee free area west
+ post cb30ag
+ leave dest
+ arrive 12:08 id tr2417 leave 11:17
+<NoACT>
+<NoACT>
+ dest
+ leave
+ id tr2895 arrive 7:27
+<NoACT>
+ area choice 33
+ internet parking
+ area choice 14
+ area type guest houses internet none parking none choice 12 price moderate
+ area
+<NoACT>
+<NoACT>
+ none none
+<NoACT>
+<NoACT>
+<NoACT>
+ dest day
+ arrive
+<NoACT>
+ food choice 33
+<NoACT>
+<NoACT>
+<NoACT>
+ arrive leave
+ leave
+ id tr1830 arrive 14:43
+ ticket 12.80 pounds leave 13:54
+<NoACT>
+ area price area west stars 4 parking none name huntingdon marriott type hotel -s choice 8
+ choice 2 type hotel -s stars 2 name ashley hotel name lovell lodge area north
+ day
+<NoACT>
+ day stay
+<NoACT>
+<NoACT>
+<NoACT>
+ name junction theatre area south
+ name the junction theatre post cb17gx addr clifton way
+ price area type guesthouse
+ name the alexander bed and breakfast name el shaddai choice 2 type guesthouses
+ none none stars 4 stars 0 name the alexander bed and breakfast name el shaddai
+ depart dest
+<NoACT>
+ car grey volkswagen phone 07753429052
+<NoACT>
+ id tr4404 depart cambridge dest bishops stortford leave 05:29 arrive 06:07
+ arrive 14:07 leave 13:29 depart cambridge dest bishops stortford id tr3844
+ time 38 minutes
+ none none
+<NoACT>
+<NoACT>
+ day
+ arrive 19:32 leave 18:32 id tr1428
+ time 60 minutes
+ stars price area type guesthouse internet none choice 23
+ price cheap price moderate price expensive
+ day
+ none none area
+ people
+ day stay
+<NoACT>
+<NoACT>
+ food indian price expensive area westside name cocum
+<NoACT>
+ depart
+ choice 2
+<NoACT>
+<NoACT>
+<NoACT>
+<NoACT>
+ none none food gastropub name cow pizza kitchen and bar
+ addr corn exchange street
+ day friday choice several leave 20:00 dest depart
+ leave 20:40 leave 21:40 leave 22:40 leave 23:40 choice 4
+<NoACT>
+<NoACT>
+ depart dest
+ day sunday leave 10:40 dest stansted airport id tr2110
+<NoACT>
+ addr east side at the old pumping station addr cheddars lane phone 01223368650 fee 5 pounds name cambridge museum of technology
+<NoACT>
+<NoACT>
+ area west internet none price cheap parking none type hotel stars 4
+ phone 01954714600
+ none none parking none
+ day
+ arrive 19:54 leave 18:09
+<NoACT>
+<NoACT>
+ leave
+ dest
+ car yellow skoda phone 07866277583
+<NoACT>
+<NoACT>
+ area choice 5
+ price expensive choice all of internet none type hotel -s
+ stars choice 9
+ none none
+ none none phone 01223327978
+<NoACT>
+<NoACT>
+ name
+ name curry prince food indian
+ none none phone 01223566388 addr 451 newmarket road fen ditton
+ dest
+ id tr3093 dest 09:06 depart 07:21
+<NoACT>
+ choice many day
+ choice many leave arrive
+ ticket 13.20 pounds arrive 21:09 choice 1 leave 20:19
+ time 50 minutes stars area choice 5
+ none none name express by holiday inn cambridge choice 1
+<NoACT>
+<NoACT>
+ none none food british food chinese food gastropubs food and indian
+ none none day time name grafton hotel restaurant
+ time day
+<NoACT>
+<NoACT>
+ choice listings day sunday dest
+ people
+<NoACT>
+<NoACT>
+<NoACT>
+<NoACT>
+ leave
+ arrive 18:07 leave 17:29 dest bishops stortford id tr6742
+<NoACT>
+ stars 4 price expensive area west
+ parking none
+<NoACT>
+ type museum type college
+<NoACT>
+ phone 01223335153 name museum of classical archaeology
+<NoACT>
+ arrive
+<NoACT>
+<NoACT>
+ area centre of town choice 3 price moderate price expensive type hotel -s
+ none none name the gonville hotel name university arms hotel stars 3 stars 4
+ people
+ stay day
+<NoACT>
+<NoACT>
+ price expensive choice 5 area south side of town
+<NoACT>
+<NoACT>
+<NoACT>
+<NoACT>
+<NoACT>
+ none none
+<NoACT>
+ area stars 4 parking none type guest houses choice 16
+ people day
+ area day
+<NoACT>
+<NoACT>
+ leave day
+ arrive 14:45 choice 5 leave
+<NoACT>
+<NoACT>
+ arrive
+ depart
+ dest
+<NoACT>
+ food choice some
+ none none choice 4
+ area post cb11lh
+ area
+ post cb12de addr 56 saint barnabas road
+<NoACT>
+ none none name williams art and antiques addr gwydir street addr no . 5 dale s brewery
+ post cb12lj area centre
+<NoACT>
+ dest
+ car white volkswagen
+ phone 07053289961
+<NoACT>
+ choice 3 name royal standard name the slug and lettuce and backstreet bistr
+ day time people name royal standard area east
+ time day
+<NoACT>
+<NoACT>
+ none none parking none price moderate -ly priced stars 4 name the limehouse type guesthouse internet none
+ day
+<NoACT>
+<NoACT>
+ fee entrance is free area west addr castle street
+<NoACT>
+ name the funky fun house addr 8 mercers row addr mercers row industrial estate
+ post cb58hy area east
+ none none
+ day
+<NoACT>
+<NoACT>
+ food choice several
+<NoACT>
+ choice many choice some food asian oriental food british food italian food international food spanish food turkish
+ area centre food british choice 4 price boderate
+<NoACT>
+ area
+ choice 13
+ post cb21tq fee 1 pound
+<NoACT>
+ none none
+ dest
+ dest ely choice 10 day friday leave arrive
+ time 17 minutes id tr5844 leave 15:50
+<NoACT>
+ price
+ type hotel stars 2 parking none area north part of town internet none price moderate priced
+ people 5
+ day stay
+ stay
+ phone 01223425478 internet none post cb41sr parking none
+<NoACT>
+ choice 133 leave day
+ arrive 18:01 leave 17:01
+<NoACT>
+ food
+ choice 3 choice 2 choice 1 price expensive price cheap
+ none none
+<NoACT>
+<NoACT>
+ leave
+ leave 14:11 id tr2257
+ ticket 9.80 pounds id tr2257 arrive 14:58
+ area
+ choice 4
+<NoACT>
+<NoACT>
+ area all over the city choice many type hotel -s stay day
+ price moderate name the ashley hotel name lovell lodge choice both internet none type hotel -s parking none area north
+<NoACT>
+ choice first choice last leave 05:19 leave 07:19
+ leave 21:48 day
+ people
+<NoACT>
+<NoACT>
+ price choice quite a few
+ none none choice 3 name fitzbillies restaurant name the cambridge chop house name midsummer house restaurant
+ time day
+<NoACT>
+<NoACT>
+ depart
+<NoACT>
+<NoACT>
+ food
+<NoACT>
+<NoACT>
+<NoACT>
+ name scudamores punting co name the cambridge punter choice 2
+ name scudamores name the cambridge punter choice both addr granta place addr chesterton road area centre
+ phone 01223359750 phone 07807718591 name the scudamores punting co name the cambridge punter fee no entrance fee information listed addr granta place addr mill lane addr 251a chesterton road
+<NoACT>
+ choice 3 post cb23rh phone 01223368786
+ arrive leave
+ depart dest leave
+ phone 07805205510 car yellow toyota
+<NoACT>
+<NoACT>
+ choice 10 price cheap
+<NoACT>
+ addr 517a coldham lane name allenbell type guesthouse internet none
+ post cb21tq phone 01223338400 addr trinity street name trinity colleges
+<NoACT>
+ depart peterborough day friday dest cambridge leave 05:19 arrive 50 minutes after that
+ day thursday leave 05:48 leave 06:19 leave 07:19 leave 07:48 depart peterborough dest cambridge
+ id tr0904 arrive 15:38
+ time 50 minute ride id tr0904 leave 14:48 none none food chinese choice several price expensive
+ choice 2 name the good luck chinese food takeaway name peking restaurant
+<NoACT>
+<NoACT>
+<NoACT>
+ name cafe jello gallery name cambridge and county folk museum name cambridge book and print gallery name kettle s yard name lynn strover gallery name museum of classical archaology name people s portraits exhibition girton college choice 7
+ post cb30aq fee 3.50 pounds
+ choice 2 food italian food vietnamese name la margherita name thanh binh area west price cheap
+ people time day
+<NoACT>
+ depart
+ phone 07387972202 car yellow honda
+<NoACT>
+ food chinese food indian food italian food mexican choice several
+ food food traditional area the south
+ none none name chiquito restaurant bar food mexican area south
+<NoACT>
+ dest depart leave
+ dest depart
+ id tr1791 arrive 17:51 depart cambridge dest london kings cross leave 17:00 people
+ ref v1yvjyn8
+<NoACT>
+<NoACT>
+ none none name cityroomz
+<NoACT>
+ dest
+ depart cambridge leave 19:50
+<NoACT>
+<NoACT>
+ post cb41xa area north end name the alpha milton guest house addr 63 milton road price moderate -ly priced type guesthouse phone 01223311625 stars 3
+<NoACT>
+ none none
+ day time people
+<NoACT>
+<NoACT>
+<NoACT>
+ price expensive type hotel -s choice 5
+ none none
+ none none parking none name express by holiday inn
+ day people stay
+ phone 07635386509 car grey tesla
+<NoACT>
+<NoACT>
+<NoACT>
+ phone 00872208000 addr cambridge leisure park addr clifton way name cineworld cinema
+ fee there is not an admission fee post cb17dy
+ dest depart
+ day leave
+ id tr1975
+<NoACT>
+<NoACT>
+<NoACT>
+ area price food chinese choice 17
+ none none choice 2 price expensive price cheap area south
+<NoACT>
+ choice 10 leave
+ leave
+ ref 3bnlq5gl ticket 141.6 gbp
+<NoACT>
+ food
+ area
+ none none name meze bar restaurant
+ time
+ day
+ people time food turkish name meze bar restaurant price expensive
+ time day
+<NoACT>
+<NoACT>
+ arrive dest
+ arrive 22:24 leave 21:34 dest peterborough id tr7663
+<NoACT>
+ area south choice 5 price expensive
+ none none addr 64 cherry hinton road area south price expensive name the taj tandoori
+ day time
+ time
+<NoACT>
+ day time
+ day
+<NoACT>
+<NoACT>
+ area choice 4 type guesthouses
+ name bridge gue house name hamilton lodge name hobsons house
+ stay day
+ stay day
+ area
+<NoACT>
+<NoACT>
+ food
+ none none choice 2 name graffiti name travellers rest
+<NoACT>
+ type
+ fee no entrance fee addr 49 newnham road
+ post cb39ey
+ phone 01223694264
+<NoACT>
+ dest
+ arrive 15:01 day wednesday leave 14:01 depart cambridge dest broxbourne id tr5164
+<NoACT>
+<NoACT>
+ area
+ price moderate -ly priced type guesthouses choice 3
+ type guesthouse stars 4 name the carolina bed and breakfast post cb13nx
+<NoACT>
+ area
+ choice 9
+<NoACT>
+ dest depart
+ choice 16
+<NoACT>
+<NoACT>
+<NoACT>
+ day
+ arrive 14:08 day thursday leave 13:40 dest stansted airport ticket 10.10 pounds
+ ticket 10.10gbp
+ addr 6 trinity street fee free
+<NoACT>
+ phone 01223324222
+<NoACT>
+ type
+ area type architecture choice a lot
+<NoACT>
+ post cb23nz
+<NoACT>
+ type area
+ name cineworld
+ name cineworld cinema s fee unable to view phone 00872208000
+ day
+ id tr7535
+<NoACT>
+<NoACT>
+ leave
+ arrive 07:08 leave 06:40 depart cambridge dest the airport id tr1951
+ people
+<NoACT>
+ name the ashley hotel name the lovell lodge choice 2 type hotel
+<NoACT>
+<NoACT>
+ post cb21en area south name the lensfield hotel addr 5357 lensfield road
+<NoACT>
+<NoACT>
+ none none choice several choice 1 price moderate price cheap type guesthouses
+ day people stay
+ phone 01223316074 price cherap
+ food
+ name the worth house parking none price cheap
+ none none
+<NoACT>
+<NoACT>
+ area west name clare hall type college
+ post cb39al fee is not an entrance fee
+ none none area north stars 3 price moderate -ly priced name alpha milton guest house type hotel
+<NoACT>
+ leave
+ phone 07553217509 car grey bmw
+<NoACT>
+<NoACT>
+ area choice 33
+ parking choice 9
+ none none choice 1
+ none none name finches bed and breakfast
+ stay people
+ phone 01223276653 area west price cheap stars 4 addr 144 thornton road name finches bed and breakfast post cb30nd type guesthouse
+ none none
+ phone 01223364917 post cb21uf addr 12 bridge street city centre
+ leave
+ phone 07477541353 car grey volvo
+<NoACT>
+ type choice 7
+ none none
+<NoACT>
+ type museum area west fee free name lynne strover gallery
+ fee free type museum
+ area west
+<NoACT>
+<NoACT>
+<NoACT>
+ price
+ name lan hong house area centre food chinese price moderate
+ time
+<NoACT>
+<NoACT>
+ depart
+ car yellow honda phone 07660102698
+<NoACT>
+ fee free addr the university of cambridge addr downing street
+ post cb23dz phone 01223333516 addr the university of cambridge on downing street
+ leave
+ leave 5:54 leave 7:54 leave 9:54
+ arrive 8:43 arrive 10:43 dest cambridge leave 7:54 leave 9:54
+ time 49 minutes
+<NoACT>
+<NoACT>
+ choice 133 dest norwich depart
+ choice several leave arrive
+ arrive 17:36 arrive 18:55 choice variety
+<NoACT>
+ area
+ price cheap range price expensive range name the alexander bed and breakfast name university arms hotel
+<NoACT>
+<NoACT>
+ price
+ price choice 5 type guesthouses
+<NoACT>
+<NoACT>
+ none none choice 5 name saigon city name hakka name the hotspot name city stop restaurant name restaurant 2 two
+<NoACT>
+ dest broxbourne choice 19 day thursday leave arrive
+ dest broxbourne day thursday arrive 13:01 id tr3006
+ id tr3006 ticket 17.90 gbp time 60 minutes
+<NoACT>
+<NoACT>
+ price choice several type guesthouse stars 4
+ area north name the acorn guest house
+<NoACT>
+<NoACT>
+ area choice many type museums
+<NoACT>
+ fee free post cb30af
+<NoACT>
+ area price choice 21 type guesthouse
+ area choice 16
+<NoACT>
+ stay day
+<NoACT>
+ time 163 minutes leave 15:01 arrive 17:44 day saturday dest birmingham new street
+<NoACT>
+<NoACT>
+ food
+ food area
+ area choice 5 food italian
+ choice 3
+<NoACT>
+ area price stars 4 type guesthouse choice 18
+ name the alexander bed and breakfast
+ people stay
+ day
+<NoACT>
+ area day
+ car yellow lexus phone 07350800727
+<NoACT>
+ depart
+ day thursday leave 21:00 depart cambridge dest london kings cross id tr0720 people
+ ticket 23.60 pounds
+ none none name la tasca addr 1416 bridge street
+ day time
+<NoACT>
+<NoACT>
+<NoACT>
+ post cb30nd phone 01223276653
+<NoACT>
+ choice many depart day
+ day
+ depart
+<NoACT>
+ depart
+ car grey ford phone 07689877132
+<NoACT>
+ none none area west name cambridge belfry price cheap type hotel
+ none none choice 15
+ parking none name acorn internet none
+ day wednesday day monday people day
+ day stay
+<NoACT>
+ choice several day dest
+<NoACT>
+<NoACT>
+ food choice many
+ none none choice 1 area the area
+<NoACT>
+ choice 38 day mondays leave
+ arrive 19:56 ticket 13.20 pounds leave 19:06
+<NoACT>
+<NoACT>
+<NoACT>
+<NoACT>
+ none none area centre of town choice on
+ none none
+ phone 01223505015 addr 40270 king street city centre
+ area centre of town addr park street name adc theatre
+ addr 40270 king street city centre
+<NoACT>
+ dest
+ arrive 12:58 leave 12:11 depart kings lyn dest cambridge
+<NoACT>
+ type colleges type architecture type museums type nightclubs type parks type boating type pools choice lots of
+ fee free phone 01223307402 name castle galleries
+<NoACT>
+ price area north choice 11 type guesthouses
+ choice 5 type guesthouses stars 4
+ area north stars 4 price moderate price cheap -er choice 8 choice 7 choice 1 type guesthouses internet none
+ name acorn guest house
+ none none internet none addr 154 chesterton road type guesthouse price moderate
+ leave 16:24 depart stansted airport none none
+ arrive 16:52 day wednesday leave 16:24 day
+ arrive 14:52 leave 14:24 depart stansted airport day tuesday id tr0135 dest cambridge
+ day wednesday arrive 14:52 id tr5499
+<NoACT>
+ dest day
+ leave 13:59 id tr1764
+<NoACT>
+ type guesthouses parking none choice 21
+ name kirkwood house choice 7 stars 4
+<NoACT>
+<NoACT>
+ depart
+ leave
+ id tr7745 arrive 07:52
+ time 17 minutes
+ stay
+ area south post cb17sr
+ stay
+<NoACT>
+ price type area across cambridge choice 24 choice 9 type guesthouses type hotel -s
+ internet none area east name a and b guest house
+ none none day
+ addr 124 tenison road name a and b guest house
+ type
+<NoACT>
+ post cb13ef name cambridge artworks museum addr 5 greens road
+ parking none
+ leave
+ dest guesthouse depart museum phone 07055562592 car red bmw
+<NoACT>
+<NoACT>
+ choice 10 dest cambridge leave
+ id tr1268 people
+ ticket 16.60 pounds leave 11:39
+<NoACT>
+<NoACT>
+ none none addr 517a coldham lane name allenbell
+<NoACT>
+<NoACT>
+ area price
+ price price cheap price expensive choice 3 choice 2 choice 1 area west
+<NoACT>
+ none none internet none parking none
+<NoACT>
+<NoACT>
+ day
+ id tr0141
+<NoACT>
+ choice 2 choice 240 dest
+ day wednesday choice 15 dest kings lynn arrive
+ id tr2831 dest kings lynn arrive 09:58 leave 09:11 day wednesday depart cambridge people
+<NoACT>
+<NoACT>
+ addr the grafton centre addr east road fee do not have information on their entrance fee name vue cinema
+ name area centre of town choice 5 type nightclubs
+ fee 5 pounds addr heidelberg gardens addr lion yard ballare
+<NoACT>
+ choice 11
+ name castle galleries fee free area town centre
+ name castle galleries addr unit su43 addr grande arcade addr saint andrews street phone 01223307402
+ price area centre area food european choice 6
+ none none name hotel du vin and bistro name galleria
+<NoACT>
+ phone 07237980218 car red skoda depart
+<NoACT>
+ area
+ choice 4
+<NoACT>
+ none none post cb21nw phone 01223358899 addr 17 hills road city centre
+<NoACT>
+ area center of town addr 56 saint barnabas road
+<NoACT>
+ leave dest
+ car yellow audi phone 07267474545
+<NoACT>
+ price choice multiple choice 1 choice the rest type hotel type guest houses
+ none none
+<NoACT>
+ area choice 9
+ none none area east
+<NoACT>
+<NoACT>
+ leave dest depart
+ car black ford phone 07078757899
+<NoACT>
+ none none name pizza hut cherry hinton name frankie and bennys
+<NoACT>
+<NoACT>
+<NoACT>
+ addr 1416 bridge street name la tasca downtown
+<NoACT>
+ name bedouin
+ phone 01223367660
+ area centre of town area south choice 2 internet none type hotel -s parking none
+ none none area centre name the gonville hotel
+ stay day
+<NoACT>
+<NoACT>
+<NoACT>
+ day time
+<NoACT>
+<NoACT>
+<NoACT>
+ area food british price expensive choice 6
+ day saturday time people
+<NoACT>
+ type
+ none none stay
+<NoACT>
+<NoACT>
+ area choice many price moderate -ly priced
+ none none price moderate name a and b guest house internet none
+ none none name archway house
+ phone 01223575314 area north
+<NoACT>
+ food choice many
+ none none choice 4 price expensive food chinese
+<NoACT>
+ choice a number depart peterborough day sunday leave
+ depart cambridge leave 11:19
+<NoACT>
+<NoACT>
+<NoACT>
+ price
+<NoACT>
+ phone 01223365599 addr 4753 regent street post cb21ab
+ type museum area centre phone 01223365454
+ dest
+ car yellow audi
+ phone 07487479836
+<NoACT>
+ area area cambridge choice great number
+ name broughton house gallery fee free phone 01223314960 area centre
+ food choice full of area cambridge price expensive
+ price food area
+<NoACT>
+ none none
+<NoACT>
+ leave dest
+ car grey audi phone 07676489243
+<NoACT>
+ food
+ price area
+ area
+ choice several
+<NoACT>
+ depart
+ arrive leave
+ arrive 09:58 id tr1163 dest kings lynn
+<NoACT>
+ none none
+<NoACT>
+ day
+ choice 6 leave hourly at 9 minutes past the hour leave 05:09 leave 10:09
+ id tr1744
+ leave 10:09
+<NoACT>
+ dest day
+ arrive 07:27 day saturday leave 05:59 depart cambridge dest london dest liverpool street id tr2895
+<NoACT>
+ type
+ choice many
+ none none none none
+ none none internet none
+ post cb41er addr 74 chesterton road
+<NoACT>
+ ticket 75.10 pounds leave from 17:01 until 23:01 time 163 minutes
+ arrive 19:44 leave 17:01 id tr7728
+<NoACT>
+ food choice 5
+ people
+<NoACT>
+<NoACT>
+ area
+ type museum fee free choice 11 area centre
+ addr 10 king s parade phone 01223357708 post cb21sj
+ day depart
+ day saturday arrive 16:23 id tr8390 dest cambridge depart birmingham new street ticket 60.08 leave 13:40
+<NoACT>
+<NoACT>
+<NoACT>
+ depart leave dest
+ day
+ id tr4376 arrive 8:10 leave 7:21
+ none none
+ fee free area centre addr saint andrew s street name christ s college
+<NoACT>
+<NoACT>
+ none none parking none
+ price cheap choice 9
+ stars 4 name allenbell
+ none none name allenbell price cheap
+<NoACT>
+ area choice 4
+ name parkside pools post cb11ly phone 01223446100 addr gonville place area center are
+ fee no info
+ choice 3 arrive 10:08 id tr8410 leave 9:17
+ people
+ leave 9:17 id tr8410
+<NoACT>
+ none none area north price moderate -ly priced
+<NoACT>
+<NoACT>
+<NoACT>
+ phone 01223359750 addr 251a chesterton road
+ post cb21rs
+<NoACT>
+<NoACT>
+ choice many
+<NoACT>
+ none none parking none
+ post cb13nx
+ phone 01223247015 name carolina bed and breakfast
+ area type
+ choice several
+ post cb58hy phone 01223304705
+ phone 07804688108 car black skoda
+<NoACT>
+<NoACT>
+<NoACT>
+ arrive 08:23 leave 5:40 dest cambridge id tr3415
+ dest birmingham new street people
+ area
+<NoACT>
+ time 163 minutes ticket 60.08 leave 5:01 depart cambridge arrive 07:44 id tr4975 dest birmingham new street
+ name cherry hinton hall and grounds name funky fun house name nusha name tenpin name whale of a time type entertainment venue -s
+ post cb238el area west name whale of a time
+<NoACT>
+<NoACT>
+ day
+ arrive 7:58 day sunday id tr3626
+<NoACT>
+ name home from home price moderate people
+<NoACT>
+<NoACT>
+ price food italian choice 9 area center of town
+ none none name pizza hut city centre name ask name zizzi cambridge
+ time day
+<NoACT>
+ price stars choice 33
+ area
+ none none choice 2
+<NoACT>
+ ref 1jbo1r08
+<NoACT>
+ choice serveal depart london kings cross dest cambridge leave
+ arrive 6:08 leave 05:17 depart london kings cross dest cambridge id tr0379
+<NoACT>
+ addr 36 saint andrews street food japanese
+<NoACT>
+<NoACT>
+ choice several depart leicester leave dest day
+ day tuesday leave 5:09 leave every hour depart leicester dest cambridge
+ leave 21:09 arrive
+<NoACT>
+ area choice several
+ none none
+<NoACT>
+<NoACT>
+ name the lensfield hote addr 5357 lensfield road phone 01223355017
+<NoACT>
+ choice 2
+ none none stars 4 name the ayesbray lodge guesthouse
+ name aylesbray lodge guest house phone 01223240089
+ dest
+ depart cambridge dest ely leave 35 past the hour leave every 2 hour -s leave
+ leave 9:35 leave 11:35
+<NoACT>
+<NoACT>
+ leave day
+ arrive 15:09 leave 14:19 id tr7864
+<NoACT>
+ area centre type concerthall name the man on the moon
+ addr 2 norfolk street
+ area centre of town phone 01223474144
+<NoACT>
+ name
+ price cheap name the cambridge belfry type hotel area west
+ none none internet none
+<NoACT>
+<NoACT>
+ name hobsons house area west part of town
+ addr 96 barton road
+ dest depart
+ choice many arrive day
+ arrive 16:44 id tr6251
+<NoACT>
+<NoACT>
+ dest cambridge dest
+ arrive
+ dest birmingham new street time 163 minutes choice a few day friday
+ area
+ none none addr chesterton price moderate -ly priced name the nirala
+<NoACT>
+<NoACT>
+ area south type park type theatre type cinema type museum type nightclub choice several
+ type nightclub type cinema type museum
+ name cineworld cinema
+ type cinema addr cambridge leisure park addr clifton way fee i do not know
+ area north type guesthouse stars 4 price moderate
+<NoACT>
+ dest kirkwood house phone 07191555645 depart cineworld cinema car yellow skoda
+<NoACT>
+ none none food african price expensive area centre name bedouin
+ day time
+<NoACT>
+ post cb23ap phone 01223334200 addr saint andrew s street
+ fee no entrance fee area the centre area type college
+<NoACT>
+<NoACT>
+ depart
+ day that day choice 4 arrive
+ arrive 16:07
+<NoACT>
+<NoACT>
+ addr milton country park milton name milton country park
+ fee free
+<NoACT>
+ area choice 29
+ name the acorn guest house area north stars 4
+ none none name acorn guest house internet none
+ phone 01223353888
+<NoACT>
+ addr 20 milton road chesterton name da vinci pizzeria
+ price cheap
+ none none phone 01223351707 addr 20 milton road chesterton
+<NoACT>
+<NoACT>
+ leave
+ car black ford phone 07635853272
+<NoACT>
+<NoACT>
+ depart leave dest
+ choice 4 leave
+ id tr7213 dest the airport arrive 06:08 leave 05:40 depart cambridge
+ people
+ area
+<NoACT>
+<NoACT>
+ area east type multiple sports name cherry hinton village centre
+ fee do not have any information phone 01223576412
+<NoACT>
+ area town centre name adc theatre
+ name adc theatre post cb58as phone 01223300085 addr park street
+ dest day
+ choice several dest stansted airport leave
+ choice several people
+ leave 20:40 depart cambridge arrive 21:08 id tr9595 dest stansted airport
+ time 28 minutes long
+<NoACT>
+<NoACT>
+ none none area city centre name cityroomz addr station road price moderate
+<NoACT>
+ none none food seafood name loch fine area center of town price expensive
+ phone 01223362433 name loch fyne
+ depart leave
+ arrive leave
+ phone 07666503323 car white audi
+<NoACT>
+ type
+ area choice a great number type guesthouses
+<NoACT>
+<NoACT>
+<NoACT>
+<NoACT>
+ depart
+ car grey lexus phone 07807857780
+<NoACT>
+<NoACT>
+ price area west type college type museum choice 13
+ name churchill college fee free of charge addr storey s way
+ phone 01223336233
+ id tr0354 leave 12:32
+<NoACT>
+<NoACT>
+ dest
+ leave 19:06 id tr8199
+<NoACT>
+ name choice several
+ fee no entrance fee name the broughton house gallery
+ addr 98 king street fee free
+<NoACT>
+ area price
+ price cheap -er choice about 10 type guesthouses type hotel
+ area
+ type hotel area west
+ choice 2
+ name the university arms hotel people stay
+ none none internet none
+ post cb21ad addr regent street
+ arrive 10:32 id tr 0559
+<NoACT>
+<NoACT>
+ area food price
+ none none
+ phone 01223244277 name the lucky star addr cambridge leisure park clifton way cherry hinton
+ choice quite a few
+ phone 00872208000 addr cambridge leisure park addr clifton way
+<NoACT>
+ food 4 different types choice 5
+ food price expensive food vegetarian
+ none none
+<NoACT>
+ people depart
+ day
+ leave 5:17 leave 7:17 choice 2
+ arrive 7:07
+ ticket 16.60 pounds
+<NoACT>
+ depart dest
+ arrive
+ dest leicester arrive 20:06 leave 18:21 depart cambridge
+<NoACT>
+ price choice 6 type guesthouse
+ none none
+<NoACT>
+<NoACT>
+ area price
+<NoACT>
+<NoACT>
+ people stay day
+<NoACT>
+ area
+<NoACT>
+ post cb18dw phone 01223446104 addr cherry hinton road
+<NoACT>
+ choice a number of parking none type guesthouses
+ name bridge guest house
+ stay day
+ stay day
+ name bridge guest house
+<NoACT>
+ area area centre of town area south side type nightclubs type nightclub choice 5 choice 1
+<NoACT>
+ choice several day
+ choice 5 arrive every 2 hour -s starting at 05:52 arrive the last at 13:52 arrive
+ arrive 13:52 id tr4849
+<NoACT>
+<NoACT>
+ type museums choice 7
+ name cafe gallery choice 6 area museums
+ type museums choice many
+ fee 3.50 pounds phone 01223355159 addr 21 castle street name cambridge & county folk museum
+ post cb30aq
+<NoACT>
+<NoACT>
+ none none choice 1 name la margherita type museum
+<NoACT>
+ phone 07828251776 car white volvo
+ none none
+<NoACT>
+ day
+<NoACT>
+ id tr1659 leave 13:36 depart cambridge
+ price type guesthouses choice 24
+ area stars choice 9 type guesthouses price cheap
+<NoACT>
+<NoACT>
+<NoACT>
+<NoACT>
+<NoACT>
+<NoACT>
+ area choice 23
+<NoACT>
+ area north price moderate -ly priced choice 8 type guesthouses
+ parking
+<NoACT>
+ none none
+<NoACT>
+ leave arrive
+ arrive 17:58 id tr3677
+<NoACT>
+ depart dest
+ arrive 16:00 leave 05:01 every hour until 14:01 dest broxbourne leave arrive
+ ticket 17.90 pounds dest broxbourne arrive 06:01 leave 05:01 depart cambridge
+<NoACT>
+ food british area west price expensive name travellers
+<NoACT>
+<NoACT>
+ price choice many
+ name jinling noodle bar choice 3 price moderate food chinese
+ phone 01223566188
+ depart
+ id tr3396 leave 09:29
+ ticket 8.08 gbp
+ people
+<NoACT>
+<NoACT>
+ depart
+ day leave
+ id tr4078 arrive 15:07
+<NoACT>
+<NoACT>
+<NoACT>
+ depart day
+ time 51 minutes leave 13:17 depart london s kings cross station ticket 23.60
+<NoACT>
+<NoACT>
+ none none area north price moderate name golden wok
+ post cb43hl addr 191 histon road chesterton phone 01223350688
+<NoACT>
+ food price
+ food area
+ name mahal of cambridge choice 3 food indian area centre price cheap
+<NoACT>
+ day sunday choice 404 depart
+ dest
+ arrive 06:01 arrive 07:01 arrive 08:01 depart cambridge dest broxbourne leave 1 hour from their arrival time choice 3
+ people
+<NoACT>
+<NoACT>
+ food italian price cheap area west side
+<NoACT>
+ area type museum choice several
+ post cb21sj addr 10 king s parade
+ phone 01223357708 post cb21sj
+ dest
+ id tr9346 leave 14:11
+<NoACT>
+<NoACT>
+ area type museum choice 23
+<NoACT>
+ phone 01223464646
+ post cb21sj
+ area south name byard art
+ arrive 20:07 id tr6053
+ leave 19:50
+<NoACT>
+<NoACT>
+ dest
+ choice several day leave arrive
+ arrive 21:51 leave 21:00
+ people
+<NoACT>
+ area centre name the mumford theatre
+ area town centre phone 08451962320 post cb11pt name mumford theatre
+<NoACT>
+ none none post cb17sr internet none addr 5 mowbray road price moderate parking none phone 01223240089 stars 4
+ none none post cb17sr
+ stay people
+ leave 23:51
+ leave 22:11
+<NoACT>
+<NoACT>
+ none none addr cambridge city football club milton road chesterton
+ people
+<NoACT>
+<NoACT>
+ area there name cineworld cinema
+ name cineworld cinema fee i cannot find the entrance fee information
+ phone 00872208000
+ depart
+ car black audi
+ phone 07784569593
+<NoACT>
+<NoACT>
+ area centre type museum choice 11
+<NoACT>
+ choice any depart day
+ choice 14 arrive 19:54 id tr9320
+ time 105 minutes
+ people
+<NoACT>
+<NoACT>
+ price food chinese choice several area centre
+ none none
+<NoACT>
+<NoACT>
+ type area centre of town choice more than 40 things to do
+<NoACT>
+ phone 01223332320 fee free dest
+ choice 19 day wednesday arrive
+ id tr3836
+<NoACT>
+ price type choice 29
+ none none price expensive name huntingdon marriott hotel name the university arms hotel stars 4
+ parking none price moderate -ly priced choice 9 type guesthouses
+ none none post cb41da addr 154 chesterton road name the acorn guest house area the north side
+ name acorn phone 01223353888 day
+<NoACT>
+ arrive 11:35 depart norwich dest cambridge leave 10:16 ticket 17.60 pounds
+<NoACT>
+ none none name hamilton lodge choice 1 addr 156 chesterton road type guesthouse
+<NoACT>
+ none none food british name the cotto restaurant addr east road area city centre price moderate -ly priced
+ post cb11bg addr 183 east road city centre area centre of town
+<NoACT>
+ choice 404 day friday depart dest
+ arrive 20:07 leave 19:50 depart cambridge dest ely id train 6053
+<NoACT>
+ none none name caffe uno area the city centre food italian
+ day time
+<NoACT>
+ choice lots dest
+ arrive 9:27 leave 7:59
+<NoACT>
+ name the acorn guest house area north
+ none none name the huntingdon marriott hotel area west internet none parking none price expensive
+ post pe296fl
+<NoACT>
+ price choice 6 type hotel stars 4
+<NoACT>
+ price
+ none none type guesthouse choice 7 choice 1 name the cambridge belfry hotel
+ name the cambridge belfry hotel internet none parking none phone 01954714600
+ area west price cheap name the cambridge belfry type hotel
+ parking none
+ depart kings lynn choice over 1 hundred dest cambridge leave day
+ day monday arrive 19:58
+<NoACT>
+<NoACT>
+<NoACT>
+ price food chinese choice 10 area centre of town
+<NoACT>
+<NoACT>
+ post cb58bs addr jesus lane type architecture phone 01223452587 name all saints church
+ car red skoda phone 07911744131
+ none none
+<NoACT>
+ none none name alexander bed and breakfast name el shaddai choice 2 stars 4 stars unrated
+ none none name el shaddai
+ post cb11eg
+ type guesthouse type hotel name el shaddai
+ name el shaddai choice just type guesthouse
+<NoACT>
+<NoACT>
+ choice a few day
+ leave 19:21 id tr0385
+<NoACT>
+ area type
+ area the east side choice 1
+ choice 5 area centre
+ fee 5 pounds phone 01223364222 name ballare addr in heidelberg gardens addr lion yard
+<NoACT>
+ day
+ depart
+ arrive
+ choice only 1 depart london kings cross dest cambridge arrive 12:08 leave 11:17
+<NoACT>
+<NoACT>
+ price
+ choice 3 others name caffee uno
+ phone 01223448620 addr 32 bridge street city centre
+ internet none parking none stars 4 name huntingdon marriott hotel price expensive area west
+<NoACT>
+ post cb21uj name caffe uno
+ leave
+ phone 07563271262 car yellow skoda
+<NoACT>
+ parking choice 2
+ area price
+ area
+ type hotel name university arms price expensive
+ day stay
+<NoACT>
+ phone 01223307402 post cb23bj name the castle galleries
+ post cb23bj phone 01223307402 addr unit su43 addr grande arcade addr saint andrews street
+ leave arrive
+ phone 07530462310 car white tesla
+ phone 07879609782 car blue tesla
+<NoACT>
+ dest day
+ choice 5 leave 5:11
+<NoACT>
+ area price type park choice 5
+ area type park choice several
+<NoACT>
+ area north phone 01223420060 post cb46az addr milton country park addr milton
+<NoACT>
+ name
+ price expensive name eraina food european area city centre
+ food european
+ phone 01223368786
+ depart dest
+ name
+ none none
+ people day
+ day
+ leave arrive post cb28rj name bridge guest house
+ arrive
+ car blue skoda phone 07005686412
+<NoACT>
+ area
+ day time
+ time 13:00 name the yu garden
+<NoACT>
+<NoACT>
+ price
+ area
+ area stars
+ none none
+ day
+<NoACT>
+<NoACT>
+ post cb5 8bs fee free
+ dest
+ none none
+ phone 07621484267 car yellow skoda
+<NoACT>
+<NoACT>
+ depart
+ arrive 09:52
+ arrive 17:52
+ choice many
+ none none choice 6
+ day time
+ leave 9:24 ticket 80.8gbp
+ name cocum area west
+ price choice 5 area centre of town food indian
+ name curry garden price expensive
+<NoACT>
+<NoACT>
+ food choice quite a few
+<NoACT>
+ name the bedouin
+<NoACT>
+<NoACT>
+<NoACT>
+ food international price moderate area centre name bloomsbury restaurant
+<NoACT>
+<NoACT>
+ none none
+ people
+ day stay
+<NoACT>
+ phone 07360262437 car red honda
+<NoACT>
+ area east name cambridge artworks type museum
+ phone 01223902168
+ fee free
+ depart
+ day saturday id tr4137 leave 12:01
+<NoACT>
+<NoACT>
+ price choice about 8 choice all type guesthouses
+ day
+ none none stars 4 choice 8 type hotel -s
+ ref ri8wlx7e
+ dest
+ day leave
+ leave 8:11 leave 9:11 choice 2
+ arrive 19:58 leave 19:11 depart cambridge day monday dest kings lynn
+<NoACT>
+ none none area south price moderate -ly priced type hotel
+ none none name aylesbray internet none type guest house
+ addr 5 mowbray road
+ choice 2 choice 828 depart cambridge dest somewhere in the world arrive 17:45 dest
+<NoACT>
+ time 28 minutes id tr1316
+<NoACT>
+ choice 19 day that day arrive leave
+ arrive 10:52 leave 10:24 id tr2635
+<NoACT>
+<NoACT>
+ none none name meghna
+ addr 205 victoria road chesterton phone 01223727410
+<NoACT>
+ price expensive addr 2g cambridge leisure park cherry hinton road cherry hinton
+ phone 01223400170
+ name chiquito restaurant bar area south depart dest
+ dest liverpool st arrive 13:27 id tr9025
+ leave 11:59
+<NoACT>
+ area food choice over 100
+ area choice 14 price expensive food indian
+ time day
+ time day
+<NoACT>
+ addr 68 hinston road chesterton name the tandoori palace choice many type museums
+ fee free area in that area choice several name cafe jello gallery name cambridge book and print gallery name kettle s yard name lynne strover gallery type museums
+ post cb30aq addr 23 high street addr fen ditton
+ area west addr 23 high st . addr fen ditton
+ post cb30aq
+<NoACT>
+ none none day
+ stay
+ people
+<NoACT>
+<NoACT>
+ food
+ food
+ none none
+<NoACT>
+ choice thousands dest arrive day depart leave
+ leave
+ id tr5009 arrive 8:24
+<NoACT>
+<NoACT>
+ area north choice 13
+ name acorn guest house addr 154 chesterton road
+ none none parking none
+ phone 01223353888 name mumford theatre
+ fee not sure if there are any fees addr anglia ruskin enterprise addr east road
+ phone 07546378894 car yellow bmw
+<NoACT>
+ depart dest
+ arrive 16:07 day thursday leave 15:29 depart cambridge dest bishops stortford id tr7759
+<NoACT>
+ none none area centre of town food italian price moderate -ly priced
+ addr jesus lane fen ditton area centre of town post cb58ba
+ people day time
+<NoACT>
+ area
+<NoACT>
+ name clare college phone 01223333200
+ area
+<NoACT>
+<NoACT>
+ none none food seafood addr trumpington street
+ price expensive addr the little rose 37 trumpington street food seafood
+ none none area north stars 3 price moderate -ly priced name hamilton lodge type guesthouse
+ stay
+<NoACT>
+<NoACT>
+ food choice several
+ people 3 day tuesday
+ name dojo noodle bar
+ price area
+ type
+ none none stars 4 name finches
+<NoACT>
+<NoACT>
+ name city centre north bed and breakfast name el shadda name cityroomz choice 3
+<NoACT>
+ choice 21
+ parking none choice almost all
+ name huntingdon marriot hotel name university arms hotel choice only 2 type hotel -s stars 4 price expensive
+<NoACT>
+ name huntingdon name university arms addr kingfisher way addr hinchinbrook business park addr regent street
+ none none name huntingdon marriott hotel name university arms hotel area west area centre
+ none none choice both parking none type hotel -s
+<NoACT>
+ ticket 13.20 pounds time 50 minutes
+<NoACT>
+<NoACT>
+ choice 5
+ addr jesus lane
+ post cb58bs
+ none none food international area centre price moderate name bloomsbury restaurant
+<NoACT>
+<NoACT>
+<NoACT>
+ depart
+ car white toyota phone 07910293411
+<NoACT>
+ name ashley hotel name lovell lodge choice 2
+ choice both internet none
+ none none phone 01223350059 name ashley hotel
+ addr 74 chesterton road
+<NoACT>
+ none none area east name warkworkth house addr warkworth terrace type guesthouse
+ none none price moderate
+<NoACT>
+<NoACT>
+ name
+ none none addr regent street
+ area the centre of town price inexpensive
+ depart
+ ticket 12.80 pounds
+<NoACT>
+<NoACT>
+ depart dest
+ leave 18:30 leave 19:54 id tr4969
+<NoACT>
+<NoACT>
+<NoACT>
+ phone 01223324222
+ none none area south parking none price cheap name rosa s bed and breakfast type guesthouse internet none
+<NoACT>
+<NoACT>
+ food choice 5
+ none none choice 2
+<NoACT>
+<NoACT>
+<NoACT>
+ choice a couple name la mimosa name shiraz restaurant area centre
+<NoACT>
+<NoACT>
+ choice 36 dest
+ choice 7 depart cambridge leave
+ time 50 minutes choice all of
+ ticket 13.20 pounds time 50 minutes id tr0160
+ none none
+<NoACT>
+<NoACT>
+ dest
+ leave 5:40
+<NoACT>
+ type boat area centre phone 07807718591 name the cambridge punter
+<NoACT>
+ area price
+ choice 32
+ people 8 choice all type hotel -s type guesthouses
+<NoACT>
+ area food
+ choice 3
+ post cb17dy name the lucky star
+<NoACT>
+ addr 41 warkworth street
+ phone 01223327978 name el shaddai area center
+ type type museum choice many
+ addr 5 greens road name cambridge artworks
+ phone 01223902168
+<NoACT>
+<NoACT>
+ price choice 3
+ name peking restaurant
+<NoACT>
+ area type guesthouses internet none choice 23
+ none none
+ none none area not in the south name allenbell
+ none none addr 5 mowbray road stars 4
+ post cb17sr addr 5 mowbray road
+ arrive 17:00 car yellow bmw phone 07462630170 depart guesthouse dest peking restaurant
+<NoACT>
+ none none
+ name the ugly duckling
+ time day
+<NoACT>
+ depart
+ ticket 9.80 pounds leave 16:11 arrive 16:58
+<NoACT>
+<NoACT>
+ area
+<NoACT>
+<NoACT>
+ food vietnamese price inexpensive area west
+ addr 17 magdalene street city centre area west side
+ dest
+ id tr779
+<NoACT>
+<NoACT>
+ none none price expensive area south name chiquito restaurant bar
+ day time
+<NoACT>
+<NoACT>
+<NoACT>
+ food price choice many area centre
+ price moderate name restaurant 17 food british
+<NoACT>
+ depart cambridge leave dest
+ choice quite a few leave
+ arrive 17:58 id tr9226
+ leave 17:11
+<NoACT>
+<NoACT>
+ depart leave
+ choice 10 leave
+ id tr9024 arrive 10:43
+<NoACT>
+<NoACT>
+<NoACT>
+ area choice many
+ phone 01223334900 area centre
+ food
+ area center area south food modern european choice 3 choice 2 choice 1
+ post cb21aw phone 01223356666 name de luca cucina and bar
+ leave
+ phone 07350032543 car red toyota leave 12:45
+<NoACT>
+<NoACT>
+ food food chinese food indian food italian food mexican choice several
+<NoACT>
+<NoACT>
+ post cb23hg
+<NoACT>
+<NoACT>
+ area price moderate choice 4 type guesthouses
+ area the north part of town stars 3 name alpha milton guest house
+<NoACT>
+ area east type multiple sports
+ area south price free name sheep s green and lammas land park fen causeway type park
+ phone 01223302580 post cb22ad
+<NoACT>
+ choice a variety area east area west area centre
+ none none name graffiti name travelers rest
+ phone 01223277977 phone 01223276182 name graffiti name travellers rest addr hotel felix whitehouse lane huntingdon road addr huntingdon road city centre post cb30lx post cb30df
+ dest depart
+ day sunday arrive 6:10 id tr5390 depart cambridge leave 5:21
+ people
+<NoACT>
+ addr g4 cambridge leisure park clifton way cherry hinton
+ day
+ none none
+<NoACT>
+<NoACT>
+<NoACT>
+ name ballare
+ post cb23na phone 01223364222
+ car blue volkswagen phone 07620098271
+ none none
+<NoACT>
+<NoACT>
+ none none day time people
+ price expensive
+<NoACT>
+ arrive 7:52 id tr9641 dest cambridge depart the airport leave 7:24
+<NoACT>
+<NoACT>
+ depart arrive
+ depart avalon car red volvo phone 07604053685
+<NoACT>
+<NoACT>
+<NoACT>
+ dest
+ day
+ id tr8932 leave 15:11
+ time 47 minutes
+<NoACT>
+ fee free area east name cherry hinton water play
+ post cb18dw addr cherry hinton hall addr cherry hinton road
+ depart dest
+ arrive 10:43 id tr2860 leave 09:54
+<NoACT>
+<NoACT>
+ none none name la mimosa name shiraz
+<NoACT>
+ choice 791 leave that time depart cambridge dest day
+ depart cambridge dest birmingham new street arrive 16:44 leave 14:01
+<NoACT>
+<NoACT>
+<NoACT>
+<NoACT>
+ type
+<NoACT>
+ phone 01223331100 fee free
+ type college name king s college
+ area price
+ people day
+<NoACT>
+<NoACT>
+<NoACT>
+ name
+ fee 1 pound addr trinity street area center of town .
+ area stars 0 to 4 choice 10 type uest houses and hotel -s
+ choice 3
+ name leverton house day people
+<NoACT>
+ phone 07923249169 car yellow lexus
+<NoACT>
+ type area west choice many
+<NoACT>
+ fee free post cb30af addr cafe jello gallery addr 13 magdalene street
+ type hotel -s choice 3 price moderate -ly priced price expensive area north area east
+<NoACT>
+ parking none price moderate stars 4 name arbury lodge guesthouse
+ choice 3 type hotel -s stars 2 parking none price moderate price expensive
+ none none name express by holiday inn cambridge phone 01223866800
+ internet none
+ people stay
+ phone 07484344369 car red tesla
+<NoACT>
+ none none name curry prince
+ food
+ time day people
+<NoACT>
+<NoACT>
+ area price area north area east price expensive price moderate type hotel -s choice 3
+ choice 2 choice 1 type hotel -s price moderate price expensive
+<NoACT>
+ arrive
+ dest curry prince depart express by holiday inn cambridge phone 07943663026 car yellow lexus
+<NoACT>
+ day
+ arrive 10:23 dest cambridge id tr8259
+ ticket 60.08 pounds leave 7:40
+ price area choice many
+<NoACT>
+ people day
+ stay 3 nights
+<NoACT>
+<NoACT>
+ none none
+ price
+<NoACT>
+<NoACT>
+ none none name limehouse phone 01223300552
+<NoACT>
+<NoACT>
+ none none food indian price expensive area centre name curry garden
+ name curry garden food indian post cb21dp area center
+<NoACT>
+ area south type colleges
+ addr wandlebury ring addr gog magog hills addr babraham name wandlebury country park post cb223ae
+<NoACT>
+ leave
+ arrive 14:30 phone 07433043168 dest curry garden car yellow tesla
+<NoACT>
+ none none
+ internet none type guesthouse parking none area north part of town name the acorn stars 4 addr 154 chesterton rd
+ area stars 3 price moderate choice 3 type guesthouse
+ area
+ none none
+ type guest house s
+ none none
+<NoACT>
+ day leave
+ leave 13:54 arrive 14:43
+<NoACT>
+<NoACT>
+<NoACT>
+ choice 45 arrive dest day
+ choice 5 leave 15:39 leave 23:39
+ id tr5245 dest cambridge leave 15:39 depart ondon liverpool street
+ food choice 33
+ food italian choice 4
+ name stazione name clowns cafe name don pasquale pizzeria name caffe uno price expensive
+ ticket 16.6 gbp
+<NoACT>
+<NoACT>
+<NoACT>
+ area choice 5
+<NoACT>
+ price cheap choice 9 internet none
+ none none name el shaddai
+ none none name el shaddai internet none type guesthouse price cheap
+ stay
+<NoACT>
+ stay
+ ref h02psc79
+<NoACT>
+ area north area centre choice 3 choice 2 choice 1 type hotel -s
+<NoACT>
+ stay day
+<NoACT>
+<NoACT>
+<NoACT>
+ area choice 5 price expensive parking none
+ name huntingdon marriott name university arms hotel choice 2 parking none stars 4 star
+ phone 01480446000
+<NoACT>
+ food
+ food
+ choice 2 food modern european area centre price moderate
+ post cb21rt phone 01223259988 addr the doubletree by hilton cambridge granta place mill lane
+ area
+<NoACT>
+<NoACT>
+ none none name cityroomz price moderate -ly priced area centre type hotel
+ addr sleeperz hotel addr station road post cb12tz phone 01223304050
+ leave
+ phone 07656227446 car blue ford
+<NoACT>
+ food modern european price moderate area south addr 152154 hills road name restaurant alimentum post cb28pb phone 01223413000
+<NoACT>
+<NoACT>
+ dest day depart
+ depart dest
+ depart birmingham new street dest cambridge ticket 60.08 pounds arrive 1:23 leave 22:40
+ people
+<NoACT>
+ type
+ area east type entertainment name funky fun house
+ type entertainment
+ post cb58hy
+<NoACT>
+ choice 4
+ choice 2 name curry prince name rajmahal
+ none none addr 7 barnwell road fen ditton post cb58rg
+ day depart
+ arrive 12:23 id tr4373
+<NoACT>
+ arrive 12:23 leave 09:40 time 163 minutes
+<NoACT>
+<NoACT>
+<NoACT>
+ none none area north stars 4 parking none name the acorn guest hous internet none
+ price moderate name the acorn guest house
+ none none internet none parking none
+ car red ford phone 07672926538
+<NoACT>
+ leave day
+ day friday leave 14:24 depart stansted airport
+<NoACT>
+ area choice few
+ none none food indian choice 5 price expensive
+ day
+<NoACT>
+<NoACT>
+<NoACT>
+ none none area north internet none choice 2 price moderate price range parking none
+ choice a lot more type guesthouses
+ ref mfigb1d2
+ day leave depart
+ day
+ leave 05:21 depart cambridge id tr7007 dest leicester
+ id tr7007 ticket 37.80 pounds
+<NoACT>
+<NoACT>
+ type nightclubs choice several
+ fee 5 pounds post cb23na
+ price food choice many area city centre
+<NoACT>
+ food italian choice several
+ none none price relatively cheap name zizzi cambridge
+ people time day
+<NoACT>
+ depart leave dest
+ phone 07267272725 car yellow tesla
+<NoACT>
+ area choice 2 stars 3
+ none none name the gonville hotel internet none
+<NoACT>
+<NoACT>
+<NoACT>
+ depart
+ leave day
+ leave arrive
+ leave 05:29 id tr6572
+ ticket 8.08 pounds per person
+<NoACT>
+<NoACT>
+ post cb18dw phone 01223446100 fee free addr cherry hinton hall addr cherry hinton road name cherry hinton water play park .
+<NoACT>
+<NoACT>
+ type guesthouse stars 4
+ internet none post cb13nx
+ area centre type boat name cambridge punter
+ type museums area west choice 5
+ addr castle street name kettle s yard post cb30aq
+<NoACT>
+<NoACT>
+ none none price moderate name cow pizza kitchen and bar area center of town
+ none none
+ post cb23qf addr corn exchange street
+<NoACT>
+ area center of town name ruskin gallery
+<NoACT>
+ dest cambridge choice 202 day thursday depart arrive
+ depart
+ choice 7 depart london liverpool leave
+ arrive 15:39 id tr8944
+<NoACT>
+<NoACT>
+ day
+ time 163 minutes arrive 15:44 leave 13:01 depart cambridge dest birmingham id tr2716 ticket 75.10 pounds
+<NoACT>
+ post cb39et addr silver street area west phone 01223335511 fee 2.50 pounds
+<NoACT>
+ fee 5 pounds entrance fee type nightclub area city s centre addr 1 wheeler street
+ name kambar post cb23qb
+ price expensive price cheap choice 2 choice 2 type hotel type guesthouse
+<NoACT>
+ none none stars 4
+ price cheap post cb12de
+ depart dest arrive leave
+ phone 07612500286 car blue bmw
+<NoACT>
+ food
+ choice 3
+<NoACT>
+<NoACT>
+ leave day
+ dest
+ time 163 travel minutes day leave
+ arrive 16:44 ticket 60.08 pounds id tr2236
+<NoACT>
+<NoACT>
+ price
+ price cheap price expensive choice 2 type hotel -s
+<NoACT>
+ depart london kings cross dest cambridge ticket 18.88 pounds time 51 minutes day saturday arrive 10:08 id tr4824 leave 09:17
+ people
+<NoACT>
+<NoACT>
+ area
+ none none price moderate -ly priced internet none area centre name cityroomz stars 0
+<NoACT>
+ day dest
+ arrive leave
+ leave every hour leave 5:01 leave 10:01 leave 23:01 choice 7
+<NoACT>
+<NoACT>
+ choice 10 arrive leave dest
+ arrive 1407 leave 13:29 depart bishops stortford dest cambridge id tr1827
+ ticket 10.10 pounds
+ type choice a lot area centre
+<NoACT>
+ post cb11er phone 01223365454
+<NoACT>
+ type architectural area city center
+ choice 7 area west
+ addr castle street fee free
+ price food
+ area food chinese area centre of the city area north choice a few choice 1 price moderate -ly priced price moderate -ly priced
+<NoACT>
+<NoACT>
+<NoACT>
+ price food indian choice 9 area centre of town
+ price expensive area centre
+ dest day
+ leave
+ id tr1469 leave 17:50
+<NoACT>
+<NoACT>
+<NoACT>
+ choice several
+ none none
+<NoACT>
+ price stars choice several
+ none none area east side price expensive type hotel choice 1
+<NoACT>
+ choice several ticket 18.88 pounds dest london kings cross time 51 minutes leave
+ arrive 11:38 leave 10:48 depart peterborough dest cambridge
+ ticket ! 3.20 pounds id tr1759
+<NoACT>
+<NoACT>
+ name great saint mary s church name holy trinity church name little saint mary s church name all saint s church name old schools area center of the city type architecture
+ fee free
+ post cb23nz addr market street
+<NoACT>
+<NoACT>
+ name cambridge university botanic gardens addr bateman street
+ addr bateman street phone 01223336265 post cb21jf
+<NoACT>
+ choice 2 price cheap price moderate -ly
+ none none none none
+<NoACT>
+ dest depart
+ car black tesla phone 07533830631
+<NoACT>
+<NoACT>
+ dest
+ choice 10 leave 05:50 arrive
+ time 17 minutes choice 8 leave 09:50 leave 23:50
+ ref 04q2g0gu ticket 26.4 gbp
+ area choice about 17
+ area
+ type guesthouse area north side price moderate -ly priced
+ people stay
+<NoACT>
+<NoACT>
+<NoACT>
+ price choice 9
+ none none
+ time day
+<NoACT>
+ none none name university arms hotel
+ phone 01223351241 addr regent street name university arms hotel
+ dest the restaurant phone 07475385747 arrive 18:15 car grey volkswagen
+<NoACT>
+ fee 4 pounds name cambridge university botanic gardens type park
+ phone 01223336265
+ depart dest
+ leave arrive
+ choice several
+ time 28 minute ticket 8.08 pounds
+<NoACT>
+ food choice fourteen area west
+<NoACT>
+ choice many depart day
+ arrive 08:23 id tr0254 leave 05:40
+ arrive 11:23 id tr2761 ticket 75.10 pounds time 163 minutes
+<NoACT>
+<NoACT>
+<NoACT>
+ dest
+ leave 10:36 leave every hour on the :36 leave 23:36
+ ticket 17.60 pounds id tr9202 ref fptnvlxh
+ type type parks type night clubs type theatre choice a variety
+ type entertainment area south choice 2
+ addr unit g6 addr cambridge leisure park addr clifton road post cb17dy phone 01223902158 fee entrance fee information is not listed
+<NoACT>
+ area
+ price choice 7 type hotel area east
+ none none addr warkworth terrace post cb11ee name warkworth house
+ none none stars 4 name warkworth house
+ area choice 23 type museums
+<NoACT>
+ area east addr 5 greens road
+<NoACT>
+<NoACT>
+ area centre type architecture choice 5
+<NoACT>
+ name the slug and lettuce
+ area center of town
+<NoACT>
+<NoACT>
+ price food indian choice a number area centre of town
+ choice 3
+<NoACT>
+<NoACT>
+ area internet none choice many parking none
+ stars
+ price
+<NoACT>
+<NoACT>
+ name arbury lodge guesthouse
+<NoACT>
+<NoACT>
+ none none area centre name el shaddai internet none price cheap parking none type guesthouse day
+ stars 0
+ choice 133 leave day
+ arrive 10:35 id tr2365 leave 9:16 leave
+ people
+ time 79 minutes
+<NoACT>
+ area price choice 5 type hotel -s
+<NoACT>
+ area choice many
+<NoACT>
+ area
+ none none
+<NoACT>
+ phone 07498724354 car yellow lexus
+<NoACT>
+<NoACT>
+ leave day
+ choice several dest
+ day friday id tr4625 leave 13:09
+<NoACT>
+<NoACT>
+ price
+ time people
+ time day
+ none none name the curry garden
+ choice 7 leave
+ ticket 23.60 pounds .
+<NoACT>
+ leave
+ car blue volvo phone 07185148788
+<NoACT>
+<NoACT>
+ leave day
+ leave 10:19 leave 10:48
+<NoACT>
+ type area city centre choice 44
+ addr gonville place name parkside pools
+<NoACT>
+ phone 01223446100
+<NoACT>
+<NoACT>
+<NoACT>
+ area east price moderate -ly priced parking none type guesthouse
+<NoACT>
+ type college choice 13 area centre fee free
+<NoACT>
+ fee free
+<NoACT>
+<NoACT>
+ choice 1 area centre of the city
+ addr 196 mill road city centre post cb13nf
+<NoACT>
+ choice 133 dest norwich depart
+ leave
+ arrive 10:45 choice 4 people
+ id tr6765 ticket 17.60 pounds
+<NoACT>
+<NoACT>
+<NoACT>
+ fee 5 pounds
+<NoACT>
+ name club salsa s post cb12jb
+ post cb21la name saffron brasserie
+<NoACT>
+ depart
+ leave arrive
+ id tr8259 arrive 10:23 leave 7:40
+<NoACT>
+ fee free type museum area city centre addr 98 king street name broughton house gallery
+ fee free
+ phone 01223314960
+<NoACT>
+ depart arrive leave dest day
+ arrive 13:51 id tr0315
+<NoACT>
+ area
+ addr the plough addr green end addr fen ditton name camboats choice 1
+ fee i do not have their entrance fee phone 01223902112
+<NoACT>
+<NoACT>
+ price moderate addr king street name yippee noodle bar food asian area the center of town
+<NoACT>
+<NoACT>
+<NoACT>
+ none none
+ addr 40210 millers yard city centre
+ depart
+ id tr1992 leave 21:35
+<NoACT>
+<NoACT>
+<NoACT>
+<NoACT>
+ choice many depart cambridge dest london kings cross day
+ leave arrive
+ id tr5170 arrive 11:51
+ depart cambridge leave 11:00
+ time 51 minutes
+ type choice so much to do
+<NoACT>
+ post cb58ld
+<NoACT>
+ area
+ choice 5
+ fee do not have any information phone 01954781018
+<NoACT>
+ area choice 4
+ area west food indian name meghna restaurant
+<NoACT>
+ phone 07621171342 car white tesla
+<NoACT>
+ fee no admission fees area centre name christ s college addr saint andrew s street
+ post cb23bu
+ area choice several
+ price type guesthouse choice quite a few
+<NoACT>
+ phone 01223575122
+<NoACT>
+ people 4 stay 5 day friday
+<NoACT>
+ depart
+ leave 09:21 id tr2176
+<NoACT>
+ internet none addr 124 tenison road stars 4 price moderate -ly priced area east
+ phone 01223315702
+<NoACT>
+ area east part of time name autumn hose price cheap stars 4
+<NoACT>
+ name churchill college area west
+ addr stoney s way area west side of town name churchill college
+ leave dest
+ phone 07059964954 car white skoda
+<NoACT>
+ dest
+ car grey volkswagen phone 07183817206
+<NoACT>
+<NoACT>
+<NoACT>
+ phone 01223331100
+ day
+ id tr6856 arrive 18:23 leave 15:40
+<NoACT>
+<NoACT>
+ addr 2 rose crescent city centre post cb23ll
+<NoACT>
+ type churches type old school choice 4 choice 1
+ post cb21tt name old schools
+<NoACT>
+ dest
+ car grey volvo phone 07541606356
+<NoACT>
+ area south name rosa s bed and breakfast internet none addr 53 roseford road price cheap parking none type guesthouse stars 4
+<NoACT>
+ food
+ name fitzbillies restaurant
+ day thursday
+<NoACT>
+<NoACT>
+<NoACT>
+<NoACT>
+ none none time people
+ name meze people 6 time 18:30 day today
+<NoACT>
+ dest
+ depart
+ id tr2061 leave 05:29
+ arrive 10:07 day thursday id tr0798
+ leave 9:29
+<NoACT>
+ price choice 4
+ none none
+ time
+<NoACT>
+<NoACT>
+ dest
+ choice 19 leave depart
+ leave 5:24
+ arrive 13:52 leave 13:24
+ id tr3637
+ type price
+ name acorn guest house price moderate
+ name acorn guest house post cb41da addr 154 chesterton road stars 4 phone 01223353888
+ people
+ stars 4 post cb41da phone 01223353888 name the acorn house
+<NoACT>
+ type museum choice several
+ choice 4
+ phone 01223902168
+ arrive 10:07
+<NoACT>
+<NoACT>
+ type
+<NoACT>
+<NoACT>
+<NoACT>
+<NoACT>
+ name regency gallery fee free
+ depart dest
+ depart cambridge choice 133 dest birmingham new street leave day
+ arrive 7:44 id tr9195 leave 5:01
+<NoACT>
+<NoACT>
+<NoACT>
+ fee free entrance type museums name holy trinity church addr market st . choice some choice most
+ name abbey pool and astroturf pitch name jesus green outdoor pool name kings hedges learner pool name and parkside pools . choice 4
+ fee not listed
+ depart cambridge day friday arrive 12:06 leave 10:21 id tr5648
+<NoACT>
+<NoACT>
+ depart
+ arrive 16:08 leave 15:17 dest cambridge id tr9114
+ id tr9114 time 51 minutes
+ food area centre of town choice 33 price expensive
+ none none
+<NoACT>
+<NoACT>
+<NoACT>
+ food
+ none none choice 5 name the peking
+<NoACT>
+ name broughton house gallery name the cafe jello gallery name cambridge artworks choice many
+ phone 01223312112 fee free admission
+<NoACT>
+ food choice 60 area centre
+ name kymmoy food asian oriental post cb12as
+<NoACT>
+ food choice 21
+<NoACT>
+ name yippee noodle bar name the oak bistro food asian oriental food british
+ none none name anatolia name efes restaurant choice 2
+ food moderate choice both
+ post cb21uj addr 30 bridge street city centre
+ id tr9680 leave 15:24 ticket 8.08 pounds choice 9
+<NoACT>
+ ticket 8.08 pounds people
+<NoACT>
+<NoACT>
+<NoACT>
+ depart
+ people
+ dest cambridge time 51 minutes choice all depart london kings cross
+ type
+ area type choice 17 type hotel -s
+ none none
+<NoACT>
+<NoACT>
+ stars area choice many type guesthouses type hotel -s
+ choice 2 name ashley hotel name lovell lodge
+ stay
+ day
+<NoACT>
+ name riverboat georgina name milton country park name jesus green outdoor pool name kings hedges learner pool
+ area
+<NoACT>
+ phone 01223334900
+<NoACT>
+ choice several
+ name peking restaurant phone 01223354755 post cb28nx
+<NoACT>
+ food choice many area centre
+ type museums choice 11 area centre
+ none none name the golden curry food indian addr mill road city centre price expensive
+<NoACT>
+<NoACT>
+ depart
+ none none
+ phone 07668622365 car black tesla
+<NoACT>
+<NoACT>
+ area price
+ none none choice 8
+ stay people
+ stay
+ day
+<NoACT>
+<NoACT>
+ stars parking price internet area north choice 11 type guesthouses
+ parking
+<NoACT>
+ day leave
+ leave 14:01 leave 15:01
+ leave 15:01 arrive 17:44 day tr2519
+<NoACT>
+ people
+<NoACT>
+ time 163 minutes
+<NoACT>
+<NoACT>
+<NoACT>
+ area centre of town name old schools type church choice several
+ name old schools phone 01223332320
+ food choice many price expensive
+ area choice a few
+<NoACT>
+ day time
+<NoACT>
+<NoACT>
+ choice 4 choice 1 area centre area south
+<NoACT>
+ none none
+ post cb23nj name don pasquale pizzeria
+<NoACT>
+ dest
+ car black audi
+<NoACT>
+ addr 5 mowbray road phone 01223240089
+ name the aylesbray lodge guest house internet none stars 4
+ food european name the michaelhouse cafe area center of town price expensive
+ name the michaelhouse cafe
+<NoACT>
+ depart dest
+ leave day arrive
+<NoACT>
+ price area
+ none none
+ none none area north stars 4 phone 01223575314 name archway house
+<NoACT>
+<NoACT>
+ depart arrive leave
+ day
+ choice 4 leave 13:59 leave every 2 hour -s
+ ticket 16.60 pounds
+ arrive 15:27
+ type choice many
+ fee free phone 01223324222 name cambridge contemporary art
+<NoACT>
+ area area cambridge choice 5 price expensive
+ none none choice 2 stars 3
+ choice 3 name bridge guest house name hamilton lodge name hobsons house
+ post cb28rj addr 151 hills road
+ food
+ food area
+ none none food italian
+ phone 01223323737 post cb58wr price moderate -ly priced addr cambridge retail park newmarket road fen ditton
+ leave
+ phone 07297430830 car yellow skoda
+<NoACT>
+<NoACT>
+ leave
+ day
+ dest cambridge id tr7143 arrive 20:38 leave 19:48 depart peterborough
+<NoACT>
+<NoACT>
+ leave
+ car yellow tesla phone 07013106336
+<NoACT>
+ type area centre of town type museums type boats type concerthall type cinemas choice there s so much to do
+ name adc theatre on park street
+ addr park street phone 01223300085 post cb58as
+ leave dest depart
+ arrive 6:08 id tr3350
+<NoACT>
+<NoACT>
+ area west name hobsons house price moderate type guesthouse stars 3
+ none none name hobsons house internet none parking none
+ post cb39lh
+ day
+ arrive 9:58 id tr0942 dest cambridge depart kings lynn leave 9:11
+<NoACT>
+<NoACT>
+ depart
+ arrive 15:15 day friday choice 101 depart
+<NoACT>
+ none none internet none parking none stars 3 name lensfield hotel
+ addr 5357 lensfield road
+ parking none name lensfield internet none
+ people stay day
+<NoACT>
+ area food price
+ none none
+<NoACT>
+ type boat type a park type swimming pool
+ name milton country park
+ type park
+<NoACT>
+ area price choice several
+ none none
+<NoACT>
+ parking none name aylesbray
+ type choice 79
+<NoACT>
+<NoACT>
+<NoACT>
+ post cb17dy name nusha
+<NoACT>
+<NoACT>
+ depart
+ arrive 9:52 leave 9:35 depart ely dest cambridge id tr2987
+ arrive the latest
+<NoACT>
+ choice many choice many
+ none none area the city center name curry garden price expensive
+ food indian
+ phone 01223302330 post cb21dp
+<NoACT>
+ none none area east name the warkworth house type guesthouse stars 4
+ phone 01223363682 name the warkworth house
+ area choice over a dozen food indian price expensive
+ people name curry garden
+ time
+ depart
+ phone 07025426721 car grey honda
+<NoACT>
+ parking internet choice 11 stars 4
+<NoACT>
+ none none
+<NoACT>
+ area
+<NoACT>
+ dest the gallery phone 07025393792 depart guesthouse car grey tesla
+<NoACT>
+ choice quite a few day
+ leave 13:17 leave every 2 hour -s depart london kings cross dest cambridge
+<NoACT>
+ area food chinese choice lots
+ food chinese choice 2 price expensive
+ phone 01223244277 name lucky star
+<NoACT>
+ choice a lot depart
+ id tr2145
+ ticket 17.90 pounds id tr2144 arrive 15:32 leave 14:32
+ addr king s parade type college area centre fee free
+ fee free addr king s parade name saint catharine s college post cb21rl
+<NoACT>
+ fee 0 fee free post cb21rl type college
+<NoACT>
+ choice many depart day
+ arrive 7:55 leave 6:36 depart cambridge dest norwich id tr2266
+ arrive 08:45
+<NoACT>
+ price choice 21
+ none none choice 8
+ addr 7880 milton road type guesthouse name the avalon
+<NoACT>
+ none none food thai price expensive
+ day time
+<NoACT>
+<NoACT>
+ food price expensive choice 5 area north
+<NoACT>
+ name the city stop restaurant food european price expensive
+ time day
+<NoACT>
+ choice 29
+<NoACT>
+ day
+<NoACT>
+ phone 07648846859 car black audi
+<NoACT>
+ arrive
+ dest
+ car grey honda phone 07364310487
+<NoACT>
+ none none
+ area price price cheap to expensive choice several
+<NoACT>
+ type guesthouses choice 3
+ area south area north area west end type guesthouses
+ price moderate -ly priced
+ day dest leave
+ depart
+ arrive 15:07 id tr5015 depart london liverpool dest cambridge
+ leave 13:39 arrive 15:07 type hotel
+ id tr5015 time 88 minutes
+<NoACT>
+<NoACT>
+ type guesthouse
+ none none phone 01223365664 addr 156 chesterton rd
+ stay day
+ day
+<NoACT>
+ time day
+<NoACT>
+<NoACT>
+ leave arrive
+ car grey honda phone 07839041101
+<NoACT>
+<NoACT>
+ area choice quite a few
+ none none
+ phone 01223506055 name the tandoori palace addr 68 histon road chesterton post cb43le
+<NoACT>
+ phone 01223363682
+ day stay
+<NoACT>
+<NoACT>
+ day
+ arrive 19:52 choice 8 id tr6679
+ people
+ type
+ area choice 18 choice some choice some fee free fee entrance fees type colleges
+ area centre name christ s college fee free
+ phone 01223334900 post cb23bu
+ leave 19:35 depart cambridge day monday id tr6679
+<NoACT>
+ time 17 minutes
+<NoACT>
+ depart cambridge dest the airport leave 17:40 arrive 18:08
+ people
+<NoACT>
+ food area
+ food british food asian oriental food italian food turkish food international area town centre choice 21
+ food
+ choice 3 food chinese name the jinling noodle bar name the lan hong house name the shanghai family restaurant
+ none none choice all of them
+<NoACT>
+<NoACT>
+ area area north area centre area east area south type parks choice 5 choice 1 choice 2
+ name milton country park post cb46az fee free
+ depart day
+ choice 2 leave 22:09 leave 23:09
+ arrive 24:54 id tr4509 leave 23:09
+<NoACT>
+ area price
+ choice 2 type hotel -s area north name ashley hotel name lovell lodge
+ addr 74 chesterton road area north stars 2 parking none price moderate -ly priced name ashley hotel internet none
+ phone 01223350059 post cb41er
+ day
+ ticket 7.84 pounds leave 05:11 arrive 05:58 id tr0305
+ people
+<NoACT>
+ arrive 15:58 id tr1031 ticket 7.84 pounds leave 15:11
+<NoACT>
+ none none food spanish price cheap addr 46 rose crescent name la raza
+ price cheap addr 46 rose crescent name la raza food spanish post cb2311 area the centre part of town
+<NoACT>
+ food choice a lot
+<NoACT>
+<NoACT>
+ addr 33 bridge street food eauropean area centre
+ depart
+ arrive 10:35 id tr0996
+ ticket 14.08 pounds leave 09:16
+<NoACT>
+<NoACT>
+ price choice 19
+ area
+ none none area north choice 6
+ people stay day
+ choice 6
+ name kirkwood house post cb41da
+<NoACT>
+ depart
+ dest
+ dest stansted airport depart cambridge id tr7213 arrive 06:08 leave 5:40
+ arrive 18:08
+<NoACT>
+<NoACT>
+ depart
+ arrive
+ arrive 10:07 leave 09:29
+<NoACT>
+ area
+ price choice 2
+ none none name finches bed and breakfast
+ stars 4
+ addr 144 thornton road addr cb30nd phone 01223276653
+<NoACT>
+ area type
+ choice 7
+ none none phone 01223324033 name pizza express fen ditton
+<NoACT>
+<NoACT>
+ none none area west name finches internet none price cheap parking none type guesthouse stars 4
+ people
+<NoACT>
+ type
+ fee free name old schools
+ addr trinity lane post cb21tt
+ phone 07551850448 car grey honda
+<NoACT>
+ depart dest
+ leave every 2 hour -s throughout the day leave arrive
+ ticket 3.52 pounds id tr0718 arrive 10:07 day saturday
+ price type hotel -s type guesthouses choice 2 choice 11 price cheap price moderate area north
+ choice 12
+ stars
+<NoACT>
+ name ashley hotel name the lovell hotel choice 2 choice both
+ day people stay
+<NoACT>
+<NoACT>
+ area west internet none addr kingfisher way addr in the hinchinbrook business park in huntingdon price expensive parking none type hotel stars 4
+ people stay
+<NoACT>
+ dest
+ choice 5 leave
+<NoACT>
+<NoACT>
+ area
+ none none name bridge guest house
+ day
+ day
+ post cb28rj addr 151 hills road phone 01223247942
+ food
+ none none
+ time day name the varsity restaurant area city centre
+<NoACT>
+<NoACT>
+ depart
+ dest
+ car yellow volkswagen phone 07339912841
+<NoACT>
+<NoACT>
+ choice many day
+ leave
+ arrive 09:07 leave 07:39
+ ticket 16.6 gbp
+ none none name chiquito restaurant bar
+ post cb17dy addr 2g cambridge leisure park cherry hinton road cherry hinton phone 01223400170
+<NoACT>
+<NoACT>
+ area
+ name saint catharine s college on king s parade fee free choice 13 area the centre
+ post cb21rl addr on king s parade phone 01223338300
+ choice over a thousand depart cambridge day leave
+ dest leave
+ dest depart
+ id tr8580 arrive 1:07 leave 23:39
+<NoACT>
+<NoACT>
+ depart dest
+ leave 17:21 id tr7729
+<NoACT>
+ type area east choice 10
+<NoACT>
+ phone 01223304705 fee i do not have any information about the fee
+<NoACT>
+ area area centre of the city type entertainment
+ choice plenty area centre
+ phone 01223842725 fee 5 pounds
+ choice 19 day thursday leave
+ choice 4 leave 19:30 arrive
+ ticket 17.60 id tr0256
+ arrive 21:35
+<NoACT>
+ area south choice 8
+ post cb23hg fee do not have information name the place addr 22 sidney street
+ name bridge guest house fee not provided
+<NoACT>
+ car yellow bmw phone 07443195347
+<NoACT>
+ depart day
+ arrive 09:56 leave 09:06 depart cambridge dest peterborough id tr3211
+<NoACT>
+<NoACT>
+ name a&b guesthouse internet none post cb12dp phone 01223315702
+<NoACT>
+ none none area north name the arbury lodge guesthouse type guesthouse stars 4
+<NoACT>
+<NoACT>
+ choice 38 depart peterborough day sunday dest
+ choice 13 leave 05:19 leave every 30 minutes after
+ time 50 minutes leave
+<NoACT>
+ choice a lot parking none
+ none none area east price expensive parking none name express by holiday inn cambridge type hotel
+<NoACT>
+<NoACT>
+<NoACT>
+ food choice many
+ name saigon city
+ day
+ name saigon city food asian oriental
+ post cb41nl phone 01223356555
+<NoACT>
+ choice over 200 day tuesday dest cambridge depart leave
+ leave 09:11 id tr2616 people
+<NoACT>
+ area
+ choice many
+ none none
+<NoACT>
+<NoACT>
+ dest
+ leave
+ car blue audi phone 07804429006
+<NoACT>
+<NoACT>
+ area choice 5
+ none none area centre of town name the gonville hotel stars 3
+<NoACT>
+ stay day
+ people
+<NoACT>
+ type
+ area west type entertainment addr unit 8 addr viking way addr bar hill name whale of a time
+ car white audi phone 07504427324
+<NoACT>
+ area choice 1 choice 1 area west area centre of town
+<NoACT>
+ ref xlrsfb9q
+ depart
+ area west name sala thong
+ name express by holiday inn cambridge type hotel choice only 1
+<NoACT>
+ phone 07518044119 leave 11:30 depart express by holiday inn
+ car black tesla
+<NoACT>
+ depart leave
+ arrive 18:10 leave 17:21 id tr1165
+ id tr4765 arrive 18:10 time 49 minutes
+<NoACT>
+ leave
+ leave 05.01 id tr8008
+<NoACT>
+ name
+<NoACT>
+ area choice many
+ choice 3 choice 2 type guesthouses parking none internet none
+ parking none name a and b guesthouse name carolina bed and breakfast name warkworth house
+ name warkworth house internet none post cb11ee choice all stars 4 parking none phone 01223363682
+<NoACT>
+ choice 70 arrive leave day
+ arrive 20:08 leave 19:17 depart london
+<NoACT>
+<NoACT>
+ area area south area centre choice 2 choice 1 choice 1
+ name cineworld cinema fee entrance fee is not listed phone 00872208000
+ food italian area west price moderate
+<NoACT>
+<NoACT>
+ fee 4 pounds post cb21jf addr bateman st phone 01223336265
+ food area name the botanic gardens area centre
+ price area parking none choice 21 type guesthouses
+<NoACT>
+ none none area west type hotel
+<NoACT>
+ none none
+<NoACT>
+<NoACT>
+ name scudamores punting co name cambridge punter choice 2
+ name the cambridge punter addr 251a chesterton road
+<NoACT>
+ price food indian choice 9
+<NoACT>
+ price expensive
+ addr mill road city centre
+ phone 01223302330
+<NoACT>
+ food choice 21
+ none none choice 21 price moderate -ly priced name yippee noodle bar area centre of town
+ time day people post cb11lh
+<NoACT>
+ none none name cityroomz hotel internet none parking none price moderatly priced
+ day stay
+<NoACT>
+ phone 07729446320 car blue volvo
+<NoACT>
+ area
+ name broughton house gallery type museums price free choice 11 addr 98 king street cb11ln
+ name the broughton house gallery phone 01223314960
+<NoACT>
+ area east name a and b guesthouse
+ day people
+ stay
+<NoACT>
+ day
+ dest
+ id tr1393 arrive 10:15 arrive 10:09 dest cambridge choice 9
+ leave 09:19 ticket 16.50 pounds id tr1393 time 50 minutes
+<NoACT>
+ leave day
+ leave 12:16 id tr5225
+<NoACT>
+ food
+ food
+ none none
+<NoACT>
+ phone 01223412430 addr cambridge leisure park clifton way cherry hinton
+<NoACT>
+<NoACT>
+<NoACT>
+ dest day leave depart
+ choice many depart cambridge dest
+ ticket 13.28 pounds
+ area type nightclub
+ none none addr 8 market passage name the fez club fee 5 pounds
+<NoACT>
+ post cb23hx phone 01223519224 area centre name the fez club
+<NoACT>
+<NoACT>
+ price
+ type college choice 13
+ fee no entrance fee post cb23bu phone 01223334900
+ choice 5 depart london kings cross depart
+ leave 5:35
+<NoACT>
+<NoACT>
+<NoACT>
+ price
+ choice 3 choice 1 type guesthouses type hotel
+ name the lensfield hotel
+<NoACT>
+<NoACT>
+ addr 290 mill road city centre phone 01223247877
+<NoACT>
+ none none phone 01223366611 post cb11ly addr gonville place name gonville hotel
+<NoACT>
+<NoACT>
+ choice 133 leave day
+ leave 21:01 id tr7208
+<NoACT>
+<NoACT>
+ depart
+ leave arrive
+ id tr1434 arrive 18:08
+ ticket 23.60 pounds
+ none none
+ none none price moderate -ly priced name archway house type guesthouse
+<NoACT>
+ none none
+<NoACT>
+<NoACT>
+ area west side type colleges type entertainment venue type museums choice 13
+ name whale of a time addr unit 8 addr viking way addr bar hill
+ food
+ food
+ food indian area west choice 5 price expensive
+<NoACT>
+ phone 07785448051 car yellow lexus
+<NoACT>
+ food indian price expensive area west part of town
+ day time
+ ref i9e0bw9o
+ arrive 06:01 id tr8736 leave 05:01
+ arrive 09:01 id tr1053 dest broxbourne depart cambridge leave 8:08
+ time 60 minutes
+<NoACT>
+<NoACT>
+ area choice 18
+ name christ s college post cb23bu fee free area centre of town
+ price area choice 10
+ addr 56 saint barnabas road name alexander bed and breakfast price inexpensive
+ phone 01223525725
+<NoACT>
+ choice 21
+ area choice 7 type guesthouse
+ name the autumn house
+<NoACT>
+ none none
+<NoACT>
+ food price moderate -ly priced choice quite a few area centre
+ none none
+ food
+ name the oak bistro name the copper kettle name restaurant 17 name and cotto choice 4
+ none none addr 4 kings parade city centre post cb21sj phone 01223365068 name the copper kettle
+<NoACT>
+ ticket 17.60 pounds
+<NoACT>
+ leave
+ depart
+ car red audi phone 07384817213
+<NoACT>
+ area centre of town addr de vere university arms regent street city centre
+<NoACT>
+ price moderate -ly priced
+ none none
+ none none
+ none none parking none type guesthouse
+<NoACT>
+ parking none name alexander bed and breakfast
+<NoACT>
+<NoACT>
+ fee free area east name abbey pool and astroturf type swimming pool phone 12239020888
+ addr pool way addr whitehill road addr off newmarket road
+ choice 202 dest
+ arrive 17:51 arrive 15:51
+<NoACT>
+<NoACT>
+ leave 17:00
+<NoACT>
+ choice several depart cambridge day tuesday leave every hour leave 06:08
+ choice 9 leave 14:45 depart birmingham new street dest cambridge
+ people
+<NoACT>
+<NoACT>
+ none none people addr 68 histon road chesterton food indian name tandoori palace choice 5
+ time
+<NoACT>
+<NoACT>
+ fee 1 pound name trinity college
+<NoACT>
+ food chinese name the sesame restaurant and bar area city centre price expensive
+ none none post cb21nw addr 17 hills road city centre
+<NoACT>
+<NoACT>
+<NoACT>
+ fee free phone 01223452587 addr jesus lane
+ leave day
+ arrive 12:07 leave 11:50 id tr1159
+ time 17 minutes
+ people
+<NoACT>
+ food choice 5
+<NoACT>
+ none none
+ leave 6.10 id tr3259
+<NoACT>
+ ref 5txw2b1k
+<NoACT>
+<NoACT>
+<NoACT>
+ stars name the alexander bed and breakfast name el shaddai choice 2
+<NoACT>
+<NoACT>
+ phone 01223314960
+<NoACT>
+ phone 07695646111 car blue volvo leave 13:00
+<NoACT>
+ internet none price moderate -ly priced type hotel stars 4
+ day people
+<NoACT>
+ day depart
+<NoACT>
+ dest
+ arrive 15:07 day tuesday leave 13:39 depart london liverpool street dest cambridge id tr1395
+<NoACT>
+<NoACT>
+<NoACT>
+ area
+ stars stars 0 type guesthouse
+ choice 2 stars 0
+ none none
+<NoACT>
+ area area centre area south choice 5 type theatres
+ fee not known addr park street name adc theatre
+ area in the centre
+ fee no entrance fee listed addr park street
+<NoACT>
+ area
+ food
+ none none name ali baba
+ time day
+<NoACT>
+<NoACT>
+ area centre choice 4
+ fee do not know choice 4
+ name mumford theatre post cb11pt addr east road
+ phone 08451962320 name mumford theatre
+ none none area east internet none type guesthouse parking none stars 4 price moderate -ly priced
+<NoACT>
+ phone 07998086698 depart the theatre car grey audi
+<NoACT>
+ fee free area centre name the broughton house gallery
+ type museum addr 98 king street
+ depart leave
+ dest stansted airport arrive 9:08 id tr5580
+ ticket 8.08 pounds time 28 minutes
+<NoACT>
+<NoACT>
+ food chinese food indian food italian food mediterranean food spanish food a few others
+ none none choice 3 name pizza hut city centre name ask name zizzi cambridge
+<NoACT>
+ type type meseums type theatre type collages choice a few
+ name broughton house gallery phone 01223314960
+<NoACT>
+ type
+ name the cambridge university botanic gardens area city centre
+ addr bateman street cb21jf dest
+ day
+ day saturday choice several arrive leave
+ leave 8:01 depart cambridge arrive 9:01 id tr7807 dest broxbourne
+<NoACT>
+<NoACT>
+ area
+ internet parking choice many type hotel -s type guesthouses
+ choice 9 type guest houses
+ day
+<NoACT>
+<NoACT>
+ fee 5 pounds name the ballare post cb23na addr heidelberg gardens addr lion yard phone 01223364222
+ price moderate name the lovell lodge area north
+<NoACT>
+ phone 07595412433 car black bmw
+<NoACT>
+ type
+ price type college type entertainment attraction type museum fee they vary in admission price choice 5 choice 7
+ name magdalene college phone 01223332138 fee free admission
+ choice 2 price cheap price expensive area west
+ type hotel stars 4
+ phone 01954714600 addr back lane addr cambourne post cb236bw
+<NoACT>
+ food
+ food
+ name pizza hut city centre
+<NoACT>
+ choice 525 dest cambridge day depart
+ choice 7 leave
+ id tr7802 arrive 12:23
+<NoACT>
+ area choice 14
+ none none name curry garden phone 01223302330
+ none none stars 3 name the gonville hotel type hotel
+ type hotel price expensive
+ day stay
+ day monday
+<NoACT>
+<NoACT>
+ area north type swimming pool
+ post cb42xh
+ none none food chinese name good luck chinese food takeaway area south price expensive
+<NoACT>
+<NoACT>
+ area
+<NoACT>
+ type guesthouses
+ stay day
+<NoACT>
+<NoACT>
+ none none food indian
+<NoACT>
+ choice 10 depart ely day thursday dest cambridge arrive leave
+ arrive 19:52 leave 19:35 dest cambridge
+<NoACT>
+ people
+ area
+ none none
+ none none parking none
+<NoACT>
+<NoACT>
+ price
+<NoACT>
+ price choice 8 food european area centre
+ phone 01223309147 name michaelhouse
+ day saturday choice several depart ely leave
+ leave 07:35 depart ely arrive 07:52 id tr2551 dest cambridge
+<NoACT>
+ choice 70 leave day
+ day monday leave 17:29 depart bishops stortford dest cambridge id tr8925
+<NoACT>
+ addr saint john s street area centre of town name saint john s college
+<NoACT>
+ dest
+ leave 08:24 id tr7360
+ none none
+<NoACT>
+<NoACT>
+<NoACT>
+ depart day
+ arrive 20:44 choice a few leave 18:01 id tr1766
+<NoACT>
+<NoACT>
+ name finches bed and breakfast post cb30nd type guesthouse parking none
+<NoACT>
+ leave depart
+ depart dest
+ car white skoda phone 07258655313
+<NoACT>
+ choice 833 depart day
+ choice 23 arrive
+ id tr4679 leave 13:19
+ area area north area west area town centre food european choice 5
+ none none name eraina
+ phone 01223368786
+<NoACT>
+ stars parking price internet choice 13 type hotel -s type guesthouses
+ none none
+ price cheap
+<NoACT>
+ name huntingdon marriotte hotel choice 9 stars 4
+ none none choice the only name the lensfield hotel
+ stars 3 phone 01223355017 name the lensfield hotel
+ phone 01223308871 addr corn exchange street area centre of town
+<NoACT>
+ dest
+ leave 19:21 id tr8118
+<NoACT>
+<NoACT>
+ name area type college
+ type college name christ s college name corpus christi name king s college name pembroke college
+ fee free phone 01223334900 name christ s college
+ post cb23bu
+<NoACT>
+ area price choice 21 type hotel -s type guesthouses stars 4
+ area type
+<NoACT>
+ people stay
+ stay
+<NoACT>
+ type hotel stars 4 people day
+ stay
+ name university arms day
+<NoACT>
+<NoACT>
+ area area cambridge choice 18
+<NoACT>
+ addr saint andrew s street phone 01223334900 post cb23bu
+ dest depart
+<NoACT>
+ people
+ ticket 8.08 pounds time 38 minute
+<NoACT>
+ area food price choice many
+ food
+ phone 01223312598 name darrys cookhouse and wine shop addr regent street city centre post cb21ab
+ day arrive depart
+ id tr9345 leave 12:19
+<NoACT>
+<NoACT>
+<NoACT>
+<NoACT>
+ type choice many
+ type college type entertainment type museum
+<NoACT>
+ fee free
+ day
+ id tr2926 arrive 07:58 depart cambridge dest kings lynn leave 07:11 ticket 9.80 pounds people
+<NoACT>
+ area area cambridge type museums choice several
+ choice 11 type museums area centre
+ fee free
+<NoACT>
+<NoACT>
+ area south price expensive stars 3 parking none name lensfield hotel internet none area center type museum
+ fee does not have an entrance fee
+ leave
+ car blue lexus phone 07703215621
+<NoACT>
+ area type entertainment choice 5
+ name whale of a time post cb238el area west
+ choice 3 food modern european area city centre area south
+ name de luca cucina and bar name riverside brasserie area center choice 2
+<NoACT>
+<NoACT>
+ choice several
+<NoACT>
+ post cb13ef addr 5 greens road
+ dest depart
+<NoACT>
+ leave 09:11 depart kings lynn arrive 9:58 id tr0942 dest cambridge
+<NoACT>
+ ticket 9.8 gbp time 47 minutes
+<NoACT>
+<NoACT>
+ day price expensive name shiraz food mediterranean area centre of town
+ time people
+<NoACT>
+ dest arrive
+ day leave
+ choice 7
+<NoACT>
+<NoACT>
+<NoACT>
+ price expensive choice 1 area north name 2 two
+ addr 22 chesterton road chesterton name restaurant 2 two post cb43ax
+<NoACT>
+ time 28 minutes arrive
+ leave 12:40 id tr5985
+<NoACT>
+ leave dest day
+ arrive 20:54 choice 5 leave 19:09
+ people
+<NoACT>
+ fee 5 pound type nightclub area centre addr heidelberg gardens addr lion yard
+<NoACT>
+<NoACT>
+ area choice 23
+ none none
+ stars 4
+ parking none name the carolina bed and breakfast
+ name carolina bed and breakfast addr 138 perne road phone 01223247015
+ addr 12 lensfield road area centre name golden house
+<NoACT>
+ name holy trinity church post cb23nz addr market street phone 01223355397
+ name holy trinity church fee free
+ choice 4 price moderate price expensive
+ name pipasha restaurant name sitar tandoori food indian choice 2 price expensive
+<NoACT>
+ leave
+<NoACT>
+ arrive 18:00 phone 07746897279 dest pipasha car grey volvo depart holy trinity church
+<NoACT>
+ choice 202 depart
+ arrive 18:08 leave 17:17 depart london kings cross dest cambridge id tr1149
+ people
+<NoACT>
+ type type swimming pool choice 4
+<NoACT>
+<NoACT>
+ post cb58as phone 01223300085 name adc theatre s
+<NoACT>
+ choice 11 price moderate -ly priced type guest house
+ name acorn guest house
+ stay day
+ stay
+ name the acorn
+<NoACT>
+ fee free admission area town centre type college post cb58bl addr jesus lane
+ phone 01223339485
+ depart
+ arrive 17:08 id tr0471
+ people
+<NoACT>
+<NoACT>
+<NoACT>
+ area
+ type museum name the byard art area south part of town
+ choice 10 arrive depart
+ id tr5502 time 51 minutes leave 15:17
+<NoACT>
+<NoACT>
+ food choice 110
+<NoACT>
+ area choice 4 type guesthouses
+ none none
+<NoACT>
+ depart
+ phone 07355341802 car black ford
+<NoACT>
+<NoACT>
+ area
+ choice 23 type museums area various
+<NoACT>
+ dest london kings cross arrive 21:51 id tr2634 leave 21:00
+<NoACT>
+<NoACT>
+<NoACT>
+ day friday leave 05:17
+ arrive 12:08 day tuesday leave 11:17
+<NoACT>
+<NoACT>
+ food indian area centre of town name curry garden
+ none none choice 2
+ price expensive choice both name la mimosa restaurant name shiraz restaurant area center
+ none none
+ post cb21dp
+<NoACT>
+<NoACT>
+ area food price cheap choice 22
+ none none
+<NoACT>
+<NoACT>
+<NoACT>
+ addr colville road addr cherry hinton
+ leave
+ arrive 13:00 phone 07137765445 dest restaurant leave 12:30 car yellow skoda depart cherry hinton
+<NoACT>
+ type area south part of town choice 4 type hotel type guesthouses
+ name rosa s bed and breakfast choice 1
+ none none name rosa s bed and breakfast type guesthouse
+ choice 38 depart peterborough dest cambridge leave
+ arrive 20:45 choice several dest cambridge leave
+ time 50 minutes depart peterborough choice 38 dest cambridge
+<NoACT>
+ none none name the university arms hotel
+ type hotel
+<NoACT>
+ area choice 7
+ name the alexander bed and breakfast internet none post cb12de
+<NoACT>
+ name the zizzi cambridge area centre
+ area centre
+ name zizzi cambridge day time
+<NoACT>
+<NoACT>
+<NoACT>
+ none none name pizza hut fen ditton food italian area the east
+ area name pizza hut fen ditton food italian area east price moderate
+ people time
+<NoACT>
+<NoACT>
+ id tr3112 arrive 05:58
+ arrive 19:58 day saturday leave 19:11 id tr7604
+ people
+ ticket 7.84 pounds id tr7604
+<NoACT>
+<NoACT>
+ area price
+<NoACT>
+ choice 2
+ none none type hotel internet none parking none name ashley hotel area north
+ day stay people
+<NoACT>
+ depart
+ area center of the city type theater name the cambridge corn exchange addr wheeler street
+ dest
+ phone 01223350059
+ addr wheeler street area centre
+<NoACT>
+ car black lexus leave 7:15 phone 07495116373
+<NoACT>
+ type area town centre choice 44
+ name the mumford theatre addr anglia ruskin enterprise addr east road area town centre
+ phone 08451962320
+ none none name the carolina area east
+ phone 01223247015
+<NoACT>
+ none none post cb41er name the ashley hotel addr 74 chesterton road
+ type hotel
+ name cambridge artworks addr 5 greens road phone 01223902168
+ post cb13ef
+ leave arrive
+ car red volvo phone 07468930777
+<NoACT>
+ food choice 33 area centre of town
+ food african food asian oriental food british food chinese food european food french food gastropub food indian food italian food japanese food korean food mediterranean food modern european food north american food seafood food thai food turkish area centre
+<NoACT>
+ post cb21dp name little seoul
+ leave phone 01223338300 addr king s parade post cb21rl
+ phone 07464036678 car red tesla
+<NoACT>
+ food
+ area choice 22 food indian
+<NoACT>
+ leave
+ arrive 12:54 id tr6210 dest cambridge depart leicester leave 11:09
+<NoACT>
+ fee free area centre name christ s college
+ phone 01223334900
+ choice 4 food chinese price moderate
+ post cb11dg addr 39 burleigh street city centre area centre area of town
+<NoACT>
+ choice 4 choice 2 choice 2 price cheap price expensive type gueshouses type hotel -s
+ none none name alexander bed and breakfast
+<NoACT>
+<NoACT>
+ depart
+ car blue skoda phone 07714291108
+<NoACT>
+<NoACT>
+ price choice 10 area centre of town
+ choice 4 name the ugly duckling name tang chinese name hk fusion name sesame restaurant and bar area town centre price expensive
+<NoACT>
+<NoACT>
+<NoACT>
+ food asian oriental price a little expensive but worth it area north addr 169 high street chesterton name saigon city phone 01223356555
+<NoACT>
+<NoACT>
+<NoACT>
+ food british area central
+<NoACT>
+ choice 21
+<NoACT>
+ choice both internet none
+<NoACT>
+<NoACT>
+<NoACT>
+ phone 8715501010 area south name tenpin type entertainment
+ fee we do not have the entrance fee listed addr cambridge leisure park addr clifton way
+ choice 38 leave
+ leave 18:34 id tr2569
+ time 50 minute
+ arrive 19:54
+ arrive 19:24 people
+<NoACT>
+<NoACT>
+ day
+ phone 01223247015
+ choice several day
+ id tr2620
+<NoACT>
+<NoACT>
+ depart dest
+ leave 17:01 id tr7728
+<NoACT>
+ internet none parking none name the lensfield price expensive area the city s south side
+<NoACT>
+<NoACT>
+ area centre of town choice 44
+<NoACT>
+ fee free
+ area choice 5
+<NoACT>
+ choice 7
+<NoACT>
+<NoACT>
+ food choice many choice 21
+<NoACT>
+ choice 1 area east
+ type college area centre choice a great number
+ post cb21tq
+ addr trinity street type college
+<NoACT>
+<NoACT>
+ price area
+ none none choice 2 food mediterranean area centre price expensive
+ time
+<NoACT>
+ day leave
+ id tr7397
+ id tr7397
+<NoACT>
+ price area east choice 6 type guesthouses
+ choice 3 internet none parking none stars 4
+ none none addr 732734 newmarket road
+ internet none parking none
+ day
+ phone 01223292094 area east addr 732734 newmarket road name leverton house post cb58rs
+ day depart
+ leave 05:35 leave 07:35 choice 2
+ ref d55llntr
+<NoACT>
+ food european food modern european price various choice 4 choice 4 area centre
+ none none addr doubletree by hilton cambridge granta place mill lane name riverside brasserie area center
+<NoACT>
+ addr wandlebury ring addr gog magog hills addr babraham type park area south name wandlebury
+<NoACT>
+ leave
+ dest riverside brasserie phone 07286033047 depart wandlebury country park car red honda
+<NoACT>
+ day
+ dest
+ id tr0864
+ people
+<NoACT>
+ area
+<NoACT>
+ post cb30ds phone 01223336233
+<NoACT>
+ post cb30ds addr storey s way
+<NoACT>
+<NoACT>
+ name camboats type boat area east part of town
+ phone 01223902112 post cb58sx
+<NoACT>
+<NoACT>
+<NoACT>
+ leave
+ day
+ id tr3174 arrive 8:01
+ ticket 17.90 pounds time 60 minutes
+ leave 07:01 depart cambridge
+ people
+<NoACT>
+ none none name cityroomz parking none stars 0
+ area centre
+ stay day
+ day monday stay 5
+<NoACT>
+<NoACT>
+<NoACT>
+<NoACT>
+ area type theatres choice 5
+<NoACT>
+ addr 6 saint edward s passage area centre
+ post cb23pj
+ dest arrive leave day depart
+ choice a lot day that day leave arrive
+ choice 4 leave
+ arrive 09:54 id tr2969 time 105 minute people
+ day saturday arrive 09:54 dest cambridge ticket 30.24 pounds
+ time 105 minutes
+ leave 08:09
+<NoACT>
+ type
+ name castle galleries type museum post cb23bj area centre of town
+ food choice 21 area centre of town
+ none none
+ none none addr 35 saint andrews street city centre name the varsity restaurant
+ none none
+ post cb23ar addr 35 saint andrews street addr city centre
+<NoACT>
+ choice 5 leave 18:00 leave
+ arrive 19:55 leave 18:36 depart cambridge dest norwich id tr7776
+ ticket 17.60 pounds time 79 minutes
+ addr park street type theatre area center of town phone 01223300085
+<NoACT>
+<NoACT>
+<NoACT>
+ depart
+ leave arrive
+ car white toyota phone 07519220407
+<NoACT>
+ price choice 9
+ none none name clowns cafe area city centre
+ none none name clowns cafe area centre area
+<NoACT>
+ choice 3 type hotel -s
+ none none price moderate price expensive price expensive stars 0 stars 3 stars 4 name cityroomz name gonville hotel name university arms
+ type hotel -s
+ stars internet none
+ area day
+<NoACT>
+ depart leave
+ car yellow ford phone 07822741112
+<NoACT>
+ area centre name caffe uno
+ none none name frankie and bennys area south
+<NoACT>
+<NoACT>
+ time day
+<NoACT>
+<NoACT>
+ price expensive price cheap choice 3 choice 1
+ addr 2 rose crescent city centre name the gardenia
+ leave day
+ day
+ arrive 07:55 dest norwich id tr2266
+<NoACT>
+<NoACT>
+ food choice quite a few
+<NoACT>
+ none none
+<NoACT>
+ food italian price expensive choice 5
+ none none choice 4 name stazione restaurant and coffee bar name clowns cafe name don pasquale pizzeria name caffe uno area centre
+<NoACT>
+ day
+ arrive 9:32 id tr3111 ticket 14.32 pounds leave 8:32
+ ref 3mfuv33s ticket 71.59 gbp
+<NoACT>
+ arrive
+ arrive 5:51 arrive 7:51 choice 2 choice 1 choice the other
+<NoACT>
+ area type
+ price area the city centre type colleges choice 13
+ fee free area the area you are looking for post cb23bu type college name corpus christi
+ phone 01223338000
+<NoACT>
+ addr 6 trinity street fee there is not any entrance fee name cambridge contemporary art
+<NoACT>
+ depart
+ dest cambridge dest cambridge arrive 8:45 arrive 7:58 id tr8950
+<NoACT>
+<NoACT>
+ area price
+ stars choice 3 type guesthouses type hotel
+ area choice 4 type hotel -s
+ none none choice 2 name the alpha milton name the avalon
+ none none day people
+<NoACT>
+<NoACT>
+<NoACT>
+<NoACT>
+<NoACT>
+ post cb21rt
+ name old schools type architecture choice 4
+ post cb21tt
+ name old schools
+ phone 07750272488 dest restaurant car yellow ford depart old school
+<NoACT>
+ day
+ arrive 20:43 leave 19:54 id tr4015
+ time 49 minutes
+ type museum area centre fee free
+ phone 01223307402
+<NoACT>
+<NoACT>
+<NoACT>
+<NoACT>
+ leave day
+ choice 11
+<NoACT>
+<NoACT>
+<NoACT>
+ dest
+ day
+ choice 19 leave
+ arrive 16:01 id tr9022 leave 15:01
+ time 60 minutes
+ none none area the north area food chinese price expensive price moderate choice 3 choice 2 choice 1
+<NoACT>
+<NoACT>
+ price food chinese choice 17
+ area choice 4
+ none none choice 3 food chinese
+<NoACT>
+<NoACT>
+ choice plenty choice 16
+<NoACT>
+ name acorn guest house
+<NoACT>
+ dest
+ leave arrive
+ choice 9 people
+ arrive 10:09 id tr1719
+<NoACT>
+ price
+<NoACT>
+ name finches bed and breakfast phone 01223276653
+<NoACT>
+ food choice many
+ choice a number of price expensive area centre
+<NoACT>
+ type area centre of town choice more than 40
+ type nightclubs type colleges choice plenty of
+<NoACT>
+ phone 01223307402 post cb23bj addr unit su43 addr grande arcade addr saint andrews street
+<NoACT>
+ area price
+ price cheap name the gardenia
+<NoACT>
+ choice many day
+ arrive 15:24
+ time 50 minutes leave 14:34
+ ticket 13.20 pounds
+<NoACT>
+ time 50 minute
+<NoACT>
+ leave
+ dest
+ car black volkswagen phone 07552762364
+<NoACT>
+<NoACT>
+ area choice 14
+ time day people name pipasha restaurant area east side of town
+<NoACT>
+ dest arrive depart
+ leave every 2 hour -s leave 05:29 choice 5
+ ticket 10.10 pounds
+ id tr4283 time 38 minutes
+<NoACT>
+<NoACT>
+ area west name museum of classical archaeology name the lynne strover gallery name the cafe jello gallery type museums choice several
+ name the cafe jello gallery addr 13 magdalene street
+ name saint johns chop house
+ people time day
+ post cb30ad phone 01223353110
+<NoACT>
+<NoACT>
+ arrive leave
+ arrive 14:08 id tr1668
+<NoACT>
+ price food
+<NoACT>
+ area center of town food european choice 3
+<NoACT>
+<NoACT>
+ area internet none choice 33 type guesthouse
+ price inexpensive name alexander bed and breakfast choice a few internet none parking none stars 4
+<NoACT>
+<NoACT>
+<NoACT>
+ price choice 4
+ none none price expensive name darrys cookhouse and wine shop food modern european
+<NoACT>
+ leave arrive
+ arrive 15:00 choice 5 leave
+ time 38 minutes leave 13:29 depart depart bishops stortford arrive 14:07
+ ticket 10.10 gbp
+<NoACT>
+ name area city centre choice many
+<NoACT>
+ addr jesus lane cb58bs phone 01223452587
+ choice many depart broxbourne dest cambridge day friday leave arrive
+ arrive 10:32 id tr2145
+<NoACT>
+<NoACT>
+ area choice 5
+ choice 5 area centre area
+ post cb21jf fee 4 pounds
+ none none name nirala area north side of town food indian price moderate -ly priced
+ post cb41uy
+<NoACT>
+ type type art galleries type zoos
+ type
+ type architecture choice lots of area centre of town
+ name old schools
+ area centre of town
+ addr trinity lane phone 01223332320
+ none none type guesthouse name the el shaddai
+ post cb11eg internet none phone 01223327978
+ car blue skoda phone 07568386559 leave 08:15
+<NoACT>
+<NoACT>
+<NoACT>
+ food chinese choice 10 area centre of town
+ none none name tang chinese area centre
+<NoACT>
+ type architecture name all saints church
+ fee no entrance fee addr jesus lane
+ phone 07612290033 car red tesla
+ dest tang chinese arrive 16:15 depart all saints church
+<NoACT>
+ food
+ none none name curry garden food indian area centre
+ none none phone 01223302330 name curry garden addr 106 regent street city centre post cb21dp
+<NoACT>
+<NoACT>
+ leave
+ depart
+ dest cambridge leave 05:32 day sunday depart broxbourne leave
+<NoACT>
+ area type colleges choice many
+ choice 13
+<NoACT>
+ leave
+ depart
+<NoACT>
+<NoACT>
+ choice 202 depart
+ dest
+ dest cambridge arrive 8:00 choice 2 leave 5:35 leave 7:35 depart ely
+ depart same city id tr1037
+<NoACT>
+ none none
+<NoACT>
+ choice 229 depart dest
+ arrive 07:38 leave 06:48 id tr6886
+<NoACT>
+<NoACT>
+ food indian area east area north area west choice 4 price moderate
+ post cb58jj addr 451 newmarket road fen ditton phone 01223566388 name the curry prince
+<NoACT>
+ area food
+ choice 1 name pizza hut fen ditton food italian area east
+ none none time day people
+<NoACT>
+ name allenbell guesthous
+ people day stay
+<NoACT>
+ phone 07925311129 car blue volkswagen
+<NoACT>
+ area choice several
+ name christ s college post cb23bu fee no entrance fee phone 01223334900 addr saint andrew s street area centre
+ food
+<NoACT>
+ time
+ phone 01733553355 addr victoria avenue chesterton
+ time
+ time day
+<NoACT>
+<NoACT>
+ arrive leave day
+ leave 10:01 id tr4567
+<NoACT>
+<NoACT>
+ area area west area centre choice 3 choice 2 choice 1 type hotel -s stars 4
+ none none name huntingdon marriott hotel name the cambridge belfry name university arms hotel
+ name the huntingdon marriott name the university arms name the cambridge belfry post pe296fl post cb21ad post cb236bw price expensive price cheap
+ none none
+ post pe296fl price expensive area west part of town
+<NoACT>
+ leave 05:24 leave 09:24 arrive leave
+ arrive 16:52 leave 16:24 depart stansted airport dest cambridge id tr7744
+<NoACT>
+ people
+<NoACT>
+ phone 01223323555 area north parking none price moderate stars 4 addr 7880 milton road name home from home post cb41la type guesthouse internet none
+<NoACT>
+ stay
+<NoACT>
+ leave
+ day thursday leave 21:29 depart cambridge dest bishops stortford
+ day thursday arrive 22:07 leave 21:29
+<NoACT>
+<NoACT>
+<NoACT>
+<NoACT>
+ none none post cb11ly
+<NoACT>
+ id tr5953 arrive 12:32 choice 7 dest cambridge
+<NoACT>
+<NoACT>
+ none none area north name archway house internet none price moderate -ly priced parking none type hotel stars 4
+<NoACT>
+<NoACT>
+ price area north choice many type guesthouse
+ price choice 8 type guesthouse
+<NoACT>
+ internet none price moderate -ly priced
+<NoACT>
+ day
+ day friday leave 15:17
+ leave 15:00
+<NoACT>
+ none none area centre name jinling noodle bar name lan hong house name shanghai family restaurant
+ phone 01223566188 name jinling noodle bar
+<NoACT>
+ phone 01223304705 fee i do not have any information on the entrance fee
+ addr 8 mercers row addr mercers row industrial estate
+<NoACT>
+<NoACT>
+<NoACT>
+ phone 01223566388
+ addr 451 newmarket road fen ditton post cb58jj
+ phone 07955921789 car black lexus
+<NoACT>
+<NoACT>
+ food
+ dest depart
+ id tr5507 dest kings lynn leave 12:11 day sunday depart cambridge
+ ticket 7.84 pounds
+ food mediterranean area town centre choice 2 price expensive name la mimosa name shiraz restaurant
+ none none people day time
+<NoACT>
+<NoACT>
+ food
+<NoACT>
+ type colleges area centre choice 13
+<NoACT>
+ day
+ id tr3279 arrive 10:01 leave 09:01
+<NoACT>
+<NoACT>
+<NoACT>
+ area west type museums price free price entrance fee choice 7 choice 6 choice 1
+<NoACT>
+ price 3.50 pounds name cambridge and county folk museum addr 23 castle street post cb30aq
+ choice 133 depart norwich day leave
+<NoACT>
+<NoACT>
+<NoACT>
+ area the centre name ballare type nightclubs choice 5
+ price 5 pounds
+<NoACT>
+ food food cheap choice quite a few area town center
+ food
+ choice 3 name kohinoor name the gandhi name mahal of cambridge area centre
+ time day
+<NoACT>
+ depart depart
+ leave arrive
+<NoACT>
+<NoACT>
+ area price
+<NoACT>
+ phone 01223366611 parking none name the gonville internet none
+ none none name the gonville type hotel
+<NoACT>
+<NoACT>
+ choice 33 parking none type guesthouses
+ price cheap price moderate choice 5 choice 3 choice 2 type guesthouses
+ none none
+ phone 01223210353 post cb13js addr 517a coldham lane
+<NoACT>
+<NoACT>
+ leave arrive
+ car white audi phone 07213939140
+<NoACT>
+ food african price expensive area center of town
+ addr 100 mill road city centre name bedouin post cb12bd
+ choice many options area centre area
+ name christ s college
+ phone 01223334900 addr saint andrew s street
+<NoACT>
+ area choice lots of them
+ choice 16 type guest houses
+ stay day
+<NoACT>
+<NoACT>
+ type
+ name nusha name tipin choice 2
+ name nashua addr unit g6 addr cambridge leisure park addr clifton road phone 01223902158
+ area
+ food
+ price expensive area centre name la mimosa
+ people
+<NoACT>
+<NoACT>
+ dest
+<NoACT>
+<NoACT>
+ choice lots day
+ dest
+ id tr0254 arrive 18:10 leave 17:21
+<NoACT>
+ choice many
+ area north name riverboat georgina
+ fee varies phone 01223902091 type boat
+<NoACT>
+<NoACT>
+<NoACT>
+ name the cambridge punter addr 251a chesterton road addr cb41as
+<NoACT>
+ none none type hotel internet none parking none stars 3 name gonville hotel price expensive area centre
+ day stay people
+ phone 01223366611
+ arrive leave
+ dest depart
+ name
+ phone 07947856262 car yellow bmw
+<NoACT>
+ price choice 4
+ choice 4 type guesthouse area north area south area west
+ choice 3 name hamilton lodge
+<NoACT>
+ addr storey s way fee free area west part of town name churchill college type college
+ addr storey s way
+ food
+ food
+ food african food asian food british food indian choice many
+ day sunday time
+ name midsummer house restaurant
+<NoACT>
+<NoACT>
+ area
+ none none choice several choice most area north
+<NoACT>
+ area west cambridge choice 13
+<NoACT>
+ arrive
+ phone 07254266042 car black ford
+<NoACT>
+ stars parking price type
+<NoACT>
+ type price area internet parking
+ internet none parking none choice 7 area north
+ parking none
+<NoACT>
+ id tr5159 depart cambridge dest kings lynn leave 05.11
+ ticket 9.80 pounds id tr5159
+<NoACT>
+ area food
+ food thai food indian food european food british
+ none none name maharajah tandoori restaurant food indian area in the west
+ post cb30ah
+<NoACT>
+ type restaurant -s type shows type clubs
+ type type museums fee free admission choice 11 choice all area centre
+ name fitzwilliam museum phone 01223332900
+<NoACT>
+<NoACT>
+ none none area town centre food british name oak bistro price moderate -ly priced
+<NoACT>
+<NoACT>
+<NoACT>
+<NoACT>
+ price moderate name saint johns chop house food british
+ phone 01223353110
+ dest depart
+ arrive 11.35
+ arrive 11:35 id tr6655
+<NoACT>
+ people
+<NoACT>
+ depart dest
+ arrive 16:23 choice 12 leave 12:30 leave 13:40 ticket 75.10 pounds
+<NoACT>
+<NoACT>
+ stay
+ day stay
+<NoACT>
+<NoACT>
+ area price choice 33
+<NoACT>
+ choice 6 food indian area west
+ name tandoori palace rice boat cocum india house and maharajah tandoori restaurant choice 5
+<NoACT>
+<NoACT>
+ choice several leave
+ leave 12:16 depart norwich
+ ticket 14.08 pounds id tr5225 time 79 minute
+ area city cenre fee free name all saints church
+ phone 01223452587 type architecture
+<NoACT>
+ addr market street
+ name the holy trinity church fee free area centre
+ choice 10 leave every 2 hour -s starting at 05:29 leave
+<NoACT>
+ food choice many area centre
+ choice many food british food african
+ name fitzbillies restaurant
+<NoACT>
+ arrive leave day
+ leave 09:59 depart cambridge arrive 11:27 id tr4494 day tuesday dest london liverpool street people
+<NoACT>
+<NoACT>
+<NoACT>
+ leave 09:54 depart stevenage ticket 12.80 pounds
+<NoACT>
+ none none name golden wok addr 191 histon road chesterton area north food chinese price moderate
+<NoACT>
+<NoACT>
+ area
+ name pizza hut fen ditton food italian area east
+ time
+<NoACT>
+<NoACT>
+ depart leave
+<NoACT>
+ none none price cheap area centre name charlie chan
+ day time people addr regent street city centre
+ post cb21db
+<NoACT>
+ none none area north type guesthouse
+ internet none
+ choice many day tuesday depart dest
+ choice multiple leave
+ arrive 14:07 id tr2771 leave 13:29
+ ref 1gwwev63
+<NoACT>
+<NoACT>
+ post cb23pq addr market square addr town center
+ dest cambridge depart dest
+ day
+ arrive leave
+ ticket 23.60 pounds arrive 19:51 arrive 17:51 choice 1
+ people
+<NoACT>
+<NoACT>
+ type area centre type museums type architecture type boating type and concerthalls
+ name scudamores punting co name and the cambridge punter area centre
+ none none stars 4 price cheap name autumn house name cambridge punter addr 251a chesterton road
+ none none internet none name autumn house
+<NoACT>
+<NoACT>
+<NoACT>
+ choice quite a few area centre
+ addr regent street city centre name pizza hut city centre phone 01223323737 post cb21ab
+ none none area north part of town stars 2 parking none price moderate -ly priced name ashley hotel type hotel internet none
+<NoACT>
+ dest
+ phone 07948315819 car white toyota
+<NoACT>
+ food choice 110 area cambridge
+ price
+<NoACT>
+<NoACT>
+ dest depart
+ leave arrive
+<NoACT>
+<NoACT>
+<NoACT>
+ choice 4
+<NoACT>
+<NoACT>
+<NoACT>
+ area choice so many
+<NoACT>
+ area
+<NoACT>
+ post cb11eg
+<NoACT>
+<NoACT>
+ choice 133 depart cambridge dest kings lynn arrive day
+ arrive 14:58 leave 14:11
+<NoACT>
+ area
+ time
+<NoACT>
+ food price
+ day time
+ time
+ time
+ time
+<NoACT>
+<NoACT>
+ area food
+ price choice 5 food indian area that
+ choice 9 food indian area centre of town
+ post cb12lf
+ area type theatres choice 5
+ depart dest
+ area centre choice 4 name adc name cambridge arts name mumford name cambridge corn exchange type theatres
+ dest
+ post cb23pj phone 01223503333
+ phone 07021474520 car red ford
+<NoACT>
+<NoACT>
+ day
+ choice several people leave
+ id tr5502 leave 3:17pm
+ id tr2162 leave 14:11
+<NoACT>
+<NoACT>
+ none none
+<NoACT>
+<NoACT>
+ choice many day
+ day saturday choice a full schedule leave arrive
+ arrive 13:06 choice a train
+ ticket 30.24 pounds leave 11:21
+<NoACT>
+<NoACT>
+<NoACT>
+<NoACT>
+ name charlie chan name rice house name golden house addr regent street city centre addr 88 mill road city centre addr 12 lensfield road city centre
+ time day
+<NoACT>
+ choice 420 day depart
+ arrive 11:30 choice 6 arrive
+ arrive 9:52 id tr3828
+<NoACT>
+<NoACT>
+<NoACT>
+<NoACT>
+ addr 100 mill road city centre phone 01223367660
+<NoACT>
+ none none food indian price expensive area the west part of town name india house
+<NoACT>
+<NoACT>
+<NoACT>
+ food food hungarian
+ choice several choice 1 price assorted area the center area the south
+<NoACT>
+<NoACT>
+ none none post cb41er addr 74 chesterton road
+ phone 07260290005 car grey bmw
+<NoACT>
+ area
+ choice 2 area east side
+ name cherry hinton hall and grounds post cb18dw addr cherry hinton road phone 01223446104
+<NoACT>
+ depart
+ arrive 12:07 day sunday choice 4 depart bishops stratford dest cambridge
+ ticket 8.08 gbp time 38 minutes
+ post cb213b phone 01223324033 name pizza express addr regent street city centre area centre food italian price moderate
+<NoACT>
+<NoACT>
+ area
+ choice 2 name de luca cucina and bar name riverside brasserie
+<NoACT>
+<NoACT>
+ area food choice many area cambridge
+ none none choice 1
+<NoACT>
+ choice 11 leave
+ choice closest 1 id tr8185 leave 13:36
+ time 79 minutes ticket 14.08 pounds id tr8185
+<NoACT>
+ name byard art post cb21sj addr 14 king s parade
+ price free phone 01223464646
+ addr 14 king s parade
+ price free phone 01223464646
+ choice 21
+ area area across cambridge price moderate type hotel -s
+ stay
+<NoACT>
+ car yellow tesla phone 07903950183
+<NoACT>
+ price choice 11
+ price moderate choice ones none none
+ internet parking choice 7
+ post cb41da addr 154 chesterton road
+ dest arrive day depart leave
+<NoACT>
+ leave 14:40 leave 15:40 choice 2
+ arrive 17:23
+ time 163 minutes
+<NoACT>
+<NoACT>
+ price food british choice 7 area centre of town
+ none none
+<NoACT>
+ choice 18 price moderate
+ name ashley hotel name lovell lodge choice 2 internet none parking none
+ none none
+ stay day
+<NoACT>
+<NoACT>
+<NoACT>
+ area
+<NoACT>
+ fee free addr 13 magdalene street
+<NoACT>
+ people
+<NoACT>
+<NoACT>
+ area food indian choice many
+ choice 3
+ none none name the restaurant 17 food british area the centre of town
+<NoACT>
+<NoACT>
+<NoACT>
+ name midsummer house restaurant
+<NoACT>
+ price stars choice 33
+ none none
+ none none name huntingdon marriott hotel internet none parking none
+ phone 01480446000 addr kingfisher way addr hinchinbrook business park addr huntingdon name huntingdon marriott hotel
+<NoACT>
+<NoACT>
+<NoACT>
+ name lan hong house food chinese addr 12 norfolk street city centre addr cb12lf price moderate -ly priced
+ people stay
+<NoACT>
+ leave 10:15 car red audi
+<NoACT>
+ phone 07686386258 car red audi
+<NoACT>
+ choice 10 day sunday dest ely arrive
+ arrive 12:07 day sunday dest ely id tr1159
+<NoACT>
+<NoACT>
+ phone 01223312112 area west
+<NoACT>
+ area centre name el shaddai internet none addr 41 warkworth street price cheap parking none type guesthouse phone 01223327978 stars 0
+ day stay
+<NoACT>
+<NoACT>
+ choice over 200 arrive
+ arrive 12:43 leave 11:54 depart stevenage dest cambridge id tr6473
+<NoACT>
+ area
+ area price
+ none none price expensive name the express by holiday inn cambridge
+ addr 1517 norman way addr coldhams business park post cb13lh day
+ stay
+ none none
+ price area east name express by holiday inn cambridge price expensive type hotel
+ choice 2 type hotel -s price moderate -ly price
+ post cb11ee
+<NoACT>
+<NoACT>
+ name cineworld cinema phone 00872208000 post cb17dy addr cambridge leisure park addr clifton way area south
+ fee unfortunately i do not have any information on the entrance fee post cb17dy
+ none none name nandos
+<NoACT>
+ car black volkwagen phone 07338019809
+<NoACT>
+<NoACT>
+ id tr5678
+ arrive 11:32 leave 10:32 depart broxbourne dest cambridge id tr5678
+<NoACT>
+ area centre area east choice 2 choice 1 price moderate price cheap
+ day
+ time
+<NoACT>
+ none none post cb23ar
+ people
+<NoACT>
+<NoACT>
+ none none food indian price cheap addr 74 mill road city centre name kohinoor
+ name kohinoor area centre of town
+ phone 01223323639 name kohinoor
+ name the kohinoor area centre price cheap
+ addr trumpington street name the fitzwilliam museum post cb21rb
+ phone 07394385939 car black audi depart the fitzwilliam museum
+<NoACT>
+ food price
+ price
+ area
+ none none
+ phone 01223358899 arrive
+ leave 13:40 depart birmingham new street arrive 16:23 id tr1328 day monday dest cambridge
+ leave 13:40 choice earliest train after 13:15
+ arrive 16:23
+<NoACT>
+ price choice 3 stars 2
+ none none choice the only internet none area east name express by holiday inn cambridge
+ stay day people
+ none none phone 01223866800 name express by holiday inn cambridge
+ phone 01223243830 name wandlebury country park
+ phone 0122324380
+ addr wandlebury ring addr gog magog hills addr babraham
+<NoACT>
+<NoACT>
+ depart dest
+ arrive 19:06 leave 17:21 depart cambridge dest leicester id tr1745
+<NoACT>
+ area choice 5
+ choice all price expensive
+ food italian
+ none none phone 01223355711
+<NoACT>
+<NoACT>
+ choice 4 type hotel -s
+<NoACT>
+ area south stars 3 parking none price expensive name the lensfield hotel internet none
+<NoACT>
+ none none addr 7 milton road chesterton food indian area north side phone 01223360966 name the nirala
+ none none day
+<NoACT>
+<NoACT>
+ day
+ choice 19 leave
+ arrive 15:01 leave 14:01
+<NoACT>
+ none none people food chinese area south side price cheap name the lucky star
+<NoACT>
+<NoACT>
+ choice 3
+<NoACT>
+ stay day
+<NoACT>
+<NoACT>
+ depart dest
+ arrive 07:27 leave 05:59 id tr1047
+<NoACT>
+<NoACT>
+ dest
+ day
+ id tr0254 leave 17:21 depart cambridge
+ addr 710 newmarket road name the autumn house hotel area east
+<NoACT>
+ price internet none choice a few
+ area choice about 10
+ none none area west price cheap name the cambridge belfry type hotel internet none
+ stay day
+ choice only type hotel
+ area choice 10
+ people
+ parking none name alexander b & b internet none price cheap
+<NoACT>
+<NoACT>
+ name pembroke college
+ type college fee no entrance fee area centre of town
+ depart day
+ ticket 17.60 pounds id tr5291 leave 20:16
+ arrive 21:35 id tr5291
+ people
+ ticket 17.60 pounds time 79 minutes
+<NoACT>
+<NoACT>
+ type area city centre type architecture type boats type concerthalls type museums type colleges type nightclubs type parks type swimmingpools type theatres choice loads
+ type churches type architecture choice several
+ name all saints church addr jesus lane fee fee
+ day
+ arrive 17:06 id tr0552
+ people
+ leave 15:21 time 105 minutes people
+<NoACT>
+ none none area east name allenbell addr 517a coldham lane
+ stay
+ stars 4 price cheap name allenbell type guesthouse
+ none none
+<NoACT>
+<NoACT>
+ food
+ none none
+<NoACT>
+ leave depart
+<NoACT>
+ time 49 minutes
+ ticket 10.24 pounds
+<NoACT>
+ type park addr cherry hinton hall addr cherry hinton road phone 01223446100
+ area east side
+ area food
+ food choice 9
+ price
+ none none addr g4 cambridge leisure park clifton way cherry hinton name pizza hut cherry hinton
+ time day
+<NoACT>
+ car grey audi
+ phone 07076287361
+<NoACT>
+ addr 108 regent street city centre post cb21dp
+ price expensive area centre area
+ choice 13 area center of town
+ phone 01223334860
+ none none food korean area centre
+ phone 01223308681 name little seoul price more expensive
+ fee free
+<NoACT>
+ food chinese price moderate -ly priced area north
+<NoACT>
+<NoACT>
+ dest
+<NoACT>
+ none none name the city centre north bed and breakfast
+ none none internet none parking none
+ addr 328a histon road type guesthouse day
+ food
+ none none choice 2 name hakka name the hotpot
+ people day time
+<NoACT>
+<NoACT>
+ dest
+ leave depart
+ dest cambridge arrive 20:30 arrive 19:52 choice 15 leave 19:24 depart stansted airport
+<NoACT>
+ area that part of town choice 5
+<NoACT>
+<NoACT>
+ type museums choice 7
+ fee free to enter phone 01223694264 name cambridge book and print gallery
+ none none addr 96 barton road post cb39lh area west phone 01223304906 name hobsons house hotel
+<NoACT>
+ car black bmw phone 07734605064
+<NoACT>
+ addr 191 histon road chesterton
+ people 1
+<NoACT>
+ type churches type old schools area centre area choice several
+ fee free admission addr trinity lane name old schools
+ depart dest post cb21tt
+ leave
+ arrive 10:45 dest old schools
+ car lexus white in colour phone 07381884388
+<NoACT>
+ price choice several type guesthouses
+ none none price moderate -ly priced name the home from home guesthouse type hotel area north stars 4
+ name avalon guesthouse
+ stay day
+<NoACT>
+ depart
+ dest leicester choice 19 arrive leave
+ arrive 19:06 id tr1745
+ id tr1745 leave 17:21
+ ticket 37.80 pounds
+<NoACT>
+ food
+ choice 5 choice 3 choice 2 price cheap area centre food chinese food asian oriental
+ choice 3 name pizza hut city centre name ask name zizzi cambridge
+ none none
+<NoACT>
+ none none parking none type guesthouse hotel
+<NoACT>
+<NoACT>
+ none none name acorn guest house addr 154 chesterton road stars 4
+ area north
+ internet none
+ none none
+ dest depart
+ arrive 10:07 choice 3
+ id tr7169 time 38 minutes
+<NoACT>
+ depart
+ leave
+ dest
+ phone 07678946250 car black bmw
+<NoACT>
+ dest
+ car blue ford phone 07710275202
+<NoACT>
+ area centre name vue cinema type cinema
+ post cb11ps fee not present in our database phone 08712240240 addr grafton centre addr east road
+ choice 133 leave day
+ choice 15 leave
+ id tr2938 leave 05:32
+ ticket 17.90 pounds
+<NoACT>
+ area centre name man on the moon type concerthall
+ name the man on the moon post cb12lf addr 2 norfolk street
+ fee unsure
+ depart
+ choice 7
+ time 49 minutes choice all
+ id tr6473 arrive 12:43 leave 11:54 time 49 minutes
+<NoACT>
+ food choice many
+ price area choice 11 food british
+ none none name saint johns chop house addr 2124 northampton street
+ post cb30ad phone 01223353110 addr 2124 northampton street
+ depart
+ leave
+ arrive 01:44
+ arrive 15:44 leave 13:01 depart cambridge ticket 75.10 pounds id tr8924 dest birmingham time 163 minutes people
+<NoACT>
+ food choice 33
+ food british choice 33
+ time day people
+<NoACT>
+<NoACT>
+ none none addr gonville place name gonville hotel
+ dest restaurant phone 07208286486 arrive 11:30 car yellow skoda
+<NoACT>
+<NoACT>
+ none none internet none price moderate parking none type guesthouse phone 01223247015 stars 4
+<NoACT>
+ depart day
+ day tuesday id tr8199 leave 13:32
+ ref r6msyw4p arrive 14:32 ticket 125.29 gbp people 7
+<NoACT>
+<NoACT>
+ food
+ none none name saint johns chop house food british area west price moderate
+<NoACT>
+ day depart
+ choice several dest cabridge leave
+ day monday id tr3673 arrive just before 9:15 leave 7:39 time 88 minute
+ leave 07:39
+<NoACT>
+ leave arrive
+ depart
+ car blue volvo phone 07690471186
+<NoACT>
+<NoACT>
+ area price
+ area price moderate -ly priced choice lots of type hotel -s stars 4
+ none none area north area south area east choice several
+ type guesthouse internet none parking none stars 4 name carolina bed and breakfast price moderate area east area
+ day stay
+<NoACT>
+ fee 2.50 pounds addr saint john s street
+ area centre
+<NoACT>
+ area choice several
+ none none price moderate name bridge guest house internet none type guesthouse parking none area south
+<NoACT>
+ dest depart
+ arrive 18:08 id tr1434 time 51 minute leave 17:17
+<NoACT>
+ none none area west side choice 1
+<NoACT>
+ choice 4 food indian area east side price moderate -ly priced price expensive
+ addr newmarket road fen ditto food indian price expensive
+ type museums fee free fee 5 pounds choice 4 choice 3 choice 1
+<NoACT>
+<NoACT>
+ area same general area choice all
+ fee free name cambridge artworks
+<NoACT>
+ price choice 21 stars 4
+ area choice 11
+ area choice 5 type hotel -s
+<NoACT>
+ dest depart
+ leave 8:01 depart cambridge arrive 10:44
+<NoACT>
+<NoACT>
+ food portuguese choice 2 area south area city centre
+ addr cambridge leisure park clifton way addr 3334 saint andrews street name nandos name nandos city centre area south area city centre
+<NoACT>
+ post cb17dy name nandos
+ parking none
+ none none name cambridge belfry post cb236bw
+ type hotel price inexpensive
+<NoACT>
+<NoACT>
+ name name all saints church name the cambridge corn exchange choice a lot
+ name all saints church type architecture fee free area center
+<NoACT>
+<NoACT>
+ day time people
+<NoACT>
+<NoACT>
+ leave
+ depart
+ id tr1086 dest peterborough arrive 16:56 leave 16:06
+ people
+<NoACT>
+ area
+ none none
+ people stay
+<NoACT>
+<NoACT>
+ choice alot type hotel -s
+ price moderate name acorn guesthouse stars 4
+ area north parking none internet none
+<NoACT>
+<NoACT>
+<NoACT>
+ id tr0189 arrive 17:27 leave 15:59
+<NoACT>
+<NoACT>
+<NoACT>
+ leave arrive
+ car blue skoda phone 07914819489
+<NoACT>
+<NoACT>
+ choice 3 food chinese area south
+ name the good luck chinese food takeaway price expensive post cb17ag
+ none none phone 01223244149
+ day time people
+ price area south type guesthouse type hotel choice 3 choice 1
+ none none addr 5357 lensfield road name the lensfield hotel
+ none none name the lensfield hotel area south
+ parking none
+ phone 01223355017 name the lensfield hotel
+<NoACT>
+<NoACT>
+ arrive 07:51 arrive 09:51
+<NoACT>
+ area type museum choice 23
+<NoACT>
+<NoACT>
+ choice 70 depart bishops stortford dest
+ day leave
+ arrive
+ arrive 12:07 id tr4594
+ arrive 12:07 id tr4594 dest cambridge depart bishops stortford leave 11:29
+ addr jesus lane area centre of cambridge type architecture
+<NoACT>
+ none none area centre addr regent street
+<NoACT>
+ choice 70 leave day
+ leave 05:35 leave every 2 hour -s leave until 23:35
+ arrive 19:52 id tr6679 leave 19:35
+ time 17 minutes ticket 4.40 pounds
+<NoACT>
+ leave 19:35
+<NoACT>
+<NoACT>
+<NoACT>
+ area centre type architectural churches choice plenty
+ name holy trinity church fee free phone 01223355397 area centre of town
+ dest stansted airport arrive 18:00 choice many name the holy trinity church addr market street post cb23nz
+ day leave
+ arrive 15:08 arrive 16:00 choice all other dest stansted time 28 minute leave 14:40
+<NoACT>
+<NoACT>
+<NoACT>
+ name bridge guest house
+<NoACT>
+<NoACT>
+<NoACT>
+ area food
+ addr 619 newmarket rd . fen ditton
+<NoACT>
+ leave dest depart
+<NoACT>
+<NoACT>
+ area south area center of town name cineworld name vue type cinemas choice 2
+<NoACT>
+ price choice 2
+ none none name la raza food spanish price cheap
+<NoACT>
+ dest
+ depart dest
+ phone 07177417862 car red volvo depart vue cinema
+<NoACT>
+ food indian food italian price your price range choice 2 area north
+ price cheap -ly priced addr victoria avenue chesterton name royal spice phone 01733553355
+ none none time day
+ time day
+<NoACT>
+ leave 07:24 arrive 07:52 id tr9641
+<NoACT>
+<NoACT>
+ food choice 15
+ choice 3 food chinese
+ none none phone 01842753771 name golden house addr 12 lensfield road area city centre post cb21eg
+ people time day
+<NoACT>
+ depart
+<NoACT>
+<NoACT>
+<NoACT>
+ name avalon
+ price moderate -ly priced name avalon name acorn guest house name arbury lodge guesthouse name archway house
+ none none phone 01223353888 internet none
+<NoACT>
+ depart
+ day
+ id tr7040 arrive 13:07 leave 11:39
+ type hotel -s type guest houses choice 18 price moderate -ly priced
+ none none
+ phone 01223304050 area town centre addr sleeperz hotel on station road name cityroomz
+ addr sleeperz hotel addr station road post cb12tz
+<NoACT>
+ area centre name alexander bed and breakfast addr 56 saint barnabas road
+ price cheap name finches bed and breakfast
+ parking none internet none
+ type guesthouse phone 01223276653 name finches
+ food japanese price on the pricey side name wagamama
+<NoACT>
+ arrive leave
+ phone 07317880048 car white ford
+<NoACT>
+ day
+ arrive 17:58 day wednesday leave 17:11 depart kings lynn dest cambridge id tr3677
+ ticket 9.80 pounds
+<NoACT>
+<NoACT>
+ post cb11ln name the broughton house gallery
+<NoACT>
+ type area west type college choice 13
+ name whale of a time type museums type entertainment choice several
+ addr unit 8 addr viking way addr bar hill phone 01954781018 post cb238el
+<NoACT>
+ food price
+ food british food indian food italian
+ none none food indian name meghna area west price moderate
+ addr 205 victoria road chesterton
+ depart leave dest arrive
+ choice 13 area west
+ fee free area west name churchill college
+<NoACT>
+ arrive leave dest
+ day wednesday choice 5 leave 15:17 leave 17:17 . 19:17 leave 21:17 leave 23:17 leave
+ arrive 16:08
+ food choice 9
+<NoACT>
+ addr hotel felix whitehouse lane huntingdon road food british phone 01223277977
+<NoACT>
+<NoACT>
+ food choice 33
+<NoACT>
+<NoACT>
+ arrive day leave
+ leave 07:59 arrive 09:27 id tr3892 dest london liverpool street
+<NoACT>
+<NoACT>
+<NoACT>
+ dest
+ arrive 19:09
+<NoACT>
+ area
+ none none
+<NoACT>
+<NoACT>
+ name adc theatre name cambridge arts theatre name mumford theatre name the cambridge corn exchange name the junction
+ post cb11pt fee do not know the entrance fee
+ food choice plenty of area east side price expensive
+ people day
+<NoACT>
+<NoACT>
+ area center name all saints church type architecture addr jesus lane phone 01223452587
+ area centre
+ stars area north choice 11 type guesthouses
+ parking type guesthouses internet none choice many area north
+ price stars area north choice 10 type guesthouses
+ none none area north price moderate -ly priced stars 4 name acorn guest house type guesthouse
+ people
+<NoACT>
+ leave arrive
+ phone 07269751456 car red ford
+<NoACT>
+ area price choice 6
+ name the soul tree nightclub fee 4 pounds
+ phone 01223477900
+ post cb23qf
+<NoACT>
+ dest
+ car blue bmw phone 07083779802
+<NoACT>
+<NoACT>
+ depart
+ car red lexus phone 07332430116
+<NoACT>
+ depart
+ leave 10:11 id tr5928
+ ticket 7.84 pounds
+ area type hotel -s choice 33
+ none none name alexander bed and breakfast name el shaddai choice 2
+ name alexander bed and breakfast day sunday stay
+ stay day
+ parking none name el shaddai internet none price cheap stars 0 area centre
+ day
+<NoACT>
+<NoACT>
+ addr regent street area near centre internet none name university arms hotel phone 01223351241 stars 4
+ phone 01223366611 internet none parking none area center name the gonville hotel
+<NoACT>
+ type
+ food
+ food
+ price expensive price cheap choice 3 choice 2 choice 1
+ name la mimosa price expensive
+ phone 01223362525
+ post cb58aq
+ leave
+ car grey tesla phone 07315091381
+<NoACT>
+ fee free to enter area centre name holy trinity church post cb23nz addr market street
+ type architecture
+<NoACT>
+ food chinese addr cambridge leisure park clifton way cherry hinton
+<NoACT>
+ id tr7309 arrive 12:08 leave 11:17
+ ref ab2fx8kz ticket 18.88 gbp
+<NoACT>
+ price expensive
+ people
+ area north price moderate -ly priced type guesthouse
+<NoACT>
+ arrive 20:35 leave 19:16
+ ticket 14.08 pounds arrive 2035
+<NoACT>
+<NoACT>
+ choice several
+ area north area east stars 2 price moderate -ly priced price expensive name ashley hotel name lovell lodge type hotel -s internet none
+ parking none name ashley hotel name lovell lodge
+ phone 01223425478
+ leave 5:39 arrive 08:45 arrive 07:07 id tr3839 choice 2 dest cambridge
+<NoACT>
+<NoACT>
+ food price
+ none none choice 7 price moderate addr 4 kings parade name copper kettle
+<NoACT>
+ area east area north area centre choice 4
+ addr the plough addr green end addr fen ditton name camboats
+ post cb58sx
+ area east side name camboats addr the plough addr green end addr fen ditton
+ leave dest arrive
+ depart
+ phone 07939286212 car grey lexus
+<NoACT>
+ choice several
+ price expensive price moderate range name eraina name riverside brasserie
+ phone 01223368786 post cb23rh
+ area choice about 10
+ none none name alexander bed and breakfast name el shaddai type guesthouses stars 4 stars 0
+ people stay
+<NoACT>
+ leave
+ car red volkswagen phone 07105298211 depart riverside brasserie leave 16:30
+<NoACT>
+ phone 07834851292 leave 16:30 car white honda depart eraina dest alexander bed and breakfast
+<NoACT>
+ area east side name express by holiday inn cambridge price expensive
+ none none internet none
+<NoACT>
+<NoACT>
+ choice 2 area centre of town
+<NoACT>
+ type boat choice 4 area centre area north area east
+ addr cambridge passenger cruisers addr jubilee house phone 01223902091 name riverboat georgina
+ depart leave dest
+ phone 07050495250 car black lexus
+<NoACT>
+<NoACT>
+ area north name acorn guest house internet none stars 4
+ price moderate price cheap choice 2 type guesthouse area south
+ none none post cb22ha phone 01223512596 price cheap -ly priced name rosa s bed and breakfast
+<NoACT>
+ fee paid fee free name clare college name clare hall
+ addr herschel road
+<NoACT>
+ leave 05:00 leave 13:00
+ leave 13:00
+<NoACT>
+ ref d1pgc203 area east choice several
+ phone 01223902112
+<NoACT>
+ arrive
+ depart 14:15 car black volkswagen phone 07944381295
+<NoACT>
+<NoACT>
+ food indian price cheap area town centre
+ day time
+ day
+<NoACT>
+ type museum area center of town addr 10 king s parade name primavera
+<NoACT>
+ choice 11
+<NoACT>
+<NoACT>
+ name curry prince
+ day time name curry prince area east section
+ phone 01223566388 addr 451 newmarket road fen ditton post cb58jj
+ type choice quite a few
+ name cherry hinton hall and grounds name funky fun house choice 2
+ addr cherry hinton road post cb18dw name cherry hinton hall and grounds phone 01223446104
+ phone 07396377066 car red skoda
+<NoACT>
+ area west type colleges type museums choice many
+<NoACT>
+<NoACT>
+ stars area price internet choice 10 type hotel
+ area stars choice 9
+ stay day people
+<NoACT>
+ type type museums choice several
+ name
+<NoACT>
+ price type area west type museum choice 7
+ post cb23rh area centre of town name whipple museum of the history of science
+ area west name museum of classical archaeology post cb39da
+<NoACT>
+<NoACT>
+<NoACT>
+ type boat type park type swimming pools choice several
+ name kings hedges learner pool post cb42xh phone 01223353248 addr jedburgh court addr kings hedges
+ dest
+ choice 8 arrive late evening leave very early morning leave
+<NoACT>
+<NoACT>
+ type
+ area choice several
+<NoACT>
+ fee free
+<NoACT>
+ area south closer to the museum area north choice several choice some
+ addr 154 chesterton road
+<NoACT>
+ food price expensive choice a lot area centre
+ none none addr midsummer common name midsummer house restaurant food british
+<NoACT>
+ dest depart
+ people
+<NoACT>
+<NoACT>
+ dest
+ arrive 18:10 id tr7729
+<NoACT>
+ area centre phone 01223330906 fee free name the whipple museum of the history of science
+<NoACT>
+ area city centre addr 106 regent street name curry garden
+ name curry garden post cb21dp area centre
+ phone 01223302330
+<NoACT>
+ name cambridge contemporary art
+ addr 6 trinity street
+ food choice many
+ price food chinese choice 10
+ choice 4
+<NoACT>
+<NoACT>
+ area
+ price choice 18
+<NoACT>
+ day
+ day
+ id tr8726
+<NoACT>
+<NoACT>
+ people time day food thai price expensive area west end
+<NoACT>
+ name abbey pool and astroturf pitch area east
+ addr pool way addr whitehill road addr off newmarket road
+ dest sala thong car grey toyota depart abbey pool and astroturf pitch leave 10:00 phone 07847553074
+<NoACT>
+ none none name gonville hotel type hotel
+ none none
+<NoACT>
+<NoACT>
+ area choice 5
+ addr 8 mercers row addr mercers row industrial estate
+ price choice 8 food european
+ none none
+<NoACT>
+ arrive leave
+ phone 07195481279 car white tesla
+<NoACT>
+<NoACT>
+ leave 20:11 id tr4809
+<NoACT>
+ type area centre choice many
+<NoACT>
+ choice 4 name adc theatre name cambridge arts theatre name mumford theatre name cambridge corn exchange type theaters
+ phone 01223300085
+ post cb58as addr park street
+<NoACT>
+ depart long kings cross day tuesday dest cambridge leave every 2 hour -s starting at 5:00
+ arrive 16:07 leave 15:29 dest bishops stortford
+ depart cambridge
+ choice 3
+<NoACT>
+ day time
+ time
+<NoACT>
+<NoACT>
+ day
+<NoACT>
+ depart
+ leave 17:01
+ ref mpp4ho3a id tr1765
+ food
+ name golden wok name nirala food chinese food indian
+<NoACT>
+<NoACT>
+ addr 63 milton road
+<NoACT>
+<NoACT>
+ arrive 11:51 people
+ arrive 12:07 day that day
+ leave 11:50
+<NoACT>
+ area food
+ price price moderate price expensive area east side food indian choice 4 choice 2 choice 2
+ none none
+<NoACT>
+ people time choice 2
+ none none
+<NoACT>
+ area parking price internet choice 18
+ none none price cheap price moderate name rosa s bed and breakfast name aylesbray lodge guest house choice 2 post cb22ha post cb17sr addr 53 roseford road addr 5 mowbray road
+<NoACT>
+<NoACT>
+ none none area north name alpha milton guesthouse internet none price moderate -ly priced parking none stars 3
+ people
+ none none
+ phone 01223259988 addr doubletree by hilton cambridge granta place mill lane price moderate
+ people
+<NoACT>
+<NoACT>
+<NoACT>
+ post cb58bs addr jesus lane
+ leave depart
+ depart cambridge dest ely day sunday arrive 16:07 leave 15:50
+ id tr5713
+<NoACT>
+<NoACT>
+ day
+ arrive 21:44 day friday choice 5 leave 19:01 depart cambridge dest birmingham new street
+<NoACT>
+ price type museums type colleges choice quite a few
+<NoACT>
+ choice 7
+ phone 01223295264 post cb30aq name kettle s yard museum addr 23 high street addr fen ditton
+<NoACT>
+ choice 266 depart peterborough dest cambridge day
+ arrive 14:38 leave 14:19 depart peterborough dest cambridge
+<NoACT>
+ price choice 10
+ food chinese area centre choice 3 price cheap name charlie chan name rice house name golden house
+ people post cb21eg addr 12 lensfield road city centre
+<NoACT>
+ choice 1 choice 365 leave that time dest day
+<NoACT>
+ time 163 minutes
+ food area choice many price moderate -ly priced
+ none none food italian area west price moderate -ly priced
+ post cb30ad name prezzo s
+<NoACT>
+ food choice many area centre of town
+<NoACT>
+ price choice 3
+ name la mimosa name shiraz area centre of town food mediterranean choice 2 price expensive
+ day time people
+ people
+ addr thompsons lane fen ditton post cb58aq name la mimosa phone 01223362525
+<NoACT>
+ area type colleges choice 5
+ name old schools post cb21tt type architectural addr trinity lane area center of town
+ phone 01223332320
+ choice over 200 arrive
+ depart
+<NoACT>
+ none none area west name the the cambridge belfry price cheap type hotel
+ none none price cheap name the cambridge belfry internet none parking none
+ stars 4 parking none price cheap name the cambridge belfry type hotel
+ none none internet none
+ day stay people
+<NoACT>
+ area choice several
+ choice 3 name curry garden name the golden curry name saffron brasserie food indian
+<NoACT>
+ choice 202 depart cambridge leave dest
+ choice 3 leave 5:11 leave 6:11 leave 7:11
+ people
+ time 47 minutes
+<NoACT>
+ depart day
+ choice quite a few arrive
+ ticket 4.40 pounds id tr8610 dest cambridge leave 17:35 day wednesday depart ely
+ people
+<NoACT>
+ type nightclub name the place
+ post cb23hg
+<NoACT>
+<NoACT>
+ food chinese price expensive area south
+<NoACT>
+<NoACT>
+ arrive
+<NoACT>
+<NoACT>
+<NoACT>
+ day leave
+ ticket 20:11 id tr9926 leave 20:11 people
+ choice earliest arrive 20:58 id tr9926 leave 20:11
+<NoACT>
+ type
+<NoACT>
+ area south type parks choice 2 name wandlebury country park name sheep s green and lammas land park fen causeway
+ phone 01223243830
+<NoACT>
+<NoACT>
+<NoACT>
+ ticket 30.24 pounds id tr9831 leave 19:21
+ name nandos area south area centre choice 2
+<NoACT>
+<NoACT>
+ area type theaters choice 5
+ name the adc theatre area this area
+ phone 01223300085 post cb58as fee no information
+ area area centre area food italian choice several
+<NoACT>
+<NoACT>
+ phone 07419631990 car white volvo
+ phone 07419631990 car white volvo
+<NoACT>
+ price internet none choice 32 type hotel -s type guesthouses
+ area
+<NoACT>
+ day
+ day
+<NoACT>
+ stars 4 name the acorn guest house internet none price moderate -ly priced stay
+<NoACT>
+<NoACT>
+ food international cuisine price cheap name the missing sock
+<NoACT>
+ depart dest
+ choice 19 leave arrive
+ leave 8:40
+<NoACT>
+<NoACT>
+ stars area parking price type internet choice 33
+ name bridge guest house addr 151 hills road .
+ parking none internet none
+ area south food chinese choice 2 choice 1 price expensive price cheap
+ price cheap name lucky star
+ post cb17dy
+ arrive
+ phone 07250562643 car blue tesla
+<NoACT>
+ leave arrive
+ car white honda phone 07804995392
+<NoACT>
+ type choice 79
+ name cityroomz type hotel area center of town stars 0 addr sleeperz hotel addr station road
+<NoACT>
+<NoACT>
+<NoACT>
+<NoACT>
+ food indian choice many
+ choice 14
+ people
+<NoACT>
+<NoACT>
+<NoACT>
+ day
+ arrive 07:52 id tr6416 dest cambridge
+ ticket 10.10 pounds
+<NoACT>
+<NoACT>
+ choice several depart norwich day wednesday dest cambridge leave 5:16 leave
+ arrive 10:35 id tr118
+ leave 9:16
+ id tr1180 people
+ food
+ none none area center of town food international name varsity restaurant name bloomsbury restaurant price moderate -ly priced
+ time day
+<NoACT>
+<NoACT>
+<NoACT>
+ food
+ food chinese food african food british food italian food american food gastro pub food etc
+<NoACT>
+ addr 106 regent street city centre phone 01223302330 name the curry garden restaurant
+<NoACT>
+ choice 2 choice both price expensive
+<NoACT>
+<NoACT>
+ day
+<NoACT>
+ ticket 16.60 pounds choice 3
+<NoACT>
+ choice 3 leave 5:39 ticket 16.60 pounds
+<NoACT>
+ depart
+ arrive 06:08 leave 05:17 id tr0378
+<NoACT>
+ none none addr 451 newmarket road in fen ditton
+ area east part of town
+ people
+ time day
+<NoACT>
+ depart dest
+ leave
+ id tr0137 leave 14:09
+<NoACT>
+ choice 9
+ none none
+ addr cambridge lodge hotel 139 huntingdon road city centre
+<NoACT>
+<NoACT>
+ food
+ price
+ area
+ area centre price moderate name the copper kettle
+<NoACT>
+ leave every 2 hour -s leave 05:50 leave
+ arrive 12:07 leave 11:50 depart cambridge ticket 4.40 pounds dest ely people
+<NoACT>
+<NoACT>
+ area
+ name gonville and caius college fee free choice 13 type colleges addr trinity street
+ name gonville and caius college addr 01223332400
+ area
+ parking internet area east side choice several type guest houses
+ day stay
+<NoACT>
+ dest depart
+ car yellow bmw phone 07146618833
+<NoACT>
+ area price
+<NoACT>
+<NoACT>
+<NoACT>
+ area
+ none none food asian oriental name saigon city
+ price expensive post cb41nl name saigon city
+<NoACT>
+<NoACT>
+ price choice many
+ type hotel
+<NoACT>
+ area
+ none none addr 2124 northampton road food italian
+ food area centre of town price moderate -ly priced choice more than 20
+ price moderate choice 3 food chinese area centre
+ post cb23pp addr 11 peas hill city centre
+<NoACT>
+ phone 07757106249 car black toyota
+<NoACT>
+ dest
+<NoACT>
+ leave depart
+ choice several arrive 9:15 day
+ choice 2
+ time 51 minutes
+<NoACT>
+<NoACT>
+<NoACT>
+ type museum
+ leave
+ people
+<NoACT>
+<NoACT>
+<NoACT>
+ area type colleges choice 18
+<NoACT>
+ price
+ none none
+ area centre
+ addr thompsons lane fen ditton
+ phone 07844314438 car white tesla
+<NoACT>
+<NoACT>
+ price expensive choice plenty choice 57 area cambridge
+ none none price moderate -ly priced
+ none none
+<NoACT>
+ area west addr 96 barton road type guesthouse
+<NoACT>
+ phone 07689515988 car blue lexus
+<NoACT>
+ dest
+ choice plenty leave day
+ dest birmingham new street arrive 17:44 leave 15:01 depart cambridge
+ ticket 60.08 pounds
+<NoACT>
+ depart day
+ arrive 10:32 dest cambridge id tr2145
+<NoACT>
+ type nightclub
+<NoACT>
+ name queens college
+ fee 2.50 pounds
+ post cb39et addr silver street
+<NoACT>
+ price food chinese choice a variety
+ price moderate -ly priced addr 12 norfolk street city centre name the lan hong house area centre food chinese phone 01223350420 post cb12lf
+<NoACT>
+ area choice many
+<NoACT>
+<NoACT>
+<NoACT>
+ day
+ depart
+ choice 19 arrive leave
+ choice 9 arrive
+ id tr9427 time a 28 minute trip ticket 10.10 pounds leave 15:40
+<NoACT>
+<NoACT>
+ dest
+ arrive 13:51 id tr7447
+<NoACT>
+ food area centre choice many
+ food lebanese
+<NoACT>
+ type area center of town choice 44
+ type church type college type museums fee free of charge choice 8
+ name christ s college post cb23bu fee free
+ day tuesday arrive 11:52 id tr3412
+ ticket 4.40 gbp time 17 minutes
+<NoACT>
+<NoACT>
+ price expensive type hotel stars 3
+ day people
+<NoACT>
+ price food indian choice many
+<NoACT>
+<NoACT>
+<NoACT>
+ choice 10 price cheap
+ choice 2 choice 1 choice 1 type guesthouses stars 4 stars 0
+ none none stars 4 price inexpensive name the alexander bed and breakfast type guesthouse
+<NoACT>
+<NoACT>
+ dest
+ car yellow ford phone 07017220129
+<NoACT>
+ area food
+ food
+ name restaurant 17 addr devere university arms regent street city centre
+<NoACT>
+<NoACT>
+<NoACT>
+ arrive 9:35 id tr3293
+ people
+<NoACT>
+ day people
+<NoACT>
+<NoACT>
+ area east name cherry hinton water play type free
+ phone 01223446100 addr cherry hinton hall addr cherry hinton road
+ depart dest
+ leave arrive
+ arrive 14:23 id tr9708 dest cambridge
+ ticket 75.10 pounds leave 11:40 arrive 14:23
+<NoACT>
+ food
+ none none price expensive food asian oriental area centre of town
+ addr 52 mill road city centre post cb12as
+ choice more than 70 dest bishops stratford day leave arrive depart
+ time 38 minute
+ leave 15:29 depart cambridge id tr3600
+<NoACT>
+<NoACT>
+ fee i do not have that information
+ fee not in the system
+ arrive 15:07 id tr5015 leave 13:39
+ ticket 16.60 pounds people
+<NoACT>
+<NoACT>
+ leave dest
+ car red lexus phone 07595414661
+<NoACT>
+<NoACT>
+<NoACT>
+ dest depart
+ ticket 37.80 id tr6985 leave 09:21
+<NoACT>
+ none none area north internet none type hotel parking none stars 2 price moderate -ly priced
+<NoACT>
+<NoACT>
+<NoACT>
+ choice many depart day
+ choice 7 arrive
+ id tr4096 arrive 17:52 leave 17:24
+<NoACT>
+ none none choice 3
+ time
+<NoACT>
+<NoACT>
+ area west name cambridge belfry internet none price cheap parking none stars 4
+<NoACT>
+<NoACT>
+ choice 133
+ id tr5297
+ leave 05:09
+ id tr3370 arrive 18:54 depart leicester dest ambridge leave 17:09
+<NoACT>
+ depart london kings cross day saturday dest cambridge depart
+ arrive 06:09 leave 05:19 id tr7594
+ ticket 13.20 gbp dest cambridge depart peterborough
+ name dojo noodle bar food asian oriental price cheap
+ time
+<NoACT>
+<NoACT>
+<NoACT>
+ price area
+<NoACT>
+<NoACT>
+ area center of town name old schools for architecture type churches choice 4 choice all
+ phone 01223332320
+<NoACT>
+ none none price expensive price range choice 1 name little seoul
+ choice only food korean food
+ type choice dozens area city centre
+<NoACT>
+ post cb58bs
+ car yellow volkswagen depart all saint s church phone 07396045902
+<NoACT>
+<NoACT>
+ choice 5
+ fee free
+ price price different price range -s choice all of type guesthouses
+ choice 3 name university arms hotel price expensive area centre of town
+ area north area east area south choice 9 type guesthouses
+ name acorn guest house
+ none none
+<NoACT>
+<NoACT>
+ name all saints church s phone 01223452587
+<NoACT>
+<NoACT>
+<NoACT>
+<NoACT>
+ choice quite a number choice over 10
+ type hotel stars 2 name the ashley hotel name the lovell lodge area north
+ internet none parking none
+ phone 01223425478 name lovell lodge post cb41sr
+ arrive leave
+ arrive 20:07 leave 19:29
+<NoACT>
+<NoACT>
+ food
+ price moderate name curry prince food indian
+<NoACT>
+<NoACT>
+ type theatre area south
+ phone 07384640819 car grey ford
+<NoACT>
+ food
+ price moderate -ly priced area east food indian
+ none none
+<NoACT>
+<NoACT>
+ addr the plough addr green end addr fen ditton area east name camboats phone 01223902112
+ fee not sure post cb58sx name camboats
+ leave arrive
+ car white number phone 07676825406
+ car white tesla
+<NoACT>
+ area type boating choice 4
+ name the cambridge punter post cb41as addr 251a chesterton road
+<NoACT>
+ choice 2 stars 4
+ area eastside area west area centre choice 5 internet none parking none
+ day stay
+<NoACT>
+ depart
+ car grey toyota
+ phone 07069671908
+<NoACT>
+ food indian choice several area city centre
+ none none
+<NoACT>
+<NoACT>
+ choice lots type hotel -s
+ none none
+ people stay
+ price expensive type hotel
+ none none post cb11ly stay people
+<NoACT>
+ post cb43px addr between victoria road and the river
+ type swimming pool area northern
+ price
+ name ugly duckling name tang chinese name hk fusion name seasame restaurant and bar area centre food chinese choice 4
+ day time
+ addr 12 st . johns street city centre
+<NoACT>
+ food italian price moderate -ly priced area east
+<NoACT>
+<NoACT>
+ type stars price area parking internet
+ none none name a and b guest house
+ price moderate area east stars 4 name a and b guest house
+ none none name acorn guest house
+<NoACT>
+<NoACT>
+<NoACT>
+ food price choice 69 area city centre
+ price food british choice 7 area centre
+ choice 3 food british price expensive
+ name fitzbillies addr 51 trumpington street city centre
+ fee free area centre of town type museums choice 11
+ addr free school lane phone 01223330906
+ phone 07015861608 car black bmw
+<NoACT>
+ area west side of town name kettle s yard type museum addr castle street phone 01223748100
+ fee they do not charge
+ post cb30aq
+ depart
+ id tr5216 leave 11:55
+<NoACT>
+<NoACT>
+ stars area price type internet none choice 29 parking none
+ price
+ area internet stars parking choice 12 type guesthouses
+<NoACT>
+<NoACT>
+ leave arrive
+ depart
+ car grey lexus phone 07089138985
+<NoACT>
+<NoACT>
+ depart
+ car red skoda phone 07278222346
+<NoACT>
+<NoACT>
+ none none food italian price expensive area center of town
+<NoACT>
+ type theatre addr clifton way phone 01223511511 area south
+ fee unknown
+ depart
+ leave dest
+ phone 07362737220 car grey tesla
+<NoACT>
+<NoACT>
+ area north name jesus green outdoor pool addr between victoria rd . and the river phone 01223302579
+ type swimmingpool
+ price area choice a wide variety food chinese
+ area choice 9
+ name ugly duckling
+<NoACT>
+<NoACT>
+ phone 01223902088 addr pool way addr whitehill road addr off newmarket road area east of town name abbey pool and astroturf pitch type swimmingpool post cb58nt
+<NoACT>
+ arrive depart
+ choice 2 choice 828 dest ely day friday arrive 10:07 leave 9:50 day
+ choice 3 leave 05:50 leave 07:50 leave 09:50
+ ticket 4.40 pounds id tr1923
+<NoACT>
+<NoACT>
+ type
+ fee free
+ depart dest
+ leave 9:40
+<NoACT>

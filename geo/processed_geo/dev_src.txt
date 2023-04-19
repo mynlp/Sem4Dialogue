@@ -1,0 +1,60 @@
+question: list the states .
+question: what is the largest state in the us ?
+question: what is the longest river ?
+question: how many states does iowa border ?
+question: what states border rhode island ?
+question: what states have cities named austin ?
+question: what is the lowest point in oregon ?
+question: how many rivers are found in colorado ?
+question: how many rivers in texas are longer than the red ?
+question: what state has the city with the largest population ?
+question: through which states does the mississippi run ?
+question: what is the capital of the largest state ?
+question: what is the biggest city in usa ?
+question: what cities in texas have the highest populations ?
+question: how many people live in kalamazoo ?
+question: what is the lowest point of the state with the largest area ?
+question: what is the capital of the state with the highest point ?
+question: what is the name of the state with the lowest point ?
+question: what states border states that border the state with the largest population ?
+question: what are the high points of states surrounding mississippi ?
+question: what is the smallest state through which the longest river runs ?
+question: how many rivers run through texas ?
+question: how big is massachusetts ?
+question: which state has the greatest density ?
+question: how many people live in hawaii ?
+question: what is the highest point in colorado ?
+question: where is houston ?
+question: what state contains the highest point in the us ?
+question: which states does the colorado river run through ?
+question: which state has the least population density ?
+question: what is the area of south carolina ?
+question: what is the longest river that runs through a state that borders tennessee ?
+question: what rivers run through maine ?
+question: what is the population of maine ?
+question: how many states border colorado and border new mexico ?
+question: which state is the city denver located in ?
+question: what state is des moines located in ?
+question: what is the most populous city in texas ?
+question: how many people live in the capital of georgia ?
+question: how many states border alaska ?
+question: what is the longest river in the state with the highest point ?
+question: what are the cities in california ?
+question: where is the lowest point in the us ?
+question: what is the density of texas ?
+question: how many square kilometers in the us ?
+question: states bordering iowa ?
+question: what is the largest city in minnesota by population ?
+question: state the state with the largest area .
+question: what states does the ohio river go through ?
+question: what is the biggest city in texas ?
+question: what is the population of oregon ?
+question: what state that borders texas is the largest ?
+question: what is the longest river in america ?
+question: what is the state with the lowest population ?
+question: what states border kentucky ?
+question: what states have rivers running through them ?
+question: what is the highest mountain in texas ?
+question: how many cities does the usa have ?
+question: what rivers are in new mexico ?
+question: what is the size of florida ?

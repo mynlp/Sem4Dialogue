@@ -1,0 +1,18 @@
+save_data: Spider/
+## Where the vocab(s) will be written
+src_vocab: Spider/spider_vocab/spider.vocab.src
+tgt_vocab: Spider/spider_vocab/spider.vocab.tgt
+# Prevent overwriting existing files in the folder
+overwrite: True
+# Corpus opts:
+data:
+    corpus_1:
+        path_src: Spider/processed_spider/train_src.txt
+        path_tgt: Spider/processed_spider/train_tgt.txt
+    valid:
+        path_src: Spider/processed_spider/dev_src.txt
+        path_tgt: Spider/processed_spider/dev_tgt.txt
+
+## Train on a single GPU
+world_size: 1
+gpu_ranks: [0]

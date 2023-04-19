@@ -1,0 +1,18 @@
+# toy_en_de.yaml
+
+## Where the samples will be written
+save_data: GeographySQL/run/example
+## Where the vocab(s) will be written
+src_vocab: GeographySQL/run/geography_sql.vocab.src
+tgt_vocab: GeographySQL/run/geography_sql.vocab.tgt
+# Prevent overwriting existing files in the folder
+overwrite: True
+
+# Corpus opts:
+data:
+    corpus_1:
+        path_src: GeographySQL/processed_geographysql/src_train.txt
+        path_tgt: GeographySQL/processed_geographysql/tgt_train.txt
+    valid:
+        path_src: GeographySQL/processed_geographysql/src_dev.txt
+        path_tgt: GeographySQL/processed_geographysql/tgt_dev.txt

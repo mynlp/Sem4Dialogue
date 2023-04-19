@@ -1,0 +1,26 @@
+# toy_en_de.yaml
+
+## Where the samples will be written
+save_data: geo/geo_vocab
+## Where the vocab(s) will be written
+src_vocab: geo/geo_vocab/geo.vocab.src
+tgt_vocab: geo/geo_vocab/geo.vocab.tgt
+# Prevent overwriting existing files in the folder
+overwrite: False
+# Corpus opts:
+data:
+    corpus_1:
+        path_src: geo/processed_geo/train_src.txt
+        path_tgt: geo/processed_geo/train_tgt.txt
+    valid:
+        path_src: geo/processed_geo/test_src.txt
+        path_tgt: geo/processed_geo/test_tgt.txt
+# Train on a single GPU
+world_size: 1
+gpu_ranks: [0]
+
+# Where to save the checkpoints
+save_model: geo/run/model
+save_checkpoint_steps: 500
+train_steps: 1000
+valid_steps: 500

@@ -1,0 +1,73 @@
+# toy_en_de.yaml
+
+## Where the samples will be written
+save_data: Sparc/
+## Where the vocab(s) will be written
+src_vocab: Sparc/sparc_vocab/sparc.vocab.src
+tgt_vocab: Sparc/sparc_vocab/sparc.vocab.tgt
+# Prevent overwriting existing files in the folder
+overwrite: True
+# Corpus opts:
+data:
+    corpus_1:
+        path_src: Sparc/processed_sparc/train_src.txt
+        path_tgt: Sparc/processed_sparc/train_tgt.txt
+    valid:
+        path_src: Sparc/processed_sparc/dev_src.txt
+        path_tgt: Sparc/processed_sparc/dev_tgt.txt
+
+## Train on a single GPU
+world_size: 1
+gpu_ranks: [0]
+#
+## Where to save the checkpoints
+#save_model: TreeDST/run/model
+#save_checkpoint_steps: 500
+#train_steps: 1000
+#valid_steps: 500
+
+# save_model: Sparc/run/LSTM_model
+# save_checkpoint_steps: 500
+# train_steps: 15000
+# valid_steps: 500
+# copy_attn: True
+# copy_attn_force: True
+# encoder_type: rnn
+# decoder_type: rnn
+# layers: 4
+# rnn_size: 500
+# rnn_type: LSTM
+# copy_attn: True
+
+
+save_model: Sparc/run/Transformer_model
+save_checkpoint_steps: 500
+train_steps: 10000
+valid_steps: 500
+copy_attn: True
+accum_count: [3]
+accum_steps: [0]
+average_decay: 0.0005
+model_dtype: "fp32"
+optim: "adam"
+learning_rate: 2
+warmup_steps: 8000
+decay_method: "noam"
+adam_beta2: 0.998
+max_grad_norm: 0
+label_smoothing: 0.1
+param_init: 0
+param_init_glorot: true
+normalization: "tokens"
+encoder_type: transformer
+decoder_type: transformer
+enc_layers: 6
+dec_layers: 6
+heads: 8
+rnn_size: 512
+word_vec_size: 512
+transformer_ff: 2048
+dropout_steps: [0]
+dropout: [0.1]
+attention_dropout: [0.1]
+n_samples: 10000

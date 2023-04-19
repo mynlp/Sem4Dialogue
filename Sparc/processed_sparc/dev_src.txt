@@ -1,0 +1,1625 @@
+What are all the airlines ?
+What are all the airlines ? Of these , which is Jetblue Airways ?
+What are all the airlines ? Of these , which is Jetblue Airways ? What is the country corresponding it ?
+What are all the airlines ? Of these , which is Jetblue Airways ? What is the country corresponding it ? What country is Jetblue Airways affiliated with?
+What are all the abbreviations ?
+What are all the abbreviations ? What is the abbreviation for Jetblue Airways ?
+What are all the abbreviations ? What is the abbreviation for Jetblue Airways ? Which abbreviation corresponds to Jetblue Airways?
+List all airline names and their abbreviations .
+List all airline names and their abbreviations . Of these , list only those in the USA .
+List all airline names and their abbreviations . Of these , list only those in the USA . What are the airline names and abbreviations for airlines in the USA?
+Find all information about the airport in the city Anthony .
+Find all information about the airport in the city Anthony . What is the airport code and airport name ?
+Find all information about the airport in the city Anthony . What is the airport code and airport name ? Give the airport code and airport name corresonding to the city Anthony.
+What are all the airlines ?
+What are all the airlines ? How many are there ?
+What are all the airlines ? How many are there ? What is the total number of airlines?
+What are all the airports ?
+What are all the airports ? How many are there ?
+What are all the airports ? How many are there ? Return the number of  airports.
+What are all the flights ?
+What are all the flights ? How many are there ?
+What are all the flights ? How many are there ? Return the number of flights.
+What are all the airline names ?
+What are all the airline names ? Of this , which has the abbreviation 'UAL ' ?
+What are all the airline names ? Of this , which has the abbreviation 'UAL ' ? Give the airline with abbreviation 'UAL'.
+What are the names of the airlines in the USA ?
+What are the names of the airlines in the USA ? How many are there ?
+What are the names of the airlines in the USA ? How many are there ? Return the number of airlines in the USA.
+What are the city and country for all airports ?
+What are the city and country for all airports ? Of these , what are the city and country for Alton airport ?
+What are the city and country for all airports ? Of these , what are the city and country for Alton airport ? Give the city and country for the Alton airport.
+What are all the airport names ?
+What are all the airport names ? Of these , which has code 'AKO ' ?
+What are all the airport names ? Of these , which has code 'AKO ' ? Return the name of the airport with code 'AKO'.
+What are all the airport names ?
+What are all the airport names ? Which is in Aberdeen ?
+What are all the airport names ? Which is in Aberdeen ? What are the names of airports in Aberdeen?
+What are all the flights departing from 'APG ' ?
+What are all the flights departing from 'APG ' ? How many are there ?
+What are all the flights departing from 'APG ' ? How many are there ? Count the number of flights departing from 'APG'.
+What flights land in ATO ?
+What flights land in ATO ? How many are there ?
+What flights land in ATO ? How many are there ? Count the number of flights into ATO.
+What are all the flights derparting from Aberdeen ?
+What are all the flights derparting from Aberdeen ? How many are there ?
+What are all the flights derparting from Aberdeen ? How many are there ? Return the number of flights departing from Aberdeen.
+What are all the flights arriving in Aberdeen .
+What are all the flights arriving in Aberdeen . How many are there ?
+What are all the flights arriving in Aberdeen . How many are there ? Return the number of flights arriving in Aberdeen.
+What are all the flights that leave from Aberdeen ?
+What are all the flights that leave from Aberdeen ? Of those , which land in Ashley ?
+What are all the flights that leave from Aberdeen ? Of those , which land in Ashley ? How many are there ?
+What are all the flights that leave from Aberdeen ? Of those , which land in Ashley ? How many are there ? How many flights fly from Aberdeen to Ashley?
+What are all the flights on Jetblue Airways ?
+What are all the flights on Jetblue Airways ? How many are there ?
+What are all the flights on Jetblue Airways ? How many are there ? Give the number of Jetblue Airways flights.
+What are the United Airlines flights ?
+What are the United Airlines flights ? How many are there ?
+What are the United Airlines flights ? How many are there ? How many land in ASY Airport ?
+What are the United Airlines flights ? How many are there ? How many land in ASY Airport ? Count the number of United Airlines flights arriving in ASY Airport.
+What are the United Airlines flights ?
+What are the United Airlines flights ? Which ones leave from AHD ?
+What are the United Airlines flights ? Which ones leave from AHD ? How many are there ?
+What are the United Airlines flights ? Which ones leave from AHD ? How many are there ? Return the number of United Airlines flights leaving from AHD Airport.
+Which United Airlines flights fly into Aberdeen ?
+Which United Airlines flights fly into Aberdeen ? How many are there ?
+Which United Airlines flights fly into Aberdeen ? How many are there ? Count the number of United Airlines flights that arrive in Aberdeen.
+Name all cities that have destination airports .
+Name all cities that have destination airports . Order them by number of arriving flights .
+Name all cities that have destination airports . Order them by number of arriving flights . Which one has the most ?
+Name all cities that have destination airports . Order them by number of arriving flights . Which one has the most ? Which city has the most frequent destination airport?
+Name all cities that have source airports .
+Name all cities that have source airports . Order them by number of departing flights .
+Name all cities that have source airports . Order them by number of departing flights . Which one has the most ?
+Name all cities that have source airports . Order them by number of departing flights . Which one has the most ? Which city is the most frequent source airport?
+What are airport codes of any airport with a arriving flight ?
+What are airport codes of any airport with a arriving flight ? Also include codes of airports with departure flights .
+What are airport codes of any airport with a arriving flight ? Also include codes of airports with departure flights . Which one has the highest number of flights ?
+What are airport codes of any airport with a arriving flight ? Also include codes of airports with departure flights . Which one has the highest number of flights ? What is the airport code of the airport with the most flights?
+What are airport codes of any airport with a arriving flight ?
+What are airport codes of any airport with a arriving flight ? Also include codes of airports with departure flights .
+What are airport codes of any airport with a arriving flight ? Also include codes of airports with departure flights . Which one has the least number of flights ?
+What are airport codes of any airport with a arriving flight ? Also include codes of airports with departure flights . Which one has the least number of flights ? Give the code of the airport with the least flights.
+Count the number of flights by airline .
+Count the number of flights by airline . Which airline has the most ?
+Count the number of flights by airline . Which airline has the most ? What airline serves the most flights?
+What are all the airline abbreviations and what countries are they in ?
+What are all the airline abbreviations and what countries are they in ? Order them by the number of flights that they have .
+What are all the airline abbreviations and what countries are they in ? Order them by the number of flights that they have . Which one has the fewest ?
+What are all the airline abbreviations and what countries are they in ? Order them by the number of flights that they have . Which one has the fewest ? What is the abbreviation of the airilne has the fewest flights and what country is it in?
+Which flights leave from AHD ?
+Which flights leave from AHD ? What are their airlines ?
+Which flights leave from AHD ? What are their airlines ? Which airlines have a flight with source airport AHD?
+Which flights arrive in AHD ?
+Which flights arrive in AHD ? What are their airlines ?
+Which flights arrive in AHD ? What are their airlines ? Which airlines have a flight with destination airport AHD?
+Which airlines have flights departing from APG ?
+Which airlines have flights departing from APG ? Of those , which also have flights from CVO ?
+Which airlines have flights departing from APG ? Of those , which also have flights from CVO ? Which airlines have departing flights from both APG and CVO airports?
+Which airlines have flights from CVO ?
+Which airlines have flights from CVO ? Of these , which do not have flights from APG ?
+Which airlines have flights from CVO ? Of these , which do not have flights from APG ? Which airlines have departures from CVO but not from APG airports?
+What are all the airlines ?
+What are all the airlines ? Which ones have more than 10 flights ?
+What are all the airlines ? Which ones have more than 10 flights ? Which airlines have at least 10 flights?
+What are all the airlines ?
+What are all the airlines ? Which ones have less than 200 flights ?
+What are all the airlines ? Which ones have less than 200 flights ? Which airlines have less than 200 flights?
+What are all the flight numbers ?
+What are all the flight numbers ? Which belong to United Airlines ?
+What are all the flight numbers ? Which belong to United Airlines ? Which flight numbers correspond to United Airlines flights?
+What are all the flight numbers ?
+What are all the flight numbers ? Of these , which correspond to flights leaving from APG ?
+What are all the flight numbers ? Of these , which correspond to flights leaving from APG ? Give the flight numbers of flights leaving from APG.
+What are all the flight numbers ?
+What are all the flight numbers ? Also , which numbers are for flights that land in APG ?
+What are all the flight numbers ? Also , which numbers are for flights that land in APG ? Give the flight numbers of flights landing at APG.
+What are all the flight numbers ?
+What are all the flight numbers ? Of these , which are departure flights ?
+What are all the flight numbers ? Of these , which are departure flights ? Which leave from Aberdeen ?
+What are all the flight numbers ? Of these , which are departure flights ? Which leave from Aberdeen ? Give the flight numbers of flights leaving from Aberdeen.
+What are all the flight numbers ?
+What are all the flight numbers ? Of these , which are arrival flights ?
+What are all the flight numbers ? Of these , which are arrival flights ? Which land in Aberdeen ?
+What are all the flight numbers ? Of these , which are arrival flights ? Which land in Aberdeen ? Give the flight numbers of flights arriving in Aberdeen.
+What flights land in Aberdeen ?
+What flights land in Aberdeen ? Also include flights that land in Abilene .
+What flights land in Aberdeen ? Also include flights that land in Abilene . How many are there ?
+What flights land in Aberdeen ? Also include flights that land in Abilene . How many are there ? How many flights land in Aberdeen or Abilene?
+What are the source airports ?
+What are the source airports ? Also include the destination airports .
+What are the source airports ? Also include the destination airports . Which airports are not included ?
+What are the source airports ? Also include the destination airports . Which airports are not included ? Which airports do not have departing or arriving flights?
+What information is there on pets ?
+What information is there on pets ? Which pets weigh more than 10 ?
+What information is there on pets ? Which pets weigh more than 10 ? How many are there ?
+What information is there on pets ? Which pets weigh more than 10 ? How many are there ? How many pets have a greater weight than 10?
+Order the pets by age
+Order the pets by age How much does each one weigh ?
+Order the pets by age How much does each one weigh ? What about the first one ?
+Order the pets by age How much does each one weigh ? What about the first one ? How much does the youngest dog weigh?
+What are the different types of pets ?
+What are the different types of pets ? For each of those types , what is the maximum weight ?
+What are the different types of pets ? For each of those types , what is the maximum weight ? List the maximum weight and type for each type of pet.
+Which pets are owned by students older than 20 ?
+Which pets are owned by students older than 20 ? How many are there ?
+Which pets are owned by students older than 20 ? How many are there ? How many pets are owned by students that have an age greater than 20?
+Who are the female students ?
+Who are the female students ? Of those , who has a pet ?
+Who are the female students ? Of those , who has a pet ? How many of those have dogs ?
+Who are the female students ? Of those , who has a pet ? How many of those have dogs ? How many dog pets are raised by female students?
+What are the different pet types ?
+What are the different pet types ? How many exist ?
+What are the different pet types ? How many exist ? How many different types of pet are there?
+what is the first name of every student ?
+what is the first name of every student ? Of those names , which ones correspond to somebody who has a cat ?
+what is the first name of every student ? Of those names , which ones correspond to somebody who has a cat ? Also , combine those names with those who have a dog .
+what is the first name of every student ? Of those names , which ones correspond to somebody who has a cat ? Also , combine those names with those who have a dog . What are the first names of every student who has a cat or dog as a pet?
+Which students have a dog as their type of pet ?
+Which students have a dog as their type of pet ? Who also has a cat ?
+Which students have a dog as their type of pet ? Who also has a cat ? What are their first names ?
+Which students have a dog as their type of pet ? Who also has a cat ? What are their first names ? What are the students' first names who have both cats and dogs as pets?
+Which students have a cat as their pets ?
+Which students have a cat as their pets ? What are they majoring in ?
+Which students have a cat as their pets ? What are they majoring in ? Also , how old are they ?
+Which students have a cat as their pets ? What are they majoring in ? Also , how old are they ? What major is every student who does not own a cat as a pet, and also how old are they?
+What is every student 's id ?
+What is every student 's id ? Of those ids , which correspond to those who own cats as pets ?
+What is every student 's id ? Of those ids , which correspond to those who own cats as pets ? List all the other ids .
+What is every student 's id ? Of those ids , which correspond to those who own cats as pets ? List all the other ids . What are the ids of the students who do not own cats as pets?
+Which students have dogs ?
+Which students have dogs ? Of those , who does not own a cat ?
+Which students have dogs ? Of those , who does not own a cat ? What are their first names and ages ?
+Which students have dogs ? Of those , who does not own a cat ? What are their first names and ages ? What is the first name of every student who has a dog but does not have a cat?
+Who is the youngest pet ?
+Who is the youngest pet ? What type are they ?
+Who is the youngest pet ? What type are they ? Also , how much do they weigh ?
+Who is the youngest pet ? What type are they ? Also , how much do they weigh ? What type of pet is the youngest animal, and how much does it weigh?
+What are ids of every pet ?
+What are ids of every pet ? For those , which refer to pets older than 1 ?
+What are ids of every pet ? For those , which refer to pets older than 1 ? Also , how much do they weigh ?
+What are ids of every pet ? For those , which refer to pets older than 1 ? Also , how much do they weigh ? What is the id and weight of every pet who is older than 1?
+What are the different pet types ?
+What are the different pet types ? For each of those , what is the maximum age ?
+What are the different pet types ? For each of those , what is the maximum age ? What about the average age ?
+What are the different pet types ? For each of those , what is the maximum age ? What about the average age ? What is the average and maximum age for each pet type?
+What information is there on pets ?
+What information is there on pets ? For each pet type , what is the average weight ?
+What information is there on pets ? For each pet type , what is the average weight ? What is the average weight for each type of pet?
+Which students have pets ?
+Which students have pets ? What are the different first names ?
+Which students have pets ? What are the different first names ? Also , what are their ages ?
+Which students have pets ? What are the different first names ? Also , what are their ages ? What are the different first names and ages of the students who do have pets?
+Which students have pets ?
+Which students have pets ? Of those , whose last name is smith ?
+Which students have pets ? Of those , whose last name is smith ? What is their pet 's id ?
+Which students have pets ? Of those , whose last name is smith ? What is their pet 's id ? What is the id of the pet owned by the student whose last name is 'Smith'?
+Which of the students have pets ?
+Which of the students have pets ? How many pets does each of them have ?
+Which of the students have pets ? How many pets does each of them have ? For students who have pets, how many pets does each student have?
+What is the first name and sex of each student ?
+What is the first name and sex of each student ? Which of those belong to somebody who has more than one pet ?
+What is the first name and sex of each student ? Which of those belong to somebody who has more than one pet ? What is the first name and gender of the all the students who have more than one pet?
+What is the id of the three-year old cat ?
+What is the id of the three-year old cat ? Who is the owner of that cat ?
+What is the id of the three-year old cat ? Who is the owner of that cat ? What is their last name ?
+What is the id of the three-year old cat ? Who is the owner of that cat ? What is their last name ? What is the last name of the student who has a cat that is 3 years old?
+Which students do not own any pets ?
+Which students do not own any pets ? What is their average age ?
+Which students do not own any pets ? What is their average age ? What is the average age for all students who do not own any pets?
+What are the names of all the countries ?
+What are the names of all the countries ? Give the names of the ones that became independent after 1950 .
+What are the names of all the countries ? Give the names of the ones that became independent after 1950 . Give the names of the nations that were founded after 1950.
+How many countries are there ?
+How many countries are there ? Out of those , how many have a republic as their form of government ?
+How many countries are there ? Out of those , how many have a republic as their form of government ? How many countries have governments that are republics?
+What are the countries in the Carribean region ?
+What are the countries in the Carribean region ? What is the surface area of each of those countries ?
+What are the countries in the Carribean region ? What is the surface area of each of those countries ? Find the total surface area of the above .
+What are the countries in the Carribean region ? What is the surface area of each of those countries ? Find the total surface area of the above . How much surface area do the countires in the Carribean cover together?
+What continent does each country belong to ?
+What continent does each country belong to ? Which one does Anguila belong to ?
+What continent does each country belong to ? Which one does Anguila belong to ? What is the continent name which Anguilla belongs to?
+What are the names of all the regions ?
+What are the names of all the regions ? Which of those is the city Kabul located in ?
+What are the names of all the regions ? Which of those is the city Kabul located in ? What region is Kabul in?
+What are all the languages ?
+What are all the languages ? What are the languages spoken in Aruba ?
+What are all the languages ? What are the languages spoken in Aruba ? Which one is the most popular ?
+What are all the languages ? What are the languages spoken in Aruba ? Which one is the most popular ? What language is predominantly spoken in Aruba?
+What are the population and life expectancies for all countries ?
+What are the population and life expectancies for all countries ? Of those , which ones are for the country Brazil ?
+What are the population and life expectancies for all countries ? Of those , which ones are for the country Brazil ? Give me Brazil’s population and life expectancies.
+Which region is Angola in ?
+Which region is Angola in ? For that country , what is its population ?
+Which region is Angola in ? For that country , what is its population ? What region does Angola belong to and what is its population?
+What are the life expectancies for all the countries ?
+What are the life expectancies for all the countries ? What are the life expectancies for the countries in the region of Central Africa ?
+What are the life expectancies for all the countries ? What are the life expectancies for the countries in the region of Central Africa ? What is the average of those ?
+What are the life expectancies for all the countries ? What are the life expectancies for the countries in the region of Central Africa ? What is the average of those ? How long is the people’s average life expectancy in Central Africa?
+What are the names of the countries in Asia ?
+What are the names of the countries in Asia ? Which one has the shortest life expectancy ?
+What are the names of the countries in Asia ? Which one has the shortest life expectancy ? Give the name of the country in Asia with the lowest life expectancy.
+How many people live in Asia ?
+How many people live in Asia ? What about the largest GNP among them ?
+How many people live in Asia ? What about the largest GNP among them ? How many people live in Asia, and what is the largest GNP among them?
+Which countries are in Africa ?
+Which countries are in Africa ? Which countries are also republics ?
+Which countries are in Africa ? Which countries are also republics ? What is the average of their life expectancies ?
+Which countries are in Africa ? Which countries are also republics ? What is the average of their life expectancies ? Give the average life expectancy for countries in Africa which are republics?
+What are the countries in the continents of Asia or Europe ?
+What are the countries in the continents of Asia or Europe ? What is the surface area of each country ?
+What are the countries in the continents of Asia or Europe ? What is the surface area of each country ? What is the total surface area summed up ?
+What are the countries in the continents of Asia or Europe ? What is the surface area of each country ? What is the total surface area summed up ? Give the total surface area covered by countries in Asia or Europe.
+What are the populations of each city in the district of Gelderland ?
+What are the populations of each city in the district of Gelderland ? What is the total population in that district ?
+What are the populations of each city in the district of Gelderland ? What is the total population in that district ? What is the total population of Gelderland district?
+What are all the nations ?
+What are all the nations ? Which of those have a government that is a US territory ?
+What are all the nations ? Which of those have a government that is a US territory ? For those , what is the average GNP and total population ?
+What are all the nations ? Which of those have a government that is a US territory ? For those , what is the average GNP and total population ? Give the mean GNP and total population of nations which are considered US territory.
+What are all the distinct languages used around the world ?
+What are all the distinct languages used around the world ? How many are there ?
+What are all the distinct languages used around the world ? How many are there ? What is the number of distinct languages used around the world?
+What are the distinct forms of government in the continent of Africa ?
+What are the distinct forms of government in the continent of Africa ? How many are there ?
+What are the distinct forms of government in the continent of Africa ? How many are there ? How many different forms of governments are there in Africa?
+What is the information about the country Aruba ?
+What is the information about the country Aruba ? What are the languages used in Aruba ?
+What is the information about the country Aruba ? What are the languages used in Aruba ? How many are there ?
+What is the information about the country Aruba ? What are the languages used in Aruba ? How many are there ? How many languages are spoken in Aruba?
+What are the languages used in Afghanistan ?
+What are the languages used in Afghanistan ? Of those , how many are the official languages ?
+What are the languages used in Afghanistan ? Of those , how many are the official languages ? How many official languages are spoken in Afghanistan?
+How many languages are spoken in each country ?
+How many languages are spoken in each country ? Which country speaks the most ?
+How many languages are spoken in each country ? Which country speaks the most ? Give the name of the nation that uses the greatest amount of languages.
+How many languages are spoken on each continent ?
+How many languages are spoken on each continent ? Which one speaks the most languages ?
+How many languages are spoken on each continent ? Which one speaks the most languages ? Which continent speaks the most languages?
+What are the countries that speak English ?
+What are the countries that speak English ? Which of those also speak Dutch ?
+What are the countries that speak English ? Which of those also speak Dutch ? How many of them are there ?
+What are the countries that speak English ? Which of those also speak Dutch ? How many of them are there ? What is the number of nations that use English and Dutch?
+What are the names of countries which speak English ?
+What are the names of countries which speak English ? Of those countries , what are the names of the nations that speak French as well ?
+What are the names of countries which speak English ? Of those countries , what are the names of the nations that speak French as well ? Give the names of nations that speak both English and French.
+What are the official languages of each country ?
+What are the official languages of each country ? Of those countries , give the names of the ones that have English as one of the official languages .
+What are the official languages of each country ? Of those countries , give the names of the ones that have English as one of the official languages . Of those , which also have French as another official language ?
+What are the official languages of each country ? Of those countries , give the names of the ones that have English as one of the official languages . Of those , which also have French as another official language ? Give the names of countries with English and French as official languages.
+In which countries is Chinese spoken ?
+In which countries is Chinese spoken ? Which distinct continents are they in ?
+In which countries is Chinese spoken ? Which distinct continents are they in ? How many of them are there ?
+In which countries is Chinese spoken ? Which distinct continents are they in ? How many of them are there ? How many continents speak Chinese?
+What are all the different regions ?
+What are all the different regions ? Which of those speak Dutch or English ?
+What are all the different regions ? Which of those speak Dutch or English ? Which regions speak Dutch or English?
+What are the official languages for each country ?
+What are the official languages for each country ? Which of these countries have English or Dutch ?
+What are the official languages for each country ? Which of these countries have English or Dutch ? Which countries have either English or Dutch as an official language?
+What are all the different languages used in the continent of Asia ?
+What are all the different languages used in the continent of Asia ? Which one is used by the largest number of Asian countries ?
+What are all the different languages used in the continent of Asia ? Which one is used by the largest number of Asian countries ? What is the language that is used by the largest number of Asian nations?
+Which countries have republics as their form of government ?
+Which countries have republics as their form of government ? Which language is spoken by only one of those countries ?
+Which countries have republics as their form of government ? Which language is spoken by only one of those countries ? What languages are only used by a single country with a republic government?
+What are the names of all the cities that use English ?
+What are the names of all the cities that use English ? Which of those has the largest population ?
+What are the names of all the cities that use English ? Which of those has the largest population ? What is the most populace city that speaks English?
+What are the names , population , and life expectancy for all the countries in Asia ?
+What are the names , population , and life expectancy for all the countries in Asia ? Of those , which belong to the country with the largest surface area ?
+What are the names , population , and life expectancy for all the countries in Asia ? Of those , which belong to the country with the largest surface area ? What are the name, population, and life expectancy of the largest Asian country by land?
+What are the official languages of each country ?
+What are the official languages of each country ? Which countries do not have English as the official language ?
+What are the official languages of each country ? Which countries do not have English as the official language ? In those countries , what is the average life expectancy ?
+What are the official languages of each country ? Which countries do not have English as the official language ? In those countries , what is the average life expectancy ? Give the mean life expectancy of countries in which English is not the official language.
+What are the names of each country that does not speak English ?
+What are the names of each country that does not speak English ? How many people live in those countries ?
+What are the names of each country that does not speak English ? How many people live in those countries ? How many people live in countries that do not speak English?
+Which country has a head of state named Beatrix ?
+Which country has a head of state named Beatrix ? What languages are spoken in that country ?
+Which country has a head of state named Beatrix ? What languages are spoken in that country ? Which of those languages is the official one ?
+Which country has a head of state named Beatrix ? What languages are spoken in that country ? Which of those languages is the official one ? What is the official language used in the country the name of whose head of state is Beatrix.
+What are the names of all the countries ?
+What are the names of all the countries ? What are the names of those countries that were founded after 1930 ?
+What are the names of all the countries ? What are the names of those countries that were founded after 1930 ? For those countries , how many unique official languages are spoken in total ?
+What are the names of all the countries ? What are the names of those countries that were founded after 1930 ? For those countries , how many unique official languages are spoken in total ? For the countries founded before 1930, what is the total number of distinct official languages?
+What are all the information about European countries ?
+What are all the information about European countries ? Of those countries , What is the minimum surface area ?
+What are all the information about European countries ? Of those countries , What is the minimum surface area ? What are the countries that have a greater surface area than that ?
+What are all the information about European countries ? Of those countries , What is the minimum surface area ? What are the countries that have a greater surface area than that ? Which countries have greater area than that of any country in Europe?
+What is the maximum population of a country in Asia ?
+What is the maximum population of a country in Asia ? Which countries in Africa have a population smaller than that ?
+What is the maximum population of a country in Asia ? Which countries in Africa have a population smaller than that ? Which African countries have a smaller population than that of any country in Asia?
+What is the smallest population of a country in Africa ?
+What is the smallest population of a country in Africa ? Which Asian countries have a greater population than that ?
+What is the smallest population of a country in Africa ? Which Asian countries have a greater population than that ? What are the Asian countries which have a population larger than that of any country in Africa?
+What are the country codes of all the countries ?
+What are the country codes of all the countries ? Of those countries , give the country codes for those which do not speak English .
+What are the country codes of all the countries ? Of those countries , give the country codes for those which do not speak English . Return the country codes for countries that do not speak English.
+What are the country codes of all the countries ?
+What are the country codes of all the countries ? Of those , which do not speak English ?
+What are the country codes of all the countries ? Of those , which do not speak English ? Give the country codes for countries in which people speak langauges that are not English.
+What are the country codes for countries which are not republics ?
+What are the country codes for countries which are not republics ? Of those , which do not speak English ?
+What are the country codes for countries which are not republics ? Of those , which do not speak English ? Return the codes of countries that do not speak English and do not have Republics for governments.
+What are the names of the countries where English is the official language ?
+What are the names of the countries where English is the official language ? What are the names of the countries in Europe that are not one of those ?
+What are the names of the countries where English is the official language ? What are the names of the countries in Europe that are not one of those ? What are the names of the cities in those countries ?
+What are the names of the countries where English is the official language ? What are the names of the countries in Europe that are not one of those ? What are the names of the cities in those countries ? What are the names of cities in Europe for which English is not the official language?
+What are the countries in Asia where Chinese is spoken ?
+What are the countries in Asia where Chinese is spoken ? Of those , which have Chinese as the official language ?
+What are the countries in Asia where Chinese is spoken ? Of those , which have Chinese as the official language ? What are the different cities in those countries ?
+What are the countries in Asia where Chinese is spoken ? Of those , which have Chinese as the official language ? What are the different cities in those countries ? Return the different names of cities that are in Asia and for which Chinese is the official language.
+Which country has the smallest population ?
+Which country has the smallest population ? What is its name , independence year , and surface area ?
+Which country has the smallest population ? What is its name , independence year , and surface area ? Give the name, year of independence, and surface area of the country that has the lowest population.
+What is the country with the largest surface area ?
+What is the country with the largest surface area ? What is its population , name and leader ?
+What is the country with the largest surface area ? What is its population , name and leader ? Give the name, population, and head of state for the country that has the largest area.
+What are the names of the countries ?
+What are the names of the countries ? Which of them speak at least three languages ?
+What are the names of the countries ? Which of them speak at least three languages ? Also , how many languages are spoken in each of those countries ?
+What are the names of the countries ? Which of them speak at least three languages ? Also , how many languages are spoken in each of those countries ? What are the names of countries that speak more than 2 languages, as well as how many languages they speak?
+What is the average city population for each city ?
+What is the average city population for each city ? For each district , count how many cities have a population greater than the average .
+What is the average city population for each city ? For each district , count how many cities have a population greater than the average . How many cities in each district have a population that is above the average population across all cities?
+The countries with which government form have an average life expectancy greater than age 72 ?
+The countries with which government form have an average life expectancy greater than age 72 ? For those , list the total population and government form name .
+The countries with which government form have an average life expectancy greater than age 72 ? For those , list the total population and government form name . What are the different government forms and what is the total population of each for government forms that have an average life expectancy greater than 72?
+Which continents have an average life expectancy less than age 72 ?
+Which continents have an average life expectancy less than age 72 ? Give their average life expectancy and total population .
+Which continents have an average life expectancy less than age 72 ? Give their average life expectancy and total population . What are the different continents and the total popuation and average life expectancy corresponding to each, for continents that have an average life expectancy less than 72?
+What are the countries with the top 5 largest surface areas ?
+What are the countries with the top 5 largest surface areas ? What are the surface areas and names of those countries ?
+What are the countries with the top 5 largest surface areas ? What are the surface areas and names of those countries ? Return the names and surface areas of the 5 largest countries.
+Order the countries by descending population size .
+Order the countries by descending population size . Give the names of the 3 countries which have the most .
+Order the countries by descending population size . Give the names of the 3 countries which have the most . Return the names of the 3 most populated countries.
+Order the countries by increasing population .
+Order the countries by increasing population . Give the names of the 3 countries with the lowest .
+Order the countries by increasing population . Give the names of the 3 countries with the lowest . Return the names of the 3 countries with the fewest people.
+What are the countries in the continent of Asia ?
+What are the countries in the continent of Asia ? How many are there ?
+What are the countries in the continent of Asia ? How many are there ? Count the number of countries in Asia.
+Which countries are in the continent of Europe ?
+Which countries are in the continent of Europe ? Of those , what are the names of those that have a population of 80000 ?
+Which countries are in the continent of Europe ? Of those , what are the names of those that have a population of 80000 ? Give the names of countries that are in Europe and have a population equal to 80000.
+What countries are in North America ?
+What countries are in North America ? Of those , which have surface area greater than 3000 ?
+What countries are in North America ? Of those , which have surface area greater than 3000 ? What is the total population and average surface area of those countries ?
+What countries are in North America ? Of those , which have surface area greater than 3000 ? What is the total population and average surface area of those countries ? Give the total population and average surface area corresponding to countries in Noth America that have a surface area greater than 3000.
+What are the names of all the cities ?
+What are the names of all the cities ? Which of those have a population between 160000 and 900000 ?
+What are the names of all the cities ? Which of those have a population between 160000 and 900000 ? Return the names of cities that have a population between 160000 and 900000.
+What are the different languages ?
+What are the different languages ? Which one is spoken in the most countries ?
+What are the different languages ? Which one is spoken in the most countries ? Give the language that is spoken in the most countries.
+Tell me﻿ the director of the cartoon named `` Day of the Dark Knight ! `` .
+Tell me﻿ the director of the cartoon named `` Day of the Dark Knight ! `` . What is the channel of this cartoon ?
+Tell me﻿ the director of the cartoon named `` Day of the Dark Knight ! `` . What is the channel of this cartoon ? Give me the titles of all cartoon directed by `` Ben Jones '' or `` Brandon Vietti '' ?
+Tell me﻿ the director of the cartoon named `` Day of the Dark Knight ! `` . What is the channel of this cartoon ? Give me the titles of all cartoon directed by `` Ben Jones '' or `` Brandon Vietti '' ? List the title of all cartoon directed by "Ben Jones" or "Brandon Vietti".
+Show me all the information about the Italian TV Channels .
+Show me all the information about the Italian TV Channels . How about the Polish TV Channels ?
+Show me all the information about the Italian TV Channels . How about the Polish TV Channels ? Which country has the most of TV Channels ? List the country and number of TV Channels it has .
+Show me all the information about the Italian TV Channels . How about the Polish TV Channels ? Which country has the most of TV Channels ? List the country and number of TV Channels it has . Which country has the most of TV Channels? List the country and number of TV Channels it has.
+Tell me the TV Channel of the cartoon titled `` The Eyes of Despero ! `` .
+Tell me the TV Channel of the cartoon titled `` The Eyes of Despero ! `` . How about this channel 's series name ?
+Tell me the TV Channel of the cartoon titled `` The Eyes of Despero ! `` . How about this channel 's series name ? Tell me the number of different series names and contents in the TV Channel table .
+Tell me the TV Channel of the cartoon titled `` The Eyes of Despero ! `` . How about this channel 's series name ? Tell me the number of different series names and contents in the TV Channel table . List the number of different series names and contents in the TV Channel table.
+Tell me the package option for the series named `` Rock TV '' .
+Tell me the package option for the series named `` Rock TV '' . tell me the language of this series .
+Tell me the package option for the series named `` Rock TV '' . tell me the language of this series . List the language used least number of TV Channel . List language and number of TV Channel .
+Tell me the package option for the series named `` Rock TV '' . tell me the language of this series . List the language used least number of TV Channel . List language and number of TV Channel . List the language used least number of TV Channel. List language and number of TV Channel.
+Tell me the author of the cartoon `` The Rise of the Blue Beetle ! ''
+Tell me the author of the cartoon `` The Rise of the Blue Beetle ! '' How about its director ?
+Tell me the author of the cartoon `` The Rise of the Blue Beetle ! '' How about its director ? What is its TV Channel ?
+Tell me the author of the cartoon `` The Rise of the Blue Beetle ! '' How about its director ? What is its TV Channel ? What is the TV Channel that shows the cartoon "The Rise of the Blue Beetle!"? List the TV Channel's series name.
+tell me the country of the TV Channel for the series named `` Sky Radio '' .
+tell me the country of the TV Channel for the series named `` Sky Radio '' . How about its content ?
+tell me the country of the TV Channel for the series named `` Sky Radio '' . How about its content ? I want to know the title of all Cartoons showed on TV Channel with series name `` Sky Radio '' .
+tell me the country of the TV Channel for the series named `` Sky Radio '' . How about its content ? I want to know the title of all Cartoons showed on TV Channel with series name `` Sky Radio '' . List the title of all Cartoons showed on TV Channel with series name "Sky Radio".
+Tell me the rating of the episode named `` Double Down '' .
+Tell me the rating of the episode named `` Double Down '' . How about the rating of the episode named `` Keepers '' .
+Tell me the rating of the episode named `` Double Down '' . How about the rating of the episode named `` Keepers '' . Okay , I want to know the top 3 highest Rating TV series . List the TV series 's Episode and Rating .
+Tell me the rating of the episode named `` Double Down '' . How about the rating of the episode named `` Keepers '' . Okay , I want to know the top 3 highest Rating TV series . List the TV series 's Episode and Rating . List top 3 highest Rating TV series. List the TV series's Episode and Rating.
+tell me the weekly rank of the episode named `` Emily '' .
+tell me the weekly rank of the episode named `` Emily '' . How about its share ?
+tell me the weekly rank of the episode named `` Emily '' . How about its share ? tell me the minimum and maximum share of TV series .
+tell me the weekly rank of the episode named `` Emily '' . How about its share ? tell me the minimum and maximum share of TV series . What is minimum and maximum share of TV series?
+Tell me the rating of the episode titled `` A Love of a Lifetime '' .
+Tell me the rating of the episode titled `` A Love of a Lifetime '' . How about its weekly rank ?
+Tell me the rating of the episode titled `` A Love of a Lifetime '' . How about its weekly rank ? And What is its TV Channel ?
+Tell me the rating of the episode titled `` A Love of a Lifetime '' . How about its weekly rank ? And What is its TV Channel ? What is the TV Channel of TV series with Episode "A Love of a Lifetime"? List the TV Channel's series name.
+tell me the content of TV Channel with the series named `` Sky Radio '' .
+tell me the content of TV Channel with the series named `` Sky Radio '' . How about its language ?
+tell me the content of TV Channel with the series named `` Sky Radio '' . How about its language ? Okay , now I want to know the Episode of all TV series showed on TV Channel with series name `` Sky Radio '' .
+tell me the content of TV Channel with the series named `` Sky Radio '' . How about its language ? Okay , now I want to know the Episode of all TV series showed on TV Channel with series name `` Sky Radio '' . List the Episode of all TV series showed on TV Channel with series name "Sky Radio".
+Tell me the air date of the cartoon titled `` Fall of the Blue Beetle ! `` .
+Tell me the air date of the cartoon titled `` Fall of the Blue Beetle ! `` . What is its production code ?
+Tell me the air date of the cartoon titled `` Fall of the Blue Beetle ! `` . What is its production code ? tell me the production code and channel of the most recently aired cartoon .
+Tell me the air date of the cartoon titled `` Fall of the Blue Beetle ! `` . What is its production code ? tell me the production code and channel of the most recently aired cartoon . Find the production code and channel of the most recently aired cartoon.
+Tell me the cartoons directed by Ben Jone .
+Tell me the cartoons directed by Ben Jone . Tell me the cartoons written by Todd Casey .
+Tell me the cartoons directed by Ben Jone . Tell me the cartoons written by Todd Casey . Which countries ' tv channels are playing some cartoon written by Todd Casey ?
+Tell me the cartoons directed by Ben Jone . Tell me the cartoons written by Todd Casey . Which countries ' tv channels are playing some cartoon written by Todd Casey ? which countries' tv channels are playing some cartoon written by Todd Casey?
+which countries ' tv channels are playing some cartoon written by Steven Melching ?
+which countries ' tv channels are playing some cartoon written by Steven Melching ? which countries ' tv channels are not playing any cartoon written by Todd Casey ?
+which countries ' tv channels are playing some cartoon written by Steven Melching ? which countries ' tv channels are not playing any cartoon written by Todd Casey ? which countries' tv channels are not playing any cartoon written by Todd Casey?
+Tell me the director of the cartoon titled `` Deep Cover for Batman ! `` .
+Tell me the director of the cartoon titled `` Deep Cover for Batman ! `` . I want to know this cartoon 's production code .
+Tell me the director of the cartoon titled `` Deep Cover for Batman ! `` . I want to know this cartoon 's production code . Tell me the series name and country of the tv channel that is playing some cartoons directed by Ben Jones and Michael Chang .
+Tell me the director of the cartoon titled `` Deep Cover for Batman ! `` . I want to know this cartoon 's production code . Tell me the series name and country of the tv channel that is playing some cartoons directed by Ben Jones and Michael Chang . Find the series name and country of the tv channel that is playing some cartoons directed by Ben Jones and Michael Chang?
+tell me the country of the TV channel with series named `` MTV Music ''
+tell me the country of the TV channel with series named `` MTV Music '' Tell me the number of Italian channels .
+tell me the country of the TV channel with series named `` MTV Music '' Tell me the number of Italian channels . find id of the tv channels that from the countries where have more than two tv channels .
+tell me the country of the TV channel with series named `` MTV Music '' Tell me the number of Italian channels . find id of the tv channels that from the countries where have more than two tv channels . find id of the tv channels that from the countries where have more than two tv channels.
+Who is the director of the cartoon titled `` Return of the Fearsome Fangs ! `` ?
+Who is the director of the cartoon titled `` Return of the Fearsome Fangs ! `` ? Tell me the cartoons directed by Ben Jones .
+Who is the director of the cartoon titled `` Return of the Fearsome Fangs ! `` ? Tell me the cartoons directed by Ben Jones . Find the id of tv channels that do not play any cartoon directed by Ben Jones .
+Who is the director of the cartoon titled `` Return of the Fearsome Fangs ! `` ? Tell me the cartoons directed by Ben Jones . Find the id of tv channels that do not play any cartoon directed by Ben Jones . find the id of tv channels that do not play any cartoon directed by Ben Jones.
+Show all the poker players .
+Show all the poker players . How many are there ?
+Show all the poker players . How many are there ? How many poker players are there?
+What is the earnings of each poker player ?
+What is the earnings of each poker player ? Sort them in descending order .
+What is the earnings of each poker player ? Sort them in descending order . List the earnings of poker players in descending order.
+Show all the information about each poker player .
+Show all the information about each poker player . What are their final table mades ?
+Show all the information about each poker player . What are their final table mades ? What are their final table mades and best finishes ?
+Show all the information about each poker player . What are their final table mades ? What are their final table mades and best finishes ? List the final tables made and the best finishes of poker players.
+What is the earnings of each poker player ?
+What is the earnings of each poker player ? Give me the average .
+What is the earnings of each poker player ? Give me the average . What is the average earnings of poker players?
+What is the money rank of each poker player ?
+What is the money rank of each poker player ? Sort them in the decreasing order .
+What is the money rank of each poker player ? Sort them in the decreasing order . Return the top one .
+What is the money rank of each poker player ? Sort them in the decreasing order . Return the top one . What is the money rank of the poker player with the highest earnings?
+Which poker player has earnings less than 200000 ?
+Which poker player has earnings less than 200000 ? Among them , what is the maximum number of final tables made ?
+Which poker player has earnings less than 200000 ? Among them , what is the maximum number of final tables made ? What is the maximum number of final tables made among poker players with earnings less than 200000?
+Show all the poker players .
+Show all the poker players . What are their names ?
+Show all the poker players . What are their names ? What are the names of poker players?
+Which poker players have earnings higher than 300000 ?
+Which poker players have earnings higher than 300000 ? What are their names ?
+Which poker players have earnings higher than 300000 ? What are their names ? What are the names of poker players whose earnings is higher than 300000?
+What are the names of all poker players ?
+What are the names of all poker players ? Sort them in the ascending order of the final tables made .
+What are the names of all poker players ? Sort them in the ascending order of the final tables made . List the names of poker players ordered by the final tables made in ascending order.
+What is the birth date of each poker player ?
+What is the birth date of each poker player ? Sort the list by the poker player 's earnings .
+What is the birth date of each poker player ? Sort the list by the poker player 's earnings . Give me the result for the player with the lowest earnings .
+What is the birth date of each poker player ? Sort the list by the poker player 's earnings . Give me the result for the player with the lowest earnings . What is the birth date of the poker player with the lowest earnings?
+What is the height of each poker player ?
+What is the height of each poker player ? Who has the largest height ?
+What is the height of each poker player ? Who has the largest height ? What is his or her money rank ?
+What is the height of each poker player ? Who has the largest height ? What is his or her money rank ? What is the money rank of the tallest poker player?
+What is the height of each poker player ?
+What is the height of each poker player ? Who all have heights greater than 200 ?
+What is the height of each poker player ? Who all have heights greater than 200 ? What is the average earnings among them ?
+What is the height of each poker player ? Who all have heights greater than 200 ? What is the average earnings among them ? What is the average earnings of poker players with height higher than 200?
+Sort all the poker players in descending order of earnings .
+Sort all the poker players in descending order of earnings . What are the names of poker players in descending order of earnings ?
+Sort all the poker players in descending order of earnings . What are the names of poker players in descending order of earnings ? What are the names of poker players in descending order of earnings?
+Show the nationality of each person .
+Show the nationality of each person . Group people by their nationality .
+Show the nationality of each person . Group people by their nationality . For each of the result , show the corresponding number of people of that nationality ?
+Show the nationality of each person . Group people by their nationality . For each of the result , show the corresponding number of people of that nationality ? What are different nationalities of people and the corresponding number of people from each nation?
+Show the nationality of each person .
+Show the nationality of each person . Count the number of people for each nationality .
+Show the nationality of each person . Count the number of people for each nationality . What is the most common nationality of people ?
+Show the nationality of each person . Count the number of people for each nationality . What is the most common nationality of people ? What is the most common nationality of people?
+Count the number of people for each nationality .
+Count the number of people for each nationality . Which nationalities are held by at least two people ?
+Count the number of people for each nationality . Which nationalities are held by at least two people ? What are the nationalities that are shared by at least two people?
+What are the names and birth dates of people ?
+What are the names and birth dates of people ? Sort the results in ascending alphabetical order of name .
+What are the names and birth dates of people ? Sort the results in ascending alphabetical order of name . List the names and birth dates of people in ascending alphabetical order of name.
+What are the names of all people ?
+What are the names of all people ? What about people whose nationality is not `` Russia '' ?
+What are the names of all people ? What about people whose nationality is not `` Russia '' ? Show names of people whose nationality is not "Russia".
+Show all the poker players .
+Show all the poker players . Show all people who are not poker players .
+Show all the poker players . Show all people who are not poker players . Give me their names .
+Show all the poker players . Show all people who are not poker players . Give me their names . List the names of people that are not poker players.
+What are the death tolls each time ?
+What are the death tolls each time ? What is the maximum number of deaths in any one time ?
+What are the death tolls each time ? What is the maximum number of deaths in any one time ? What about the minimum ?
+What are the death tolls each time ? What is the maximum number of deaths in any one time ? What about the minimum ? Give me the maximum and also the minimum .
+What are the death tolls each time ? What is the maximum number of deaths in any one time ? What about the minimum ? Give me the maximum and also the minimum . What is maximum and minimum death toll caused each time?
+Show me information about deaths caused by ships .
+Show me information about deaths caused by ships . Only ships with tonnage 't ' .
+Show me information about deaths caused by ships . Only ships with tonnage 't ' . Only return the death and injury information for those ships .
+Show me information about deaths caused by ships . Only ships with tonnage 't ' . Only return the death and injury information for those ships . What are the death and injury situations caused by the ship with tonnage 't'?
+What are the ids and names of the battles ?
+What are the ids and names of the battles ? Only show those that ships were lost in .
+What are the ids and names of the battles ? Only show those that ships were lost in . Please , just the ones with 'Brig ' ship type .
+What are the ids and names of the battles ? Only show those that ships were lost in . Please , just the ones with 'Brig ' ship type . What are the different ids and names of the battles that lost any 'Brig' type ships?
+How many people were killed or injured in each battle ?
+How many people were killed or injured in each battle ? Only show the deaths for those battles that produced at least ten deaths .
+How many people were killed or injured in each battle ? Only show the deaths for those battles that produced at least ten deaths . What are the ids and names of the battles that led to more than 10 people killed in total.
+List the injuries caused by each ship ( give ship id and name please ) .
+List the injuries caused by each ship ( give ship id and name please ) . Sort it by decreasing number of injuries .
+List the injuries caused by each ship ( give ship id and name please ) . Sort it by decreasing number of injuries . Only show the ship id and name that caused the most total injuries .
+List the injuries caused by each ship ( give ship id and name please ) . Sort it by decreasing number of injuries . Only show the ship id and name that caused the most total injuries . What is the ship id and name that caused most total injuries?
+Which battles did the bulgarian commander 'Kaloyan ' fight in ?
+Which battles did the bulgarian commander 'Kaloyan ' fight in ? How about the latin commander 'Baldwin I ' ?
+Which battles did the bulgarian commander 'Kaloyan ' fight in ? How about the latin commander 'Baldwin I ' ? Just the ones where they were fighting one another , please .
+Which battles did the bulgarian commander 'Kaloyan ' fight in ? How about the latin commander 'Baldwin I ' ? Just the ones where they were fighting one another , please . What are the distinct battle names which are between bulgarian commander 'Kaloyan' and latin commander 'Baldwin I'?
+Which battle ids lost ships with tonnage '225 ' ?
+Which battle ids lost ships with tonnage '225 ' ? Give the names of these battles , too .
+Which battle ids lost ships with tonnage '225 ' ? Give the names of these battles , too . Which battle ids and names did not lose any ship with tonnage '225 ' ?
+Which battle ids lost ships with tonnage '225 ' ? Give the names of these battles , too . Which battle ids and names did not lose any ship with tonnage '225 ' ? How many is that ?
+Which battle ids lost ships with tonnage '225 ' ? Give the names of these battles , too . Which battle ids and names did not lose any ship with tonnage '225 ' ? How many is that ? How many battles did not lose any ship with tonnage '225'?
+List the name and date of the battle that has lost the ship named 'Lettice '
+List the name and date of the battle that has lost the ship named 'Lettice ' Same for 'HMS Atlanta ' , please .
+List the name and date of the battle that has lost the ship named 'Lettice ' Same for 'HMS Atlanta ' , please . Can you intersect those ?
+List the name and date of the battle that has lost the ship named 'Lettice ' Same for 'HMS Atlanta ' , please . Can you intersect those ? List the name and date of the battle that has lost the ship named 'Lettice' and the ship named 'HMS Atalanta'
+Which battle ids and names lost ships in the 'English Channel ' ?
+Which battle ids and names lost ships in the 'English Channel ' ? Which did not ?
+Which battle ids and names lost ships in the 'English Channel ' ? Which did not ? For these ones , show their names , results , and bulgarian commanders .
+Which battle ids and names lost ships in the 'English Channel ' ? Which did not ? For these ones , show their names , results , and bulgarian commanders . Show names, results and bulgarian commanders of the battles with no ships lost in the 'English Channel'.
+How many continents are there ?
+How many continents are there ? Show all their ids and names !
+How many continents are there ? Show all their ids and names ! What countries do they each have ?
+How many continents are there ? Show all their ids and names ! What countries do they each have ? Count how many there are for each continent name and id !
+How many continents are there ? Show all their ids and names ! What countries do they each have ? Count how many there are for each continent name and id ! How many countries does each continent have? List the continent id, continent name and the number of countries.
+What are the names and ids of the different car makers ?
+What are the names and ids of the different car makers ? What countries are they each from ?
+What are the names and ids of the different car makers ? What countries are they each from ? For each , how many models do they each produce ?
+What are the names and ids of the different car makers ? What countries are they each from ? For each , how many models do they each produce ? Can actually just show the name , id and the number of models ?
+What are the names and ids of the different car makers ? What countries are they each from ? For each , how many models do they each produce ? Can actually just show the name , id and the number of models ? How many models does each car maker produce? List maker full name, id and the number.
+What is the average horsepower of all cars ?
+What is the average horsepower of all cars ? How about the maximum ?
+What is the average horsepower of all cars ? How about the maximum ? What about the minimum ?
+What is the average horsepower of all cars ? How about the maximum ? What about the minimum ? What is the model of the car with this horsepower ?
+What is the average horsepower of all cars ? How about the maximum ? What about the minimum ? What is the model of the car with this horsepower ? Which model of the car has the minimum horsepower?
+What is the average weight of all the cars ?
+What is the average weight of all the cars ? List all the car information with weights above this ?
+What is the average weight of all the cars ? List all the car information with weights above this ? How about below this ?
+What is the average weight of all the cars ? List all the car information with weights above this ? How about below this ? Please , show just their model names !
+What is the average weight of all the cars ? List all the car information with weights above this ? How about below this ? Please , show just their model names ! Find the model of the car whose weight is below the average weight.
+What are the ids , and models of the cars were made in 1970 ?
+What are the ids , and models of the cars were made in 1970 ? Show their horsepower and MPG as well ?
+What are the ids , and models of the cars were made in 1970 ? Show their horsepower and MPG as well ? Also provide the names of their makers !
+What are the ids , and models of the cars were made in 1970 ? Show their horsepower and MPG as well ? Also provide the names of their makers ! Just show a unique list of all these different makers .
+What are the ids , and models of the cars were made in 1970 ? Show their horsepower and MPG as well ? Also provide the names of their makers ! Just show a unique list of all these different makers . Find the name of the makers that produced some cars in the year of 1970?
+Show me the makes and models of each car !
+Show me the makes and models of each car ! Also provide which the year they were produced ?
+Show me the makes and models of each car ! Also provide which the year they were produced ? Which ones been produce in the earliest year ?
+Show me the makes and models of each car ! Also provide which the year they were produced ? Which ones been produce in the earliest year ? Show just the make and year !
+Show me the makes and models of each car ! Also provide which the year they were produced ? Which ones been produce in the earliest year ? Show just the make and year ! Find the make and production time of the cars that were produced in the earliest year?
+What are all the different car models ?
+What are all the different car models ? Show also all the car makes and the years that they were produced !
+What are all the different car models ? Show also all the car makes and the years that they were produced ! Show only those that were made after 1980 !
+What are all the different car models ? Show also all the car makes and the years that they were produced ! Show only those that were made after 1980 ! What are the distinct car models for these ?
+What are all the different car models ? Show also all the car makes and the years that they were produced ! Show only those that were made after 1980 ! What are the distinct car models for these ? Which distinct car models are the produced after 1980?
+What are the names and country name of each car maker ?
+What are the names and country name of each car maker ? Also provide the continent name for each !
+What are the names and country name of each car maker ? Also provide the continent name for each ! How many car makers are there per continent ?
+What are the names and country name of each car maker ? Also provide the continent name for each ! How many car makers are there per continent ? How many car makers are there in each continents? List the continent name and the count.
+How many countries are there ?
+How many countries are there ? How many car makers belong to each one ?
+How many countries are there ? How many car makers belong to each one ? What is the name of the country that has the least number ?
+How many countries are there ? How many car makers belong to each one ? What is the name of the country that has the least number ? How about the most ?
+How many countries are there ? How many car makers belong to each one ? What is the name of the country that has the least number ? How about the most ? Which of the countries has the most car makers? List the country name.
+How many makers are there ?
+How many makers are there ? What are their full names and ids ?
+How many makers are there ? What are their full names and ids ? What models have they each produced ?
+How many makers are there ? What are their full names and ids ? What models have they each produced ? Count how many modes there are per maker .
+How many makers are there ? What are their full names and ids ? What models have they each produced ? Count how many modes there are per maker . How many car models are produced by each maker? List the count and the maker full name.
+Show all the car ids with the make amc hornet sporabout ( sw ) ?
+Show all the car ids with the make amc hornet sporabout ( sw ) ? What is its horsepower ?
+Show all the car ids with the make amc hornet sporabout ( sw ) ? What is its horsepower ? How about its MPG ?
+Show all the car ids with the make amc hornet sporabout ( sw ) ? What is its horsepower ? How about its MPG ? How about its accelerate ?
+Show all the car ids with the make amc hornet sporabout ( sw ) ? What is its horsepower ? How about its MPG ? How about its accelerate ? What is the accelerate of the car make amc hornet sportabout (sw)?
+Show all the different car makers ?
+Show all the different car makers ? What are the names of the countries they belong to ?
+Show all the different car makers ? What are the names of the countries they belong to ? Show just the car makers from France !
+Show all the different car makers ? What are the names of the countries they belong to ? Show just the car makers from France ! How many are there ?
+Show all the different car makers ? What are the names of the countries they belong to ? Show just the car makers from France ! How many are there ? How many car makers are there in france?
+How many car models are produced in total ?
+How many car models are produced in total ? How many in Germany ?
+How many car models are produced in total ? How many in Germany ? How about in Japan ?
+How many car models are produced in total ? How many in Germany ? How about in Japan ? How about the USA ?
+How many car models are produced in total ? How many in Germany ? How about in Japan ? How about the USA ? How many car models are produced in the usa?
+What is all the car information for cars produced in 1974 ?
+What is all the car information for cars produced in 1974 ? Now , show me just the weight and cylinders of these cars .
+What is all the car information for cars produced in 1974 ? Now , show me just the weight and cylinders of these cars . List just those with 8 cylinders !
+What is all the car information for cars produced in 1974 ? Now , show me just the weight and cylinders of these cars . List just those with 8 cylinders ! What is the smallest weight ?
+What is all the car information for cars produced in 1974 ? Now , show me just the weight and cylinders of these cars . List just those with 8 cylinders ! What is the smallest weight ? What is the smallest weight of the car produced with 8 cylinders in 1974?
+What are all the different country names ?
+What are all the different country names ? Which ones have no car makers ?
+What are all the different country names ? Which ones have no car makers ? Which ones have at least one ?
+What are all the different country names ? Which ones have no car makers ? Which ones have at least one ? Also provide the country id !
+What are all the different country names ? Which ones have no car makers ? Which ones have at least one ? Also provide the country id ! What are the countries having at least one car maker? List name and id.
+Show all the car makers and their country name ?
+Show all the car makers and their country name ? Count how many there are per country name ?
+Show all the car makers and their country name ? Count how many there are per country name ? Show just those from countries in the continent Europe .
+Show all the car makers and their country name ? Count how many there are per country name ? Show just those from countries in the continent Europe . List the country names of those with at least 3 manufacturers !
+Show all the car makers and their country name ? Count how many there are per country name ? Show just those from countries in the continent Europe . List the country names of those with at least 3 manufacturers ! Which countries in europe have at least 3 car manufacturers?
+What is the horsepower , make for each car !
+What is the horsepower , make for each car ! Show those with 8 cylinders !
+What is the horsepower , make for each car ! Show those with 8 cylinders ! How about 3 ?
+What is the horsepower , make for each car ! Show those with 8 cylinders ! How about 3 ? Show the one with the maximum horsepower .
+What is the horsepower , make for each car ! Show those with 8 cylinders ! How about 3 ? Show the one with the maximum horsepower . What is the maximum horsepower and the make of the car models with 3 cylinders?
+What is id of the car with the max horsepower ?
+What is id of the car with the max horsepower ? How about with the max MPG ?
+What is id of the car with the max horsepower ? How about with the max MPG ? Show its make !
+What is id of the car with the max horsepower ? How about with the max MPG ? Show its make ! Now show its model !
+What is id of the car with the max horsepower ? How about with the max MPG ? Show its make ! Now show its model ! Which model saves the most gasoline? That is to say, have the maximum miles per gallon.
+What is the average edispl of all cars ?
+What is the average edispl of all cars ? Can you show the average per car make ?
+What is the average edispl of all cars ? Can you show the average per car make ? How about per car model ?
+What is the average edispl of all cars ? Can you show the average per car make ? How about per car model ? Show the average for the model volvo !
+What is the average edispl of all cars ? Can you show the average per car make ? How about per car model ? Show the average for the model volvo ! What is the average edispl of the cars of model volvo?
+What are all the different models for each car ?
+What are all the different models for each car ? What are the makes for each ?
+What are all the different models for each car ? What are the makes for each ? How many makes are there for each ?
+What are all the different models for each car ? What are the makes for each ? How many makes are there for each ? What is the model name with the most makes ?
+What are all the different models for each car ? What are the makes for each ? How many makes are there for each ? What is the model name with the most makes ? Which model has the most version(make) of cars?
+Show the full names of all the different car makers ?
+Show the full names of all the different car makers ? Also include the car models produced by each !
+Show the full names of all the different car makers ? Also include the car models produced by each ! Show me just those produced by the maker with full name American Motor Company !
+Show the full names of all the different car makers ? Also include the car models produced by each ! Show me just those produced by the maker with full name American Motor Company ! How many are there ?
+Show the full names of all the different car makers ? Also include the car models produced by each ! Show me just those produced by the maker with full name American Motor Company ! How many are there ? How many car models were produced by the maker with full name American Motor Company?
+What is all the information for the makers that have designed at least 1 car model !
+What is all the information for the makers that have designed at least 1 car model ! Which ones have designed more than 1 ?
+What is all the information for the makers that have designed at least 1 car model ! Which ones have designed more than 1 ? How about more than 3 ?
+What is all the information for the makers that have designed at least 1 car model ! Which ones have designed more than 1 ? How about more than 3 ? List just the full name and id !
+What is all the information for the makers that have designed at least 1 car model ! Which ones have designed more than 1 ? How about more than 3 ? List just the full name and id ! Which makers designed more than 3 car models? List full name and the id.
+How many different models has maker with full name General Motors produced ?
+How many different models has maker with full name General Motors produced ? How many different models weigh over 3500 pounds ?
+How many different models has maker with full name General Motors produced ? How many different models weigh over 3500 pounds ? How many models have either of these features ?
+How many different models has maker with full name General Motors produced ? How many different models weigh over 3500 pounds ? How many models have either of these features ? Show me the distinct list of their model names !
+How many different models has maker with full name General Motors produced ? How many different models weigh over 3500 pounds ? How many models have either of these features ? Show me the distinct list of their model names ! Which distinctive models are produced by maker with the full name General Motors or weighing more than 3500?
+Show the years and weight of all the cars !
+Show the years and weight of all the cars ! Show distinct years that the cars that weigh more than 3000 were produced !
+Show the years and weight of all the cars ! Show distinct years that the cars that weigh more than 3000 were produced ! How about the different years for those that weight less than 4000 .
+Show the years and weight of all the cars ! Show distinct years that the cars that weigh more than 3000 were produced ! How about the different years for those that weight less than 4000 . What are the distinct years , for the cars that are both ?
+Show the years and weight of all the cars ! Show distinct years that the cars that weigh more than 3000 were produced ! How about the different years for those that weight less than 4000 . What are the distinct years , for the cars that are both ? In which years cars were produced weighing no less than 3000 and no more than 4000?
+What is the lowest accelerate for any car ?
+What is the lowest accelerate for any car ? How about the highest ?
+What is the lowest accelerate for any car ? How about the highest ? What is the ID , Make and Model of this car ?
+What is the lowest accelerate for any car ? How about the highest ? What is the ID , Make and Model of this car ? Show just its horsepower .
+What is the lowest accelerate for any car ? How about the highest ? What is the ID , Make and Model of this car ? Show just its horsepower . What is the horsepower of the car with the largest accelerate?
+Show all the car information for any car of the model volvo !
+Show all the car information for any car of the model volvo ! What is the car with the least accelerate ?
+Show all the car information for any car of the model volvo ! What is the car with the least accelerate ? What is its horsepower ?
+Show all the car information for any car of the model volvo ! What is the car with the least accelerate ? What is its horsepower ? What about its number of cylinders ?
+Show all the car information for any car of the model volvo ! What is the car with the least accelerate ? What is its horsepower ? What about its number of cylinders ? For model volvo, how many cylinders does the car with the least accelerate have?
+What is largest horsepower of all cars ?
+What is largest horsepower of all cars ? What is the accelerate of the car with this horsepower ?
+What is largest horsepower of all cars ? What is the accelerate of the car with this horsepower ? What are the car ids of the cars with a greater accelerate than this ?
+What is largest horsepower of all cars ? What is the accelerate of the car with this horsepower ? What are the car ids of the cars with a greater accelerate than this ? How many are there ?
+What is largest horsepower of all cars ? What is the accelerate of the car with this horsepower ? What are the car ids of the cars with a greater accelerate than this ? How many are there ? How many cars have a larger accelerate than the car with the largest horsepower?
+What are the names of the countries that have no car makers ?
+What are the names of the countries that have no car makers ? Show me all the names of all the different countries outside of those !
+What are the names of the countries that have no car makers ? Show me all the names of all the different countries outside of those ! How many of these have more than 1 car maker ?
+What are the names of the countries that have no car makers ? Show me all the names of all the different countries outside of those ! How many of these have more than 1 car maker ? How about more than 2 ?
+What are the names of the countries that have no car makers ? Show me all the names of all the different countries outside of those ! How many of these have more than 1 car maker ? How about more than 2 ? How many countries has more than 2 car makers?
+Show all models and horsepowers of all cars !
+Show all models and horsepowers of all cars ! Now show just the ones with 4 cylinders .
+Show all models and horsepowers of all cars ! Now show just the ones with 4 cylinders . What is the model of that with the lowest horsepower ?
+Show all models and horsepowers of all cars ! Now show just the ones with 4 cylinders . What is the model of that with the lowest horsepower ? How about the greatest horsepower ?
+Show all models and horsepowers of all cars ! Now show just the ones with 4 cylinders . What is the model of that with the lowest horsepower ? How about the greatest horsepower ? For the cars with 4 cylinders, which model has the largest horsepower?
+What is the lowest horsepower of all cars ?
+What is the lowest horsepower of all cars ? Show all the ids and makes of those with a horsepower greater than this !
+What is the lowest horsepower of all cars ? Show all the ids and makes of those with a horsepower greater than this ! Which ones have 5 cylinders or less ?
+What is the lowest horsepower of all cars ? Show all the ids and makes of those with a horsepower greater than this ! Which ones have 5 cylinders or less ? How about 3 or less ?
+What is the lowest horsepower of all cars ? Show all the ids and makes of those with a horsepower greater than this ! Which ones have 5 cylinders or less ? How about 3 or less ? Among the cars with more than lowest horsepower, which ones do not have more than 3 cylinders? List the car makeid and make name.
+Show me the mpg , horsepower and accelerate for all the cars that were produced before 1980 !
+Show me the mpg , horsepower and accelerate for all the cars that were produced before 1980 ! Also include the cars that have 8 cylinders !
+Show me the mpg , horsepower and accelerate for all the cars that were produced before 1980 ! Also include the cars that have 8 cylinders ! What is the max horsepower for this group ?
+Show me the mpg , horsepower and accelerate for all the cars that were produced before 1980 ! Also include the cars that have 8 cylinders ! What is the max horsepower for this group ? how about the max mpg ?
+Show me the mpg , horsepower and accelerate for all the cars that were produced before 1980 ! Also include the cars that have 8 cylinders ! What is the max horsepower for this group ? how about the max mpg ? What is the maximum miles per gallon of the car with 8 cylinders or produced before 1980?
+Show all the models that were built by the Ford Motor Company .
+Show all the models that were built by the Ford Motor Company . What are all the models except those !
+Show all the models that were built by the Ford Motor Company . What are all the models except those ! Also provide the weights for all different makes for each of these models .
+Show all the models that were built by the Ford Motor Company . What are all the models except those ! Also provide the weights for all different makes for each of these models . List all the different models from these that have makes that are lighter than 3500 !
+Show all the models that were built by the Ford Motor Company . What are all the models except those ! Also provide the weights for all different makes for each of these models . List all the different models from these that have makes that are lighter than 3500 ! Which models are lighter than 3500 but not built by the 'Ford Motor Company'?
+What are all the names of countries ?
+What are all the names of countries ? Which ones have at least one car maker ?
+What are all the names of countries ? Which ones have at least one car maker ? Show me all of car names other than these !
+What are all the names of countries ? Which ones have at least one car maker ? Show me all of car names other than these ! What are the name of the countries where there is not a single car maker?
+Show all the car maker id , names , the models and makes they produce !
+Show all the car maker id , names , the models and makes they produce ! How many model does each car maker produce ? List the id and maker !
+Show all the car maker id , names , the models and makes they produce ! How many model does each car maker produce ? List the id and maker ! Show me those that produce at least 2 !
+Show all the car maker id , names , the models and makes they produce ! How many model does each car maker produce ? List the id and maker ! Show me those that produce at least 2 ! For each of these , only show those that have more than 3 car makes !
+Show all the car maker id , names , the models and makes they produce ! How many model does each car maker produce ? List the id and maker ! Show me those that produce at least 2 ! For each of these , only show those that have more than 3 car makes ! Which are the car makers which produce at least 2 models and more than 3 car makes? List the id and the maker.
+How many matches are there ?
+How many matches are there ? What was the maximum length in minutes for the matches ?
+How many matches are there ? What was the maximum length in minutes for the matches ? Average ?
+How many matches are there ? What was the maximum length in minutes for the matches ? Average ? How about for the age of losers and winners ?
+How many matches are there ? What was the maximum length in minutes for the matches ? Average ? How about for the age of losers and winners ? Find the average age of losers and winners of all matches.
+How many distinct tourney names are there ?
+How many distinct tourney names are there ? Which ones have more than 20 matches ?
+How many distinct tourney names are there ? Which ones have more than 20 matches ? More than 10 ?
+How many distinct tourney names are there ? Which ones have more than 20 matches ? More than 10 ? Find the name of tourney that has more than 10 matches.
+How many distinct winners played in 2013 ?
+How many distinct winners played in 2013 ? Of those , how many also played in 2016 .
+How many distinct winners played in 2013 ? Of those , how many also played in 2016 . What are their names ?
+How many distinct winners played in 2013 ? Of those , how many also played in 2016 . What are their names ? List the names of all winners who played in both 2013 and 2016.
+How many matches were played ?
+How many matches were played ? How many where the loser hand is L ?
+How many matches were played ? How many where the loser hand is L ? How many played in year 2013 or 2016 ?
+How many matches were played ? How many where the loser hand is L ? How many played in year 2013 or 2016 ? List the number of all matches who played in years of 2013 or 2016.
+How many players are there ?
+How many players are there ? Which ones won in the tourney WTA Championships ? Give their last name and birth date .
+How many players are there ? Which ones won in the tourney WTA Championships ? Give their last name and birth date . Give first name and country code instead .
+How many players are there ? Which ones won in the tourney WTA Championships ? Give their last name and birth date . Give first name and country code instead . Which ones also won in the Australian Open ?
+How many players are there ? Which ones won in the tourney WTA Championships ? Give their last name and birth date . Give first name and country code instead . Which ones also won in the Australian Open ? What are the country code and first name of the players who won in both tourney WTA Championships and Australian Open?
+What is the birth date of the oldest player ?
+What is the birth date of the oldest player ? Give the player id and last name instead .
+What is the birth date of the oldest player ? Give the player id and last name instead . Give the first name and country code instead .
+What is the birth date of the oldest player ? Give the player id and last name instead . Give the first name and country code instead . Find the first name and country code of the oldest player.
+How many players have right / R hand ?
+How many players have right / R hand ? Left / L hand ?
+How many players have right / R hand ? Left / L hand ? Give their country code and birth date .
+How many players have right / R hand ? Left / L hand ? Give their country code and birth date . Order by their birth date , and give the first and last name instead .
+How many players have right / R hand ? Left / L hand ? Give their country code and birth date . Order by their birth date , and give the first and last name instead . List the first and last name of all players who are left / L hand in the order of birth date.
+How many players are there ?
+How many players are there ? How many tours did the player who did the least number of tours do ?
+How many players are there ? How many tours did the player who did the least number of tours do ? Most number of tours ?
+How many players are there ? How many tours did the player who did the least number of tours do ? Most number of tours ? Give the first name and country code instead .
+How many players are there ? How many tours did the player who did the least number of tours do ? Most number of tours ? Give the first name and country code instead . Find the first name and country code of the player who did the most number of tours.
+How many matches are there ?
+How many matches are there ? Find the surface that has the most number .
+How many matches are there ? Find the surface that has the most number . What about the year ?
+How many matches are there ? Find the surface that has the most number . What about the year ? Find the year that has the most number of matches.
+Find the name of the loser who lost the most times .
+Find the name of the loser who lost the most times . Give the rank points as well .
+Find the name of the loser who lost the most times . Give the rank points as well . Give the same , but for the winner who won the most times .
+Find the name of the loser who lost the most times . Give the rank points as well . Give the same , but for the winner who won the most times . Find the name and rank points of the winner who won the most times.
+Give the name of the loser who has the highest rank points .
+Give the name of the loser who has the highest rank points . Do the same but for the Australian Open tourney .
+Give the name of the loser who has the highest rank points . Do the same but for the Australian Open tourney . Give the winner name instead .
+Give the name of the loser who has the highest rank points . Do the same but for the Australian Open tourney . Give the winner name instead . Find the name of the winner who has the highest rank points and participated in the Australian Open tourney.
+Give the length of the match in minutes of the shortest match .
+Give the length of the match in minutes of the shortest match . Longest match ?
+Give the length of the match in minutes of the shortest match . Longest match ? Give the winner and loser name instead .
+Give the length of the match in minutes of the shortest match . Longest match ? Give the winner and loser name instead . find the names of loser and winner who played in the match with greatest number of minutes.
+Find the birth dates of each of the players .
+Find the birth dates of each of the players . Find tours and first name instead .
+Find the birth dates of each of the players . Find tours and first name instead . Give the average ranking instead of the tours .
+Find the birth dates of each of the players . Find tours and first name instead . Give the average ranking instead of the tours . Find the average ranking for each player and their first name.
+Give the number of tours for each player .
+Give the number of tours for each player . Give the average rank points and first name .
+Give the number of tours for each player . Give the average rank points and first name . Find the total ranking points instead .
+Give the number of tours for each player . Give the average rank points and first name . Find the total ranking points instead . Find the total ranking points for each player and their first name.
+Find the number of players for each country .
+Find the number of players for each country . Which country has the least number of players ? Give the country code .
+Find the number of players for each country . Which country has the least number of players ? Give the country code . Greatest number ?
+Find the number of players for each country . Which country has the least number of players ? Give the country code . Greatest number ? find the code of the country where has the greatest number of players.
+What is the number of players for each hand type ? Give the hand type as well .
+What is the number of players for each hand type ? Give the hand type as well . For each country ?
+What is the number of players for each hand type ? Give the hand type as well . For each country ? Give the ones that have more than 50 players .
+What is the number of players for each hand type ? Give the hand type as well . For each country ? Give the ones that have more than 50 players . Give the country code only .
+What is the number of players for each hand type ? Give the hand type as well . For each country ? Give the ones that have more than 50 players . Give the country code only . Find the codes of countries that have more than 50 players.
+Give the name of the 3 oldest losers across all matches .
+Give the name of the 3 oldest losers across all matches . How about the 3 oldest winners .
+Give the name of the 3 oldest losers across all matches . How about the 3 oldest winners . Youngest ? Give the rank as well .
+Give the name of the 3 oldest losers across all matches . How about the 3 oldest winners . Youngest ? Give the rank as well . Find the name and rank of the 3 youngest winners across all matches.
+How many different losers participated in the Australian Open ?
+How many different losers participated in the Australian Open ? Winners ?
+How many different losers participated in the Australian Open ? Winners ? How about in the WTA Championships , and were also left handed ?
+How many different losers participated in the Australian Open ? Winners ? How about in the WTA Championships , and were also left handed ? How many different winners both participated in the WTA Championships and were left handed?
+List all conductor information .
+List all conductor information . How many conductors are there ?
+List all conductor information . How many conductors are there ? How many conductors are there?
+What are the names of the conductors ?
+What are the names of the conductors ? What are the ages of the conductors ?
+What are the names of the conductors ? What are the ages of the conductors ? List the names of conductors in ascending order of age .
+What are the names of the conductors ? What are the ages of the conductors ? List the names of conductors in ascending order of age . List the names of conductors in ascending order of age.
+List the names of conductors
+List the names of conductors Among these conductors , which of them are not from the USA ?
+List the names of conductors Among these conductors , which of them are not from the USA ? What are the names of conductors whose nationalities are not "USA"?
+List the information of record companies .
+List the information of record companies . When were they founded ?
+List the information of record companies . When were they founded ? Please list the record companies of orchestras in descending order of years in which they were founded .
+List the information of record companies . When were they founded ? Please list the record companies of orchestras in descending order of years in which they were founded . What are the record companies of orchestras in descending order of years in which they were founded?
+What is the attendance of each show ?
+What is the attendance of each show ? What is the average attendance ?
+What is the attendance of each show ? What is the average attendance ? What is the average attendance of shows?
+What are the shares of performances ?
+What are the shares of performances ? What are the shares of performances whose type is not `` Live final '' ?
+What are the shares of performances ? What are the shares of performances whose type is not `` Live final '' ? What are the maximum and the minimum of these values ?
+What are the shares of performances ? What are the shares of performances whose type is not `` Live final '' ? What are the maximum and the minimum of these values ? What are the maximum and minimum share of performances whose type is not "Live final".
+List the nationalities of conductors .
+List the nationalities of conductors . How many are there ?
+List the nationalities of conductors . How many are there ? How many different nationalities do conductors have?
+List the names of conductors .
+List the names of conductors . List years of work of conductors .
+List the names of conductors . List years of work of conductors . List names of conductors in descending order of years of work .
+List the names of conductors . List years of work of conductors . List names of conductors in descending order of years of work . List names of conductors in descending order of years of work.
+List the names of the conductors .
+List the names of the conductors . List years of work of conductors .
+List the names of the conductors . List years of work of conductors . List the name of the conductor with the most years of work .
+List the names of the conductors . List years of work of conductors . List the name of the conductor with the most years of work . List the name of the conductor with the most years of work.
+Show the names of conductors .
+Show the names of conductors . Please list these names with the orchestras they have conducted .
+Show the names of conductors . Please list these names with the orchestras they have conducted . Show the names of conductors and the orchestras they have conducted.
+Please show the names of the conductors .
+Please show the names of the conductors . Which of them have conducted more than one orchestras ?
+Please show the names of the conductors . Which of them have conducted more than one orchestras ? Show the names of conductors that have conducted more than one orchestras.
+Please show the names of the conductors .
+Please show the names of the conductors . Who has conducted the most orchestras ?
+Please show the names of the conductors . Who has conducted the most orchestras ? Show the name of the conductor that has conducted the most number of orchestras.
+Please show the names of the conductors .
+Please show the names of the conductors . Who has conducted orchestras founded after 2008 ?
+Please show the names of the conductors . Who has conducted orchestras founded after 2008 ? Please show the name of the conductor that has conducted orchestras founded after 2008.
+Please show the record companies without duplicates .
+Please show the record companies without duplicates . Please also show their corresponding number of orchestras .
+Please show the record companies without duplicates . Please also show their corresponding number of orchestras . Please show the different record companies and the corresponding number of orchestras.
+Please show the record formats of orchestras .
+Please show the record formats of orchestras . Please list them in ascending order of count .
+Please show the record formats of orchestras . Please list them in ascending order of count . Please show the record formats of orchestras in ascending order of count.
+List the information of all record companies .
+List the information of all record companies . Which one is shared by the most orchestras ?
+List the information of all record companies . Which one is shared by the most orchestras ? List the record company shared by the most number of orchestras.
+List the names of orchestras .
+List the names of orchestras . Which of them have had no performances ?
+List the names of orchestras . Which of them have had no performances ? List the names of orchestras that have no performance.
+Please list the record companies .
+Please list the record companies . Which of them are shared by orchestras founded before 2003 ?
+Please list the record companies . Which of them are shared by orchestras founded before 2003 ? Which of them are shared by orchestras founded after 2003 ?
+Please list the record companies . Which of them are shared by orchestras founded before 2003 ? Which of them are shared by orchestras founded after 2003 ? Which of them are shared by orchestras founded before 2003 and after 2003 ?
+Please list the record companies . Which of them are shared by orchestras founded before 2003 ? Which of them are shared by orchestras founded after 2003 ? Which of them are shared by orchestras founded before 2003 and after 2003 ? Show the record companies shared by orchestras founded before 2003 and after 2003.
+List the orchestras whose record format is `` CD '' or `` DVD '' .
+List the orchestras whose record format is `` CD '' or `` DVD '' . How many of these orchestras are there ?
+List the orchestras whose record format is `` CD '' or `` DVD '' . How many of these orchestras are there ? Find the number of orchestras whose record format is "CD" or "DVD".
+Show information for all documents .
+Show information for all documents . Show their ids .
+Show information for all documents . Show their ids . Also show their document names and document descriptions .
+Show information for all documents . Show their ids . Also show their document names and document descriptions . List document IDs, document names, and document descriptions for all documents.
+Show the document name for all documents .
+Show the document name for all documents . Also show their description .
+Show the document name for all documents . Also show their description . Which one has description with the letter 'w ' in it ?
+Show the document name for all documents . Also show their description . Which one has description with the letter 'w ' in it ? Show its name and template id .
+Show the document name for all documents . Also show their description . Which one has description with the letter 'w ' in it ? Show its name and template id . What is the document name and template id for document with description with the letter 'w' in it?
+Show the the document name for all documents .
+Show the the document name for all documents . Show the document id for the one named `` Robbin CV '' ?
+Show the the document name for all documents . Show the document id for the one named `` Robbin CV '' ? Also show its template id and description .
+Show the the document name for all documents . Show the document id for the one named `` Robbin CV '' ? Also show its template id and description . What is the document id, template id and description for document named "Robbin CV"?
+Show the template id for all documents .
+Show the template id for all documents . Show all distinct results .
+Show the template id for all documents . Show all distinct results . How many are there ?
+Show the template id for all documents . Show all distinct results . How many are there ? How many different templates do all document use?
+Show the document ids .
+Show the document ids . Also show their template id and template type code .
+Show the document ids . Also show their template id and template type code . Which documents are using the template with type code 'PPT ' ?
+Show the document ids . Also show their template id and template type code . Which documents are using the template with type code 'PPT ' ? How many are there ?
+Show the document ids . Also show their template id and template type code . Which documents are using the template with type code 'PPT ' ? How many are there ? How many documents are using the template with type code 'PPT'?
+Show the template id for all documents .
+Show the template id for all documents . For each of them , show the number of documents using it .
+Show the template id for all documents . For each of them , show the number of documents using it . Show all template ids and number of documents using each template.
+Show the template id for all Documents .
+Show the template id for all Documents . Also show its template type code .
+Show the template id for all Documents . Also show its template type code . For each of them , show the number of documents using it .
+Show the template id for all Documents . Also show its template type code . For each of them , show the number of documents using it . Which one has the most ?
+Show the template id for all Documents . Also show its template type code . For each of them , show the number of documents using it . Which one has the most ? What is the id and type code for the template used by the most documents?
+Show the template id for all documents .
+Show the template id for all documents . For each of them , show the number of documents .
+Show the template id for all documents . For each of them , show the number of documents . Which of them are used by more than one document ?
+Show the template id for all documents . For each of them , show the number of documents . Which of them are used by more than one document ? Show ids for all templates that are used by more than one document.
+Show template ids used by some document .
+Show template ids used by some document . Show all template ids .
+Show template ids used by some document . Show all template ids . Which of them are not used by any document ?
+Show template ids used by some document . Show all template ids . Which of them are not used by any document ? Show ids for all templates not used by any document.
+Show info for all templates .
+Show info for all templates . How many are there ?
+Show info for all templates . How many are there ? How many templates do we have?
+Show template ids for all templates .
+Show template ids for all templates . Also show their version numbers and template type codes .
+Show template ids for all templates . Also show their version numbers and template type codes . Show template ids, version numbers, and template type codes for all templates.
+Show all template type codes for all templates .
+Show all template type codes for all templates . Filter out duplicates .
+Show all template type codes for all templates . Filter out duplicates . Show all distinct template type codes for all templates.
+Show the template ids for all templates .
+Show the template ids for all templates . How about the ids with template type code PP or PPT ?
+Show the template ids for all templates . How about the ids with template type code PP or PPT ? What are the ids of templates with template type code PP or PPT?
+Show the template type codes for all templates .
+Show the template type codes for all templates . How many of them have template type code CV ?
+Show the template type codes for all templates . How many of them have template type code CV ? How many templates have template type code CV?
+What is the version number for all template ?
+What is the version number for all template ? Only show those with version number later than 5 .
+What is the version number for all template ? Only show those with version number later than 5 . Also show their template type code .
+What is the version number for all template ? Only show those with version number later than 5 . Also show their template type code . What is the version number and template type code for the template with version number later than 5?
+Show the template type code for all templates .
+Show the template type code for all templates . For each of them , count the number of templates
+Show the template type code for all templates . For each of them , count the number of templates Show all template type codes and number of templates for each.
+Show all type codes for templates .
+Show all type codes for templates . For each of them , how many templates do they contain ?
+Show all type codes for templates . For each of them , how many templates do they contain ? Which of them contains the most templates ?
+Show all type codes for templates . For each of them , how many templates do they contain ? Which of them contains the most templates ? Which template type code has most number of templates?
+Show all template type codes .
+Show all template type codes . For each of them , show the count of templates .
+Show all template type codes . For each of them , show the count of templates . Which of them have fewer than three templates ?
+Show all template type codes . For each of them , show the count of templates . Which of them have fewer than three templates ? Show all template type codes with less than three templates.
+Show the version number for all templates .
+Show the version number for all templates . What is the smallest value ?
+Show the version number for all templates . What is the smallest value ? Also show its template type code .
+Show the version number for all templates . What is the smallest value ? Also show its template type code . What the smallest version number and its template type code?
+What is the template type code of the template .
+What is the template type code of the template . Also show the names of all documents using each template .
+What is the template type code of the template . Also show the names of all documents using each template . Which of the template type codes is used by document with the name `` Data base '' ?
+What is the template type code of the template . Also show the names of all documents using each template . Which of the template type codes is used by document with the name `` Data base '' ? What is the template type code of the template used by document with the name "Data base"?
+Show all document names .
+Show all document names . Also show their template type codes .
+Show all document names . Also show their template type codes . Which of the documents are using templates with template type code BK ?
+Show all document names . Also show their template type codes . Which of the documents are using templates with template type code BK ? Show all document names using templates with template type code BK.
+Show all template type codes .
+Show all template type codes . Also show the document ids using each template .
+Show all template type codes . Also show the document ids using each template . For each type code , how many documents are using that template ?
+Show all template type codes . Also show the document ids using each template . For each type code , how many documents are using that template ? Show all template type codes and the number of documents using each type.
+Show the type codes for all templates .
+Show the type codes for all templates . For each , how many documents are using this template ?
+Show the type codes for all templates . For each , how many documents are using this template ? Order the template type codes in descending order by this number .
+Show the type codes for all templates . For each , how many documents are using this template ? Order the template type codes in descending order by this number . Which of them has the most ?
+Show the type codes for all templates . For each , how many documents are using this template ? Order the template type codes in descending order by this number . Which of them has the most ? Which template type code is used by most number of documents?
+Show all template type codes .
+Show all template type codes . Show all template type codes that are used by some document .
+Show all template type codes . Show all template type codes that are used by some document . How about those that are not used by any document ?
+Show all template type codes . Show all template type codes that are used by some document . How about those that are not used by any document ? Show all template type codes that are not used by any document.
+Show all template type codes .
+Show all template type codes . Also show their descriptions .
+Show all template type codes . Also show their descriptions . Show all template type codes and descriptions.
+Show all template type codes and descriptions .
+Show all template type codes and descriptions . What is the description for template type code `` AD '' ?
+Show all template type codes and descriptions . What is the description for template type code `` AD '' ? What is the template type descriptions for template type code "AD".
+Show all template type codes .
+Show all template type codes . Also show descriptions .
+Show all template type codes . Also show descriptions . Which code has template type description `` Book '' ?
+Show all template type codes . Also show descriptions . Which code has template type description `` Book '' ? What is the template type code for template type description "Book".
+Show the template ids used by any document .
+Show the template ids used by any document . Also show the template type code for those ids .
+Show the template ids used by any document . Also show the template type code for those ids . How about their template type descriptions ?
+Show the template ids used by any document . Also show the template type code for those ids . How about their template type descriptions ? Show the distinct values among them .
+Show the template ids used by any document . Also show the template type code for those ids . How about their template type descriptions ? Show the distinct values among them . What are the distinct template type descriptions for the templates ever used by any document?
+Show the template id for all templates .
+Show the template id for all templates . Also show their template type description .
+Show the template id for all templates . Also show their template type description . What are the template ids with description `` Presentation '' ?
+Show the template id for all templates . Also show their template type description . What are the template ids with description `` Presentation '' ? What are the template ids with template type description "Presentation".
+Show the info for all paragraphs .
+Show the info for all paragraphs . How many are there ?
+Show the info for all paragraphs . How many are there ? How many paragraphs in total?
+Show the id for all paragraphs .
+Show the id for all paragraphs . Also show their document names .
+Show the id for all paragraphs . Also show their document names . Only show the id for all paragraphs in the document named 'Summer Show ' .
+Show the id for all paragraphs . Also show their document names . Only show the id for all paragraphs in the document named 'Summer Show ' . How many such paragraphs are there ?
+Show the id for all paragraphs . Also show their document names . Only show the id for all paragraphs in the document named 'Summer Show ' . How many such paragraphs are there ? How many paragraphs for the document with name 'Summer Show'?
+Show the parapraph text for all paragraphs .
+Show the parapraph text for all paragraphs . Also show their paragraph details .
+Show the parapraph text for all paragraphs . Also show their paragraph details . What are the details for the paragraph containing 'Korea ' ?
+Show the parapraph text for all paragraphs . Also show their paragraph details . What are the details for the paragraph containing 'Korea ' ? Show paragraph details for paragraph with text 'Korea'.
+Show all paragraph ids and texts .
+Show all paragraph ids and texts . For each of them , also show their document name .
+Show all paragraph ids and texts . For each of them , also show their document name . What are the ids and texts for the paragraph in the document with name 'Welcome to NY ' ?
+Show all paragraph ids and texts . For each of them , also show their document name . What are the ids and texts for the paragraph in the document with name 'Welcome to NY ' ? Show all paragraph ids and texts for the document with name 'Welcome to NY'.
+Show all paragraph text .
+Show all paragraph text . For each of them , also show the document name .
+Show all paragraph text . For each of them , also show the document name . What is the text for the document `` Customer reviews '' ?
+Show all paragraph text . For each of them , also show the document name . What is the text for the document `` Customer reviews '' ? Show all paragraph texts for the document "Customer reviews".
+Show the document id for all paragraphs .
+Show the document id for all paragraphs . For each id , show the number of paragraphs .
+Show the document id for all paragraphs . For each id , show the number of paragraphs . Order by document id .
+Show the document id for all paragraphs . For each id , show the number of paragraphs . Order by document id . Show all document ids and the number of paragraphs in each document. Order by document id.
+Show all document ids and names .
+Show all document ids and names . For each of them , count the number of paragraphs in each document .
+Show all document ids and names . For each of them , count the number of paragraphs in each document . Show all document ids, names and the number of paragraphs in each document.
+Show the document id for all paragraphs .
+Show the document id for all paragraphs . For each of these document ids , count the number of paragraphs .
+Show the document id for all paragraphs . For each of these document ids , count the number of paragraphs . Which of them have at least two paragraphs ?
+Show the document id for all paragraphs . For each of these document ids , count the number of paragraphs . Which of them have at least two paragraphs ? List all document ids with at least two paragraphs.
+Show the id number and name for all documents .
+Show the id number and name for all documents . Also show the paragraph id for those documents .
+Show the id number and name for all documents . Also show the paragraph id for those documents . For each of these results , count the number of paragraphs .
+Show the id number and name for all documents . Also show the paragraph id for those documents . For each of these results , count the number of paragraphs . Which of them is the longest ?
+Show the id number and name for all documents . Also show the paragraph id for those documents . For each of these results , count the number of paragraphs . Which of them is the longest ? What is the document id and name with greatest number of paragraphs?
+Show the document id for all paragraphs .
+Show the document id for all paragraphs . For each of them , count the number of paragraphs .
+Show the document id for all paragraphs . For each of them , count the number of paragraphs . Sort them by these counts .
+Show the document id for all paragraphs . For each of them , count the number of paragraphs . Sort them by these counts . Which has the fewest ?
+Show the document id for all paragraphs . For each of them , count the number of paragraphs . Sort them by these counts . Which has the fewest ? What is the document id with least number of paragraphs?
+Show the document id for all paragraphs .
+Show the document id for all paragraphs . For each of these ids , show the number of paragraphs .
+Show the document id for all paragraphs . For each of these ids , show the number of paragraphs . Which of them have between 1 and 2 paragraphs ?
+Show the document id for all paragraphs . For each of these ids , show the number of paragraphs . Which of them have between 1 and 2 paragraphs ? What is the document id with 1 to 2 paragraphs?
+Show information for all singers .
+Show information for all singers . How many are there ?
+Show information for all singers . How many are there ? How many singers do we have?
+Show names of all singers .
+Show names of all singers . For each of them , also show country and age .
+Show names of all singers . For each of them , also show country and age . List the results in descending order of their age .
+Show names of all singers . For each of them , also show country and age . List the results in descending order of their age . Show name, country, age for all singers ordered by age from the oldest to the youngest.
+Show age for all singers .
+Show age for all singers . What about age for those from France ?
+Show age for all singers . What about age for those from France ? What is the average , minimum , and maximum age for those ?
+Show age for all singers . What about age for those from France ? What is the average , minimum , and maximum age for those ? What is the average, minimum, and maximum age of all singers from France?
+Show the names of all songs .
+Show the names of all songs . Also show the release year for each of them .
+Show the names of all songs . Also show the release year for each of them . Order the result by the age of their singers .
+Show the names of all songs . Also show the release year for each of them . Order the result by the age of their singers . What is the result for the song by the yongest ?
+Show the names of all songs . Also show the release year for each of them . Order the result by the age of their singers . What is the result for the song by the yongest ? Show the name and the release year of the song by the youngest singer.
+Show country for all singers .
+Show country for all singers . Only show the results for those above 20 .
+Show country for all singers . Only show the results for those above 20 . What are all distinct countries for them ?
+Show country for all singers . Only show the results for those above 20 . What are all distinct countries for them ? What are all distinct countries where singers above age 20 are from?
+Show the country for all singers .
+Show the country for all singers . For each of them , what is the number of singers ?
+Show the country for all singers . For each of them , what is the number of singers ? Show all countries and the number of singers in each country.
+What is the average age for all singers ?
+What is the average age for all singers ? Show the name for songs by singers older than that .
+What is the average age for all singers ? Show the name for songs by singers older than that . List all song names by singers above the average age.
+Show the name for all stadiums .
+Show the name for all stadiums . What about those with a capacity between 5000 and 10000 ?
+Show the name for all stadiums . What about those with a capacity between 5000 and 10000 ? Also list the location for them .
+Show the name for all stadiums . What about those with a capacity between 5000 and 10000 ? Also list the location for them . Show location and name for all stadiums with a capacity between 5000 and 10000.
+Show the capacity for all stadiums .
+Show the capacity for all stadiums . What is the average of them ?
+Show the capacity for all stadiums . What is the average of them ? Also show the maximum .
+Show the capacity for all stadiums . What is the average of them ? Also show the maximum . What is the average and the maximum capacity of all stadiums?
+Show the name and capacity for all stadiums .
+Show the name and capacity for all stadiums . Show the result in descending order of their average attendance .
+Show the name and capacity for all stadiums . Show the result in descending order of their average attendance . Which one has the highest ?
+Show the name and capacity for all stadiums . Show the result in descending order of their average attendance . Which one has the highest ? What is the name and capacity for the stadium with highest average attendance?
+Show the concert information in year 2014 .
+Show the concert information in year 2014 . Also show those in year 2015 .
+Show the concert information in year 2014 . Also show those in year 2015 . How many are there in total ?
+Show the concert information in year 2014 . Also show those in year 2015 . How many are there in total ? How many concerts are there in year 2014 or 2015?
+Show the names of stadiums .
+Show the names of stadiums . For each of them , also show the number of concerts .
+Show the names of stadiums . For each of them , also show the number of concerts . Show the stadium name and the number of concerts in each stadium.
+Show all stadium names and their capacities .
+Show all stadium names and their capacities . Order the results in descending order of the number of concerts in year 2014 or after .
+Show all stadium names and their capacities . Order the results in descending order of the number of concerts in year 2014 or after . Which one has the most ?
+Show all stadium names and their capacities . Order the results in descending order of the number of concerts in year 2014 or after . Which one has the most ? Show the stadium name and capacity with most number of concerts in year 2014 or after.
+Show the year for all concerts .
+Show the year for all concerts . Order them in descending order of the number of concerts
+Show the year for all concerts . Order them in descending order of the number of concerts Which year has the most ?
+Show the year for all concerts . Order them in descending order of the number of concerts Which year has the most ? Which year has most number of concerts?
+Show all stadium ids of concerts .
+Show all stadium ids of concerts . Show the stadium names without any concert .
+Show all stadium ids of concerts . Show the stadium names without any concert . Show the stadium names without any concert.
+Show the country for all singers .
+Show the country for all singers . How about those for singers above age 40 ?
+Show the country for all singers . How about those for singers above age 40 ? How about those for singers below 30 ?
+Show the country for all singers . How about those for singers above age 40 ? How about those for singers below 30 ? How about countries with both ?
+Show the country for all singers . How about those for singers above age 40 ? How about those for singers below 30 ? How about countries with both ? Show countries where a singer above age 40 and a singer below 30 are from.
+Show name for stadiums that had a concert in year 2014 .
+Show name for stadiums that had a concert in year 2014 . Show names for all stadiums except for those .
+Show name for stadiums that had a concert in year 2014 . Show names for all stadiums except for those . Show names for all stadiums except for stadiums having a concert in year 2014.
+Show the name and theme for all concerts .
+Show the name and theme for all concerts . For each of those , also show the number of singers .
+Show the name and theme for all concerts . For each of those , also show the number of singers . Show the name and theme for all concerts and the number of singers in each concert.
+Show the name for all singers .
+Show the name for all singers . For each of them , also show the number of concerts
+Show the name for all singers . For each of them , also show the number of concerts List singer names and number of concerts for each singer.
+List all singer names .
+List all singer names . How about those performing concerts in year 2014 ?
+List all singer names . How about those performing concerts in year 2014 ? List all singer names in concerts in year 2014.
+What are the names of all singers ?
+What are the names of all singers ? Show the names for those having a song having 'Hey ' in its name .
+What are the names of all singers ? Show the names for those having a song having 'Hey ' in its name . Also show the nation for those singers .
+What are the names of all singers ? Show the names for those having a song having 'Hey ' in its name . Also show the nation for those singers . what is the name and nation of the singer who have a song having 'Hey' in its name?
+Show the name and location for the stadiums .
+Show the name and location for the stadiums . How about those with some concerts happened in the year 2014 ?
+Show the name and location for the stadiums . How about those with some concerts happened in the year 2014 ? Among those , what are stadiums also holding some concerts in the year 2015 ?
+Show the name and location for the stadiums . How about those with some concerts happened in the year 2014 ? Among those , what are stadiums also holding some concerts in the year 2015 ? Find the name and location of the stadiums which some concerts happened in the years of both 2014 and 2015.
+Show the names and birth years of singers
+Show the names and birth years of singers Only for the ones born in 1948 .
+Show the names and birth years of singers Only for the ones born in 1948 . Show the name of singers whose birth year is either 1948 or 1949 ?
+Show the names and birth years of singers Only for the ones born in 1948 . Show the name of singers whose birth year is either 1948 or 1949 ? Show the name of singers whose birth year is either 1948 or 1949?
+Show the name and net worth of the singers .
+Show the name and net worth of the singers . Order by richest first .
+Show the name and net worth of the singers . Order by richest first . What is the name of the singer with the largest net worth ?
+Show the name and net worth of the singers . Order by richest first . What is the name of the singer with the largest net worth ? What is the name of the singer with the largest net worth?
+Show the names and citizenships of singers .
+Show the names and citizenships of singers . Show citizenship counts .
+Show the names and citizenships of singers . Show citizenship counts . Sort that by most common first .
+Show the names and citizenships of singers . Show citizenship counts . Sort that by most common first . Limit it to one .
+Show the names and citizenships of singers . Show citizenship counts . Sort that by most common first . Limit it to one . Please show the most common citizenship of singers.
+Join singer names with their song titles .
+Join singer names with their song titles . Limit the entries to where song sales exceed 300000 .
+Join singer names with their song titles . Limit the entries to where song sales exceed 300000 . Which are the distinct names in that list ?
+Join singer names with their song titles . Limit the entries to where song sales exceed 300000 . Which are the distinct names in that list ? Show distinct names of singers that have songs with sales more than 300000.
+Show the names and song counts of singers .
+Show the names and song counts of singers . Show the names of singers that have more than one song .
+Show the names and song counts of singers . Show the names of singers that have more than one song . Show the names of singers that have more than one song.
+Show the songs and sale amounts .
+Show the songs and sale amounts . Show the names of singers and the total sales of their songs .
+Show the songs and sale amounts . Show the names of singers and the total sales of their songs . Show the names of singers and the total sales of their songs.
+Which singer ids have at least one song ?
+Which singer ids have at least one song ? Which singer names do not ?
+Which singer ids have at least one song ? Which singer names do not ? List the name of singers that do not have any song.
+find all employees who are under age 30 .
+find all employees who are under age 30 . Which cities did they come from ?
+find all employees who are under age 30 . Which cities did they come from ? show the cities from which more than one employee originated .
+find all employees who are under age 30 . Which cities did they come from ? show the cities from which more than one employee originated . Which cities do more than one employee under age 30 come from?
+show all shops .
+show all shops . what is the total number of products they are selling ?
+show all shops . what is the total number of products they are selling ? find the name of the shop with the greatest number of products .
+show all shops . what is the total number of products they are selling ? find the name of the shop with the greatest number of products . what are its manager name and district ?
+show all shops . what is the total number of products they are selling ? find the name of the shop with the greatest number of products . what are its manager name and district ? Find the manager name and district of the shop whose number of products is the largest.
+find the average number of products of all stores .
+find the average number of products of all stores . how about the minimum and maximum ?
+find the average number of products of all stores . how about the minimum and maximum ? find the minimum and maximum number of products of all stores.
+show the name and number of product for all shops .
+show the name and number of product for all shops . what is the average number of products ?
+show the name and number of product for all shops . what is the average number of products ? Find the names of stores whose number products is less than the average .
+show the name and number of product for all shops . what is the average number of products ? Find the names of stores whose number products is less than the average . how about more than ?
+show the name and number of product for all shops . what is the average number of products ? Find the names of stores whose number products is less than the average . how about more than ? Find the names of stores whose number products is more than the average number of products.
+how many evaluations are there ?
+how many evaluations are there ? what years were they given ?
+how many evaluations are there ? what years were they given ? find the name of the employee who received the most evaluation awards .
+how many evaluations are there ? what years were they given ? find the name of the employee who received the most evaluation awards . find the name of employee who was awarded the most times in the evaluation.
+find the name of the employees who received past evaluation awards .
+find the name of the employees who received past evaluation awards . who won the most times ?
+find the name of the employees who received past evaluation awards . who won the most times ? ok , which one received the award with the highest bonus ?
+find the name of the employees who received past evaluation awards . who won the most times ? ok , which one received the award with the highest bonus ? Find the name of the employee who got the highest one time bonus.
+find the number of different employees who were awarded in the past evaluations .
+find the number of different employees who were awarded in the past evaluations . what are their names ?
+find the number of different employees who were awarded in the past evaluations . what are their names ? show the names of the employees who never won .
+find the number of different employees who were awarded in the past evaluations . what are their names ? show the names of the employees who never won . Find the names of employees who never won any award in the evaluation.
+how many shops are hiring ?
+how many shops are hiring ? what are the shops ' names ? '
+how many shops are hiring ? what are the shops ' names ? ' which one is hiring the largest number of employees ?
+how many shops are hiring ? what are the shops ' names ? ' which one is hiring the largest number of employees ? What is the name of the shop that is hiring the largest number of employees?
+show all hiring info .
+show all hiring info . Find the names of any shops not hiring .
+show all hiring info . Find the names of any shops not hiring . Find the name of the shops that do not hire any employee.
+how many employees are being hired in all shops ?
+how many employees are being hired in all shops ? show the number for each shop . show the shop name as well .
+how many employees are being hired in all shops ? show the number for each shop . show the shop name as well . Find the number of employees hired in each shop; show the shop name as well.
+show all visitors .
+show all visitors . order them by their membership level from high to low .
+show all visitors . order them by their membership level from high to low . just show their names .
+show all visitors . order them by their membership level from high to low . just show their names . do not list those whose membership level is lower than or equal to 4 .
+show all visitors . order them by their membership level from high to low . just show their names . do not list those whose membership level is lower than or equal to 4 . Find the names of the visitors whose membership level is higher than 4, and order the results by the level from high to low.
+find the number of visitors with a membership level higher than 4 .
+find the number of visitors with a membership level higher than 4 . what are their names and membership levels ?
+find the number of visitors with a membership level higher than 4 . what are their names and membership levels ? sort by their age from old to young .
+find the number of visitors with a membership level higher than 4 . what are their names and membership levels ? sort by their age from old to young . Find the name and membership level of the visitors whose membership level is higher than 4, and sort by their age from old to young.
+how many museums are in the table ?
+how many museums are in the table ? what is the average number of staff working in these museums ?
+how many museums are in the table ? what is the average number of staff working in these museums ? Find the name of the museum that has the most staff members .
+how many museums are in the table ? what is the average number of staff working in these museums ? Find the name of the museum that has the most staff members . what is its id ?
+how many museums are in the table ? what is the average number of staff working in these museums ? Find the name of the museum that has the most staff members . what is its id ? Find the id and name of the museum that has the most staff members?
+find the names of museums opened before 2010 .
+find the names of museums opened before 2010 . how about after ?
+find the names of museums opened before 2010 . how about after ? find the minimum number of staff of those museums .
+find the names of museums opened before 2010 . how about after ? find the minimum number of staff of those museums . find the names of museums which have more staff than that .
+find the names of museums opened before 2010 . how about after ? find the minimum number of staff of those museums . find the names of museums which have more staff than that . find the names of museums which have more staff than the minimum staff number of all museums opened after 2010.
+find the names of visitors who visited and who have some museum visit records .
+find the names of visitors who visited and who have some museum visit records . which of them visited some museums more than once ?
+find the names of visitors who visited and who have some museum visit records . which of them visited some museums more than once ? also show their ids and ages .
+find the names of visitors who visited and who have some museum visit records . which of them visited some museums more than once ? also show their ids and ages . find the id, name and age for visitors who visited some museums more than once.
+what is the total spent on all visits ?
+what is the total spent on all visits ? find the name of the visitor who has spent the most money for his or her visits .
+what is the total spent on all visits ? find the name of the visitor who has spent the most money for his or her visits . what are his id and membership level ?
+what is the total spent on all visits ? find the name of the visitor who has spent the most money for his or her visits . what are his id and membership level ? What are the id, name and membership level of visitors who have spent the largest amount of money in total in all museum tickets?
+show the id and name of all museums .
+show the id and name of all museums . show the number of tickets sold for each of them .
+show the id and name of all museums . show the number of tickets sold for each of them . which one was visited the most times ?
+show the id and name of all museums . show the number of tickets sold for each of them . which one was visited the most times ? What are the id and name of the museum visited most times?
+how many museums are there ?
+how many museums are there ? how many of them have not had any visitors yet ?
+how many museums are there ? how many of them have not had any visitors yet ? what are their names ?
+how many museums are there ? how many of them have not had any visitors yet ? what are their names ? What is the name of the museum that had no visitor yet?
+how many tickets were sold from all of the museums ?
+how many tickets were sold from all of the museums ? find the id of the visitor who bought the most tickets at once .
+how many tickets were sold from all of the museums ? find the id of the visitor who bought the most tickets at once . Find the name and age of this visitor .
+how many tickets were sold from all of the museums ? find the id of the visitor who bought the most tickets at once . Find the name and age of this visitor . Find the name and age of the visitor who bought the most tickets at once.
+find the total cost of all visits .
+find the total cost of all visits . what was the amount of the largest one time purchase of tickets out of all visits ?
+find the total cost of all visits . what was the amount of the largest one time purchase of tickets out of all visits ? how about the average and maximum number of tickets purchased ?
+find the total cost of all visits . what was the amount of the largest one time purchase of tickets out of all visits ? how about the average and maximum number of tickets purchased ? What are the average and maximum number of tickets bought in all visits?
+what is the lowest level of membership ?
+what is the lowest level of membership ? find the number of visitors whose membership level is 1 .
+what is the lowest level of membership ? find the number of visitors whose membership level is 1 . show the ticket expenses of all of their museum visits .
+what is the lowest level of membership ? find the number of visitors whose membership level is 1 . show the ticket expenses of all of their museum visits . what is the total amount of money spent ?
+what is the lowest level of membership ? find the number of visitors whose membership level is 1 . show the ticket expenses of all of their museum visits . what is the total amount of money spent ? What is the total ticket expense of the visitors whose membership level is 1?
+find the names of museums opened before 2009 .
+find the names of museums opened before 2009 . what about those opened after 2011 ?
+find the names of museums opened before 2009 . what about those opened after 2011 ? What is the name of the visitor who visited both groups of museums ?
+find the names of museums opened before 2009 . what about those opened after 2011 ? What is the name of the visitor who visited both groups of museums ? What is the name of the visitor who visited both a museum opened before 2009 and a museum opened after 2011?
+find the names of museums opened after 2010
+find the names of museums opened after 2010 find the number of visits to these museums ?
+find the names of museums opened after 2010 find the number of visits to these museums ? Find the number of visitors who did not visit these museums .
+find the names of museums opened after 2010 find the number of visits to these museums ? Find the number of visitors who did not visit these museums . Find the number of visitors who did not visit any museum opened after 2010.
+How many high schoolers are there ?
+How many high schoolers are there ? How many in each grade 11 or 12 ?
+How many high schoolers are there ? How many in each grade 11 or 12 ? How many in grade 9 or 10 ?
+How many high schoolers are there ? How many in each grade 11 or 12 ? How many in grade 9 or 10 ? How many high schoolers are there in grade 9 or 10?
+How many distinct grades are there ?
+How many distinct grades are there ? What are they ?
+How many distinct grades are there ? What are they ? Which one has the least number of highschoolers ?
+How many distinct grades are there ? What are they ? Which one has the least number of highschoolers ? Which one has the most ?
+How many distinct grades are there ? What are they ? Which one has the least number of highschoolers ? Which one has the most ? Which grade has the most high schoolers?
+How many highschoolers are there in total ?
+How many highschoolers are there in total ? How many per grade ?
+How many highschoolers are there in total ? How many per grade ? What grades have at least 10 students ?
+How many highschoolers are there in total ? How many per grade ? What grades have at least 10 students ? How about at least 4 ?
+How many highschoolers are there in total ? How many per grade ? What grades have at least 10 students ? How about at least 4 ? Show me all grades that have at least 4 students.
+What are the names of all the high school students ?
+What are the names of all the high school students ? Show the names of the friends for each one .
+What are the names of all the high school students ? Show the names of the friends for each one . How many friends does each student each have ?
+What are the names of all the high school students ? Show the names of the friends for each one . How many friends does each student each have ? Show the names of high school students and their corresponding number of friends.
+What are the names of all the high schoolers ?
+What are the names of all the high schoolers ? Show me the number of friends for each one .
+What are the names of all the high schoolers ? Show me the number of friends for each one . Which one has the least number of friends ?
+What are the names of all the high schoolers ? Show me the number of friends for each one . Which one has the least number of friends ? How about the greatest ?
+What are the names of all the high schoolers ? Show me the number of friends for each one . Which one has the least number of friends ? How about the greatest ? What is the name of the high schooler who has the greatest number of friends?
+How many highschoolers have more than 5 ?
+How many highschoolers have more than 5 ? at least 3 ?
+How many highschoolers have more than 5 ? at least 3 ? What are their names ?
+How many highschoolers have more than 5 ? at least 3 ? What are their names ? Show the names of high schoolers who have at least 3 friends.
+Show me information on the high schooler named `` Kyle . ''
+Show me information on the high schooler named `` Kyle . '' How many friends does he have ?
+Show me information on the high schooler named `` Kyle . '' How many friends does he have ? What are their names ?
+Show me information on the high schooler named `` Kyle . '' How many friends does he have ? What are their names ? Show the names of all of the high schooler Kyle's friends.
+Is there a highschooler named Kyle ?
+Is there a highschooler named Kyle ? Who does he like ?
+Is there a highschooler named Kyle ? Who does he like ? What are the names of his friends ?
+Is there a highschooler named Kyle ? Who does he like ? What are the names of his friends ? How many are there ?
+Is there a highschooler named Kyle ? Who does he like ? What are the names of his friends ? How many are there ? How many friends does the high school student Kyle have?
+Show me all the high school student ids .
+Show me all the high school student ids . How many friends do each of them have ?
+Show me all the high school student ids . How many friends do each of them have ? Which ones have at least 1 ?
+Show me all the high school student ids . How many friends do each of them have ? Which ones have at least 1 ? Which ones have none ?
+Show me all the high school student ids . How many friends do each of them have ? Which ones have at least 1 ? Which ones have none ? Show ids of all students who do not have any friends.
+What are the names of all the highshcool students ?
+What are the names of all the highshcool students ? Which ones have at least 5 friends ?
+What are the names of all the highshcool students ? Which ones have at least 5 friends ? how about at least 1 ?
+What are the names of all the highshcool students ? Which ones have at least 5 friends ? how about at least 1 ? how about 0 ?
+What are the names of all the highshcool students ? Which ones have at least 5 friends ? how about at least 1 ? how about 0 ? Show names of all high school students who do not have any friends.
+Show me the ids of all highschoolers who have friends ?
+Show me the ids of all highschoolers who have friends ? Also show , for each , the ids of the people they like ?
+Show me the ids of all highschoolers who have friends ? Also show , for each , the ids of the people they like ? Now only show those who are liked by someone else !
+Show me the ids of all highschoolers who have friends ? Also show , for each , the ids of the people they like ? Now only show those who are liked by someone else ! Show me just their ids !
+Show me the ids of all highschoolers who have friends ? Also show , for each , the ids of the people they like ? Now only show those who are liked by someone else ! Show me just their ids ! Show the ids of high schoolers who have friends and are also liked by someone else.
+How many high schoolers are liked by someone else ?
+How many high schoolers are liked by someone else ? What are their names ?
+How many high schoolers are liked by someone else ? What are their names ? How many of them have friends ?
+How many high schoolers are liked by someone else ? What are their names ? How many of them have friends ? Who are they ?
+How many high schoolers are liked by someone else ? What are their names ? How many of them have friends ? Who are they ? Show name of all students who have some friends and also are liked by someone else.
+What are the names of the highschoolers who do n't like anyone ?
+What are the names of the highschoolers who do n't like anyone ? How about those who like others ?
+What are the names of the highschoolers who do n't like anyone ? How about those who like others ? How many people do they each like ?
+What are the names of the highschoolers who do n't like anyone ? How about those who like others ? How many people do they each like ? Show the names of high schoolers who have likes, and numbers of likes for each.
+How many high schoolers like somebody else ?
+How many high schoolers like somebody else ? What are their names ?
+How many high schoolers like somebody else ? What are their names ? what is the greatest number of likes anyone has ?
+How many high schoolers like somebody else ? What are their names ? what is the greatest number of likes anyone has ? who has the greatest number of likes ?
+How many high schoolers like somebody else ? What are their names ? what is the greatest number of likes anyone has ? who has the greatest number of likes ? What is the name of the high schooler who has the greatest number of likes?
+Show me the names of all students ?
+Show me the names of all students ? How about those who like at least one other person !
+Show me the names of all students ? How about those who like at least one other person ! How about those who like at least two other students !
+Show me the names of all students ? How about those who like at least one other person ! How about those who like at least two other students ! Show the names of students who have at least 2 likes.
+What are the names of the students who have some friends ?
+What are the names of the students who have some friends ? How about those have at least 2 friends ?
+What are the names of the students who have some friends ? How about those have at least 2 friends ? What grades are they each in ?
+What are the names of the students who have some friends ? How about those have at least 2 friends ? What grades are they each in ? Show me the names of only those who are in a grade higher than 5 !
+What are the names of the students who have some friends ? How about those have at least 2 friends ? What grades are they each in ? Show me the names of only those who are in a grade higher than 5 ! Show the names of students who have a grade higher than 5 and have at least 2 friends.
+What grade is the student named Kyle in ?
+What grade is the student named Kyle in ? How many other students like him ?
+What grade is the student named Kyle in ? How many other students like him ? What are their names ?
+What grade is the student named Kyle in ? How many other students like him ? What are their names ? How many other students does he like ?
+What grade is the student named Kyle in ? How many other students like him ? What are their names ? How many other students does he like ? How many likes does Kyle have?
+Show me the student_id and the grade for all students .
+Show me the student_id and the grade for all students . What is the average grade ?
+Show me the student_id and the grade for all students . What is the average grade ? How about for students who have no friends ?
+Show me the student_id and the grade for all students . What is the average grade ? How about for students who have no friends ? How about for those who have some friends ?
+Show me the student_id and the grade for all students . What is the average grade ? How about for students who have no friends ? How about for those who have some friends ? Find the average grade of all students who have some friends.
+Show all the teachers .
+Show all the teachers . How many are there ?
+Show all the teachers . How many are there ? How many teachers are there?
+What is the name of each teacher ?
+What is the name of each teacher ? Sort them in ascending order of age .
+What is the name of each teacher ? Sort them in ascending order of age . List the names of teachers in ascending order of age.
+What is the age of each teacher ?
+What is the age of each teacher ? Also show the hometown for each .
+What is the age of each teacher ? Also show the hometown for each . What are the age and hometown of teachers?
+What is the hometown of each teacher ?
+What is the hometown of each teacher ? Which teacher 's hometown is not `` Little Lever Urban District '' ?
+What is the hometown of each teacher ? Which teacher 's hometown is not `` Little Lever Urban District '' ? Give me their names .
+What is the hometown of each teacher ? Which teacher 's hometown is not `` Little Lever Urban District '' ? Give me their names . List the name of teachers whose hometown is not "Little Lever Urban District".
+What are the ages of all the teachers ?
+What are the ages of all the teachers ? Which teachers are age 32 ?
+What are the ages of all the teachers ? Which teachers are age 32 ? Which teachers are age 32 or 33 ?
+What are the ages of all the teachers ? Which teachers are age 32 ? Which teachers are age 32 or 33 ? What are their names ?
+What are the ages of all the teachers ? Which teachers are age 32 ? Which teachers are age 32 or 33 ? What are their names ? Show the name of teachers aged either 32 or 33?
+Sort all the teachers by their age .
+Sort all the teachers by their age . Which teacher is the youngest ?
+Sort all the teachers by their age . Which teacher is the youngest ? What is his or her hometown ?
+Sort all the teachers by their age . Which teacher is the youngest ? What is his or her hometown ? What is the hometown of the youngest teacher?
+What is the hometown of each teacher ?
+What is the hometown of each teacher ? Can you order teachers by their hometowns ?
+What is the hometown of each teacher ? Can you order teachers by their hometowns ? Show the number of teachers from each hometown .
+What is the hometown of each teacher ? Can you order teachers by their hometowns ? Show the number of teachers from each hometown . Show different hometown of teachers and the number of teachers from each hometown.
+How many teachers are there ?
+How many teachers are there ? How many are there for each hometown ?
+How many teachers are there ? How many are there for each hometown ? Find the most common hometown of teachers .
+How many teachers are there ? How many are there for each hometown ? Find the most common hometown of teachers . List the most common hometown of teachers.
+How many teachers are there ?
+How many teachers are there ? How many teachers are there for each hometown ?
+How many teachers are there ? How many teachers are there for each hometown ? Which hometowns are shared by at least two teachers ?
+How many teachers are there ? How many teachers are there for each hometown ? Which hometowns are shared by at least two teachers ? Show the hometowns shared by at least two teachers.
+Find all the course arrangements .
+Find all the course arrangements . For each of the courses , show the teacher who teaches it .
+Find all the course arrangements . For each of the courses , show the teacher who teaches it . Show names of teachers and the courses they are arranged to teach.
+Find all the course arrangements .
+Find all the course arrangements . Show names of teachers and the courses they are arranged to teach .
+Find all the course arrangements . Show names of teachers and the courses they are arranged to teach . Sort the results by teacher 's name
+Find all the course arrangements . Show names of teachers and the courses they are arranged to teach . Sort the results by teacher 's name Show names of teachers and the courses they are arranged to teach in ascending alphabetical order of the teacher's name.
+Find all the course arrangements .
+Find all the course arrangements . Show names of teachers and the courses they are arranged to teach .
+Find all the course arrangements . Show names of teachers and the courses they are arranged to teach . Which teachers teach the math course ? Give me their names .
+Find all the course arrangements . Show names of teachers and the courses they are arranged to teach . Which teachers teach the math course ? Give me their names . Show the name of the teacher for the math course.
+Show all the teacher names .
+Show all the teacher names . Show names of teachers and the number of courses they teach .
+Show all the teacher names . Show names of teachers and the number of courses they teach . Show names of teachers and the number of courses they teach.
+Show all the teacher names .
+Show all the teacher names . Show names of teachers and the number of courses they teach .
+Show all the teacher names . Show names of teachers and the number of courses they teach . Show the names of teachers who teach at least two courses .
+Show all the teacher names . Show names of teachers and the number of courses they teach . Show the names of teachers who teach at least two courses . Show names of teachers that teach at least two courses.
+Show all the available features .
+Show all the available features . How many available features are there ?
+Show all the available features . How many available features are there ? How many available features are there in total?
+Find the available features with feature name `` AirCon '' .
+Find the available features with feature name `` AirCon '' . What is the feature type name ?
+Find the available features with feature name `` AirCon '' . What is the feature type name ? What is the feature type name of feature AirCon?
+What is the property type description of each property ?
+What is the property type description of each property ? Show the property type descriptions of properties for each property type code .
+What is the property type description of each property ? Show the property type descriptions of properties for each property type code . Show the property type descriptions of properties belonging to that code.
+Show all area codes and states .
+Show all area codes and states . How many are there ?
+Show all area codes and states . How many are there ? How many states are there?
+Show all info about contestants .
+Show all info about contestants . What are their names ?
+Show all info about contestants . What are their names ? Can you also show contestant numbers ?
+Show all info about contestants . What are their names ? Can you also show contestant numbers ? Can you sort them ordered in descending order of contestant name ?
+Show all info about contestants . What are their names ? Can you also show contestant numbers ? Can you sort them ordered in descending order of contestant name ? List the contestant numbers and names, ordered by contestant name descending.
+Show all info about votes .
+Show all info about votes . Also provide vote ids .
+Show all info about votes . Also provide vote ids . Also show phone numbers .
+Show all info about votes . Also provide vote ids . Also show phone numbers . List the vote ids, phone numbers and states of all votes.
+Show all area codes .
+Show all area codes . What is the largest one ?
+Show all area codes . What is the largest one ? How about smallest one ?
+Show all area codes . What is the largest one ? How about smallest one ? Give me both .
+Show all area codes . What is the largest one ? How about smallest one ? Give me both . What are the maximum and minimum values of area codes?
+Show all votes .
+Show all votes . Which ones are from the state 'CA ' ?
+Show all votes . Which ones are from the state 'CA ' ? Among those , can you give me the last date created ?
+Show all votes . Which ones are from the state 'CA ' ? Among those , can you give me the last date created ? What is last date created of votes from the state 'CA'?
+Show all contestants .
+Show all contestants . What are their names ?
+Show all contestants . What are their names ? Can you not include the name 'Jessie Alloway ' ?
+Show all contestants . What are their names ? Can you not include the name 'Jessie Alloway ' ? What are the names of the contestants whose names are not 'Jessie Alloway'
+Show all votes ?
+Show all votes ? Among these , what is the list of states ?
+Show all votes ? Among these , what is the list of states ? What are the distinct states and create time ?
+Show all votes ? Among these , what is the list of states ? What are the distinct states and create time ? What are the distinct states and create time of all votes?
+Show all the contestants .
+Show all the contestants . Show all the votes .
+Show all the contestants . Show all the votes . Can you show contestants with at least two votes ?
+Show all the contestants . Show all the votes . Can you show contestants with at least two votes ? What are their contestant numbers and names ?
+Show all the contestants . Show all the votes . Can you show contestants with at least two votes ? What are their contestant numbers and names ? What are the contestant numbers and names of the contestants who had at least two votes?
+Show all the contestants .
+Show all the contestants . Show all the votes .
+Show all the contestants . Show all the votes . Can you show the contestant with the least votes ?
+Show all the contestants . Show all the votes . Can you show the contestant with the least votes ? What is his or her contestant number and contestant name ?
+Show all the contestants . Show all the votes . Can you show the contestant with the least votes ? What is his or her contestant number and contestant name ? Of all the contestants who got voted, what is the contestant number and name of the contestant who got least votes?
+Show all votes .
+Show all votes . What about those from state 'NY ' or 'CA ' ?
+Show all votes . What about those from state 'NY ' or 'CA ' ? Give me the count of these votes .
+Show all votes . What about those from state 'NY ' or 'CA ' ? Give me the count of these votes . What are the number of votes from state 'NY' or 'CA'?
+Show all contestants
+Show all contestants Which contestants did not get any votes ?
+Show all contestants Which contestants did not get any votes ? How many are there ?
+Show all contestants Which contestants did not get any votes ? How many are there ? How many contestants did not get voted?
+Show all area codes and states .
+Show all area codes and states . Show all votes .
+Show all area codes and states . Show all votes . Get the count of votes for each area code .
+Show all area codes and states . Show all votes . Get the count of votes for each area code . What is the area code in which the most voters voted ?
+Show all area codes and states . Show all votes . Get the count of votes for each area code . What is the area code in which the most voters voted ? What is the area code in which the most voters voted?
+Show all votes .
+Show all votes . Show those that were for the contestant named 'Tabatha Gehling ' .
+Show all votes . Show those that were for the contestant named 'Tabatha Gehling ' . What are the create dates , states , and phone numbers of these votes ?
+Show all votes . Show those that were for the contestant named 'Tabatha Gehling ' . What are the create dates , states , and phone numbers of these votes ? What are the create dates, states, and phone numbers of the votes that were for the contestant named 'Tabatha Gehling'?
+Show all area codes .
+Show all area codes . Can you tell me area codes in which voters voted for the contestant 'Tabatha Gehling ' ?
+Show all area codes . Can you tell me area codes in which voters voted for the contestant 'Tabatha Gehling ' ? How about both the contestant 'Tabatha Gehling ' and the contestant 'Kelly Clauss ' ?
+Show all area codes . Can you tell me area codes in which voters voted for the contestant 'Tabatha Gehling ' ? How about both the contestant 'Tabatha Gehling ' and the contestant 'Kelly Clauss ' ? List the area codes in which voters voted both for the contestant 'Tabatha Gehling' and the contestant 'Kelly Clauss'.
+Give me the description of the department that offers the most number of degrees .
+Give me the description of the department that offers the most number of degrees . What 's the name and id of that department ?
+Give me the description of the department that offers the most number of degrees . What 's the name and id of that department ? Which department offers the most number of degrees? List department name and id.
+Show me all the degrees offered by the engineering department .
+Show me all the degrees offered by the engineering department . How many are there ?
+Show me all the degrees offered by the engineering department . How many are there ? How many degrees does the engineering department offer?
+Show me courses that have exactly 2 sections .
+Show me courses that have exactly 2 sections . Show me names and ids for courses that have at most 2 sections .
+Show me courses that have exactly 2 sections . Show me names and ids for courses that have at most 2 sections . What are the names and id of courses having at most 2 sections?
+Which semester did the least number of students register ? Give me its name and id .
+Which semester did the least number of students register ? Give me its name and id . How about the semester that most number of students registered ?
+Which semester did the least number of students register ? Give me its name and id . How about the semester that most number of students registered ? What is the semester which most student registered in? Show both the name and the id.
+Show me all department names that contain the word `` computer ''
+Show me all department names that contain the word `` computer '' Show me their descriptions .
+Show me all department names that contain the word `` computer '' Show me their descriptions . What is the description of the department whose name has the substring the computer?
+How many people are enrolled in 2 degree programs in one semester ?
+How many people are enrolled in 2 degree programs in one semester ? Show me their first , middle , and last names .
+How many people are enrolled in 2 degree programs in one semester ? Show me their first , middle , and last names . Who are enrolled in 2 degree programs in one semester? List the first name, middle name and last name and the id.
+How many people are enrolled in the Bachelor degree program ?
+How many people are enrolled in the Bachelor degree program ? What are their first , middle , and last names ?
+How many people are enrolled in the Bachelor degree program ? What are their first , middle , and last names ? Who is enrolled in a Bachelor degree program? List the first name, middle name, last name.
+Show me the descriptions of programs with 3 highest number of enrolled students .
+Show me the descriptions of programs with 3 highest number of enrolled students . Show me the name of program with the most enrolled students .
+Show me the descriptions of programs with 3 highest number of enrolled students . Show me the name of program with the most enrolled students . Find the kind of program which most number of students are enrolled in?
+What is the description of the program that has the least number of enrolled students ?
+What is the description of the program that has the least number of enrolled students ? How about the program that has the most number of enrolled students ?
+What is the description of the program that has the least number of enrolled students ? How about the program that has the most number of enrolled students ? Show me the id and summary .
+What is the description of the program that has the least number of enrolled students ? How about the program that has the most number of enrolled students ? Show me the id and summary . Find the program which most number of students are enrolled in. List both the id and the summary.
+Show me the id , first and last names of top 3 students who have enrolled for the most times in any program .
+Show me the id , first and last names of top 3 students who have enrolled for the most times in any program . Show me just the top 1 .
+Show me the id , first and last names of top 3 students who have enrolled for the most times in any program . Show me just the top 1 . Which student has enrolled for the most times in any program? List the id, first name, middle name, last name, the number of enrollments and student id.
+Give me the description of a semester with no enrolled students .
+Give me the description of a semester with no enrolled students . What 's the name of that semester ?
+Give me the description of a semester with no enrolled students . What 's the name of that semester ? Which semesters do not have any student enrolled? List the semester name.
+What 's the name of the course with the least number of enrollments ?
+What 's the name of the course with the least number of enrollments ? How many enrollments does the course with most enrollments have ?
+What 's the name of the course with the least number of enrollments ? How many enrollments does the course with most enrollments have ? What 's the name of that course ?
+What 's the name of the course with the least number of enrollments ? How many enrollments does the course with most enrollments have ? What 's the name of that course ? What's the name of the course with most number of enrollments?
+How many students currently live in North Carolina ?
+How many students currently live in North Carolina ? How many of those students have not registered in any degree program ?
+How many students currently live in North Carolina ? How many of those students have not registered in any degree program ? What are their last names ?
+How many students currently live in North Carolina ? How many of those students have not registered in any degree program ? What are their last names ? Find the last name of the students who currently live in the state of North Carolina but have not registered in any degree program.
+Show me date and id of transcripts with exactly 2 course results .
+Show me date and id of transcripts with exactly 2 course results . How about transcripts with at least 2 course results ?
+Show me date and id of transcripts with exactly 2 course results . How about transcripts with at least 2 course results ? Show the date and id of the transcript with at least 2 course results.
+What is the address of the student with first name Timothy and last name Ward ?
+What is the address of the student with first name Timothy and last name Ward ? What 's his phone number ?
+What is the address of the student with first name Timothy and last name Ward ? What 's his phone number ? What is the phone number of the man with the first name Timmothy and the last name Ward?
+Who was the last student to register ? Show me the first , middle , and last names of that student .
+Who was the last student to register ? Show me the first , middle , and last names of that student . Who was the first to register ?
+Who was the last student to register ? Show me the first , middle , and last names of that student . Who was the first to register ? Who is the first student to register? List the first name, middle name and last name.
+Who is the least recent graduate of the school ? List the first , middle , and last names .
+Who is the least recent graduate of the school ? List the first , middle , and last names . Who is the earliest graduate of the school ?
+Who is the least recent graduate of the school ? List the first , middle , and last names . Who is the earliest graduate of the school ? Who is the earliest graduate of the school? List the first name, middle name and last name.
+Give me the id of the address that holds the most number of students ?
+Give me the id of the address that holds the most number of students ? How many students live there ?
+Give me the id of the address that holds the most number of students ? How many students live there ? Give me all the lines as well as the id of that address .
+Give me the id of the address that holds the most number of students ? How many students live there ? Give me all the lines as well as the id of that address . Which address holds the most number of students currently? List the address id and all lines.
+Give me details of the first transcript released .
+Give me details of the first transcript released . Tell me when it was released as well , along with its details .
+Give me details of the first transcript released . Tell me when it was released as well , along with its details . When is the first transcript released? List the date and details.
+What is the oldest transcript release date ?
+What is the oldest transcript release date ? How about the latest ?
+What is the oldest transcript release date ? How about the latest ? What is the last transcript release date?
+How many times , at minimum , can a course enrollment result show in different transcript ? Show me the course enrollment id .
+How many times , at minimum , can a course enrollment result show in different transcript ? Show me the course enrollment id . How many times at most ?
+How many times , at minimum , can a course enrollment result show in different transcript ? Show me the course enrollment id . How many times at most ? How many times at most can a course enrollment result show in different transcripts? Also show the course enrollment id.
+Show other details of the transcript with least number of results .
+Show other details of the transcript with least number of results . Show me the date and id of that transcript .
+Show other details of the transcript with least number of results . Show me the date and id of that transcript . Show the date of the transcript which shows the least number of results, also list the id.
+Find a semester when there was a Master student enrolled .
+Find a semester when there was a Master student enrolled . How about a semester when there was a Bachelor student enrolled ?
+Find a semester when there was a Master student enrolled . How about a semester when there was a Bachelor student enrolled ? Find a semester that both types of students were enrolled in .
+Find a semester when there was a Master student enrolled . How about a semester when there was a Bachelor student enrolled ? Find a semester that both types of students were enrolled in . Find the semester when both Master students and Bachelor students got enrolled in.
+List all the information about the owners .
+List all the information about the owners . What about the Professionals ?
+List all the information about the owners . What about the Professionals ? Now show the states of them .
+List all the information about the owners . What about the Professionals ? Now show the states of them . Which of them have both owners and professionals living there ?
+List all the information about the owners . What about the Professionals ? Now show the states of them . Which of them have both owners and professionals living there ? Which states have both owners and professionals living there?
+Show all the dog ages .
+Show all the dog ages . What is the maximum and minimum value ?
+Show all the dog ages . What is the maximum and minimum value ? Which of the dogs have gone through treatments ?
+Show all the dog ages . What is the maximum and minimum value ? Which of the dogs have gone through treatments ? What about the average age of them ?
+Show all the dog ages . What is the maximum and minimum value ? Which of the dogs have gone through treatments ? What about the average age of them ? What is the average age of the dogs who have gone through any treatments?
+List all the professionals who are Employees .
+List all the professionals who are Employees . How many of them live in Connecticut ?
+List all the professionals who are Employees . How many of them live in Connecticut ? What about in Indiana ?
+List all the professionals who are Employees . How many of them live in Connecticut ? What about in Indiana ? Among all the professionals , which have done treatment only 1 treatments ?
+List all the professionals who are Employees . How many of them live in Connecticut ? What about in Indiana ? Among all the professionals , which have done treatment only 1 treatments ? List the id , last name and cell phone of the professionals who live in the state of Indiana or have done treatment on more than 2 treatments ?
+List all the professionals who are Employees . How many of them live in Connecticut ? What about in Indiana ? Among all the professionals , which have done treatment only 1 treatments ? List the id , last name and cell phone of the professionals who live in the state of Indiana or have done treatment on more than 2 treatments ? Which professionals live in the state of Indiana or have done treatment on more than 2 treatments? List his or her id, last name and cell phone.
+Show the dog name and total cost of each dog .
+Show the dog name and total cost of each dog . Which of them cost over 500 ?
+Show the dog name and total cost of each dog . Which of them cost over 500 ? What about more than 1000 ?
+Show the dog name and total cost of each dog . Which of them cost over 500 ? What about more than 1000 ? Which dogs have not cost their owner more than 1000 for treatment? List the dog names.
+List all the names of both Professionals and Owners .
+List all the names of both Professionals and Owners . What about the dog names ?
+List all the names of both Professionals and Owners . What about the dog names ? Which human names are not used as dog names .
+List all the names of both Professionals and Owners . What about the dog names ? Which human names are not used as dog names . Which first names are used for professionals or owners but are not used as dog names?
+Show the professional first names and the corresponding treatment type codes for the treatment .
+Show the professional first names and the corresponding treatment type codes for the treatment . What about each professional 's id , role , email and the treatment type code ?
+Show the professional first names and the corresponding treatment type codes for the treatment . What about each professional 's id , role , email and the treatment type code ? Which professional did not provide any treatment ? Keep the id , role and email .
+Show the professional first names and the corresponding treatment type codes for the treatment . What about each professional 's id , role , email and the treatment type code ? Which professional did not provide any treatment ? Keep the id , role and email . Which professional did not operate any treatment on dogs? List the professional's id, role and email.
+Show the number of dogs for each owner , keep the owner id .
+Show the number of dogs for each owner , keep the owner id . Which one has 2 dogs ?
+Show the number of dogs for each owner , keep the owner id . Which one has 2 dogs ? What about the one with the most dogs ?
+Show the number of dogs for each owner , keep the owner id . Which one has 2 dogs ? What about the one with the most dogs ? Which owner owns the most dogs? List the owner id, first name and last name.
+How many treatment does each professional finished ?
+How many treatment does each professional finished ? Show the first name of the professionals who did only 1 treatment .
+How many treatment does each professional finished ? Show the first name of the professionals who did only 1 treatment . What about at least two treatments ?
+How many treatment does each professional finished ? Show the first name of the professionals who did only 1 treatment . What about at least two treatments ? Show the id , role , and first name of each from the above .
+How many treatment does each professional finished ? Show the first name of the professionals who did only 1 treatment . What about at least two treatments ? Show the id , role , and first name of each from the above . Which professionals have done at least two treatments? List the professional's id, role, and first name.
+How many dogs for each breed code ?
+How many dogs for each breed code ? Which breed codes are the most popular two ?
+How many dogs for each breed code ? Which breed codes are the most popular two ? What about the most common 1 ?
+How many dogs for each breed code ? Which breed codes are the most popular two ? What about the most common 1 ? What name is the breed ?
+How many dogs for each breed code ? Which breed codes are the most popular two ? What about the most common 1 ? What name is the breed ? What is the name of the breed with the most dogs?
+Show the dog name and total cost of each dog .
+Show the dog name and total cost of each dog . What are the owner names and the cost from their dogs .
+Show the dog name and total cost of each dog . What are the owner names and the cost from their dogs . Who has paid for the most treatments on the dogs ? Keep owner IDs and last names .
+Show the dog name and total cost of each dog . What are the owner names and the cost from their dogs . Who has paid for the most treatments on the dogs ? Keep owner IDs and last names . Which owner has paid for the most treatments on his or her dogs? List the owner id and last name.
+List the treatment type code and the description .
+List the treatment type code and the description . For each treatment type , calculate the sum of costs , and order them in descending order .
+List the treatment type code and the description . For each treatment type , calculate the sum of costs , and order them in descending order . Show the treatment type description also .
+List the treatment type code and the description . For each treatment type , calculate the sum of costs , and order them in descending order . Show the treatment type description also . So what is the description of the treatment type that costs the least money in total ?
+List the treatment type code and the description . For each treatment type , calculate the sum of costs , and order them in descending order . Show the treatment type description also . So what is the description of the treatment type that costs the least money in total ? What is the description of the treatment type that costs the least money in total?
+Show the dog name and total cost of each dog .
+Show the dog name and total cost of each dog . How many of them cost over 700 ?
+Show the dog name and total cost of each dog . How many of them cost over 700 ? Which owner paid the cost larger than 400 , show the owner id and the zip code ?
+Show the dog name and total cost of each dog . How many of them cost over 700 ? Which owner paid the cost larger than 400 , show the owner id and the zip code ? What about the owner who spent the largest cost ?
+Show the dog name and total cost of each dog . How many of them cost over 700 ? Which owner paid the cost larger than 400 , show the owner id and the zip code ? What about the owner who spent the largest cost ? Which owner has paid the largest amount of money in total for their dogs? Show the owner id and zip code.
+List the professional first names and their types of treatments .
+List the professional first names and their types of treatments . Add the counts of them also .
+List the professional first names and their types of treatments . Add the counts of them also . Among the results , who did only 1 type of treatment ? List the professional ids and cell phone numbers of them .
+List the professional first names and their types of treatments . Add the counts of them also . Among the results , who did only 1 type of treatment ? List the professional ids and cell phone numbers of them . What about at least two types of treatments ?
+List the professional first names and their types of treatments . Add the counts of them also . Among the results , who did only 1 type of treatment ? List the professional ids and cell phone numbers of them . What about at least two types of treatments ? Which professionals have done at least two types of treatments? List the professional id and cell phone.
+What is the minimum , maximum and average value of the treatment costs ?
+What is the minimum , maximum and average value of the treatment costs ? Which professionals who did the minimum value of the treatment cost ? Provide the first name and last name .
+What is the minimum , maximum and average value of the treatment costs ? Which professionals who did the minimum value of the treatment cost ? Provide the first name and last name . What about the maximum cost ?
+What is the minimum , maximum and average value of the treatment costs ? Which professionals who did the minimum value of the treatment cost ? Provide the first name and last name . What about the maximum cost ? How about below the average of the cost ?
+What is the minimum , maximum and average value of the treatment costs ? Which professionals who did the minimum value of the treatment cost ? Provide the first name and last name . What about the maximum cost ? How about below the average of the cost ? What are the first name and last name of the professionals who have done treatment with cost below average?
+How many dogs for each breed code ?
+How many dogs for each breed code ? Which one is the most popular one ?
+How many dogs for each breed code ? Which one is the most popular one ? What about the least popular one ?
+How many dogs for each breed code ? Which one is the most popular one ? What about the least popular one ? So which dogs are having the breed code ? And the treatment dates ?
+How many dogs for each breed code ? Which one is the most popular one ? What about the least popular one ? So which dogs are having the breed code ? And the treatment dates ? List the names of the dogs of the rarest breed and the treatment dates of them.
+Show the name of dogs whose owners are from the city 'Lake Tia ' .
+Show the name of dogs whose owners are from the city 'Lake Tia ' . Add the owner 's first names also .
+Show the name of dogs whose owners are from the city 'Lake Tia ' . Add the owner 's first names also . What about when the owner is from the state of 'Virginia ' ?
+Show the name of dogs whose owners are from the city 'Lake Tia ' . Add the owner 's first names also . What about when the owner is from the state of 'Virginia ' ? Which dogs are owned by someone who lives in Virginia? List the owner's first name and the dog's name.
+Which one is the oldest dog ? List the information of it .
+Which one is the oldest dog ? List the information of it . What are the last names of the oldest dogs ?
+Which one is the oldest dog ? List the information of it . What are the last names of the oldest dogs ? What about the owner last name of the youngest dog ?
+Which one is the oldest dog ? List the information of it . What are the last names of the oldest dogs ? What about the owner last name of the youngest dog ? List the last name of the owner owning the youngest dog.
+Show the cities and states of the professionals .
+Show the cities and states of the professionals . How many of them are from 'Hawaii ' ?
+Show the cities and states of the professionals . How many of them are from 'Hawaii ' ? List the emails of the professionals who live in the state of Hawaii or the state of Wisconsin .
+Show the cities and states of the professionals . How many of them are from 'Hawaii ' ? List the emails of the professionals who live in the state of Hawaii or the state of Wisconsin . List the emails of the professionals who live in the state of Hawaii or the state of Wisconsin.
+Show the states of the professionals .
+Show the states of the professionals . How many of them are from 'Wisconsin ' ?
+Show the states of the professionals . How many of them are from 'Wisconsin ' ? List the role code , street , city , state from the above results .
+Show the states of the professionals . How many of them are from 'Wisconsin ' ? List the role code , street , city , state from the above results . What about those professionals who live in a city containing the substring 'West ' ?
+Show the states of the professionals . How many of them are from 'Wisconsin ' ? List the role code , street , city , state from the above results . What about those professionals who live in a city containing the substring 'West ' ? Which professionals live in a city containing the substring 'West'? List his or her role, street, city and state.
+Show the states of the owners .
+Show the states of the owners . How many of them are from 'Vermont ' ?
+Show the states of the owners . How many of them are from 'Vermont ' ? List the first name , last name and email of the owners who lives in the states that has the substring 'North ' .
+Show the states of the owners . How many of them are from 'Vermont ' ? List the first name , last name and email of the owners who lives in the states that has the substring 'North ' . Which owners live in the state whose name contains the substring 'North'? List his first name, last name and email.
+Order the dog ages in descending order .
+Order the dog ages in descending order . How many of them are below 4 ?
+Order the dog ages in descending order . How many of them are below 4 ? What about the ones that are below the average ?
+Order the dog ages in descending order . How many of them are below 4 ? What about the ones that are below the average ? How many dogs have an age below the average?
+Show the treatment details .
+Show the treatment details . Order the cost in ascending order .
+Show the treatment details . Order the cost in ascending order . What about in descending order ?
+Show the treatment details . Order the cost in ascending order . What about in descending order ? Which one is the most recent cost ?
+Show the treatment details . Order the cost in ascending order . What about in descending order ? Which one is the most recent cost ? How much does the most recent treatment cost?
+Show all the owner information .
+Show all the owner information . What about the dogs ?
+Show all the owner information . What about the dogs ? Among those , how many of them have been sent to receive treatment ?
+Show all the owner information . What about the dogs ? Among those , how many of them have been sent to receive treatment ? What about those who did not ?
+Show all the owner information . What about the dogs ? Among those , how many of them have been sent to receive treatment ? What about those who did not ? How many dogs have not gone through any treatment?
+Show all the owner information .
+Show all the owner information . How many of them come from the state of 'Arizona ' ?
+Show all the owner information . How many of them come from the state of 'Arizona ' ? What about those who do not have any dogs temporarily ?
+Show all the owner information . How many of them come from the state of 'Arizona ' ? What about those who do not have any dogs temporarily ? How many owners temporarily do not have any dogs?
+How many professionals are there ?
+How many professionals are there ? How many of them come from 'West Heidi ? '
+How many professionals are there ? How many of them come from 'West Heidi ? ' What about those who did not operate any treatment on dogs ?
+How many professionals are there ? How many of them come from 'West Heidi ? ' What about those who did not operate any treatment on dogs ? How many professionals did not operate any treatment on dogs?

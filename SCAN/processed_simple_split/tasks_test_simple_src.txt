@@ -1,0 +1,4182 @@
+IN: turn opposite right thrice and turn opposite left
+IN: run right twice after walk right twice
+IN: look around right twice and turn left thrice
+IN: jump around left thrice and run right thrice
+IN: run thrice and walk opposite left
+IN: jump opposite right after walk around right thrice
+IN: look around left after jump around left twice
+IN: look opposite right twice and jump opposite left twice
+IN: look opposite right thrice after look around left
+IN: walk twice after look opposite left
+IN: turn right twice after run opposite right thrice
+IN: turn opposite right after look twice
+IN: jump around left twice after walk opposite left thrice
+IN: jump around right thrice after look left thrice
+IN: walk left thrice after run twice
+IN: run around right thrice after jump opposite right
+IN: run left twice after jump opposite left twice
+IN: walk around right twice after run opposite left
+IN: run twice after turn right thrice
+IN: turn around left thrice after look
+IN: turn right twice and turn around right twice
+IN: turn right and turn around right thrice
+IN: turn right twice and look twice
+IN: walk thrice and turn left
+IN: turn opposite right thrice and run right
+IN: walk right twice and jump around right twice
+IN: turn around right thrice after run opposite right
+IN: jump after jump around left twice
+IN: turn right twice after walk around right twice
+IN: turn opposite left twice and turn opposite left twice
+IN: jump left and turn opposite left
+IN: look around right and turn right thrice
+IN: turn around right twice and look left
+IN: run opposite left twice and look opposite left
+IN: walk opposite right and jump around left
+IN: turn left and run around right
+IN: walk right and look opposite right thrice
+IN: turn right thrice and run right twice
+IN: walk right thrice after run right twice
+IN: walk left after jump around right twice
+IN: jump opposite left thrice and turn opposite left
+IN: walk opposite right after run around right thrice
+IN: look around right twice and jump opposite left thrice
+IN: turn opposite left thrice after look twice
+IN: turn opposite right twice after look opposite left twice
+IN: turn right thrice after turn opposite left thrice
+IN: run opposite left after walk opposite right thrice
+IN: jump thrice after turn around right twice
+IN: jump opposite right and run around left twice
+IN: walk twice and jump twice
+IN: walk left thrice after look around left thrice
+IN: walk opposite right and look around left twice
+IN: walk after look opposite left
+IN: look opposite right thrice after walk opposite left
+IN: run thrice and jump left thrice
+IN: walk opposite right twice after walk around right thrice
+IN: turn around right twice after look around left
+IN: jump around right twice and look right
+IN: walk twice and turn right thrice
+IN: look around right thrice after jump opposite left twice
+IN: run opposite right twice and look right
+IN: run around left twice after walk opposite right twice
+IN: walk twice after turn opposite right
+IN: run opposite right thrice after turn left twice
+IN: look around left after turn right
+IN: turn around right and run thrice
+IN: look twice after look around left
+IN: turn right twice after turn around left thrice
+IN: walk opposite right after look around left
+IN: jump opposite right after run around right thrice
+IN: turn around left twice and run right
+IN: run opposite left twice and look left twice
+IN: jump opposite right after jump opposite left twice
+IN: look left and walk right
+IN: walk left twice after run opposite right twice
+IN: jump opposite left and jump around right thrice
+IN: look opposite right twice and look opposite right
+IN: run opposite right thrice after run left thrice
+IN: walk opposite right thrice after look opposite right thrice
+IN: turn right twice and look opposite right
+IN: turn around left and walk opposite right thrice
+IN: turn opposite left thrice and look right
+IN: jump thrice after turn opposite left
+IN: look around right thrice and look opposite left thrice
+IN: walk twice and jump thrice
+IN: run left twice and jump thrice
+IN: look opposite right twice and turn around left thrice
+IN: jump around right thrice after jump around left twice
+IN: turn around left thrice and walk opposite left twice
+IN: turn around left twice after walk thrice
+IN: look twice after run right twice
+IN: run left twice and run thrice
+IN: run opposite right and walk right twice
+IN: look around right after run left
+IN: run twice and turn opposite right thrice
+IN: look right thrice after turn opposite left twice
+IN: turn around left and turn left twice
+IN: run right thrice after walk right twice
+IN: turn left thrice and run right thrice
+IN: jump opposite right thrice after run around right
+IN: run around right twice and look opposite left
+IN: jump opposite left and look opposite left
+IN: run around right thrice and run around left
+IN: jump right twice after walk right thrice
+IN: jump and run opposite left thrice
+IN: jump around right thrice after jump opposite right
+IN: turn opposite right and run around left
+IN: run right thrice after look
+IN: run opposite right thrice after run right
+IN: jump twice and turn around right thrice
+IN: turn left thrice after walk around right
+IN: jump opposite right twice and run around left thrice
+IN: jump opposite right twice and look around right twice
+IN: look around left and run left thrice
+IN: turn right after run around right
+IN: jump left and look right
+IN: run left twice and walk around left twice
+IN: run twice after jump around left
+IN: run opposite left thrice after run opposite left
+IN: jump around left thrice after turn opposite left thrice
+IN: run twice and look
+IN: look around right thrice and run around right thrice
+IN: jump thrice after look opposite right twice
+IN: run left twice and run opposite left
+IN: run around left and jump left
+IN: jump opposite right and turn opposite left thrice
+IN: walk around right thrice after jump around left thrice
+IN: run right thrice after walk opposite right thrice
+IN: run around left after look around right thrice
+IN: look right and turn opposite right thrice
+IN: turn around right twice after walk opposite left
+IN: jump opposite right thrice and look thrice
+IN: walk twice and run left
+IN: jump opposite left twice after run thrice
+IN: look around left thrice after run right thrice
+IN: run right thrice and run right thrice
+IN: turn left thrice and jump twice
+IN: look opposite left after walk left thrice
+IN: jump left thrice after turn around left twice
+IN: walk right and run left twice
+IN: jump twice and turn right twice
+IN: jump opposite left thrice after look opposite right twice
+IN: walk around left after look
+IN: turn opposite right thrice and look around right
+IN: jump opposite right twice and turn left twice
+IN: turn left after look opposite right thrice
+IN: walk around right thrice after walk around right
+IN: jump right twice after look right
+IN: turn opposite right thrice and turn around right
+IN: look left twice after turn around left twice
+IN: walk left and walk opposite right twice
+IN: walk left thrice and look twice
+IN: run around right thrice after run
+IN: look opposite left thrice after jump right
+IN: jump around left thrice and run opposite left twice
+IN: run left after run opposite left twice
+IN: run right twice after turn around left
+IN: look right thrice and look
+IN: walk around right twice after walk around right thrice
+IN: walk around right after run right
+IN: look and look around right thrice
+IN: run twice after look around left twice
+IN: run around left thrice and look around right twice
+IN: jump thrice after walk around right
+IN: look twice after walk opposite left twice
+IN: turn opposite right twice after turn around left
+IN: turn opposite left after turn right thrice
+IN: turn opposite right twice and turn opposite right thrice
+IN: jump opposite right and run opposite left thrice
+IN: turn opposite left thrice and walk around left twice
+IN: run opposite left after jump around left twice
+IN: turn left twice and run twice
+IN: jump opposite left after run twice
+IN: run left twice and look opposite left
+IN: turn left thrice and run opposite right twice
+IN: turn around left and turn around right thrice
+IN: look right thrice and turn opposite right thrice
+IN: look and jump right
+IN: turn around right twice and look around right twice
+IN: run right twice and look thrice
+IN: run opposite left after jump right twice
+IN: turn opposite left and turn opposite right thrice
+IN: run around left thrice after walk opposite right twice
+IN: run and run thrice
+IN: jump around left twice and walk around left twice
+IN: jump left twice after look opposite right twice
+IN: look left thrice and run thrice
+IN: walk thrice and walk around left thrice
+IN: look right after turn opposite right twice
+IN: look around left thrice and look left
+IN: walk right after look around right twice
+IN: look thrice after look thrice
+IN: turn opposite right after jump around right twice
+IN: turn around left twice after jump opposite left thrice
+IN: jump right and jump left thrice
+IN: jump around right and turn around left thrice
+IN: look opposite right thrice after run opposite left twice
+IN: run around right twice and turn around left
+IN: look right twice and run opposite right
+IN: run around right and walk around right twice
+IN: look right and jump left
+IN: jump around right after turn right thrice
+IN: look around left thrice after run left
+IN: turn right after jump opposite right
+IN: run right thrice after jump right
+IN: jump opposite left thrice after jump left thrice
+IN: look left thrice and look around left thrice
+IN: turn around left
+IN: run left thrice after look thrice
+IN: walk opposite left twice after walk opposite left thrice
+IN: jump opposite left twice and run opposite right thrice
+IN: jump around right and turn around left
+IN: look opposite right after run around right thrice
+IN: jump around right twice and look opposite left
+IN: run left twice and run right thrice
+IN: jump opposite left twice after turn opposite right
+IN: walk right after walk right twice
+IN: turn around right after look thrice
+IN: turn right after run left
+IN: look opposite left thrice after turn right thrice
+IN: turn left and run opposite left twice
+IN: jump opposite right twice and look left twice
+IN: walk around left thrice and run left twice
+IN: walk around right twice after look around right
+IN: turn left after look around left twice
+IN: look right and jump left twice
+IN: turn opposite right after jump around right
+IN: turn right twice after run left
+IN: jump opposite left twice after run right thrice
+IN: walk twice and turn opposite right thrice
+IN: turn around right thrice after run around left twice
+IN: jump right thrice after walk around left
+IN: turn opposite left twice and run
+IN: jump opposite left after look opposite left
+IN: walk around left twice and look around right
+IN: walk thrice after look twice
+IN: walk and look left thrice
+IN: run thrice and look around right
+IN: turn opposite right twice after walk right thrice
+IN: run right twice and turn opposite left
+IN: jump after run opposite left thrice
+IN: look left and walk left
+IN: look twice and jump around right thrice
+IN: jump around left thrice and turn opposite right thrice
+IN: jump around left after run around left thrice
+IN: walk around right twice after walk thrice
+IN: turn around left thrice after walk right
+IN: walk opposite right twice and look around right twice
+IN: jump after walk around right thrice
+IN: run around left and walk around right twice
+IN: jump around right twice after look around right
+IN: turn around right thrice after walk around right
+IN: look around right and walk opposite left twice
+IN: jump opposite right thrice and run around left twice
+IN: jump right twice and run left
+IN: turn opposite right twice and run opposite right twice
+IN: look opposite left and jump around left twice
+IN: jump opposite left thrice and run around right thrice
+IN: look opposite left and turn opposite left twice
+IN: turn around right thrice and look around right thrice
+IN: turn around right thrice after turn around right thrice
+IN: walk opposite left twice after walk thrice
+IN: jump opposite right thrice and jump around left
+IN: run right thrice and run around right twice
+IN: turn around left thrice after look thrice
+IN: look around right twice and jump around right
+IN: look after walk around right twice
+IN: jump opposite right and run opposite left twice
+IN: jump after walk right thrice
+IN: turn opposite left twice and run left
+IN: turn opposite right after walk around right twice
+IN: look opposite right thrice and walk thrice
+IN: run opposite right twice and look right thrice
+IN: jump left twice after walk opposite left twice
+IN: run left thrice and jump opposite right twice
+IN: walk opposite right twice and jump right twice
+IN: look twice and turn around left
+IN: walk left after look opposite left
+IN: walk around right thrice and turn opposite left
+IN: walk around right thrice after jump opposite right thrice
+IN: run around left twice and walk opposite right thrice
+IN: run twice and run around left
+IN: walk and turn opposite right twice
+IN: walk after walk left thrice
+IN: run left thrice and turn opposite right twice
+IN: look opposite left twice and look right twice
+IN: turn around left thrice after run around left
+IN: run after look opposite right twice
+IN: walk opposite right twice after run opposite right twice
+IN: turn around left and jump
+IN: walk around right and jump around right
+IN: look left thrice after jump left thrice
+IN: walk thrice after run around left
+IN: run right twice after walk opposite left
+IN: look left and look opposite left twice
+IN: run left thrice and walk opposite left thrice
+IN: turn around left twice and run twice
+IN: run right and run left twice
+IN: jump around left thrice and walk left twice
+IN: run around left after look opposite left
+IN: walk thrice after run thrice
+IN: run and turn right thrice
+IN: turn opposite left twice and look opposite right
+IN: run around right thrice and walk around right twice
+IN: look thrice after run right
+IN: turn around right twice and jump right twice
+IN: jump around left and look around left twice
+IN: run right after run opposite left
+IN: walk opposite right and walk left thrice
+IN: jump around right twice and run opposite left twice
+IN: look around right twice after jump around left twice
+IN: look opposite left thrice after look opposite left twice
+IN: turn around right thrice after turn around left twice
+IN: jump thrice after jump opposite right thrice
+IN: run around left after turn right twice
+IN: jump around left twice after run around left
+IN: run opposite right after turn right
+IN: jump right twice and turn opposite left twice
+IN: walk around right and run around right thrice
+IN: look right twice after turn right thrice
+IN: run opposite left after look opposite left
+IN: run opposite left thrice and look left thrice
+IN: run around left twice
+IN: walk around left and jump around left thrice
+IN: look left twice after run right twice
+IN: jump right after look around right
+IN: run around right twice and jump right
+IN: run around right after walk around left
+IN: look opposite left after jump left twice
+IN: run opposite left thrice and walk opposite left twice
+IN: run opposite left thrice and run right thrice
+IN: jump left twice after walk left
+IN: run around left twice after walk around right twice
+IN: walk left twice after turn around right twice
+IN: look opposite left thrice after jump right thrice
+IN: look around right thrice after run around right twice
+IN: run opposite right thrice after jump around right
+IN: run opposite right twice after jump opposite right
+IN: run left twice after look right thrice
+IN: walk right twice and turn right twice
+IN: turn left twice and jump around left twice
+IN: run twice after turn left thrice
+IN: jump around left twice and turn opposite left thrice
+IN: run and turn around right
+IN: look opposite left thrice after turn right twice
+IN: turn opposite right twice after run right
+IN: walk left after look around left thrice
+IN: look thrice after turn around right thrice
+IN: look right and run left thrice
+IN: look around left after turn around left thrice
+IN: walk around left thrice after walk right
+IN: run opposite left twice and run right thrice
+IN: run left twice after run right
+IN: walk right thrice and jump thrice
+IN: run around right thrice and run opposite right twice
+IN: run around left twice and walk opposite left
+IN: turn left and walk around left twice
+IN: run around right and walk thrice
+IN: run opposite left and turn around right
+IN: walk opposite right thrice and jump around right thrice
+IN: walk around left thrice after look right
+IN: look twice after look left
+IN: walk opposite left and run right
+IN: look around left after turn around right
+IN: turn opposite left and turn left thrice
+IN: look opposite left and jump left twice
+IN: turn opposite left thrice after look opposite left twice
+IN: look opposite right after jump right
+IN: walk opposite left and look opposite left twice
+IN: walk and run opposite right
+IN: jump left twice and run opposite left
+IN: jump around left thrice after jump right thrice
+IN: walk around left twice and turn opposite left
+IN: look left twice and turn around left twice
+IN: jump right thrice and look opposite right twice
+IN: jump and look around left
+IN: look opposite left thrice and walk around left
+IN: look opposite left thrice after look twice
+IN: run around left thrice and walk left twice
+IN: turn right and look
+IN: jump left after run left
+IN: turn opposite left thrice and jump left
+IN: run left thrice after run twice
+IN: turn left thrice and jump right thrice
+IN: jump around left thrice after look around left
+IN: run left twice after walk left thrice
+IN: walk opposite left thrice after walk opposite right twice
+IN: turn around right thrice and jump
+IN: look opposite right thrice after run opposite left thrice
+IN: turn opposite right thrice after turn around left twice
+IN: turn right thrice after turn right thrice
+IN: run opposite left and turn opposite right twice
+IN: turn around right thrice and look
+IN: walk opposite right and jump around right
+IN: run thrice and run right twice
+IN: walk right after turn around right twice
+IN: look and jump opposite left
+IN: jump opposite left twice after turn opposite right twice
+IN: turn around right thrice and walk left thrice
+IN: walk opposite left and look around left twice
+IN: jump left thrice and run around right twice
+IN: turn right twice after walk right thrice
+IN: look around right twice and look around right thrice
+IN: turn opposite right thrice and look left twice
+IN: walk around left after walk thrice
+IN: run right after look left thrice
+IN: walk around right after look left
+IN: run right twice and look right twice
+IN: run around right after jump opposite left twice
+IN: look thrice after jump right thrice
+IN: look right twice and run right twice
+IN: walk right twice and look left thrice
+IN: jump around left after run opposite right
+IN: run right twice and turn left
+IN: walk thrice after look right thrice
+IN: look opposite left twice after walk twice
+IN: run around right thrice after walk left twice
+IN: walk opposite left after walk right twice
+IN: walk around left after look opposite left
+IN: run opposite left and turn opposite left twice
+IN: look opposite left twice and turn opposite left
+IN: walk around right twice after turn opposite right thrice
+IN: jump opposite right thrice and jump around left thrice
+IN: turn left and jump right twice
+IN: turn around right twice and jump left twice
+IN: turn opposite right twice after turn right
+IN: run left twice after walk opposite right
+IN: jump left twice after walk thrice
+IN: run twice and look opposite left twice
+IN: jump opposite left twice after turn right
+IN: look twice after turn around right
+IN: walk around left twice and walk opposite left
+IN: run opposite right after look left twice
+IN: walk around left after walk opposite right thrice
+IN: jump opposite left and run around right thrice
+IN: walk around right thrice after look twice
+IN: look around left thrice and turn around right thrice
+IN: walk around left and jump right
+IN: jump opposite left and look around left thrice
+IN: turn right thrice and walk left thrice
+IN: jump around left thrice and look around left thrice
+IN: turn right twice after run right
+IN: look and walk opposite left twice
+IN: turn left after jump left twice
+IN: jump twice after jump right thrice
+IN: turn right twice after jump twice
+IN: walk after jump thrice
+IN: jump left twice and look opposite left thrice
+IN: walk around left twice and jump left thrice
+IN: look right and walk opposite left twice
+IN: look around left thrice after jump opposite right thrice
+IN: walk around right and look opposite right thrice
+IN: turn around left after jump around right thrice
+IN: look thrice and look around left twice
+IN: turn opposite left thrice and walk around right twice
+IN: look around left after run opposite left thrice
+IN: look around right and jump opposite left thrice
+IN: run thrice after walk opposite right thrice
+IN: turn left thrice and jump around left twice
+IN: jump around left twice and run around right thrice
+IN: run opposite left thrice after look right thrice
+IN: turn around left twice and look left thrice
+IN: jump around right thrice and jump around left thrice
+IN: turn right thrice after run thrice
+IN: run around right twice and run opposite right
+IN: walk opposite right after walk around right
+IN: turn opposite right twice and jump around right twice
+IN: look opposite right twice after turn opposite right twice
+IN: walk around left and turn opposite left
+IN: jump opposite right thrice and look around left
+IN: walk right after look left twice
+IN: walk left twice and turn left
+IN: turn opposite left thrice and turn around left
+IN: turn right thrice and jump opposite right twice
+IN: run right after jump opposite right
+IN: walk left and run around right thrice
+IN: look right twice and jump opposite left twice
+IN: run opposite left thrice after jump opposite right
+IN: turn left and walk around right
+IN: walk opposite right and jump opposite left twice
+IN: run opposite left twice and run opposite left
+IN: look opposite left thrice and look left thrice
+IN: walk left thrice and jump left twice
+IN: jump around right thrice after turn right
+IN: walk around left after run thrice
+IN: walk right thrice and walk around left
+IN: walk left thrice after run opposite left
+IN: walk around right twice and turn opposite left twice
+IN: jump around right and turn right
+IN: turn opposite right twice and jump opposite right thrice
+IN: turn around left and walk twice
+IN: look right twice and turn opposite right twice
+IN: look opposite left after turn opposite right twice
+IN: look opposite left twice after run opposite left thrice
+IN: jump after turn opposite left thrice
+IN: jump opposite left twice and run around right thrice
+IN: turn left after walk opposite left twice
+IN: run right and look opposite left thrice
+IN: run opposite right after run around right
+IN: run right twice and look around left twice
+IN: run opposite right after run around left
+IN: jump opposite left thrice after turn around left thrice
+IN: look opposite right thrice after look opposite left
+IN: run around left twice after turn opposite left thrice
+IN: walk left twice after jump opposite right twice
+IN: run right and jump right thrice
+IN: turn left twice and walk opposite left
+IN: walk opposite right thrice and jump opposite left
+IN: look left thrice and jump opposite left twice
+IN: run opposite left twice after jump left
+IN: look left and run
+IN: look right twice and jump opposite left thrice
+IN: walk twice and walk
+IN: look around left twice after walk left
+IN: walk opposite right thrice after run right twice
+IN: run thrice and walk opposite right
+IN: look opposite left twice and look twice
+IN: jump left after run opposite left
+IN: turn right twice after turn opposite left thrice
+IN: walk right twice and run around right thrice
+IN: run opposite left thrice after jump around right thrice
+IN: walk opposite right and walk
+IN: jump right twice after run around right twice
+IN: look and turn around right thrice
+IN: jump around right thrice and turn around left thrice
+IN: walk around right thrice after look left
+IN: jump twice after run left
+IN: walk twice after look right
+IN: turn opposite left thrice and jump opposite left
+IN: run right twice and jump thrice
+IN: look opposite right thrice after turn left thrice
+IN: turn left after walk opposite left thrice
+IN: walk opposite left twice after run thrice
+IN: run right and look opposite right thrice
+IN: walk around left twice and turn left twice
+IN: walk opposite left twice and walk around left twice
+IN: jump opposite right after walk opposite right thrice
+IN: walk left twice and look left thrice
+IN: run opposite right thrice after look around left thrice
+IN: run left thrice and run opposite left twice
+IN: turn opposite left thrice and run opposite right
+IN: run opposite right and look opposite left twice
+IN: turn around right after look around right twice
+IN: look left and run left
+IN: jump around left thrice after run opposite left thrice
+IN: walk around right thrice and look around right twice
+IN: look right thrice after jump right
+IN: run right twice and turn right thrice
+IN: jump opposite right twice and walk left
+IN: jump thrice and run left twice
+IN: look right and look right thrice
+IN: jump opposite left twice and run opposite right twice
+IN: turn opposite left thrice after turn opposite left
+IN: walk opposite right twice and run right thrice
+IN: look left and turn right thrice
+IN: run right twice and run opposite right twice
+IN: jump left twice after look around left thrice
+IN: run left twice after look around right thrice
+IN: run and jump right thrice
+IN: jump around right twice and run around left thrice
+IN: run right after turn around left
+IN: walk right thrice and walk left twice
+IN: walk and walk opposite left twice
+IN: look around right twice after turn around left
+IN: turn opposite left thrice after run right
+IN: jump opposite left after run around left thrice
+IN: look around left twice after turn opposite left
+IN: turn right and jump opposite right thrice
+IN: run left thrice after look right thrice
+IN: walk opposite right twice after walk left twice
+IN: walk opposite right twice after turn right thrice
+IN: look right twice and look thrice
+IN: run right and jump around left thrice
+IN: run right twice and run around left thrice
+IN: look opposite right and jump opposite left
+IN: run opposite right thrice after turn opposite left thrice
+IN: run around left twice after turn around right twice
+IN: look around right twice and walk around left
+IN: jump and walk opposite right thrice
+IN: run opposite right twice and look
+IN: look around right thrice and run around left
+IN: look around left after jump around right twice
+IN: jump left thrice after jump
+IN: walk left thrice after jump around left
+IN: jump right twice after walk opposite left thrice
+IN: look thrice after look left twice
+IN: jump around right and look left
+IN: turn left thrice and turn left
+IN: jump around left thrice after turn right thrice
+IN: walk around right thrice after look around left twice
+IN: look left twice after run around left
+IN: turn opposite left twice after turn around left thrice
+IN: walk left after look opposite right thrice
+IN: turn left twice and turn left twice
+IN: turn opposite right twice and run left thrice
+IN: walk right thrice and jump around left thrice
+IN: look around right twice and look around left twice
+IN: turn opposite left and walk opposite left
+IN: turn left twice after walk opposite left twice
+IN: look opposite right thrice and look
+IN: walk around right and walk left thrice
+IN: walk around left thrice after turn left twice
+IN: jump left twice and run around right thrice
+IN: walk opposite left and walk opposite right twice
+IN: turn opposite left thrice after run thrice
+IN: walk thrice and jump opposite left twice
+IN: jump opposite right twice and jump thrice
+IN: walk around left twice and turn opposite right thrice
+IN: walk around right twice after run opposite right twice
+IN: jump around right and jump opposite right twice
+IN: turn opposite right twice after run opposite right thrice
+IN: run around right thrice after look opposite right
+IN: jump thrice and look left twice
+IN: look opposite left thrice after walk around right
+IN: look left thrice after walk thrice
+IN: jump around left thrice after walk right twice
+IN: run around right twice after run opposite right
+IN: run around right twice after look right thrice
+IN: walk left twice and run
+IN: look opposite right after jump around left twice
+IN: jump around left twice and look right thrice
+IN: turn opposite right thrice after walk left twice
+IN: run left after jump opposite right thrice
+IN: run after run right
+IN: jump opposite left twice and walk left twice
+IN: turn right thrice after look around right thrice
+IN: run left twice after jump right twice
+IN: look opposite left twice after turn around right
+IN: walk after jump right thrice
+IN: look opposite left thrice and run twice
+IN: walk after run around left twice
+IN: look around left thrice and look around right thrice
+IN: jump around right twice after look around left twice
+IN: look left and walk
+IN: jump opposite left after turn around left twice
+IN: run right thrice and turn right twice
+IN: walk left thrice and jump right
+IN: turn right after look around right
+IN: jump opposite left twice after turn opposite right thrice
+IN: run around right twice after run opposite right thrice
+IN: jump left twice and jump opposite left thrice
+IN: run thrice after look
+IN: run around left twice and turn opposite right
+IN: look around left and jump left thrice
+IN: look left thrice and jump thrice
+IN: run opposite left thrice and walk right
+IN: turn opposite left twice and turn around right thrice
+IN: run right thrice and walk left thrice
+IN: jump around right twice after walk opposite left
+IN: look left after walk left
+IN: jump around left twice and jump left twice
+IN: run around left thrice after jump around left thrice
+IN: turn opposite left after turn around left twice
+IN: run opposite right after jump left twice
+IN: jump around right twice and jump left
+IN: jump around left twice and run left twice
+IN: jump around left and run around right twice
+IN: run around right after look twice
+IN: turn right twice and turn opposite right twice
+IN: jump right twice after jump right twice
+IN: jump left and jump opposite right twice
+IN: run opposite left twice and walk right twice
+IN: turn right twice and walk
+IN: turn opposite left thrice and turn opposite left twice
+IN: jump opposite right and turn left
+IN: look thrice after walk left thrice
+IN: jump right and jump around left thrice
+IN: look left after look opposite right
+IN: turn around left after turn opposite right thrice
+IN: jump opposite left after turn opposite right thrice
+IN: run left and turn left thrice
+IN: turn around right thrice and walk
+IN: look right twice and turn opposite left twice
+IN: walk thrice and walk around left
+IN: jump right after turn opposite right twice
+IN: jump thrice and walk opposite left
+IN: look around left twice and turn around right thrice
+IN: walk opposite right twice and turn left twice
+IN: run opposite left twice after turn right thrice
+IN: walk thrice and look opposite right
+IN: look right twice after run opposite right
+IN: turn right and jump left thrice
+IN: run right twice after turn right
+IN: run opposite right twice after look around left thrice
+IN: look opposite left thrice and run left twice
+IN: run opposite right after walk opposite right
+IN: jump left thrice and walk opposite right thrice
+IN: look thrice after look around left thrice
+IN: run twice after look
+IN: turn opposite right twice after walk twice
+IN: turn right and look right twice
+IN: look after turn left thrice
+IN: look twice and look opposite right
+IN: jump around right after look around right
+IN: look opposite right thrice after walk twice
+IN: run around right twice after walk around right thrice
+IN: look left after turn around left
+IN: turn opposite right and run opposite left twice
+IN: jump opposite left after jump right
+IN: turn around right twice after walk opposite right twice
+IN: run around left and look around left thrice
+IN: walk right thrice after run right
+IN: look left twice and walk opposite left thrice
+IN: look thrice after look around right twice
+IN: turn right after jump
+IN: jump opposite left thrice and jump right thrice
+IN: run opposite right twice after jump opposite left
+IN: look opposite right after look opposite right twice
+IN: jump opposite right thrice and walk around right twice
+IN: jump right thrice after look around right thrice
+IN: look left thrice and look around right twice
+IN: look opposite left thrice and look around right
+IN: jump opposite left and run around left twice
+IN: walk right twice after run around right twice
+IN: look around right after walk opposite left twice
+IN: turn opposite right after walk thrice
+IN: jump opposite left twice and jump
+IN: run opposite left and look right
+IN: run around left thrice after walk left
+IN: jump opposite left thrice and jump opposite right
+IN: walk around right twice after turn around right
+IN: look twice after turn right
+IN: run opposite right and turn opposite right thrice
+IN: walk thrice and look opposite left thrice
+IN: run opposite right thrice after turn opposite left twice
+IN: run right thrice after run right
+IN: jump around left twice after run around right twice
+IN: look around right and turn left thrice
+IN: look around right twice after turn opposite right twice
+IN: walk left twice after walk opposite left thrice
+IN: turn left thrice and walk right thrice
+IN: run left twice after look opposite right twice
+IN: walk around left thrice and turn right
+IN: look twice and run around left thrice
+IN: look right thrice after run around left
+IN: walk thrice after walk around left
+IN: look opposite right and look opposite right
+IN: walk opposite left and run twice
+IN: jump right twice and jump opposite right twice
+IN: jump opposite left twice after turn around right
+IN: run around right twice and jump around left
+IN: look thrice and look
+IN: walk left and walk opposite left
+IN: look around left twice after jump opposite left
+IN: turn left thrice and walk around right thrice
+IN: run around right twice and turn around right twice
+IN: jump opposite right after turn around left
+IN: run right twice after run around right
+IN: jump around right twice and jump right twice
+IN: run right twice after turn opposite right thrice
+IN: jump and walk right thrice
+IN: look opposite right thrice and look right twice
+IN: walk opposite left twice and run right twice
+IN: jump opposite right thrice and walk twice
+IN: turn opposite left twice after walk opposite left
+IN: look around left thrice and turn around left thrice
+IN: turn right thrice and look right
+IN: look twice and walk around left
+IN: turn opposite right after run around left twice
+IN: walk left twice after jump around right
+IN: run left twice after run opposite left
+IN: look opposite left twice and jump around left twice
+IN: walk around right twice after walk opposite left thrice
+IN: jump around right thrice and jump opposite left twice
+IN: turn opposite left and look left thrice
+IN: walk opposite right after jump left twice
+IN: run opposite right thrice after look opposite left
+IN: run right after walk opposite right
+IN: turn around right twice after look opposite left
+IN: jump opposite left and run around left thrice
+IN: turn around left after turn left
+IN: jump opposite right twice and run right twice
+IN: look opposite left twice after turn opposite left twice
+IN: turn right thrice and jump around left
+IN: jump around right twice and walk left twice
+IN: look left twice and look opposite left twice
+IN: run around left twice after jump around right thrice
+IN: run opposite left and jump opposite right thrice
+IN: turn right thrice after jump left twice
+IN: walk and walk opposite right
+IN: jump opposite left twice and run opposite left thrice
+IN: jump around right twice and walk right thrice
+IN: walk twice and jump around left twice
+IN: walk right thrice after turn around right thrice
+IN: jump left thrice and look left thrice
+IN: look opposite right twice after run around left thrice
+IN: jump right after walk right
+IN: walk around right twice and jump right twice
+IN: jump around right twice and look left twice
+IN: jump opposite left and run opposite right thrice
+IN: jump around right twice after jump right thrice
+IN: walk around right after jump right
+IN: jump opposite left and look opposite left twice
+IN: turn right twice after look
+IN: turn opposite right twice and walk right
+IN: run right twice and walk twice
+IN: run opposite left thrice and jump left twice
+IN: run around right and jump left
+IN: run opposite left and walk thrice
+IN: run right thrice after turn around left
+IN: turn opposite right thrice and look right twice
+IN: look left twice after look opposite right thrice
+IN: jump opposite right and look left twice
+IN: run around left twice after jump left
+IN: look around right twice and walk opposite left
+IN: look right twice after look around left
+IN: look thrice and turn around left thrice
+IN: jump left thrice after look opposite left thrice
+IN: walk thrice and turn right
+IN: run opposite left and turn around right thrice
+IN: walk left and look left thrice
+IN: jump around left and look opposite left twice
+IN: jump around left after jump right
+IN: look twice after run left thrice
+IN: look right thrice and look right thrice
+IN: run opposite left and look right thrice
+IN: look right twice and look left twice
+IN: jump around left and run opposite right thrice
+IN: turn opposite left after walk opposite left
+IN: run opposite left twice and walk around left twice
+IN: turn left and look left
+IN: run opposite right twice and jump opposite left
+IN: jump right and turn around right twice
+IN: turn around left and turn left thrice
+IN: turn opposite right thrice and jump right thrice
+IN: jump left thrice and jump left twice
+IN: jump opposite left twice after walk left
+IN: walk right and turn right thrice
+IN: turn opposite right and walk twice
+IN: run around right twice and run opposite left thrice
+IN: look around left twice and walk left
+IN: turn around right twice after turn opposite right
+IN: look right thrice and walk twice
+IN: run left thrice after turn around left twice
+IN: walk around right after turn left twice
+IN: turn right and run opposite left twice
+IN: jump around left twice and walk opposite left twice
+IN: look right thrice after turn around left thrice
+IN: jump around right twice and turn opposite right twice
+IN: run opposite right twice and turn opposite right twice
+IN: look thrice after jump right
+IN: turn opposite left after turn right
+IN: turn around left twice after walk opposite right
+IN: walk left thrice after jump thrice
+IN: look around left and walk twice
+IN: jump after walk opposite right
+IN: run opposite left after look thrice
+IN: look right thrice and run around right thrice
+IN: walk opposite left and jump left thrice
+IN: turn left twice after jump opposite right
+IN: jump thrice after turn right twice
+IN: jump twice after walk opposite right twice
+IN: run thrice after jump around left thrice
+IN: jump opposite right thrice and jump right thrice
+IN: jump left thrice after walk opposite left twice
+IN: look opposite right and run right twice
+IN: jump around right twice after run opposite right twice
+IN: look opposite left and walk right twice
+IN: walk after jump around left thrice
+IN: look around left and look around right thrice
+IN: run right thrice after jump right thrice
+IN: jump around left after walk opposite right thrice
+IN: turn opposite left and turn around left
+IN: look after run left
+IN: walk thrice after look
+IN: jump left twice after walk around left
+IN: look around left thrice after walk
+IN: jump left twice after jump opposite right thrice
+IN: run around right thrice after run left twice
+IN: run opposite left twice after run opposite right thrice
+IN: walk around left thrice and walk left thrice
+IN: walk opposite left thrice and walk opposite right
+IN: look left after run around left
+IN: look opposite left thrice and walk left thrice
+IN: run around right after walk thrice
+IN: jump around left thrice after run right twice
+IN: look thrice after run left thrice
+IN: jump right thrice and look thrice
+IN: jump around right thrice after turn around right thrice
+IN: look twice and look around left thrice
+IN: run opposite left thrice and run thrice
+IN: walk around left thrice after look around right twice
+IN: jump opposite right after walk around left thrice
+IN: turn around right thrice after jump opposite right thrice
+IN: walk around right thrice and jump thrice
+IN: walk opposite right thrice after turn right
+IN: walk opposite left after jump opposite left
+IN: run opposite left thrice after walk thrice
+IN: look opposite left thrice and run right
+IN: run around left and walk opposite right thrice
+IN: jump right thrice and walk twice
+IN: look around right and walk opposite right
+IN: run opposite left thrice and look left
+IN: turn right thrice and turn opposite right twice
+IN: jump right and walk around left thrice
+IN: look opposite right after turn opposite left
+IN: turn opposite right thrice after run around left
+IN: turn around right thrice and turn opposite right twice
+IN: jump around right and run twice
+IN: walk right and look around right twice
+IN: look left twice and turn left thrice
+IN: jump after jump around left
+IN: jump right twice after jump right
+IN: walk opposite right and jump opposite right thrice
+IN: walk thrice and look around right thrice
+IN: walk thrice after turn left
+IN: jump around right thrice after walk around left twice
+IN: run right after run right twice
+IN: look opposite left twice and walk thrice
+IN: look thrice after jump opposite left twice
+IN: jump around left twice and run opposite right thrice
+IN: jump opposite left after run
+IN: run around left thrice after turn right thrice
+IN: turn opposite left twice and turn opposite right
+IN: jump right twice after run opposite right thrice
+IN: jump twice after look opposite right twice
+IN: turn around right after look around left
+IN: jump right twice after look opposite right
+IN: look around left twice after look left twice
+IN: jump opposite right thrice after run around left twice
+IN: walk opposite left thrice after jump left
+IN: walk right after turn right thrice
+IN: walk opposite left thrice and run thrice
+IN: walk right thrice after turn left twice
+IN: jump left thrice and run right twice
+IN: turn opposite left thrice and jump opposite left thrice
+IN: turn right twice after walk around left thrice
+IN: look around left after look around right twice
+IN: run opposite right thrice after jump left
+IN: look around right thrice after run around left thrice
+IN: look thrice after turn opposite right thrice
+IN: run around left twice after run opposite left thrice
+IN: jump after run opposite right thrice
+IN: walk opposite right thrice and run right twice
+IN: jump and jump left twice
+IN: jump thrice after jump left thrice
+IN: jump opposite right after look left thrice
+IN: look around left twice after run around right thrice
+IN: run around right thrice after jump opposite left twice
+IN: look around right thrice and run opposite left thrice
+IN: look left and jump right thrice
+IN: jump left after walk opposite left thrice
+IN: turn left twice and look around left
+IN: jump around right after look left twice
+IN: walk around left and run opposite left
+IN: run left after walk around left twice
+IN: jump and walk opposite left twice
+IN: walk right twice after run right twice
+IN: run left after walk around left thrice
+IN: walk left thrice and turn around left
+IN: jump and jump around right thrice
+IN: jump around left twice and jump around right twice
+IN: turn around right thrice and jump around right thrice
+IN: turn left twice after run opposite right thrice
+IN: run left and walk twice
+IN: jump left thrice after jump opposite left twice
+IN: walk thrice and walk around right twice
+IN: walk twice and run left twice
+IN: look left thrice and run left twice
+IN: run opposite left thrice and look right twice
+IN: jump right after look opposite right twice
+IN: jump around left twice after jump left twice
+IN: jump opposite left twice after walk opposite left
+IN: walk around right and look opposite right twice
+IN: run opposite left twice and look thrice
+IN: walk opposite right thrice and turn around right
+IN: run opposite right after run opposite left
+IN: jump left twice and run around left
+IN: look and run around right
+IN: jump around left twice and jump opposite right twice
+IN: run opposite left twice
+IN: run right thrice after walk right
+IN: look around left thrice and walk thrice
+IN: run left after jump thrice
+IN: turn opposite left thrice after turn opposite right
+IN: walk right twice after turn opposite left
+IN: walk left thrice and look around left thrice
+IN: turn around right thrice and walk around left twice
+IN: walk right thrice and walk
+IN: walk around left twice and run left
+IN: look right and jump right thrice
+IN: run around right thrice after run opposite left thrice
+IN: run around left after look thrice
+IN: jump right and jump around left twice
+IN: run around left and jump right twice
+IN: look left after jump opposite right twice
+IN: run thrice and jump right twice
+IN: run around left twice and walk around right twice
+IN: run thrice and jump around right twice
+IN: turn opposite right and walk left thrice
+IN: walk twice after look thrice
+IN: walk opposite left twice and run opposite right thrice
+IN: turn opposite left twice after look twice
+IN: run around left and jump around right thrice
+IN: jump around right thrice after jump around right
+IN: walk opposite left after jump left twice
+IN: run around left after run opposite left
+IN: jump left thrice and look right
+IN: turn left and jump twice
+IN: run left twice after run around left thrice
+IN: look left and jump around right twice
+IN: jump twice after turn right twice
+IN: walk around left thrice and run around right
+IN: walk opposite right thrice after run around right
+IN: walk around left twice after run left
+IN: walk around right thrice and look opposite left thrice
+IN: run left twice after run opposite right thrice
+IN: jump twice after run around right twice
+IN: look left after run left
+IN: jump around right and look around left
+IN: turn around right thrice after turn left twice
+IN: look right thrice after jump opposite left twice
+IN: walk right and jump around left
+IN: walk opposite right and turn around right
+IN: walk around left twice after jump around left thrice
+IN: look around right thrice and look opposite right thrice
+IN: look opposite right twice and walk around right
+IN: jump around right and run left
+IN: walk opposite left thrice after turn opposite right twice
+IN: jump and look around right
+IN: run opposite right after run
+IN: walk around left thrice after jump left twice
+IN: run after run around left twice
+IN: look around right thrice after jump around left thrice
+IN: run left and jump opposite left twice
+IN: run around right thrice after run around left thrice
+IN: walk around right thrice and jump
+IN: walk around left twice after turn left twice
+IN: run around left twice and jump around left
+IN: jump left thrice after turn right thrice
+IN: jump left thrice after look opposite right thrice
+IN: turn left twice and jump right thrice
+IN: run around left thrice after run right
+IN: look left and look right thrice
+IN: run opposite right after jump thrice
+IN: run after run right thrice
+IN: run around right twice after turn opposite left
+IN: look right thrice and run around right
+IN: walk left and turn right
+IN: walk left twice after jump left twice
+IN: look opposite left thrice after walk thrice
+IN: turn opposite right after turn opposite left
+IN: turn left and run left
+IN: walk opposite right twice after run around left
+IN: walk opposite right after walk around left
+IN: turn right twice and run right twice
+IN: jump twice after run twice
+IN: walk left thrice and run left thrice
+IN: look around left thrice after jump right thrice
+IN: run left twice after walk twice
+IN: look right and look left
+IN: look twice and walk
+IN: turn left thrice and turn opposite left twice
+IN: turn opposite left twice and jump around left thrice
+IN: turn around right twice after jump right
+IN: look opposite left thrice after walk around right thrice
+IN: turn around right twice and look around right thrice
+IN: jump opposite left twice after run around left
+IN: run left thrice and turn around left
+IN: run around left twice after run opposite left twice
+IN: turn around right after walk around right thrice
+IN: run around left thrice and turn around right thrice
+IN: run opposite left thrice after jump opposite left twice
+IN: look twice after run right
+IN: turn left after run opposite left
+IN: run right and jump around right twice
+IN: jump around right thrice after walk opposite right twice
+IN: run left and look opposite right thrice
+IN: walk twice and look left twice
+IN: turn opposite right thrice and look opposite right twice
+IN: walk after walk opposite right thrice
+IN: walk right twice after run opposite right thrice
+IN: run opposite right twice after run opposite right thrice
+IN: walk opposite right and jump opposite left thrice
+IN: turn right twice and run right thrice
+IN: run around right twice and run right thrice
+IN: walk opposite left twice after walk around right twice
+IN: look around left thrice and turn left thrice
+IN: run around left twice after turn opposite right twice
+IN: run around left thrice and turn around left thrice
+IN: walk right thrice and look twice
+IN: turn left thrice after jump opposite left twice
+IN: look around left after run around right thrice
+IN: look around right twice and walk around right
+IN: look left and jump
+IN: walk opposite left twice after walk
+IN: turn opposite right after look opposite right
+IN: walk opposite left after turn right thrice
+IN: run right thrice and look around left thrice
+IN: turn opposite left thrice and turn left
+IN: look thrice after walk left twice
+IN: walk around left and jump around right
+IN: jump opposite right and turn left thrice
+IN: look opposite right twice after run left twice
+IN: walk left after walk opposite left thrice
+IN: turn around right after jump opposite right thrice
+IN: look around right twice after look around right thrice
+IN: jump around right thrice and turn opposite right
+IN: look left after run right thrice
+IN: look opposite left after walk right twice
+IN: jump thrice after look around right
+IN: look around right twice after walk left thrice
+IN: walk opposite right twice and walk opposite left
+IN: run opposite right twice after turn around left twice
+IN: look right twice after walk around left thrice
+IN: turn opposite right thrice and turn left
+IN: jump opposite left after look right thrice
+IN: jump left thrice after jump around right thrice
+IN: run opposite right twice after run right twice
+IN: run right and walk opposite left
+IN: turn around left after turn right twice
+IN: look left thrice and run around left twice
+IN: jump twice after run left twice
+IN: run right thrice and look left thrice
+IN: walk left thrice and walk right
+IN: turn around left twice after run opposite right
+IN: walk thrice and jump opposite right
+IN: turn around left after turn opposite left thrice
+IN: jump opposite right and jump opposite right thrice
+IN: walk around left after jump opposite left twice
+IN: walk opposite left thrice and jump around left
+IN: walk around right twice and jump around right
+IN: walk thrice and turn opposite right twice
+IN: jump right thrice and jump right thrice
+IN: run around left and walk opposite right
+IN: look opposite right thrice after turn left twice
+IN: look around right and turn around right
+IN: walk around left after run opposite left thrice
+IN: walk around right thrice after walk right thrice
+IN: run after look twice
+IN: run opposite left thrice after turn right
+IN: run around right thrice and turn around right thrice
+IN: look around left and run thrice
+IN: jump opposite left after walk opposite left thrice
+IN: look left thrice and look right twice
+IN: run around left after walk opposite left
+IN: turn left after look right twice
+IN: look opposite left thrice and turn right twice
+IN: jump around left twice and jump around left
+IN: look around right thrice and turn opposite left thrice
+IN: turn around right and jump around left twice
+IN: look opposite right and run opposite left
+IN: turn right and walk around right
+IN: run right after turn opposite left thrice
+IN: run right thrice after run opposite left thrice
+IN: jump left and run
+IN: look right thrice after turn around right
+IN: run around right and jump around left twice
+IN: jump left thrice and jump right thrice
+IN: look opposite right thrice and walk opposite left thrice
+IN: look around right twice and look right
+IN: walk around right twice and look right
+IN: run thrice after run opposite left twice
+IN: turn left thrice after run left
+IN: run around right thrice and turn right twice
+IN: walk around left after run around right thrice
+IN: run left thrice and look
+IN: turn opposite right twice and walk
+IN: run right thrice after jump twice
+IN: jump left thrice after turn opposite right
+IN: jump around right after run right
+IN: look twice after look thrice
+IN: walk left twice after walk right twice
+IN: walk and run around left
+IN: look right after run opposite left
+IN: turn opposite right and jump left
+IN: look right thrice and walk left
+IN: turn right thrice and look opposite right thrice
+IN: walk left twice and look right
+IN: walk after run opposite left thrice
+IN: run right twice after turn around right
+IN: look opposite left twice after turn around left twice
+IN: jump right and jump left twice
+IN: walk left and jump right
+IN: run left thrice and jump around left twice
+IN: walk twice after turn around left
+IN: run right twice
+IN: turn right thrice and run twice
+IN: jump right and look around right
+IN: walk opposite right twice and run opposite right thrice
+IN: jump twice and jump opposite left twice
+IN: run right thrice after run left
+IN: jump opposite left twice after look right
+IN: run right twice and run twice
+IN: run opposite left twice and turn around right thrice
+IN: jump left twice and walk thrice
+IN: jump around right twice
+IN: turn opposite right thrice and jump around right twice
+IN: walk around right thrice and turn opposite right twice
+IN: run right thrice after look thrice
+IN: look opposite left twice and run opposite right thrice
+IN: jump around left thrice after turn opposite right thrice
+IN: run around left twice and look around left thrice
+IN: turn left thrice after walk
+IN: walk around right twice and look left thrice
+IN: walk twice after turn around right
+IN: walk right and look around left
+IN: walk opposite left after run around right thrice
+IN: walk opposite left and walk around right thrice
+IN: walk left twice after walk twice
+IN: jump right thrice and walk around left twice
+IN: run around left twice and walk opposite left thrice
+IN: run left after turn opposite left twice
+IN: run right after walk opposite right twice
+IN: look around left thrice after jump thrice
+IN: jump right and look opposite right thrice
+IN: walk right twice and turn left thrice
+IN: run opposite left twice and walk around left thrice
+IN: jump around left twice after look opposite right
+IN: turn left twice after jump left
+IN: walk right thrice after look right twice
+IN: look and jump opposite right
+IN: turn right and turn left twice
+IN: look opposite left twice and run opposite right
+IN: run right twice after jump
+IN: walk opposite left and jump around left thrice
+IN: jump opposite left thrice and jump twice
+IN: turn right twice and run left twice
+IN: walk right after turn left
+IN: look opposite left thrice after turn opposite right thrice
+IN: look right and walk right
+IN: jump around right and jump opposite right
+IN: jump around right and walk right
+IN: look opposite left twice and jump around right
+IN: turn opposite left and look
+IN: run twice after look around left
+IN: run around right twice after run around right twice
+IN: look opposite left twice and walk around left
+IN: run right twice after run thrice
+IN: run around left thrice after turn right
+IN: walk opposite right twice
+IN: walk around left twice and turn around left twice
+IN: walk thrice and run
+IN: walk opposite left thrice after run left thrice
+IN: turn left thrice after look around right thrice
+IN: turn right twice after jump left
+IN: look and walk right
+IN: run around right twice after walk opposite right
+IN: walk right twice and jump thrice
+IN: look twice after jump around left twice
+IN: walk after jump around left twice
+IN: walk opposite left thrice and turn left
+IN: look opposite left thrice and walk right thrice
+IN: walk thrice after look thrice
+IN: walk left after look twice
+IN: look right and look opposite right
+IN: run right thrice after walk right thrice
+IN: walk around right twice and run around left thrice
+IN: look around left thrice after turn opposite right thrice
+IN: look around right twice and turn opposite right thrice
+IN: walk around right twice after look around left twice
+IN: jump right twice and run around right thrice
+IN: walk opposite right twice after walk around left twice
+IN: jump opposite right twice and turn right twice
+IN: turn around right thrice and turn around left
+IN: jump around left after jump thrice
+IN: look opposite left and run right twice
+IN: look opposite left thrice after run opposite right twice
+IN: walk left twice and turn opposite right
+IN: look left twice and walk opposite right twice
+IN: jump twice and look around left thrice
+IN: look left after look opposite right twice
+IN: jump opposite right thrice after look right twice
+IN: look opposite right thrice after walk right
+IN: run around left twice after jump right thrice
+IN: walk around right twice after look left twice
+IN: run opposite right thrice and run right twice
+IN: turn opposite right twice after turn around left thrice
+IN: run opposite left and walk opposite right thrice
+IN: walk opposite left after turn around left twice
+IN: turn around left after run opposite right thrice
+IN: look right thrice after walk opposite right
+IN: look right twice and walk around right thrice
+IN: jump opposite left thrice after run around left
+IN: turn right thrice after walk around right thrice
+IN: walk opposite left thrice and jump thrice
+IN: run around left thrice after look twice
+IN: walk around left thrice and walk opposite right
+IN: jump around left thrice and turn around left thrice
+IN: look twice and walk opposite left thrice
+IN: run opposite right thrice and look opposite right twice
+IN: run around right thrice after look around right thrice
+IN: walk left thrice after walk right
+IN: look around right thrice and jump opposite right twice
+IN: look around left and run right
+IN: walk thrice and turn around left thrice
+IN: look right twice and look opposite left thrice
+IN: walk opposite left after walk opposite right thrice
+IN: jump twice after look opposite left
+IN: turn left twice after jump around left
+IN: walk left twice after walk around right twice
+IN: turn left after look opposite left
+IN: walk left after jump left twice
+IN: run around left and turn left
+IN: jump opposite left thrice and look left thrice
+IN: run right thrice after jump around left twice
+IN: look and look around left twice
+IN: look opposite left twice and jump left thrice
+IN: jump around left thrice and walk twice
+IN: turn around right twice and look around left
+IN: jump around left twice and turn opposite left
+IN: turn left twice after walk right
+IN: walk right and run twice
+IN: look left thrice after turn left
+IN: run opposite left twice after run opposite left twice
+IN: jump right thrice after turn around left twice
+IN: jump around right and turn right twice
+IN: run left twice after turn around right
+IN: turn around right after run left thrice
+IN: look opposite right and jump opposite right twice
+IN: walk around right twice after turn opposite right twice
+IN: jump opposite left thrice after look left thrice
+IN: walk opposite right twice and look opposite right thrice
+IN: jump opposite right and run thrice
+IN: turn around left and jump left
+IN: look opposite right thrice and look around right thrice
+IN: jump right thrice and walk thrice
+IN: run right and walk left twice
+IN: jump left and look around right twice
+IN: jump and turn opposite left thrice
+IN: run opposite left thrice and run around left
+IN: walk around right thrice and look left thrice
+IN: turn around left thrice after jump twice
+IN: look right twice after jump opposite left twice
+IN: turn around left thrice and walk right thrice
+IN: run opposite left after turn opposite right thrice
+IN: look opposite right twice after turn opposite left
+IN: turn around right thrice and run left
+IN: walk around right twice after walk left twice
+IN: look opposite right thrice after jump around right thrice
+IN: jump thrice after run around left
+IN: jump around left thrice and run around right twice
+IN: turn left thrice after look left
+IN: jump left and walk left thrice
+IN: jump around right twice and run opposite right twice
+IN: look around right thrice after jump around left
+IN: walk thrice and turn opposite left thrice
+IN: run opposite right twice after turn right
+IN: walk around left and look right thrice
+IN: jump right thrice and walk left
+IN: walk opposite left twice and run opposite left
+IN: jump opposite right thrice after turn right twice
+IN: look thrice and look around right twice
+IN: turn opposite right thrice after walk right twice
+IN: look twice after look around right
+IN: look opposite right twice after turn around right thrice
+IN: look left twice and turn around right thrice
+IN: look thrice after turn left thrice
+IN: jump opposite right thrice after run right twice
+IN: walk right after turn around left twice
+IN: walk around left thrice and jump left twice
+IN: run opposite left thrice and jump left thrice
+IN: jump around left and run around left
+IN: walk opposite left twice after turn right thrice
+IN: run around left after jump opposite left thrice
+IN: run around left thrice and turn right thrice
+IN: run opposite left thrice after run left
+IN: look thrice and turn around left
+IN: turn left after look around left
+IN: walk opposite left thrice after run around right twice
+IN: jump opposite right twice after walk around left twice
+IN: turn opposite left twice after look around left
+IN: jump around right and jump twice
+IN: walk right and run thrice
+IN: run thrice and turn opposite right twice
+IN: walk thrice after turn opposite left thrice
+IN: look around right thrice after look left
+IN: look around left twice and walk opposite left thrice
+IN: turn opposite right twice and look around right
+IN: jump left thrice after run right twice
+IN: jump left twice and walk opposite right twice
+IN: look and turn around right twice
+IN: walk right thrice and turn left thrice
+IN: turn left thrice after run
+IN: walk right and run around left
+IN: run around right twice after walk thrice
+IN: walk opposite right after walk left thrice
+IN: look opposite left thrice and look left
+IN: turn opposite right thrice after turn left
+IN: walk around left after run
+IN: run around right and turn around right thrice
+IN: walk twice and walk around left twice
+IN: look around left twice and walk twice
+IN: look opposite left after walk opposite left twice
+IN: run around left thrice after walk left thrice
+IN: walk around left thrice and run around right thrice
+IN: turn opposite left after walk opposite left thrice
+IN: turn opposite right twice after look opposite right
+IN: walk around right twice and turn around left twice
+IN: walk left after walk opposite left
+IN: run opposite left after jump right
+IN: turn opposite left and jump left
+IN: jump around left thrice and look around left twice
+IN: turn right twice after look opposite left
+IN: jump opposite left thrice after look around left thrice
+IN: look opposite right twice and run right
+IN: run right thrice after look around left twice
+IN: turn around right twice and walk left twice
+IN: run after run opposite right
+IN: run opposite right twice and jump left
+IN: turn opposite right twice after run around left thrice
+IN: look around left and run
+IN: look left and look opposite right
+IN: look opposite right twice and jump around left twice
+IN: look around right and run around left twice
+IN: walk left twice and walk around left
+IN: turn opposite right and turn around right twice
+IN: jump around right thrice after turn opposite left thrice
+IN: walk around left thrice after turn around right thrice
+IN: jump around right after turn opposite left twice
+IN: look left thrice after walk opposite right
+IN: turn around left twice and jump left
+IN: run right after look opposite right
+IN: look twice and run right thrice
+IN: run around left and run right thrice
+IN: walk opposite right twice after run right thrice
+IN: look around left twice and turn opposite right thrice
+IN: walk left thrice and look left thrice
+IN: run and turn around left thrice
+IN: turn opposite left and walk around right thrice
+IN: jump opposite left after walk opposite right twice
+IN: walk opposite right thrice and turn around left
+IN: turn opposite right after look around right twice
+IN: walk after walk around right
+IN: run opposite left twice and walk left thrice
+IN: walk opposite left twice and look left thrice
+IN: turn left and jump left
+IN: jump opposite left and turn opposite left thrice
+IN: look left thrice after look around left
+IN: look left after look around left twice
+IN: turn around right and run opposite left thrice
+IN: walk around right and turn right thrice
+IN: turn opposite left twice and jump opposite left twice
+IN: turn right twice after jump opposite left thrice
+IN: walk around left thrice and walk around left thrice
+IN: jump around right after walk right
+IN: walk left thrice after look left thrice
+IN: look around right after look around left twice
+IN: run and run left thrice
+IN: look around left thrice and run left thrice
+IN: jump around left twice after look right
+IN: turn around right after run opposite right
+IN: walk opposite right after look right
+IN: run twice and walk around right twice
+IN: run after run twice
+IN: run left and run opposite left twice
+IN: look left twice and look opposite left thrice
+IN: run thrice and run thrice
+IN: look around left twice after jump opposite right twice
+IN: turn around right after walk left thrice
+IN: look after turn opposite left twice
+IN: run right twice after walk around left thrice
+IN: turn right
+IN: walk around right after look opposite left twice
+IN: run around right twice and run around left thrice
+IN: jump opposite left and jump opposite right thrice
+IN: walk around left thrice after jump around right
+IN: jump right twice and run
+IN: jump opposite left thrice and look right twice
+IN: jump around right and run around left thrice
+IN: walk right thrice and look thrice
+IN: run opposite left thrice after jump opposite right twice
+IN: walk thrice after jump opposite left
+IN: walk around left after run opposite left twice
+IN: look around left after walk opposite left twice
+IN: jump opposite left after run right thrice
+IN: run opposite right twice after walk left thrice
+IN: jump right after turn around right thrice
+IN: jump twice after jump thrice
+IN: look right thrice and walk opposite left thrice
+IN: walk twice after turn opposite left
+IN: turn left thrice after jump right twice
+IN: walk around left twice after walk right
+IN: walk opposite right thrice after jump right thrice
+IN: jump left thrice and turn around right thrice
+IN: walk left after look left
+IN: turn right twice and walk opposite left thrice
+IN: turn around left thrice and jump opposite left thrice
+IN: run around right after look right twice
+IN: run and look around left
+IN: jump opposite right thrice and run around right twice
+IN: walk left twice after run right twice
+IN: walk opposite right twice after look around right thrice
+IN: jump opposite left twice after jump twice
+IN: run left twice and walk around right
+IN: walk around left after jump right
+IN: walk and turn around left
+IN: look right thrice after walk left
+IN: run around right thrice and run
+IN: walk around right and run twice
+IN: walk opposite right twice after walk
+IN: look around left after walk left twice
+IN: walk opposite left after turn opposite right thrice
+IN: run around right thrice and walk left twice
+IN: turn around right after jump around left twice
+IN: run left twice and run around right twice
+IN: turn opposite left thrice after turn opposite left twice
+IN: walk left thrice and run left
+IN: look around left twice after turn right
+IN: look after turn opposite right twice
+IN: walk around right after turn left
+IN: look left twice and look opposite right thrice
+IN: look opposite left thrice and run opposite left
+IN: look opposite right twice after turn left thrice
+IN: jump around left and look opposite right
+IN: jump opposite right twice after run opposite right twice
+IN: walk right thrice after jump opposite right
+IN: run around right twice and look
+IN: turn around left thrice after walk opposite left thrice
+IN: turn left thrice after look around left twice
+IN: jump around left after jump opposite left thrice
+IN: look twice after jump around right twice
+IN: walk opposite right after run left
+IN: run around right twice after turn opposite right twice
+IN: look left twice and run thrice
+IN: jump and turn right thrice
+IN: walk twice and look opposite right twice
+IN: walk around right twice
+IN: run left thrice and look around left twice
+IN: turn opposite left and run right thrice
+IN: walk right and look right
+IN: look opposite left thrice and run opposite left thrice
+IN: turn opposite left twice and run thrice
+IN: run opposite left thrice and look right
+IN: walk after walk opposite right twice
+IN: turn right twice and turn left thrice
+IN: walk after turn right thrice
+IN: run left thrice after jump around left twice
+IN: walk right twice after walk
+IN: run around left and turn around left
+IN: run opposite right twice and look left
+IN: run around right twice after run opposite right twice
+IN: turn opposite right twice after run left thrice
+IN: look thrice and run left twice
+IN: walk after run right thrice
+IN: run left after turn around right thrice
+IN: turn around right and turn left
+IN: jump around left and look left thrice
+IN: run opposite left and jump around right
+IN: run around right and look opposite left twice
+IN: look left twice after walk left twice
+IN: jump after walk around right
+IN: walk opposite left twice after jump around right twice
+IN: jump twice and walk around left twice
+IN: jump around left twice after turn opposite left
+IN: jump left twice after look around left twice
+IN: run left and walk opposite right twice
+IN: look right after walk
+IN: walk around right twice and walk left thrice
+IN: turn around right twice after walk around left thrice
+IN: jump right thrice and walk right thrice
+IN: turn opposite left thrice after run left
+IN: jump opposite right twice and jump opposite left
+IN: turn around right thrice after run twice
+IN: turn opposite right and walk around right
+IN: jump opposite right and run around left thrice
+IN: look around right thrice after walk around right thrice
+IN: walk opposite left after walk twice
+IN: look thrice and turn opposite right thrice
+IN: walk opposite left twice and walk around right thrice
+IN: walk left twice and walk opposite left twice
+IN: look around right thrice after jump opposite right
+IN: walk around right thrice and run around right thrice
+IN: jump around left twice after look left twice
+IN: look twice after jump left twice
+IN: turn around right after jump right thrice
+IN: run around left thrice and jump right thrice
+IN: walk around right and jump left twice
+IN: turn left thrice after look opposite left
+IN: run opposite right twice after walk opposite right thrice
+IN: walk opposite left twice after run left thrice
+IN: walk right twice and turn around left twice
+IN: look opposite left thrice and jump opposite left thrice
+IN: run left after jump left
+IN: look opposite left twice after walk around right twice
+IN: run around left twice after turn left thrice
+IN: run around right after turn opposite left
+IN: look thrice and look left twice
+IN: run twice after turn around right
+IN: jump right thrice after look opposite left thrice
+IN: run opposite right thrice after turn around left thrice
+IN: run around right thrice after run opposite right thrice
+IN: jump around right and turn around right
+IN: walk opposite left twice and walk thrice
+IN: turn around left thrice and look opposite left thrice
+IN: turn opposite right twice and look left twice
+IN: walk opposite left thrice after turn right
+IN: look right after run twice
+IN: turn around right twice after walk left
+IN: run after look left twice
+IN: run around left twice after jump around left twice
+IN: look left and look left thrice
+IN: look right and walk around right twice
+IN: turn around left thrice and turn right
+IN: jump around left thrice after jump right
+IN: jump after look opposite right thrice
+IN: jump around left after look opposite left thrice
+IN: walk opposite right twice after run right twice
+IN: turn opposite left twice after jump
+IN: walk opposite left twice and walk left thrice
+IN: look around left thrice and run opposite left thrice
+IN: turn left twice after turn around right thrice
+IN: run around left twice after look
+IN: look opposite left thrice after turn around left thrice
+IN: walk around left twice after jump thrice
+IN: walk left twice and jump thrice
+IN: walk left and turn opposite left thrice
+IN: look right twice after walk opposite left twice
+IN: turn around right twice after walk opposite left twice
+IN: look left twice after look opposite left thrice
+IN: look around left and look opposite right twice
+IN: turn left after run around left twice
+IN: jump opposite left twice after jump opposite right twice
+IN: jump right twice after walk thrice
+IN: run opposite left thrice and turn left thrice
+IN: jump after walk around left
+IN: turn left twice and look left
+IN: walk right after run right twice
+IN: run around left thrice and look around left twice
+IN: run around left twice after look opposite right
+IN: look right and jump around left thrice
+IN: jump opposite left and jump opposite right
+IN: run around left twice and jump twice
+IN: jump around left twice after walk right thrice
+IN: walk around right twice after walk around left thrice
+IN: jump around right and turn opposite left twice
+IN: look left and run around left thrice
+IN: look after look opposite left
+IN: jump around left thrice and turn left
+IN: look around left twice after turn around left twice
+IN: run opposite left twice after jump around left
+IN: run around right after run opposite left
+IN: walk left and run right thrice
+IN: look opposite right thrice after run around right
+IN: turn around right twice and turn opposite right
+IN: jump opposite right and walk opposite left
+IN: jump left thrice after turn around right
+IN: walk thrice and run opposite left twice
+IN: walk around right after look left thrice
+IN: jump left twice after look left
+IN: walk thrice and walk opposite right
+IN: turn opposite right after look around right thrice
+IN: run around right and look
+IN: look after turn right thrice
+IN: run right and jump
+IN: jump opposite left thrice after look right twice
+IN: turn around right after jump around left
+IN: run twice and look twice
+IN: look around left and walk opposite left
+IN: run opposite right twice after jump around right thrice
+IN: walk right twice after turn around right thrice
+IN: jump twice after run left thrice
+IN: walk around left twice after turn left
+IN: turn around left twice and jump opposite left twice
+IN: run around right after look opposite left
+IN: look left and look right twice
+IN: jump opposite left and walk around right thrice
+IN: turn opposite left twice and jump left twice
+IN: walk opposite right and run opposite left
+IN: run left and look left twice
+IN: run opposite right twice after look around left twice
+IN: jump right twice after jump opposite right twice
+IN: run opposite right and turn opposite left
+IN: run opposite left after run around left thrice
+IN: jump around left thrice after jump twice
+IN: run after turn around left twice
+IN: walk opposite left twice after walk opposite right thrice
+IN: walk opposite left twice after run left
+IN: turn around left twice after run around left thrice
+IN: jump right and turn opposite right twice
+IN: jump left after run right thrice
+IN: run left twice and turn opposite right
+IN: jump around left and turn around right
+IN: turn around left thrice and run
+IN: jump right and look right thrice
+IN: jump right thrice after walk twice
+IN: turn around right and jump right thrice
+IN: jump around right twice after run opposite left twice
+IN: run left and turn opposite left thrice
+IN: look opposite right twice
+IN: jump right twice and run right thrice
+IN: run left twice after look twice
+IN: turn around right after jump around right twice
+IN: walk twice and walk opposite right
+IN: run twice after turn opposite right
+IN: walk right and look
+IN: jump around left twice after jump opposite left twice
+IN: walk around left thrice after jump opposite right
+IN: jump opposite left twice and look right twice
+IN: walk opposite right thrice after run around left
+IN: jump right twice after jump opposite left thrice
+IN: run opposite right twice after run opposite right twice
+IN: jump around left twice after walk
+IN: walk right and jump left
+IN: run twice and jump twice
+IN: jump twice after look
+IN: turn left twice and look left twice
+IN: walk around left thrice and turn opposite right twice
+IN: look opposite left twice after run left thrice
+IN: run left thrice and look opposite right thrice
+IN: turn right thrice and jump around right
+IN: run right thrice after look opposite left twice
+IN: look left after walk thrice
+IN: jump left thrice after run thrice
+IN: look around left after turn left twice
+IN: turn left thrice and turn opposite left
+IN: jump right twice and look opposite right
+IN: look around right twice and walk opposite right thrice
+IN: look after walk right
+IN: walk around right thrice and jump around right
+IN: walk around left thrice after run twice
+IN: jump twice after jump opposite left thrice
+IN: jump around right and run right thrice
+IN: walk opposite right twice after run around right
+IN: turn opposite right twice after turn around right thrice
+IN: turn around right after turn opposite left twice
+IN: walk opposite left twice and run twice
+IN: look around left after walk opposite right thrice
+IN: turn opposite left and jump opposite right twice
+IN: turn right twice and turn around left twice
+IN: jump right twice and turn opposite left
+IN: jump right thrice after turn opposite right thrice
+IN: look opposite left and run
+IN: look around right twice and run right thrice
+IN: run opposite left thrice after jump opposite left
+IN: walk right twice and run opposite right thrice
+IN: look opposite left and look
+IN: look left twice after turn around right
+IN: look opposite left thrice after run right twice
+IN: turn opposite right twice after turn right thrice
+IN: walk around right thrice after jump right twice
+IN: look and turn right
+IN: jump opposite right twice after jump opposite left
+IN: walk around right thrice after run right
+IN: look right after walk right
+IN: walk around right and look left twice
+IN: jump thrice after run
+IN: jump opposite left thrice and walk
+IN: turn opposite left thrice and look left thrice
+IN: look around left twice and run around left thrice
+IN: walk opposite left after run left thrice
+IN: run and walk right
+IN: turn opposite right thrice and walk right
+IN: run opposite left after run right
+IN: walk opposite left twice after run opposite left twice
+IN: run right and run around right
+IN: run after look right twice
+IN: jump thrice and walk left
+IN: jump around left after run opposite right twice
+IN: turn left and turn around left
+IN: turn right and look around left thrice
+IN: run left thrice after run opposite right twice
+IN: look opposite left twice after jump around left twice
+IN: turn opposite left twice and turn right twice
+IN: jump left thrice after run around left thrice
+IN: walk around right and look around right thrice
+IN: look around right thrice and jump
+IN: walk right twice after turn around left
+IN: walk twice after look right thrice
+IN: run left thrice and look right
+IN: turn left thrice and look around right
+IN: look right twice and look around right twice
+IN: run around left twice after look twice
+IN: run left twice after jump opposite left thrice
+IN: jump around right after look around right thrice
+IN: look left twice after jump twice
+IN: turn opposite left thrice and walk around left
+IN: turn around left twice after jump right
+IN: walk around left and walk right twice
+IN: look around right after look left twice
+IN: turn around right after walk twice
+IN: jump left and walk around left
+IN: look left twice and jump twice
+IN: turn left thrice and turn right thrice
+IN: look after run around left thrice
+IN: walk around right twice after run left twice
+IN: walk left thrice and jump left thrice
+IN: run around right thrice after look opposite right thrice
+IN: run left and turn opposite right
+IN: jump right thrice and turn right twice
+IN: walk right and run opposite left
+IN: walk thrice and run right thrice
+IN: jump opposite left thrice and turn opposite right
+IN: walk opposite right twice after walk left
+IN: turn opposite right and look around right
+IN: jump opposite right after walk left thrice
+IN: jump right thrice after jump opposite right thrice
+IN: run opposite right thrice and turn right twice
+IN: look around left twice after walk opposite left twice
+IN: run thrice and walk opposite right twice
+IN: walk opposite left twice and walk right
+IN: look opposite right thrice and run left
+IN: walk opposite left after turn opposite left thrice
+IN: jump opposite right twice after jump around left twice
+IN: run left twice and walk around left thrice
+IN: look left twice after jump around left
+IN: jump opposite right thrice after run right thrice
+IN: run around left after look left twice
+IN: walk opposite right twice after run opposite right thrice
+IN: turn around right and look right
+IN: walk twice after jump
+IN: look right and jump opposite right twice
+IN: turn around left thrice and look right
+IN: walk opposite right after walk around left thrice
+IN: jump opposite right and run twice
+IN: run opposite right thrice and walk around right
+IN: walk right thrice and turn left
+IN: walk opposite left twice after look around left thrice
+IN: jump around left after run around right twice
+IN: jump opposite right twice after run opposite left
+IN: walk opposite right after turn left twice
+IN: jump right and walk twice
+IN: look right twice and look opposite right twice
+IN: jump thrice after look left twice
+IN: look twice and run left
+IN: run around right twice after run right twice
+IN: run opposite right and walk right thrice
+IN: jump opposite right after look
+IN: look left twice after turn opposite right twice
+IN: turn opposite right thrice after turn opposite right thrice
+IN: jump thrice and turn around right
+IN: walk around right after jump around left twice
+IN: run right thrice and jump around right thrice
+IN: look thrice after turn opposite left thrice
+IN: run around right twice and run opposite left
+IN: run right twice after look opposite left thrice
+IN: look around left thrice after turn opposite left twice
+IN: jump opposite right thrice and walk thrice
+IN: turn around right and jump around left thrice
+IN: look around left thrice after walk right twice
+IN: look twice and run around right twice
+IN: run and look left thrice
+IN: run opposite left thrice and look around right twice
+IN: turn left twice after jump left twice
+IN: run opposite left twice and jump left
+IN: run around right twice after look left twice
+IN: walk around right thrice and jump opposite right thrice
+IN: jump left twice after walk left twice
+IN: run thrice after turn left thrice
+IN: walk opposite left and look around right thrice
+IN: walk right and run right thrice
+IN: jump and look opposite left thrice
+IN: walk opposite right and turn opposite right thrice
+IN: walk left twice after jump around right thrice
+IN: turn left and turn around right thrice
+IN: walk around right thrice and look left twice
+IN: walk left after look left twice
+IN: jump around left thrice after jump right twice
+IN: walk around left and run thrice
+IN: run around right twice after jump around left thrice
+IN: run around left and jump opposite right
+IN: walk around right twice and run right twice
+IN: run around right and walk opposite right thrice
+IN: turn around right twice after jump around right thrice
+IN: walk opposite left thrice after jump left twice
+IN: walk and turn around left twice
+IN: jump right thrice and jump opposite right twice
+IN: run around left twice after run left thrice
+IN: run after look around left
+IN: jump after turn opposite right twice
+IN: walk around right twice after jump right twice
+IN: jump twice and run right thrice
+IN: walk right and look twice
+IN: walk around left thrice after run opposite left twice
+IN: run left twice after jump opposite right
+IN: run around left thrice after jump opposite left
+IN: run around left and look left
+IN: jump left and look left
+IN: run around left twice after walk thrice
+IN: run left twice and run around left twice
+IN: walk around right after run twice
+IN: walk around right twice and run around right twice
+IN: walk opposite right twice and walk right thrice
+IN: run opposite right twice and walk opposite right
+IN: run opposite left and turn around right twice
+IN: walk after walk opposite right
+IN: run opposite left twice after turn around left twice
+IN: look left after turn right thrice
+IN: turn opposite right thrice and jump around right thrice
+IN: walk thrice
+IN: run right after walk thrice
+IN: walk opposite left twice after jump around right thrice
+IN: walk around left and jump opposite left twice
+IN: look opposite right thrice and look left thrice
+IN: turn around right and run around left
+IN: look opposite right thrice and jump opposite left
+IN: run left thrice after run
+IN: run left twice and jump around right twice
+IN: run after turn opposite right thrice
+IN: run opposite right thrice and run opposite right
+IN: walk opposite right after run around left twice
+IN: turn around left and turn left
+IN: jump twice after turn left thrice
+IN: look opposite left and run around left twice
+IN: run opposite left twice after jump right thrice
+IN: walk around left after look around right twice
+IN: turn opposite left after walk left twice
+IN: walk left and walk around left thrice
+IN: look opposite right twice and jump around left thrice
+IN: turn opposite right thrice after run right thrice
+IN: walk around left and walk left
+IN: jump right thrice after jump around right
+IN: run right twice and look around right
+IN: look right thrice after walk opposite left
+IN: walk twice and jump
+IN: run opposite left after walk left
+IN: walk opposite right thrice after jump right
+IN: look right and walk right thrice
+IN: jump left twice after walk opposite left thrice
+IN: walk opposite left and run thrice
+IN: jump opposite right thrice and jump around right twice
+IN: turn around left thrice after turn opposite right
+IN: run twice and run left
+IN: run thrice after run opposite left
+IN: run around left twice after look opposite left thrice
+IN: walk opposite right after turn left
+IN: jump around left thrice after walk right
+IN: look around right twice and run around right twice
+IN: run around left twice and turn around right thrice
+IN: jump around right twice after jump left
+IN: look opposite left thrice and run right thrice
+IN: jump opposite left thrice and look
+IN: jump left and walk around right twice
+IN: jump around left twice after run opposite left
+IN: look around left twice and run around right
+IN: walk around left twice and jump around left twice
+IN: walk opposite right after look twice
+IN: turn right after look opposite right thrice
+IN: run opposite left thrice and look around right thrice
+IN: run right twice and look right
+IN: walk right thrice and look opposite right thrice
+IN: jump opposite right and turn right twice
+IN: look around left twice after jump right twice
+IN: jump around right twice after walk opposite right
+IN: look around left thrice after jump opposite left
+IN: jump left thrice after walk right
+IN: run right thrice and run left twice
+IN: walk around right twice and jump right thrice
+IN: turn opposite left thrice after turn right
+IN: walk left after walk thrice
+IN: look around right after run around left twice
+IN: turn right twice after walk left
+IN: look opposite left thrice and run thrice
+IN: turn left twice and run opposite left thrice
+IN: jump opposite left and run right thrice
+IN: jump around right thrice after jump around left
+IN: look opposite left thrice and look around right thrice
+IN: jump left after look opposite left thrice
+IN: run around left and run left twice
+IN: turn around right thrice after turn right twice
+IN: turn around left twice and jump opposite left
+IN: turn around right after walk opposite right twice
+IN: look left and jump right twice
+IN: jump left after turn opposite left thrice
+IN: look left thrice and look left thrice
+IN: jump twice after walk around right
+IN: jump thrice after turn left twice
+IN: run opposite left thrice and jump twice
+IN: run right twice and walk opposite left
+IN: run right twice after jump around right thrice
+IN: run around right after jump left twice
+IN: jump opposite left thrice after run opposite left twice
+IN: walk right thrice and turn opposite right thrice
+IN: walk opposite right thrice after jump opposite left
+IN: walk around right and turn around left
+IN: look right thrice after look twice
+IN: walk right thrice after walk right twice
+IN: turn opposite right thrice and look opposite left twice
+IN: look opposite right twice after walk right twice
+IN: run right thrice after walk around right twice
+IN: jump around left twice and jump
+IN: jump opposite right twice and turn around right thrice
+IN: look opposite right twice after jump thrice
+IN: jump around right and run around right
+IN: turn right thrice and turn left
+IN: turn opposite left twice and look around right thrice
+IN: look opposite left twice and look around left twice
+IN: turn around left twice and run around left twice
+IN: run opposite right thrice and walk left
+IN: turn opposite left and turn left
+IN: look around right thrice after walk opposite left thrice
+IN: look left thrice after walk around left
+IN: walk right thrice and walk left
+IN: turn around right thrice and look opposite left twice
+IN: run left twice and walk around left
+IN: run left twice after walk around right thrice
+IN: look around left thrice after jump around right thrice
+IN: run thrice and turn around right
+IN: jump opposite right and jump opposite left
+IN: look around left and look left thrice
+IN: jump left after look opposite left
+IN: jump left thrice and run opposite left
+IN: turn left thrice after jump opposite right
+IN: run right and walk around right
+IN: turn left thrice and run left
+IN: turn opposite right twice and jump around left
+IN: walk opposite right thrice and turn left
+IN: jump left twice and look left thrice
+IN: jump around left twice and walk around left
+IN: look right twice after turn around left
+IN: turn opposite right after run twice
+IN: run opposite left and look around left thrice
+IN: turn right twice after walk left twice
+IN: look around right after jump opposite left twice
+IN: run around right thrice after jump
+IN: run opposite right and look opposite left
+IN: turn right thrice after look opposite left twice
+IN: turn right after run opposite left
+IN: turn around left twice after run opposite left
+IN: run around left twice after run around left
+IN: run twice after jump right twice
+IN: walk twice after look right twice
+IN: run opposite right after turn opposite left twice
+IN: walk around left after jump opposite right
+IN: walk left thrice after jump left thrice
+IN: turn opposite left and run opposite right twice
+IN: walk around right after turn opposite right
+IN: look around right and run right thrice
+IN: walk opposite right thrice after run opposite left twice
+IN: jump around right after jump left
+IN: walk opposite left thrice and look left thrice
+IN: walk opposite right twice and jump around right twice
+IN: jump around left and look twice
+IN: look around left twice after look right thrice
+IN: walk opposite right thrice and jump opposite right twice
+IN: walk around right thrice and walk left twice
+IN: walk opposite left twice and walk opposite left thrice
+IN: walk opposite left after look around right twice
+IN: run left after walk opposite left thrice
+IN: look opposite right thrice after jump twice
+IN: look around left after walk
+IN: look right after run opposite right twice
+IN: jump right thrice and run opposite left twice
+IN: turn around left and walk left thrice
+IN: run around left twice and jump left twice
+IN: look right thrice after run around right
+IN: run thrice and jump around left thrice
+IN: jump opposite right thrice and run around right
+IN: jump twice after walk opposite left
+IN: walk after jump left twice
+IN: walk opposite left after walk left twice
+IN: jump around right twice after run
+IN: run around right thrice and look
+IN: walk opposite right thrice and jump right twice
+IN: walk left thrice after walk opposite right thrice
+IN: look right after run around right thrice
+IN: jump left thrice and run around left
+IN: run opposite right twice and run around right
+IN: walk left after run around right
+IN: look opposite right thrice and run opposite right
+IN: run right twice after look around left
+IN: jump around left and run around left thrice
+IN: look opposite right twice and walk twice
+IN: run left thrice after run right twice
+IN: turn opposite left twice after look around left thrice
+IN: walk opposite left twice after turn around left thrice
+IN: run left and run opposite right
+IN: walk right twice and look opposite left twice
+IN: look after walk left thrice
+IN: walk around left twice and look around left
+IN: jump left thrice after run around right twice
+IN: turn left thrice and run around right
+IN: run opposite left after run around left twice
+IN: run twice after run opposite left
+IN: jump opposite left twice after walk around left twice
+IN: turn around left thrice after run left twice
+IN: walk around left after run opposite left
+IN: look left thrice and run opposite left twice
+IN: turn left thrice after jump around right twice
+IN: walk opposite right twice and walk left thrice
+IN: jump right and jump
+IN: turn left thrice and look left
+IN: turn opposite left twice after look opposite left thrice
+IN: jump right twice and look right
+IN: look opposite right thrice after run
+IN: turn opposite left after run around right
+IN: look around left after run twice
+IN: jump left thrice and jump around left twice
+IN: turn opposite left after walk opposite right twice
+IN: turn opposite left twice and walk around right twice
+IN: run right twice after jump right thrice
+IN: turn opposite right twice and walk opposite left thrice
+IN: look thrice and run around left twice
+IN: run left and walk around right thrice
+IN: run around left twice and walk left
+IN: run twice and jump opposite left thrice
+IN: look opposite left thrice and look thrice
+IN: run after turn opposite left twice
+IN: walk around left thrice and look around right
+IN: look and turn right thrice
+IN: walk opposite right after look opposite right
+IN: jump right and jump right
+IN: run and walk around right
+IN: look opposite right twice and jump opposite right
+IN: walk around right thrice after run left twice
+IN: walk around right and run right thrice
+IN: look opposite right twice and turn opposite right twice
+IN: look right twice and jump left thrice
+IN: look after jump around left
+IN: look left thrice after jump twice
+IN: turn around right and walk thrice
+IN: jump after jump opposite right thrice
+IN: look around left twice after walk around right
+IN: jump opposite right twice after walk thrice
+IN: look opposite left thrice after run right thrice
+IN: walk right after turn left thrice
+IN: walk opposite left twice and jump twice
+IN: turn right after jump around left twice
+IN: run around left thrice after look thrice
+IN: look left twice after turn opposite left twice
+IN: turn opposite right thrice after jump around right thrice
+IN: jump left thrice and walk around right thrice
+IN: jump opposite left after look left
+IN: jump left after run right twice
+IN: walk around right thrice and jump around right twice
+IN: run around left and turn around right thrice
+IN: turn opposite right and turn left twice
+IN: run around right thrice and turn right thrice
+IN: run right twice and run opposite right thrice
+IN: run opposite right after run right
+IN: jump left twice after run around right twice
+IN: walk left after run around left
+IN: walk thrice after look around left twice
+IN: run opposite left thrice and jump around left thrice
+IN: run right after look around right twice
+IN: jump left and jump around right thrice
+IN: turn opposite left after turn around right thrice
+IN: jump left thrice after jump right
+IN: jump right thrice and run thrice
+IN: run left after look around right
+IN: run right and walk around left thrice
+IN: turn around right and walk opposite left
+IN: jump opposite right thrice and look
+IN: walk opposite right twice after look right thrice
+IN: look around left and walk opposite left twice
+IN: jump opposite right twice and walk left twice
+IN: run left and jump thrice
+IN: run right and look opposite right twice
+IN: turn right and turn opposite left
+IN: turn around right twice after walk right
+IN: walk around left twice and walk left thrice
+IN: run opposite left twice and look around right thrice
+IN: look around right twice after run thrice
+IN: jump left thrice after walk opposite right twice
+IN: jump opposite left thrice and look around right
+IN: turn opposite left thrice after run right twice
+IN: walk opposite right thrice after walk around right thrice
+IN: run opposite right twice and look around left twice
+IN: walk opposite right twice and turn left
+IN: look right and look twice
+IN: run left twice after run around right twice
+IN: run around left after jump right thrice
+IN: look opposite right twice after turn opposite left thrice
+IN: jump around right thrice and turn opposite right thrice
+IN: run opposite left twice after jump around left twice
+IN: run opposite right and run
+IN: run opposite right after turn around right thrice
+IN: turn right and look twice
+IN: look thrice after jump around right twice
+IN: walk thrice after jump around left thrice
+IN: look left thrice after jump left
+IN: walk opposite right twice and walk
+IN: turn around right thrice and jump opposite left thrice
+IN: run opposite left after turn around right
+IN: run right and run around right twice
+IN: walk opposite right and run left
+IN: jump opposite right twice after jump around left
+IN: look right thrice after jump thrice
+IN: jump opposite right thrice and jump right twice
+IN: walk opposite left twice and look right thrice
+IN: walk around left thrice and walk opposite left
+IN: run around left after look opposite left thrice
+IN: run around right thrice and walk right thrice
+IN: jump around left and walk opposite left
+IN: run right thrice and look opposite left twice
+IN: jump opposite right twice after turn right
+IN: turn opposite left twice and look left twice
+IN: jump right after jump
+IN: look left and run around right thrice
+IN: jump right twice after walk around left
+IN: turn opposite left thrice after jump around right
+IN: look around left thrice after look left twice
+IN: walk around right thrice and run around left twice
+IN: turn left thrice after run right thrice
+IN: walk around right twice and walk opposite right
+IN: look right thrice and walk around right thrice
+IN: turn around right and run right twice
+IN: walk right twice and look around right thrice
+IN: walk around right thrice after turn around left thrice
+IN: walk after turn right twice
+IN: look opposite left and run around right twice
+IN: look around right thrice and walk thrice
+IN: walk around left after look around left twice
+IN: jump after turn left thrice
+IN: run thrice after walk around left
+IN: walk left and run right
+IN: turn around right after turn right thrice
+IN: run right after jump around left twice
+IN: jump thrice and look twice
+IN: look right thrice and look around left twice
+IN: walk opposite left and turn around left
+IN: run right after turn right thrice
+IN: turn around right and run opposite left
+IN: look after turn right twice
+IN: run opposite right thrice after look twice
+IN: walk opposite left thrice after walk left thrice
+IN: run around left after walk right
+IN: look around left twice and walk left thrice
+IN: look right thrice after look around left thrice
+IN: jump left thrice after look
+IN: look left thrice after run opposite left thrice
+IN: walk opposite right twice and jump left
+IN: run after run around right
+IN: turn left thrice after jump left thrice
+IN: walk around right twice and walk thrice
+IN: jump opposite right after walk twice
+IN: walk around right thrice after turn right twice
+IN: walk left twice and jump right
+IN: run twice and jump right
+IN: turn opposite right after run right thrice
+IN: jump opposite right thrice and run around left
+IN: jump opposite left twice after jump opposite right thrice
+IN: turn opposite left twice after turn left thrice
+IN: look opposite left thrice and jump opposite right twice
+IN: jump opposite right and walk around left twice
+IN: turn right thrice and walk around right twice
+IN: look around left twice and run left
+IN: jump opposite right thrice after run left thrice
+IN: look twice after run thrice
+IN: run opposite left twice and look around left twice
+IN: jump opposite left thrice and turn opposite right thrice
+IN: run right and jump opposite left thrice
+IN: run around left thrice after turn opposite left twice
+IN: run right twice after jump around left twice
+IN: run around left and turn opposite left
+IN: look around right after run right thrice
+IN: turn right thrice after turn opposite right
+IN: look left thrice after run around left
+IN: look right thrice and walk left twice
+IN: walk around right twice and walk opposite left twice
+IN: run opposite left after jump twice
+IN: turn opposite right twice and walk around right twice
+IN: look around left after run opposite left twice
+IN: run left twice and look around left thrice
+IN: turn left twice and run around right thrice
+IN: walk right and look opposite left twice
+IN: jump left after jump
+IN: run around right after run thrice
+IN: run opposite right twice and walk left twice
+IN: walk left twice after turn around left twice
+IN: walk right twice and walk around left
+IN: turn left twice after look around right thrice
+IN: walk opposite left after turn opposite left
+IN: walk left twice after run opposite left twice
+IN: turn around left twice and look around left twice
+IN: run and look around right
+IN: look around left twice after run left thrice
+IN: jump left thrice and jump twice
+IN: run after walk opposite left
+IN: run around right twice and jump opposite right thrice
+IN: turn around left and walk right thrice
+IN: walk right after look opposite right
+IN: run
+IN: walk around left thrice and jump around left twice
+IN: run opposite right thrice after run opposite left
+IN: turn around right after walk opposite right
+IN: run opposite left twice and run thrice
+IN: run around right and walk opposite right twice
+IN: walk thrice after jump around right thrice
+IN: walk opposite right thrice and run opposite left
+IN: look opposite right thrice after run opposite right thrice
+IN: jump right twice after walk around left thrice
+IN: walk opposite left twice and run around right thrice
+IN: look opposite right and jump right thrice
+IN: look after jump left twice
+IN: turn opposite right thrice and run left
+IN: jump right twice and jump around left twice
+IN: walk twice and walk opposite left thrice
+IN: jump twice and turn opposite left twice
+IN: turn opposite left twice after walk opposite left thrice
+IN: jump around left and walk left twice
+IN: run around left thrice and jump opposite left thrice
+IN: run right thrice and walk thrice
+IN: look opposite right twice and walk left twice
+IN: jump twice after look opposite left thrice
+IN: turn opposite right twice after look around left
+IN: look around left and turn opposite left twice
+IN: walk opposite left twice and look around left thrice
+IN: turn opposite left thrice after walk around right thrice
+IN: run around right twice and turn around right thrice
+IN: turn around right after jump left
+IN: look around right thrice
+IN: run after jump around right
+IN: jump and walk around right
+IN: look twice after turn left thrice
+IN: run thrice after look left twice
+IN: jump opposite right thrice and walk right twice
+IN: turn left after jump right
+IN: look opposite left after jump opposite right twice
+IN: run right twice and look left thrice
+IN: turn left twice after run right twice
+IN: look opposite right twice and run opposite right twice
+IN: turn around right thrice and jump twice
+IN: run twice after turn opposite left
+IN: jump around left after turn around left
+IN: turn around left and look twice
+IN: jump around left thrice after jump around left
+IN: run left twice and look opposite right twice
+IN: run opposite right after turn around right
+IN: turn left twice after look right thrice
+IN: turn right thrice after turn left
+IN: turn around right and walk right thrice
+IN: walk and jump opposite left twice
+IN: look left after look opposite left thrice
+IN: jump right twice and run opposite left
+IN: look opposite left after look around left
+IN: run around right thrice and look opposite left
+IN: walk opposite left thrice and turn around right
+IN: look left thrice and turn opposite right thrice
+IN: turn around right thrice and walk around right thrice
+IN: run opposite right and look
+IN: turn right thrice after run opposite left thrice
+IN: jump left twice after jump opposite right twice
+IN: run opposite right after jump opposite right twice
+IN: walk thrice and run left
+IN: turn right twice and run thrice
+IN: walk around left and run around left twice
+IN: walk left thrice after run opposite left twice
+IN: jump opposite left twice and walk left thrice
+IN: jump right twice and jump twice
+IN: turn around left after run around left
+IN: jump left twice and walk twice
+IN: walk opposite right thrice and jump thrice
+IN: walk left twice and turn right twice
+IN: look twice and look right twice
+IN: run right thrice after jump opposite right twice
+IN: turn around left twice after jump
+IN: look around left twice after look right
+IN: walk right thrice and jump around right
+IN: jump and look left
+IN: turn opposite right thrice and turn around left thrice
+IN: turn left and run around left twice
+IN: turn right thrice after jump around right twice
+IN: look left thrice and jump left thrice
+IN: turn around left twice after turn right
+IN: walk left twice after look opposite left thrice
+IN: walk around left thrice
+IN: run opposite right thrice after walk left
+IN: jump right after look
+IN: walk twice after jump opposite left
+IN: run opposite right after look right thrice
+IN: run left thrice and walk left thrice
+IN: jump around right twice and turn opposite right
+IN: look around left twice and jump
+IN: jump thrice and walk around left twice
+IN: look around right thrice after run thrice
+IN: walk around right and walk thrice
+IN: run opposite right twice after walk right thrice
+IN: jump opposite left thrice after jump opposite right
+IN: walk around left twice after run around left thrice
+IN: turn opposite left thrice after turn around right twice
+IN: turn around left twice and walk around left thrice
+IN: walk left after walk twice
+IN: turn opposite right after turn right
+IN: jump thrice and walk opposite right thrice
+IN: look around left thrice after jump twice
+IN: look opposite left and run opposite left
+IN: walk right twice after look opposite left thrice
+IN: walk around left after turn around right
+IN: walk opposite right after look around right thrice
+IN: walk opposite left twice after look opposite left
+IN: walk right thrice and jump around right twice
+IN: run opposite left and jump thrice
+IN: turn around left after jump around left twice
+IN: look left twice and walk around right thrice
+IN: turn opposite right thrice after look
+IN: turn opposite right twice and turn right thrice
+IN: run right twice and turn around left thrice
+IN: walk right thrice and walk around right twice
+IN: look right twice and turn right
+IN: turn right twice and look thrice
+IN: look right thrice after turn around left
+IN: run left and run around left twice
+IN: walk right twice after walk opposite right thrice
+IN: turn around left and turn right thrice
+IN: walk around right twice and turn opposite right twice
+IN: look right thrice after turn opposite right twice
+IN: jump right thrice after run around right twice
+IN: walk opposite left after look around left thrice
+IN: run left twice after walk opposite left
+IN: walk opposite left thrice and walk around right thrice
+IN: look around left thrice after run
+IN: turn opposite right and walk around right twice
+IN: look opposite left twice and look left twice
+IN: walk around right and look opposite right
+IN: turn left twice after run left twice
+IN: turn around left twice after run right thrice
+IN: turn left thrice and jump opposite left
+IN: turn opposite right twice after jump opposite right thrice
+IN: look around left twice and jump right thrice
+IN: walk and run opposite left thrice
+IN: run opposite right thrice after walk thrice
+IN: turn around left twice and run opposite right thrice
+IN: look around left and walk around left twice
+IN: walk thrice and jump left
+IN: jump opposite right thrice after turn opposite right twice
+IN: jump around right after look around left thrice
+IN: jump around right twice and turn left
+IN: run thrice after turn opposite left twice
+IN: look around left thrice after turn opposite left
+IN: walk around left and look around left
+IN: run opposite left twice after walk left twice
+IN: run around right twice after turn opposite left twice
+IN: run opposite right after look thrice
+IN: turn opposite right twice and look right
+IN: look opposite right thrice after look around right thrice
+IN: jump opposite left twice after turn left thrice
+IN: walk around left and jump left twice
+IN: walk opposite right and run thrice
+IN: look around right twice and look opposite left
+IN: run around left thrice and run around left thrice
+IN: turn around right after turn left
+IN: look opposite right after walk right
+IN: jump around right thrice and run left thrice
+IN: look around left and jump right twice
+IN: turn around right thrice and look right
+IN: run opposite left after walk left thrice
+IN: look around right thrice after look around right twice
+IN: walk around left and walk twice
+IN: walk and jump right thrice
+IN: walk right twice and look around right twice
+IN: look left twice and jump right thrice
+IN: run opposite left twice and turn left
+IN: look right after run opposite left thrice
+IN: jump around right after walk around right twice
+IN: walk opposite right after look around left twice
+IN: run and jump left
+IN: run around right twice and jump opposite left twice
+IN: turn opposite left after walk around left
+IN: walk around right twice and look left twice
+IN: look around left twice after look left
+IN: run thrice and run opposite left
+IN: turn around left after jump right thrice
+IN: run around left twice after run around right thrice
+IN: jump opposite right twice after turn right thrice
+IN: turn left thrice and walk twice
+IN: turn left thrice and jump left
+IN: jump right after walk around left thrice
+IN: walk around right thrice after turn left twice
+IN: jump opposite left after turn opposite right twice
+IN: jump right after walk around left
+IN: run and walk right thrice
+IN: jump opposite left twice after walk opposite right twice
+IN: walk left and run around right
+IN: look around right and run around right twice
+IN: walk opposite right twice after walk right twice
+IN: look left thrice and look thrice
+IN: run right twice and walk opposite right twice
+IN: jump around right twice after run around left twice
+IN: run opposite right twice and run right twice
+IN: walk opposite right twice and look around right thrice
+IN: walk right twice after turn around right
+IN: look right thrice after jump opposite left
+IN: walk left twice and walk around left thrice
+IN: turn around right after look around left thrice
+IN: turn right thrice and jump around right twice
+IN: look opposite right twice after look around left twice
+IN: walk thrice after walk twice
+IN: walk around left after run around right twice
+IN: jump around left twice and walk right twice
+IN: turn opposite left thrice after turn around left
+IN: look opposite right after look
+IN: jump around right and walk left thrice
+IN: walk twice after jump around left
+IN: run thrice and run opposite left twice
+IN: turn opposite right twice and walk opposite right twice
+IN: turn around left twice after turn around left thrice
+IN: jump around left after jump around right twice
+IN: turn opposite right and walk opposite left twice
+IN: run opposite left twice and jump left thrice
+IN: walk right and run left
+IN: look around left thrice and jump opposite left
+IN: run opposite left after turn left twice
+IN: walk opposite right after turn opposite left thrice
+IN: turn around left thrice and run twice
+IN: look around right thrice and look left twice
+IN: run around left twice and walk right twice
+IN: look around right thrice after turn around right thrice
+IN: run left thrice and run right thrice
+IN: run around right twice and turn opposite left twice
+IN: turn right twice after jump around left
+IN: run right and walk left
+IN: jump opposite right thrice after jump around left twice
+IN: turn around right thrice and jump around right twice
+IN: look thrice and look opposite right thrice
+IN: turn left and turn opposite left thrice
+IN: look right twice and look right twice
+IN: jump around right after run around right
+IN: turn opposite left twice and jump around left
+IN: look left and turn right
+IN: walk right after look left
+IN: turn right twice and look around left twice
+IN: walk around left twice and run left thrice
+IN: run around left twice after run around right twice
+IN: walk opposite right thrice and walk right
+IN: walk opposite left thrice and turn opposite left
+IN: walk around right after look right thrice
+IN: walk left thrice after look around right thrice
+IN: run and run opposite right
+IN: turn around left and turn opposite right thrice
+IN: look opposite right thrice and look opposite left twice
+IN: look around left after turn left thrice
+IN: run left twice and look opposite left thrice
+IN: look thrice and jump around left twice
+IN: turn right twice and jump opposite left thrice
+IN: run right twice and jump around left thrice
+IN: turn right thrice after walk around left thrice
+IN: run opposite right thrice after walk around right
+IN: turn left and turn opposite left twice
+IN: run right thrice and jump opposite right
+IN: jump around right after look opposite right
+IN: look thrice and jump right thrice
+IN: walk right thrice and jump right
+IN: walk right thrice and look around right thrice
+IN: walk left thrice after jump twice
+IN: turn left and turn around right
+IN: look opposite left thrice and jump left thrice
+IN: turn opposite right thrice after jump around right twice
+IN: jump around left thrice and look
+IN: walk left twice after jump right
+IN: run left thrice after jump around left
+IN: run around left and run around left twice
+IN: walk around right after jump right twice
+IN: look around right thrice after look around right
+IN: jump left after run twice
+IN: jump opposite right thrice after jump left thrice
+IN: run around left thrice and run
+IN: run around right and run thrice
+IN: turn opposite right thrice and turn opposite left thrice
+IN: turn right after walk left thrice
+IN: run around left after run left
+IN: run around left thrice and look right thrice
+IN: jump opposite right thrice after turn opposite right thrice
+IN: run thrice after run around left twice
+IN: jump left thrice after run right
+IN: walk twice after look opposite right
+IN: look opposite left after turn opposite left
+IN: turn opposite right after walk left thrice
+IN: jump around right and look right thrice
+IN: turn right thrice after look around left twice
+IN: look right twice after jump opposite right thrice
+IN: walk around right and walk opposite left
+IN: run left after turn around right twice
+IN: run left twice after jump left thrice
+IN: look opposite left twice and run thrice
+IN: look opposite left and jump thrice
+IN: walk and run opposite left twice
+IN: jump opposite right after run opposite left thrice
+IN: look right twice and look right thrice
+IN: turn opposite right and jump opposite right
+IN: walk after turn opposite right twice
+IN: walk right thrice after jump right thrice
+IN: walk thrice and run right twice
+IN: turn opposite right twice after walk left
+IN: look around right twice after turn around right
+IN: turn opposite right after run
+IN: look twice and jump right thrice
+IN: turn opposite right thrice and jump around right
+IN: look opposite right and walk
+IN: jump opposite right after walk opposite left thrice
+IN: walk around right twice and look around right thrice
+IN: look left twice and walk thrice
+IN: walk opposite left twice and look opposite left
+IN: walk opposite right thrice and run opposite right
+IN: look opposite right after run twice
+IN: turn right thrice and turn around left thrice
+IN: look right after jump around left twice
+IN: look opposite left after run twice
+IN: look around right thrice after run opposite left twice
+IN: look around left after run right twice
+IN: look around right twice after look opposite right thrice
+IN: turn opposite left twice and run opposite left thrice
+IN: turn left thrice after walk opposite left
+IN: turn around left thrice and turn right twice
+IN: walk right thrice and jump opposite right
+IN: jump right and run around right twice
+IN: turn around left twice and look around right thrice
+IN: run right thrice and run opposite left twice
+IN: walk opposite right thrice and look twice
+IN: look opposite left twice and turn around left
+IN: turn left twice and turn opposite right twice
+IN: look right thrice after run right
+IN: look opposite left after walk right
+IN: look twice and walk around right twice
+IN: walk opposite left and walk left
+IN: look opposite left thrice and jump thrice
+IN: run around left twice after jump thrice
+IN: run right thrice and jump right
+IN: turn opposite left twice and walk
+IN: jump right and jump around right
+IN: walk around right and run left
+IN: walk opposite left after turn opposite left twice
+IN: run opposite right thrice after jump thrice
+IN: turn around left twice after walk left thrice
+IN: look opposite right and walk left
+IN: look opposite right after look right
+IN: turn left twice after run right
+IN: jump right twice and look around left
+IN: turn around left thrice and jump twice
+IN: look opposite left thrice and look around right twice
+IN: look opposite right twice and jump
+IN: jump around left twice after jump opposite left thrice
+IN: walk opposite right twice and jump around left
+IN: run opposite right after look opposite right thrice
+IN: run twice and look left twice
+IN: turn around left after run left
+IN: run right after jump thrice
+IN: run around left twice and jump opposite right twice
+IN: run left twice after walk right
+IN: walk around right thrice after jump left
+IN: walk opposite left twice and run left twice
+IN: look opposite left and jump opposite right
+IN: walk and look around left thrice
+IN: jump after run around right thrice
+IN: run right twice and jump right twice
+IN: turn around left thrice and jump around right twice
+IN: turn opposite right thrice and turn left twice
+IN: look around left after look around left
+IN: run right twice after walk opposite left thrice
+IN: look left thrice after run
+IN: look around left twice and turn around right
+IN: jump after jump right thrice
+IN: walk opposite right thrice after jump thrice
+IN: jump around right thrice after jump opposite left twice
+IN: jump right twice and walk right twice
+IN: walk right twice and jump opposite right twice
+IN: jump after walk opposite left thrice
+IN: jump opposite right after jump around left thrice
+IN: walk opposite left thrice after run opposite left
+IN: run and jump twice
+IN: jump right thrice and run opposite right
+IN: jump opposite right thrice after look right
+IN: look left thrice after jump thrice
+IN: look around left twice and look right thrice
+IN: look opposite right twice and look twice
+IN: turn around left after walk right thrice
+IN: jump opposite left twice and jump right thrice
+IN: turn opposite left twice after walk around left thrice
+IN: run left and look around left twice
+IN: turn opposite left and turn opposite right twice
+IN: look right and turn opposite left twice
+IN: turn opposite left thrice after walk twice
+IN: jump left and look around right
+IN: run left twice and run left twice
+IN: walk left thrice after jump around right thrice
+IN: look opposite left thrice after look right
+IN: run right thrice and turn around right
+IN: turn opposite left twice after look left thrice
+IN: turn around right thrice after look left twice
+IN: walk around left after walk left thrice
+IN: walk right twice after jump opposite right
+IN: look around left and look around left
+IN: run opposite right after look opposite left
+IN: jump opposite left and turn right
+IN: turn opposite left thrice after walk opposite left thrice
+IN: jump opposite right twice and jump opposite right
+IN: jump around left thrice and walk around left twice
+IN: run right and look
+IN: walk around right twice after turn left
+IN: turn around left thrice and walk opposite left thrice
+IN: run right thrice and jump opposite left twice
+IN: walk around right thrice after jump opposite right twice
+IN: walk around right thrice and look opposite right thrice
+IN: turn left after run right
+IN: jump around right twice after jump
+IN: walk left after jump around right thrice
+IN: look around left twice after run opposite left
+IN: walk after walk around right thrice
+IN: jump opposite right twice and run right thrice
+IN: jump around left twice and look thrice
+IN: look thrice after run
+IN: turn around left thrice and look opposite left
+IN: turn around right after walk opposite left thrice
+IN: look thrice after run opposite left
+IN: run opposite right after jump around left thrice
+IN: look around left twice after walk around right thrice
+IN: look opposite left and run left
+IN: turn around left twice after turn left
+IN: look opposite right and walk opposite left twice
+IN: jump around right thrice and jump around left
+IN: look twice after look opposite right thrice
+IN: jump around right thrice after walk around right thrice
+IN: look and look right
+IN: jump left thrice and walk right thrice
+IN: turn around right and turn left thrice
+IN: look and jump right twice
+IN: walk opposite left thrice and look right twice
+IN: walk around left twice and walk left twice
+IN: turn left after turn left
+IN: turn right twice after turn left
+IN: turn right after walk right
+IN: walk opposite right thrice after walk right
+IN: turn left twice and walk left twice
+IN: look opposite right twice after jump opposite left twice
+IN: look right twice and look opposite left twice
+IN: walk opposite right thrice after look opposite left thrice
+IN: walk left thrice after walk left
+IN: jump thrice and look around left twice
+IN: turn around right after turn left thrice
+IN: walk left twice after run around right
+IN: walk opposite left after run around left
+IN: run around right twice after turn right
+IN: run left twice and turn left thrice
+IN: run thrice and jump left
+IN: look opposite left and look right
+IN: jump left thrice after turn left
+IN: jump opposite right and jump opposite left thrice
+IN: walk around left thrice and walk thrice
+IN: walk opposite right twice after look around right
+IN: walk and jump opposite left thrice
+IN: run right thrice and jump right thrice
+IN: walk right twice and run opposite left thrice
+IN: look around right twice after jump thrice
+IN: jump around left twice and look around right
+IN: walk around right thrice and run opposite right twice
+IN: turn left twice and run opposite left twice
+IN: run opposite right after run around right thrice
+IN: run around right twice and run around left twice
+IN: look right and look opposite right twice
+IN: walk opposite left twice after look left
+IN: turn around right thrice and jump opposite right
+IN: walk right twice and jump opposite left
+IN: jump opposite right thrice and jump opposite right
+IN: run opposite left thrice and jump right twice
+IN: walk left twice and turn around left twice
+IN: look around right thrice and walk
+IN: look opposite left twice and walk opposite left
+IN: walk around right twice after walk right
+IN: turn opposite right and look twice
+IN: jump right twice after run around right thrice
+IN: jump twice after jump around right thrice
+IN: run left twice after run opposite right twice
+IN: look around right twice after look right thrice
+IN: look right thrice and run around left thrice
+IN: walk opposite right twice and turn around right twice
+IN: jump around left and run around left twice
+IN: look opposite left twice and turn around left thrice
+IN: turn left twice after run around right
+IN: look opposite right after jump right thrice
+IN: walk opposite right twice after jump thrice
+IN: look and walk right thrice
+IN: look around right after jump left thrice
+IN: walk around left thrice after jump opposite left
+IN: turn opposite right thrice and walk opposite left
+IN: walk around right thrice and run right
+IN: walk opposite left twice after jump opposite right thrice
+IN: walk right twice after turn right twice
+IN: look around right twice and run twice
+IN: jump opposite left after walk opposite left twice
+IN: run opposite right twice after run around right thrice
+IN: walk opposite left thrice after look around left twice
+IN: walk opposite left and look thrice
+IN: run opposite left thrice and jump opposite right
+IN: jump opposite left thrice and turn left
+IN: look opposite right thrice after look left thrice
+IN: jump around right and jump right twice
+IN: look around left twice and walk opposite right thrice
+IN: run opposite right and run left thrice
+IN: turn opposite right after look right twice
+IN: jump opposite right after run right twice
+IN: jump opposite left and jump left
+IN: run twice after look opposite right
+IN: look opposite left twice after run around left
+IN: jump opposite right twice and look opposite left
+IN: walk around left thrice and jump around right twice
+IN: walk left twice after jump around left thrice
+IN: turn around left thrice and jump
+IN: walk opposite right thrice and turn right thrice
+IN: walk right after turn right twice
+IN: run around left and walk around left
+IN: look left thrice after run opposite left twice
+IN: walk left thrice and walk opposite left twice
+IN: jump thrice after look opposite right thrice
+IN: turn around left and jump right twice
+IN: look right after walk around right twice
+IN: look left thrice and walk around right twice
+IN: jump around left thrice and jump left twice
+IN: run opposite right after turn opposite right twice
+IN: turn left twice and run around right
+IN: run around right and look opposite left thrice
+IN: run left twice after walk around right twice
+IN: turn opposite right thrice after jump opposite left
+IN: turn left thrice after jump left
+IN: jump opposite right twice and look left
+IN: walk opposite left twice after look opposite right
+IN: look around right after look around right twice
+IN: run and look right twice
+IN: run opposite left and run right twice
+IN: jump around right thrice and turn right
+IN: turn opposite right after run opposite right twice
+IN: run right twice after turn opposite left twice
+IN: run opposite right thrice and walk around right twice
+IN: turn left thrice after look opposite right twice
+IN: walk opposite right twice and run opposite left twice
+IN: look after walk opposite right
+IN: jump right thrice after run opposite left
+IN: look opposite right and look thrice
+IN: jump opposite left after look around right
+IN: run left and walk opposite left twice
+IN: turn opposite left twice after jump opposite right twice
+IN: walk around left and look opposite left twice
+IN: jump after look left
+IN: turn around left and look opposite left twice
+IN: jump right thrice and walk left thrice
+IN: jump opposite right twice and turn opposite left thrice
+IN: look right thrice after run around left twice
+IN: look after run opposite right
+IN: look around left twice and run around right twice
+IN: turn opposite left thrice and walk twice
+IN: look right twice after turn around left thrice
+IN: jump right twice and run around left thrice
+IN: turn opposite right and turn around right thrice
+IN: look left twice after walk right
+IN: jump right thrice after run right twice
+IN: look left after look around left
+IN: run around left after look around left twice
+IN: walk around left thrice and run opposite right twice
+IN: run right thrice and walk left twice
+IN: jump around right twice and look right twice
+IN: run around left twice after jump opposite right thrice
+IN: walk opposite right after look left twice
+IN: jump thrice after look right thrice
+IN: look right thrice after look around right thrice
+IN: jump twice after turn around right thrice
+IN: turn around left after turn around left thrice
+IN: look opposite right twice after jump twice
+IN: turn around right after turn right
+IN: walk thrice and look left thrice
+IN: run thrice and turn opposite left thrice
+IN: walk twice and walk left twice
+IN: turn around right and run opposite right
+IN: jump after turn around right
+IN: look around right twice after jump opposite right
+IN: jump opposite right twice after jump left twice
+IN: walk around left twice and walk
+IN: walk right twice and jump right
+IN: walk around right after look opposite right thrice
+IN: jump left twice and walk left
+IN: jump opposite left thrice and look right
+IN: run twice and jump right twice
+IN: jump left twice after run thrice
+IN: walk around left and run left twice
+IN: look around left after jump left
+IN: jump opposite right thrice and run twice
+IN: look around left and walk left
+IN: jump right thrice after run thrice
+IN: run opposite left after run opposite right
+IN: walk around left twice and look opposite right thrice
+IN: look left twice after jump opposite left thrice
+IN: walk opposite left thrice after run opposite right
+IN: jump left thrice and run around right
+IN: jump around left thrice after jump around right twice
+IN: turn right twice after run around left twice
+IN: turn opposite left and turn around left twice
+IN: walk opposite left after jump around left twice
+IN: jump right twice and look around left twice
+IN: run after walk opposite left twice
+IN: walk around right thrice and turn opposite right thrice
+IN: look left after run left thrice
+IN: turn opposite right thrice and run around right twice
+IN: turn around left thrice after run left thrice
+IN: run around right thrice after look twice
+IN: jump right thrice and run around left
+IN: jump around right thrice and turn around left twice
+IN: run opposite left and turn around left twice
+IN: turn around right thrice after walk left thrice
+IN: turn right twice after jump around left thrice
+IN: turn opposite right twice after jump around right twice
+IN: jump after jump around left thrice
+IN: look left after walk around right
+IN: walk opposite right thrice and walk left twice
+IN: turn left twice after look around right twice
+IN: run around right twice and look twice
+IN: turn opposite left and walk around right twice
+IN: walk left thrice and jump opposite left thrice
+IN: look opposite right thrice and turn around left
+IN: look thrice and walk right twice
+IN: walk twice and run
+IN: walk left twice and look opposite left thrice
+IN: jump around right after jump right twice
+IN: look twice after run opposite left
+IN: jump opposite left twice and turn left
+IN: walk after walk thrice
+IN: turn opposite left thrice after walk right
+IN: run around right after turn left twice
+IN: jump right thrice after turn around right thrice
+IN: walk left thrice and look around right thrice
+IN: run opposite left thrice and walk opposite left
+IN: walk around left twice after walk twice
+IN: jump opposite left after run thrice
+IN: turn opposite left thrice after turn right thrice
+IN: look left thrice and look opposite left
+IN: jump opposite left twice after look opposite left thrice
+IN: jump opposite left and jump around left twice
+IN: run right after walk right
+IN: walk around left thrice and run opposite right thrice
+IN: walk opposite right twice and jump left twice
+IN: turn right thrice after look left
+IN: jump right after look opposite left thrice
+IN: turn right twice and jump
+IN: walk left thrice after look left
+IN: walk after look left
+IN: walk opposite left thrice and look opposite right twice
+IN: jump right after run opposite left twice
+IN: look around left twice and look twice
+IN: jump around left after turn opposite left twice
+IN: run opposite left and walk around left thrice
+IN: look thrice and look around right thrice
+IN: turn opposite right twice after run around right twice
+IN: turn left after run around left
+IN: walk right twice and look thrice
+IN: jump opposite left thrice and jump around right twice
+IN: look opposite left thrice after jump around right
+IN: jump around right thrice after look opposite left
+IN: turn right after run around right twice
+IN: run around right twice and jump opposite right
+IN: look left thrice and walk around right
+IN: walk left thrice and walk opposite right twice
+IN: look opposite left twice and turn right
+IN: walk around right and turn right
+IN: walk around right and run opposite left thrice
+IN: run opposite left after jump right thrice
+IN: walk left and walk around left
+IN: run opposite right twice and look around right twice
+IN: run around left twice and jump right twice
+IN: turn left thrice and run opposite left
+IN: turn around left after run around left thrice
+IN: jump around right thrice after walk
+IN: run around right after turn opposite left thrice
+IN: turn around left thrice and look around right thrice
+IN: look around right and look right twice
+IN: run right thrice after turn opposite right thrice
+IN: walk left thrice after walk left twice
+IN: jump opposite left thrice and run right twice
+IN: jump around right thrice after walk left
+IN: turn opposite left twice and look around left thrice
+IN: turn opposite right thrice after look opposite right
+IN: turn left thrice after turn around left
+IN: turn opposite left thrice and look
+IN: walk after look right
+IN: look opposite right and turn opposite right twice
+IN: turn around right thrice after run
+IN: turn around left thrice after jump right thrice
+IN: jump thrice and jump right thrice
+IN: turn opposite right and walk opposite left thrice
+IN: jump left thrice
+IN: walk around right and turn opposite left twice
+IN: look left twice after jump left twice
+IN: turn left thrice after look around left
+IN: run twice after jump opposite right
+IN: look right thrice after turn opposite right
+IN: turn right twice and walk around left thrice
+IN: run around left after jump around left
+IN: jump opposite left thrice and walk opposite left thrice
+IN: run left and turn opposite right thrice
+IN: run left twice and jump opposite right thrice
+IN: look around right thrice and run right thrice
+IN: turn opposite right twice and walk opposite right
+IN: turn left after turn left thrice
+IN: jump opposite right thrice and look right
+IN: look around left after run
+IN: walk right twice and walk right twice
+IN: walk right thrice after turn around left
+IN: look twice after run opposite right thrice
+IN: turn opposite left and walk
+IN: run thrice after jump opposite left twice
+IN: jump twice and look
+IN: turn around left after walk left thrice
+IN: look right twice after walk left twice
+IN: look around left and run right twice
+IN: look right thrice and look opposite right twice
+IN: run around left thrice and walk opposite left twice
+IN: turn left after walk right twice
+IN: walk left after run right twice
+IN: run thrice after look around left twice
+IN: run right thrice and jump around left
+IN: jump opposite left twice and run around left
+IN: turn opposite left thrice after look left thrice
+IN: jump around right and look around right twice
+IN: jump around right thrice and jump opposite right
+IN: run around right thrice and turn opposite right
+IN: turn right thrice after look opposite right
+IN: walk around left thrice after run around left thrice
+IN: look opposite left thrice after look around right thrice
+IN: jump around left and look around left thrice
+IN: turn opposite right thrice after turn opposite left
+IN: look around right and walk around right
+IN: run opposite right thrice after walk twice
+IN: jump around right and walk left
+IN: jump around left twice after turn around right twice
+IN: walk opposite right and look twice
+IN: walk left thrice after run left twice
+IN: look thrice and jump opposite right
+IN: look opposite right twice after run opposite right
+IN: turn around left twice and run opposite right
+IN: jump left thrice and look
+IN: run opposite right thrice after jump left twice
+IN: look left thrice after look right twice
+IN: jump right twice after jump opposite left twice
+IN: walk right thrice and jump right thrice
+IN: look opposite right thrice and walk opposite left twice
+IN: walk twice after look around left thrice
+IN: jump and walk around left twice
+IN: look around right thrice and jump around right twice
+IN: look left after run around right thrice
+IN: run thrice and turn left thrice
+IN: walk opposite left twice after look left twice
+IN: jump opposite right twice and look around right
+IN: turn opposite right thrice and jump twice
+IN: walk right twice and walk around right thrice
+IN: look opposite right and turn opposite right thrice
+IN: look left and walk around left thrice
+IN: walk opposite left after look left thrice
+IN: jump opposite right and turn around left thrice
+IN: walk right and walk right twice
+IN: jump around right after turn left
+IN: walk opposite right twice and look
+IN: run opposite left thrice after walk right
+IN: walk right and walk opposite left
+IN: jump opposite left twice and jump around right twice
+IN: walk opposite left twice and turn opposite left thrice
+IN: turn around right twice and jump left
+IN: turn right after look opposite right twice
+IN: walk left twice after walk around left twice
+IN: walk twice and run right thrice
+IN: turn around left twice after turn around right
+IN: turn around left twice after run around right thrice
+IN: walk opposite left thrice after look opposite left twice
+IN: run left thrice and walk twice
+IN: walk opposite left twice and look around right twice
+IN: look opposite left twice after jump around right thrice
+IN: run opposite right twice and jump opposite right thrice
+IN: jump around right thrice and run opposite left thrice
+IN: look around right and run around right
+IN: jump left after look thrice
+IN: look thrice after jump left twice
+IN: run opposite left thrice after run left twice
+IN: run around left twice after turn around left twice
+IN: walk opposite right thrice after turn around left twice
+IN: walk opposite left twice and look left
+IN: run and run right thrice
+IN: walk right thrice and walk around left twice
+IN: jump left twice after turn opposite right thrice
+IN: look around right twice after run opposite left
+IN: jump opposite right thrice after walk around right
+IN: turn opposite left twice and look around right
+IN: run around left thrice after look right
+IN: walk around right thrice after jump opposite left
+IN: walk opposite left thrice and turn right
+IN: turn around right thrice and run around right twice
+IN: look after run twice
+IN: run right and look left
+IN: walk left after turn around left thrice
+IN: run twice after look opposite right thrice
+IN: turn opposite left after look left thrice
+IN: run opposite right after walk opposite right twice
+IN: jump right twice after look opposite right thrice
+IN: run opposite left after turn opposite left thrice
+IN: turn around right thrice and turn right twice
+IN: walk around left twice after jump left
+IN: run left and turn around right thrice
+IN: walk opposite right thrice after walk right twice
+IN: run right twice after walk left thrice
+IN: run opposite left twice after look left twice
+IN: look opposite right thrice after run around right thrice
+IN: turn around left twice and run opposite left
+IN: jump twice and walk opposite right thrice
+IN: walk around right and look
+IN: turn around right thrice and jump thrice
+IN: look opposite left after look opposite right twice
+IN: walk around left thrice after run around right twice
+IN: walk and walk right thrice
+IN: turn around left after run opposite right twice
+IN: look left thrice and walk around right thrice
+IN: jump right twice and jump left thrice
+IN: look around right twice after jump opposite left
+IN: turn around left twice and look around right twice
+IN: run left twice and turn opposite left
+IN: turn around right twice after run left twice
+IN: turn around left twice after walk around left
+IN: jump opposite right twice after walk twice
+IN: walk opposite left twice and jump
+IN: run around left twice after look right twice
+IN: walk around right thrice and walk
+IN: turn left twice after look right
+IN: jump opposite right and jump right thrice
+IN: look left thrice and jump around left thrice
+IN: look around left after walk around left twice
+IN: jump left twice and jump
+IN: look opposite left twice and look right thrice
+IN: turn around left twice and turn around right thrice
+IN: walk right twice after walk right thrice
+IN: run right thrice and run around right thrice
+IN: look right twice after run left twice
+IN: run around left after run right
+IN: run around left twice and walk around right
+IN: look around right and look twice
+IN: turn left thrice after turn left twice
+IN: walk opposite right and walk around left thrice
+IN: walk and turn opposite left
+IN: look around left thrice after jump around right
+IN: walk right thrice and walk opposite left
+IN: look around left after walk left
+IN: look around left thrice after turn around right twice
+IN: jump right after run around right thrice
+IN: look around right thrice after look around left twice
+IN: look left after run
+IN: walk right thrice after walk opposite left thrice
+IN: jump opposite right thrice and look right twice
+IN: look twice after turn opposite right thrice
+IN: run left after walk opposite right thrice
+IN: run around left thrice and walk around right thrice
+IN: run around left thrice and walk around right twice
+IN: run twice after jump right thrice
+IN: run around right thrice and jump twice
+IN: jump left thrice and walk left
+IN: jump and turn around right thrice
+IN: walk right thrice and look left twice
+IN: turn around left twice and walk opposite left twice
+IN: jump around left twice after jump around left
+IN: jump around left and look
+IN: look opposite right and jump
+IN: turn around right thrice and jump left twice
+IN: turn around right and look opposite right twice
+IN: jump right thrice after jump opposite left twice
+IN: look around left thrice and turn opposite right
+IN: walk after walk
+IN: run opposite right twice and jump left thrice
+IN: turn opposite right twice after walk thrice
+IN: look opposite right thrice after run around right twice
+IN: jump right after turn around right twice
+IN: jump around right and look opposite left thrice
+IN: run opposite left and look around right twice
+IN: look twice and look around right thrice
+IN: turn opposite right twice after jump around right thrice
+IN: walk opposite left and jump opposite left twice
+IN: jump around right thrice after run around left
+IN: jump around right thrice and jump around right
+IN: turn left twice and walk around left
+IN: jump opposite left thrice and jump opposite right twice
+IN: look opposite left after jump around right twice
+IN: look right thrice and turn left twice
+IN: turn opposite left and look opposite right thrice
+IN: walk around right thrice after look opposite right twice
+IN: look opposite right thrice after walk right thrice
+IN: turn around left twice and look around left thrice
+IN: look around left twice after walk opposite left thrice
+IN: jump opposite right and walk twice
+IN: look left thrice after walk around right twice
+IN: walk right twice and look around left twice
+IN: jump around right thrice after turn opposite left twice
+IN: jump twice after jump around left twice
+IN: run left and run around right
+IN: look opposite left thrice and turn opposite left thrice
+IN: run around right thrice and walk right
+IN: look opposite left thrice after turn opposite right twice
+IN: jump around right and look around right
+IN: look around right thrice after walk thrice
+IN: jump opposite left thrice and jump left thrice
+IN: walk twice and look left
+IN: run left thrice and look opposite left thrice
+IN: walk around left thrice and turn opposite left twice
+IN: run around left after look right
+IN: run thrice and jump opposite left thrice
+IN: look opposite right and walk around left thrice
+IN: turn opposite right after walk twice
+IN: walk right twice and look opposite right twice
+IN: turn opposite left thrice after run opposite right thrice
+IN: turn around right twice and run opposite left thrice
+IN: look around right and jump
+IN: run thrice after look opposite right twice
+IN: look left thrice after look right
+IN: run opposite left thrice and jump
+IN: look right thrice after walk right thrice
+IN: run around left after run right thrice
+IN: walk opposite left thrice and walk twice
+IN: jump after walk around right twice
+IN: walk around right and run opposite right
+IN: turn left thrice and look opposite right
+IN: turn opposite left after look right thrice
+IN: run twice after walk right twice
+IN: run around left twice after run right
+IN: jump opposite right twice after turn opposite right
+IN: jump left and turn opposite right twice
+IN: look around right thrice and jump right
+IN: jump opposite right thrice and run opposite left thrice
+IN: look opposite left thrice and walk opposite left thrice
+IN: turn around right twice after look thrice
+IN: look opposite right and jump twice
+IN: walk around right twice and jump left thrice
+IN: jump around left thrice and turn right
+IN: run opposite right twice and look around left thrice
+IN: turn left thrice after look thrice
+IN: walk around left thrice after run opposite left thrice
+IN: walk right and walk left twice
+IN: walk twice after walk left
+IN: walk thrice and look around right twice
+IN: run around right and run opposite right
+IN: jump opposite left thrice after turn around right twice
+IN: jump around left and run opposite left thrice
+IN: look around left twice after look opposite left twice
+IN: jump around left and jump left
+IN: walk opposite left and look left thrice
+IN: turn around left thrice and jump left twice
+IN: look left twice and walk around left twice
+IN: turn opposite left and turn right
+IN: look around right twice after turn left
+IN: turn around right after jump around right thrice
+IN: look twice after walk opposite right thrice
+IN: walk around left after run opposite right twice
+IN: jump right twice and turn left thrice
+IN: turn opposite left twice and walk twice
+IN: turn right twice and walk right thrice
+IN: run and walk around right twice
+IN: walk opposite right thrice and walk right thrice
+IN: walk twice and walk right twice
+IN: run around right twice and look opposite left twice
+IN: walk around left twice and look right twice
+IN: run left twice after run thrice
+IN: look right after run left thrice
+IN: walk around left twice after jump around right thrice
+IN: look opposite right twice and look thrice
+IN: walk right and jump thrice
+IN: run opposite left thrice after walk twice
+IN: run right after turn left twice
+IN: run opposite right twice after jump thrice
+IN: run left and jump around left
+IN: turn left after jump opposite left thrice
+IN: jump and turn around left
+IN: look around left and run twice
+IN: look after look around left thrice
+IN: jump and jump left
+IN: turn around right twice and look
+IN: walk around right and look opposite left thrice
+IN: jump around left and turn opposite right thrice
+IN: run around left twice after run right twice
+IN: look around right and turn around right thrice
+IN: walk right and jump opposite right thrice
+IN: look twice after run opposite left thrice
+IN: look around right after run
+IN: look thrice after walk around left twice
+IN: jump around left after run left thrice
+IN: walk opposite right after look thrice
+IN: jump around left after jump opposite right thrice
+IN: run right thrice after jump left twice
+IN: turn around right thrice and jump around left twice
+IN: jump opposite left and look
+IN: jump right and walk around right thrice
+IN: jump around right thrice after look left
+IN: look left and jump opposite left thrice
+IN: look around right twice and jump around right twice
+IN: walk around left thrice and look left thrice
+IN: turn left twice and walk thrice
+IN: run opposite left after look around right
+IN: turn left after look left
+IN: run opposite right after look around left twice
+IN: run opposite right thrice after turn around right twice
+IN: run left thrice after walk opposite right twice
+IN: turn around left thrice after look around left thrice
+IN: jump opposite left and walk around left twice
+IN: walk opposite left twice and run around left twice
+IN: run opposite left thrice and look opposite right
+IN: run opposite left and walk around right
+IN: walk twice and turn right twice
+IN: jump left and jump right thrice
+IN: look twice and run right
+IN: walk opposite left twice after look around right thrice
+IN: turn opposite right twice after run left
+IN: turn around right thrice and walk opposite left
+IN: walk around right thrice after look opposite left thrice
+IN: turn around right twice after look right
+IN: walk opposite right twice and turn around right
+IN: jump right thrice after jump
+IN: turn left twice and walk right twice
+IN: turn opposite right after look left thrice
+IN: walk opposite right twice after run opposite left twice
+IN: run opposite left and look opposite left twice
+IN: walk opposite left and walk opposite right thrice
+IN: run left twice and jump around right
+IN: look right and jump opposite right thrice
+IN: run right twice and turn around left
+IN: turn left twice and walk opposite right
+IN: walk after look twice
+IN: run right after jump around right thrice
+IN: walk right and turn opposite left
+IN: jump opposite right and turn around left twice
+IN: walk around right thrice after jump twice
+IN: run opposite right thrice after walk around left thrice
+IN: jump opposite right and walk left twice
+IN: jump opposite left twice after run opposite left twice
+IN: jump and run around left
+IN: jump twice after run right twice
+IN: walk and jump right twice
+IN: turn opposite left after look opposite right thrice
+IN: run around left and look opposite right
+IN: look left twice after look left thrice
+IN: walk thrice and look right twice
+IN: run around right twice after run around left thrice
+IN: look around right thrice after walk opposite right twice
+IN: look around left and walk left thrice
+IN: look opposite left thrice after jump left
+IN: walk around right twice after jump opposite right thrice
+IN: look left thrice and jump opposite right
+IN: jump left and turn right thrice
+IN: jump opposite right and look opposite right
+IN: look around right twice and turn right
+IN: walk opposite left and turn opposite right twice
+IN: turn right and look thrice
+IN: turn around left thrice and look
+IN: jump twice and walk around right
+IN: run opposite left twice after look around right twice
+IN: look opposite left and run opposite left thrice
+IN: look around left thrice after look right twice
+IN: walk opposite left twice after turn around left
+IN: turn opposite right and jump right
+IN: run opposite left twice after walk around right thrice
+IN: run right after run around left thrice
+IN: look left thrice after walk opposite right twice
+IN: walk left and look opposite right
+IN: jump right thrice and jump opposite right
+IN: turn right and walk left thrice
+IN: turn around left twice after walk left
+IN: look opposite right thrice after walk opposite right thrice
+IN: turn around left twice and run thrice
+IN: run around right twice after look
+IN: jump left twice after turn opposite left twice
+IN: jump around right after jump around right thrice
+IN: walk around right twice after look opposite left twice
+IN: jump around left twice and walk around right twice
+IN: walk opposite right thrice and walk
+IN: turn right twice and turn around right thrice
+IN: run around left thrice after look around right
+IN: look around right twice after walk opposite right
+IN: walk opposite right twice after look
+IN: run opposite left thrice after run
+IN: turn left twice after look around left
+IN: run opposite left thrice after walk right twice
+IN: walk right thrice after look around left twice
+IN: jump opposite left twice after walk right
+IN: run around right twice and turn right
+IN: walk around right thrice and run left thrice
+IN: jump and look right
+IN: turn around right twice and run opposite left twice
+IN: look around right and jump around right twice
+IN: look right thrice after walk opposite left thrice
+IN: walk opposite right after jump around right thrice
+IN: jump thrice after run twice
+IN: look opposite left twice and look around right twice
+IN: jump right twice after walk around right
+IN: look and look around right twice
+IN: jump opposite left twice after run around left twice
+IN: run opposite left after look right thrice
+IN: look thrice after look right
+IN: jump opposite right thrice and jump around right
+IN: walk opposite right twice after look opposite right thrice
+IN: look right twice and run twice
+IN: walk left and walk around right
+IN: jump around left twice after walk around left twice
+IN: walk left twice and run right thrice
+IN: turn left twice and turn opposite right thrice
+IN: run around right after jump around right
+IN: look opposite right and turn left
+IN: jump left thrice after walk around left twice
+IN: jump opposite left twice and turn opposite left
+IN: walk twice after walk right twice
+IN: walk left twice after jump around left twice
+IN: turn around left after look around right
+IN: run around left thrice and walk left
+IN: run right after run opposite right thrice
+IN: run left twice and jump left twice
+IN: jump around right and run left twice
+IN: run opposite right thrice and jump opposite right thrice
+IN: run left thrice after turn right thrice
+IN: look right twice after walk opposite left thrice
+IN: look around right thrice after turn left twice
+IN: look opposite right and turn around left thrice
+IN: look opposite right twice and turn right
+IN: jump left thrice and look around right
+IN: turn around left thrice after jump left thrice
+IN: jump opposite left thrice and walk around right twice
+IN: jump opposite left thrice after walk right thrice
+IN: turn opposite right after turn right thrice
+IN: look twice after jump around left thrice
+IN: turn around right twice and run left
+IN: jump opposite right after look left twice
+IN: run around left twice and walk right thrice
+IN: jump around left twice after walk opposite right twice
+IN: walk and run around left thrice
+IN: walk right after jump around left thrice
+IN: run left after look around left twice
+IN: walk opposite left after look left twice
+IN: walk opposite left thrice after walk opposite left twice
+IN: turn around right thrice and run around right thrice
+IN: look around left twice after turn opposite left thrice
+IN: run right and run around right thrice
+IN: jump opposite right thrice after walk
+IN: turn around left thrice and walk opposite right twice
+IN: walk opposite left thrice and jump opposite right
+IN: run left thrice after look twice
+IN: walk right and walk
+IN: run right twice after run opposite right twice
+IN: turn opposite left thrice after jump opposite right thrice
+IN: run left after jump around right
+IN: run around left and jump opposite left
+IN: turn left
+IN: walk around left and walk opposite left twice
+IN: run left and turn left twice
+IN: run left twice after jump left
+IN: jump left after walk left twice
+IN: turn left twice after jump around left twice
+IN: look and jump right thrice
+IN: walk opposite left thrice after run left twice
+IN: look around left twice after walk opposite right thrice
+IN: look around left thrice and walk around left
+IN: look twice after walk twice
+IN: walk around left twice and look
+IN: look left twice after walk thrice
+IN: look around left twice after jump right
+IN: jump around right twice after run left twice
+IN: walk opposite right twice and jump opposite left twice
+IN: look right twice and run left twice
+IN: turn opposite left thrice and jump opposite right
+IN: look opposite right twice after walk around right
+IN: walk twice and run opposite left
+IN: jump and turn opposite left twice
+IN: walk opposite right thrice after run opposite left
+IN: walk around left after jump opposite left
+IN: turn opposite left thrice after run twice
+IN: turn opposite left thrice after walk thrice
+IN: look left twice after run around right
+IN: run around left after walk right twice
+IN: turn around right and turn around right
+IN: look left thrice after run right thrice
+IN: turn right twice after run
+IN: run around left twice and walk twice
+IN: look around left and walk right twice
+IN: turn around left twice after look around left twice
+IN: look opposite left thrice and jump around left twice
+IN: look around left and look opposite right thrice
+IN: turn opposite right after jump twice
+IN: walk around right twice after turn opposite right
+IN: run opposite left twice after turn opposite left thrice
+IN: run opposite left thrice after walk around left
+IN: run around right and run left
+IN: jump right thrice after run opposite right
+IN: walk right twice after jump opposite left twice
+IN: turn around left thrice and walk around left twice
+IN: look left and run around right
+IN: walk around left after run around left thrice
+IN: jump opposite right twice and run around left twice
+IN: jump opposite right and walk left
+IN: run opposite left twice and turn around right twice
+IN: turn around left and jump left twice
+IN: look left thrice after jump right thrice
+IN: jump twice after run opposite left twice
+IN: walk around right twice after run opposite right thrice
+IN: walk around left after jump left twice
+IN: run after walk opposite right twice
+IN: turn around left after jump opposite left
+IN: turn left twice and look around right thrice
+IN: look around left and look left
+IN: walk around right and walk twice
+IN: walk opposite left twice after walk opposite left twice
+IN: walk thrice after walk around right thrice
+IN: run opposite right thrice and jump opposite right twice
+IN: walk left after walk right
+IN: walk opposite right twice after walk opposite left twice
+IN: run around right
+IN: run around left thrice and run opposite right thrice
+IN: turn around right and run twice
+IN: turn right and turn left thrice
+IN: run around left twice after run right thrice
+IN: walk opposite right and run
+IN: walk thrice after run right thrice
+IN: look right after walk opposite left thrice
+IN: walk around left after turn opposite left thrice
+IN: run right after turn opposite right
+IN: walk opposite right thrice and walk around left twice
+IN: run left twice after walk left
+IN: walk twice after jump right twice
+IN: look opposite right and run left thrice
+IN: turn opposite right thrice and walk opposite right
+IN: jump around right twice and walk left thrice
+IN: walk around left thrice and run right
+IN: jump opposite right and walk right
+IN: run around left thrice after turn around right twice
+IN: run left twice after look left thrice
+IN: jump left twice after run around left twice
+IN: run around left twice and run around left thrice
+IN: run right twice after look left
+IN: walk around left twice after run left twice
+IN: run twice and run right
+IN: turn around right twice and turn opposite left thrice
+IN: walk around right thrice and walk right thrice
+IN: look right twice and run around right twice
+IN: turn around left twice after walk
+IN: look right after jump right thrice
+IN: look right twice and jump right
+IN: run around left thrice and run opposite right
+IN: jump left and walk around right
+IN: turn opposite left and walk left twice
+IN: walk opposite left thrice and jump twice
+IN: jump left thrice after run around right thrice
+IN: run right thrice and walk opposite left
+IN: walk opposite left after run around right twice
+IN: jump left thrice and walk
+IN: walk around left twice and turn left
+IN: look left after run around right twice
+IN: walk around left twice after walk around left twice
+IN: jump opposite right twice and walk opposite left thrice
+IN: walk around left twice after look around right twice
+IN: turn left thrice and turn left twice
+IN: walk around left thrice and walk left twice
+IN: turn around left twice and run opposite left twice
+IN: turn opposite right twice after look opposite right thrice
+IN: walk twice and walk around left
+IN: turn left after look opposite right
+IN: walk twice and run right
+IN: walk opposite right thrice after jump twice
+IN: run around left twice after walk opposite right
+IN: run left and walk right thrice
+IN: jump right after run around left
+IN: walk twice and look left thrice
+IN: look around left after look opposite right thrice
+IN: walk right thrice and run right
+IN: jump opposite left and turn around right
+IN: jump thrice after jump thrice
+IN: look left thrice and walk twice
+IN: jump left
+IN: turn opposite left after run around left twice
+IN: turn opposite right twice and run left twice
+IN: look around right after look opposite left
+IN: turn opposite right twice after run opposite left twice
+IN: walk around right after turn around left thrice
+IN: look around right thrice after jump left twice
+IN: walk opposite right after turn opposite right
+IN: jump opposite right and turn left twice
+IN: jump around right after look left
+IN: jump around right thrice and jump right twice
+IN: jump around left thrice after turn around right thrice
+IN: walk around right thrice and look around right thrice
+IN: walk twice after jump opposite left twice
+IN: run opposite left after walk opposite left
+IN: run around left thrice and look right twice
+IN: walk opposite left twice after turn around right
+IN: run around left twice and walk opposite right
+IN: turn around left twice after jump opposite left
+IN: turn opposite right and run around left thrice
+IN: look twice after walk left twice
+IN: look opposite right after look around right
+IN: look thrice after look opposite right
+IN: turn right and turn opposite left twice
+IN: look opposite right and jump left
+IN: look right twice and look opposite right
+IN: walk opposite left thrice after jump around right thrice
+IN: jump opposite left thrice and jump around right
+IN: run twice after look thrice
+IN: look opposite left thrice and walk opposite left
+IN: jump around right thrice and walk thrice
+IN: walk around left twice after jump left thrice
+IN: look left thrice and jump opposite right thrice
+IN: run around right thrice and look left
+IN: jump opposite left thrice after run right thrice
+IN: look opposite left thrice and walk opposite left twice
+IN: run around left twice and look right twice
+IN: look thrice and walk around right twice
+IN: jump opposite left twice and run opposite left twice
+IN: run left thrice and walk right
+IN: jump opposite right thrice after jump around left thrice
+IN: run around left twice and look left
+IN: run opposite left thrice after walk around right thrice
+IN: jump around left and turn opposite left
+IN: jump around left thrice after jump around right
+IN: run around right and turn around left twice
+IN: run around right twice and look opposite right twice
+IN: walk left thrice after run around right
+IN: walk opposite right thrice and jump around left twice
+IN: look opposite left thrice after walk left twice
+IN: jump opposite left after jump around right thrice
+IN: turn opposite left thrice and turn opposite left
+IN: walk around left and jump opposite right twice
+IN: turn around right after run left
+IN: look opposite right and turn right
+IN: walk around right thrice after turn around left
+IN: turn left thrice and turn opposite right
+IN: walk opposite right thrice after turn right thrice
+IN: look right and turn opposite right
+IN: turn right twice after look around right twice
+IN: jump right after turn left thrice
+IN: walk left thrice and walk around left
+IN: run around right and jump twice
+IN: look right thrice after turn around right thrice
+IN: run opposite left thrice and jump opposite left twice
+IN: jump opposite left after run around left
+IN: run opposite left thrice after jump left
+IN: run around right after look around right twice
+IN: walk around left after jump
+IN: walk twice and run twice
+IN: look around left twice after walk right
+IN: look opposite left and turn opposite left
+IN: run around right thrice and look opposite right thrice
+IN: jump opposite left after jump around right twice
+IN: look around right twice and run left
+IN: jump thrice after look left
+IN: look opposite right thrice after turn around right twice
+IN: turn around right and jump thrice
+IN: look opposite left and walk around right
+IN: walk around right twice and turn right thrice
+IN: jump opposite right and look twice
+IN: walk opposite right thrice and jump right thrice
+IN: look around left thrice and look around left
+IN: walk right twice and turn around right twice
+IN: walk right twice after walk thrice
+IN: jump opposite right twice and walk around right twice
+IN: run left thrice and turn around left thrice
+IN: jump around left twice after run around left twice
+IN: walk around left after look right thrice
+IN: walk opposite left thrice and walk left twice
+IN: turn around right thrice after run left thrice
+IN: walk twice after jump twice
+IN: jump right thrice after jump thrice
+IN: run around left and turn left thrice
+IN: walk opposite right after jump opposite left twice
+IN: turn around left thrice and look left twice
+IN: run opposite right twice after jump twice
+IN: jump opposite left thrice after turn around left twice
+IN: run left and walk opposite right
+IN: turn right after look left thrice
+IN: walk right after look left thrice
+IN: look opposite left thrice and turn left
+IN: walk around right twice after walk opposite right thrice
+IN: look around right twice and run opposite right
+IN: jump around right twice and walk opposite left thrice
+IN: turn around left twice after walk around right twice
+IN: look opposite right twice after look around right twice
+IN: walk thrice and run around left thrice
+IN: look opposite left twice after turn left twice
+IN: look around left twice after run right thrice
+IN: jump right twice and look around right
+IN: turn around left twice and turn around left thrice
+IN: jump opposite left twice and jump right twice
+IN: walk thrice and turn opposite right
+IN: walk left twice and look around right thrice
+IN: turn around right and jump right twice
+IN: turn around left twice and run right thrice
+IN: walk around left and jump twice
+IN: turn left thrice and look right thrice
+IN: jump left thrice and walk around left thrice
+IN: jump opposite left after walk right
+IN: look left twice and walk twice
+IN: look right and walk opposite right thrice
+IN: run around right twice and jump around left thrice
+IN: look thrice and walk opposite right thrice
+IN: look left and jump around left thrice
+IN: look opposite right twice and walk around left
+IN: turn around right twice after turn opposite right thrice
+IN: turn around left twice after jump left thrice
+IN: walk left thrice after run thrice
+IN: walk left twice and walk left thrice
+IN: jump around left and turn around left
+IN: jump left after turn around left twice
+IN: look around right and walk
+IN: look opposite right thrice and look left
+IN: walk around left and run around left thrice
+IN: look around right twice and run opposite left thrice
+IN: jump around right and jump around right twice
+IN: walk around right after jump left twice
+IN: run after run
+IN: turn left twice and look thrice
+IN: look opposite right thrice after run thrice
+IN: walk opposite right thrice after walk opposite right thrice
+IN: turn left thrice and look around left
+IN: walk around right twice and run thrice
+IN: turn around left after turn left twice
+IN: walk opposite right thrice after jump right twice
+IN: look around left after jump opposite right thrice
+IN: turn around left twice after look around left thrice
+IN: walk around right thrice after run left thrice
+IN: run left after turn left
+IN: look opposite left twice and run left thrice
+IN: look around left thrice after run opposite left
+IN: look around left twice after look thrice
+IN: walk opposite right thrice after look left twice
+IN: walk right twice after look opposite right
+IN: jump around left thrice and walk opposite right twice
+IN: run opposite right thrice and run opposite right twice
+IN: walk around left thrice after run around right thrice
+IN: look around left thrice after run around right twice
+IN: walk left thrice and turn left
+IN: walk around right thrice and run around left thrice
+IN: jump opposite right twice and turn left thrice
+IN: look opposite right thrice and walk right thrice
+IN: turn opposite left twice after walk right twice
+IN: look opposite right twice after jump opposite right
+IN: run right after jump left thrice
+IN: walk after look right twice
+IN: look left thrice after turn right twice
+IN: walk around right twice and turn opposite right thrice
+IN: turn around left twice and walk around left
+IN: turn opposite left thrice and look around right
+IN: look around left twice after turn opposite right
+IN: walk right twice and jump around left twice
+IN: jump right twice and run right twice
+IN: run right twice and look
+IN: look around left thrice and look right
+IN: look opposite left twice and jump around right twice
+IN: run twice and look thrice
+IN: jump right and run around left
+IN: run thrice after turn around right
+IN: walk opposite right after jump around right twice
+IN: look twice after jump right twice
+IN: look opposite left thrice after turn opposite left twice
+IN: walk around left twice and run right
+IN: run and walk around left
+IN: turn left thrice after jump left twice
+IN: run after walk around right twice
+IN: walk around left thrice and run opposite left
+IN: turn around right thrice and look opposite left thrice
+IN: turn around right and walk around left
+IN: turn opposite right twice after jump right thrice
+IN: walk around left thrice after run left thrice
+IN: turn around right thrice after walk around left thrice
+IN: look around right thrice and walk opposite left
+IN: walk twice after turn around left twice
+IN: look around right thrice and run around right
+IN: turn around left thrice after walk thrice
+IN: turn left after turn around right thrice
+IN: turn opposite right thrice after jump around left thrice
+IN: walk opposite left twice after turn left thrice
+IN: jump opposite left thrice after walk left
+IN: turn left thrice and walk opposite left
+IN: run around left thrice and look opposite left thrice
+IN: turn right twice after run around left thrice
+IN: turn around left and turn opposite left twice
+IN: turn right thrice after jump around right thrice
+IN: jump opposite right twice and look right thrice
+IN: turn left twice after jump opposite left thrice
+IN: walk and run opposite left
+IN: jump left and run opposite left thrice
+IN: jump around left after look around right thrice
+IN: walk left twice and turn opposite right twice
+IN: walk thrice and run opposite right
+IN: run opposite right twice and turn opposite left twice
+IN: jump left thrice after look around left thrice
+IN: jump around right thrice after walk opposite right thrice
+IN: jump opposite right thrice and turn opposite left
+IN: run opposite left and run left
+IN: turn opposite right thrice and jump around left twice
+IN: turn around left twice after walk opposite left twice
+IN: walk around right thrice after run left
+IN: look thrice after jump around left twice
+IN: walk around left twice and walk twice
+IN: run right twice after jump opposite right thrice
+IN: turn opposite right thrice and walk left twice
+IN: walk around left twice and walk opposite right
+IN: jump around left twice and jump opposite left twice
+IN: walk around left thrice and turn around left thrice
+IN: jump thrice after walk opposite left thrice
+IN: jump around left after turn opposite right
+IN: run around right thrice after jump around left thrice
+IN: walk around right after turn left thrice
+IN: look right after turn around right thrice
+IN: look around right thrice after jump
+IN: jump thrice and walk opposite right
+IN: jump opposite left twice and walk around left thrice
+IN: run around left twice after look around left thrice
+IN: run right twice after turn around right thrice
+IN: jump opposite right after turn around left thrice
+IN: look opposite right twice and walk around right thrice
+IN: look right thrice and look opposite left twice
+IN: walk right after run around right
+IN: turn around right and look twice
+IN: walk around left and turn left thrice
+IN: jump around right and walk twice
+IN: walk around left thrice after run opposite right
+IN: run opposite right thrice after walk opposite left thrice
+IN: walk opposite left after walk around left thrice
+IN: look opposite right twice after look right thrice
+IN: look left thrice after walk around right
+IN: turn opposite right thrice after turn opposite left thrice
+IN: turn around right twice and walk opposite left
+IN: jump around left thrice after look opposite left
+IN: run around right twice and look left twice
+IN: jump left twice after jump right twice
+IN: jump around right after walk
+IN: look thrice and turn opposite left
+IN: jump right thrice after run left thrice
+IN: jump left twice and jump around right
+IN: turn opposite right after turn opposite right twice
+IN: turn opposite right twice after walk right
+IN: turn opposite left twice after run left twice
+IN: jump opposite left thrice and turn around right twice
+IN: look opposite left after run right thrice
+IN: turn around right and run around right
+IN: run left and jump left
+IN: look opposite left twice and walk right twice
+IN: look around left thrice after turn right twice
+IN: jump left thrice and jump around right twice
+IN: turn left twice after look right twice
+IN: turn opposite left thrice and run opposite right thrice
+IN: jump opposite right after walk opposite left twice
+IN: turn opposite left after look right twice
+IN: walk opposite left after jump left thrice
+IN: walk opposite right and turn around left thrice
+IN: walk left thrice after turn right twice
+IN: jump twice and walk left
+IN: walk opposite right twice and look right twice
+IN: look opposite left twice after jump around right twice
+IN: run opposite left twice after jump opposite left thrice
+IN: run around right twice and turn opposite left
+IN: turn around right twice after look opposite left thrice
+IN: turn around right thrice after walk around left
+IN: jump left thrice and turn opposite left twice
+IN: run right thrice and turn opposite right
+IN: look around left twice after run left twice
+IN: run right after turn left thrice
+IN: run around left thrice after walk opposite left
+IN: look opposite left thrice and look right
+IN: run around left twice and turn around left thrice
+IN: look opposite right after jump opposite left thrice
+IN: run thrice after jump around left twice
+IN: turn right thrice and look around right
+IN: jump left after jump left twice
+IN: jump right and turn around left thrice
+IN: look around left twice after walk around left
+IN: run twice and walk opposite right twice
+IN: run left and run around left
+IN: walk around left and look around left thrice
+IN: turn opposite right twice and walk opposite left twice
+IN: look opposite right twice after jump right
+IN: run left after look around right twice
+IN: walk around left after walk right twice
+IN: look left thrice after run opposite right
+IN: look around left after look left thrice
+IN: run opposite right thrice and jump around right twice
+IN: walk thrice after walk left twice
+IN: look left thrice and jump left twice
+IN: turn right and look opposite left
+IN: run right after turn left
+IN: walk right thrice and run left thrice
+IN: jump right twice and run opposite right thrice
+IN: jump around right twice after turn opposite left twice
+IN: walk around right twice and jump twice
+IN: turn opposite left twice after walk right thrice
+IN: turn opposite right twice and jump opposite right
+IN: jump thrice after look opposite left
+IN: run around left thrice after jump left twice
+IN: run opposite left after walk around right
+IN: jump left thrice and run
+IN: look opposite right twice after look around left thrice
+IN: run left thrice and run thrice
+IN: look around right thrice and look opposite left
+IN: walk opposite left and look opposite right
+IN: walk opposite left after jump right thrice
+IN: jump opposite right twice after run twice
+IN: look opposite right twice after walk around left twice
+IN: walk opposite right and jump opposite right twice
+IN: run opposite left after jump around right thrice
+IN: turn around left and look opposite right thrice
+IN: run around right thrice after run around right
+IN: run around left twice after walk around right
+IN: turn around right twice after run right thrice
+IN: jump opposite right twice after run right twice
+IN: run left thrice and turn left twice
+IN: turn left thrice after walk thrice
+IN: look thrice and run opposite left thrice
+IN: run thrice after walk left twice
+IN: run opposite left twice after look right
+IN: turn left thrice and run opposite right
+IN: walk opposite right thrice after look opposite right
+IN: walk opposite right thrice and run opposite right thrice
+IN: run right and run opposite left thrice
+IN: jump and turn opposite right twice
+IN: jump around left twice after turn left
+IN: look twice and run around right thrice
+IN: walk right twice after run around left twice
+IN: jump opposite right thrice after look thrice
+IN: run after turn around left
+IN: look left after run right twice
+IN: run left thrice after run around right
+IN: run right twice and walk
+IN: jump around right twice and jump right thrice
+IN: look left twice and jump
+IN: run around left thrice after jump left
+IN: run right twice and look twice
+IN: turn left thrice after look around left thrice
+IN: run twice and turn right twice
+IN: run opposite right and jump right twice
+IN: run around left twice and turn around left twice
+IN: turn right thrice after turn left twice
+IN: look around left twice after turn left twice
+IN: turn left twice and turn left thrice
+IN: walk left twice after look around left thrice
+IN: run around right twice after jump opposite left thrice
+IN: walk around right after turn opposite left twice
+IN: turn right and jump opposite left thrice
+IN: walk after jump opposite left twice
+IN: walk opposite right twice and walk around left
+IN: look opposite right thrice and run opposite left twice
+IN: jump right thrice and look opposite right
+IN: run opposite right twice and turn left twice
+IN: jump after turn around right twice
+IN: turn right thrice and look opposite left
+IN: look around left twice after run around right
+IN: turn around right thrice after jump right thrice
+IN: turn left thrice and turn around right thrice
+IN: run opposite left and turn left twice
+IN: jump after look right
+IN: walk around left thrice after turn around left twice
+IN: run left thrice and turn left thrice
+IN: turn around left thrice after look right thrice
+IN: walk around left thrice after jump
+IN: run opposite left twice after turn around left
+IN: look around right thrice and look twice
+IN: look opposite left thrice and jump opposite left
+IN: turn around right twice and walk opposite right twice
+IN: jump around right thrice after run right twice
+IN: jump and run right twice
+IN: look right thrice after walk opposite right twice
+IN: look around right thrice and turn opposite left twice
+IN: turn opposite left and turn right thrice
+IN: look right thrice after look around right
+IN: run around left thrice after walk opposite right
+IN: turn around left after walk around left
+IN: turn around left after run opposite right
+IN: run left thrice after look around left
+IN: walk around left after turn opposite right twice
+IN: jump around left thrice after walk twice
+IN: run thrice and jump opposite right thrice
+IN: look around left and turn opposite right thrice
+IN: turn around left twice after look opposite right
+IN: run right and turn right twice
+IN: turn around left thrice after walk left
+IN: walk around left twice after turn opposite left twice
+IN: turn right thrice after run twice
+IN: run left twice after walk opposite right thrice
+IN: walk right thrice after jump right
+IN: walk left thrice and turn right thrice
+IN: walk right after jump around left
+IN: turn around left and jump opposite right
+IN: jump thrice and walk opposite left thrice
+IN: run around left twice and run opposite left twice
+IN: turn opposite right thrice after walk opposite left thrice
+IN: turn opposite right and look opposite right thrice
+IN: walk opposite right thrice and look opposite left twice
+IN: walk left thrice and look
+IN: jump opposite left thrice after run opposite right thrice
+IN: look opposite right after jump
+IN: run left thrice after run around right thrice
+IN: run opposite left thrice and walk right twice
+IN: walk around right thrice after turn left
+IN: run around right twice after walk twice
+IN: turn opposite left thrice and turn opposite right thrice
+IN: walk left thrice and jump left
+IN: run twice after look opposite left twice
+IN: walk right after turn around left
+IN: walk opposite right after turn around left thrice
+IN: jump thrice and turn around right thrice
+IN: look opposite left thrice and look opposite right
+IN: run opposite right thrice and walk left twice
+IN: jump thrice after run around right
+IN: run right twice after turn opposite right twice
+IN: jump around left thrice after jump left
+IN: look opposite right thrice and jump right
+IN: walk left after look around right twice
+IN: look right thrice and jump right
+IN: look around right twice and look
+IN: run around right thrice and look opposite left thrice
+IN: turn left after run around right twice
+IN: look around right and jump right twice
+IN: turn around left thrice after walk opposite right
+IN: look opposite right thrice and turn around right twice
+IN: walk left twice and jump left twice
+IN: turn opposite right twice and look around left
+IN: walk left after run right thrice
+IN: jump twice and walk twice
+IN: look left twice and jump around left
+IN: jump opposite left and look left twice
+IN: walk left twice and run left twice
+IN: run opposite right thrice after run around left twice
+IN: jump twice after run opposite left thrice
+IN: turn left thrice after run around right
+IN: turn around left thrice after walk left twice
+IN: run right thrice after turn left thrice
+IN: walk right thrice after look opposite left
+IN: jump opposite left twice and walk around right twice
+IN: run opposite left twice after look around right thrice
+IN: walk right twice after walk opposite left thrice
+IN: run opposite left after walk
+IN: look twice after walk around left
+IN: turn left thrice after turn opposite right twice
+IN: jump opposite right after walk right twice
+IN: look left after run around right
+IN: run right twice and walk left
+IN: look opposite right and jump around right thrice
+IN: turn left twice after run around left
+IN: walk around left after walk around left
+IN: run around right and turn opposite right
+IN: look right twice and turn around right twice
+IN: walk right twice and look
+IN: jump opposite left and turn left twice
+IN: walk opposite right after jump left
+IN: jump opposite left thrice after run around left twice
+IN: jump twice and look around right
+IN: jump twice after walk opposite right
+IN: run after walk around right thrice
+IN: look opposite right twice after look opposite left twice
+IN: jump opposite left after jump around left thrice
+IN: turn right thrice and turn right
+IN: jump thrice after look right
+IN: run around right twice and turn opposite left thrice
+IN: turn around left thrice after run left
+IN: jump opposite left after run right twice
+IN: walk opposite right twice after run left
+IN: look around left thrice and run twice
+IN: run around right twice after look right
+IN: look right twice after jump
+IN: jump twice and turn opposite left thrice
+IN: look left thrice and walk around left
+IN: jump opposite right thrice and turn around right thrice
+IN: run around left twice after turn right thrice
+IN: run opposite right thrice and look around left thrice
+IN: turn around right twice and look right thrice
+IN: run around right thrice after run left thrice
+IN: jump twice and turn around left
+IN: look right after walk thrice
+IN: run left twice after turn left thrice
+IN: run around right thrice after run thrice
+IN: turn opposite right thrice after turn opposite left twice
+IN: run thrice and turn around left twice
+IN: turn around left and turn opposite left
+IN: walk opposite right twice and turn opposite left
+IN: run around left thrice after run left twice
+IN: walk opposite right twice after turn around left
+IN: walk right thrice and walk around left thrice
+IN: walk opposite right after turn around left
+IN: jump opposite right twice and walk right
+IN: turn right thrice and look opposite left thrice
+IN: run around right after turn opposite left twice
+IN: walk around right and jump around left twice
+IN: turn right after jump opposite left
+IN: run right after run twice
+IN: run around left thrice after walk around left twice
+IN: walk right and jump left thrice
+IN: look twice after walk opposite right twice
+IN: turn right thrice and run around right thrice
+IN: look around left thrice and walk around left twice
+IN: turn right thrice after jump opposite right
+IN: jump right twice after walk opposite left
+IN: walk opposite left thrice after run opposite left thrice
+IN: walk left thrice after jump opposite right
+IN: run left after jump twice
+IN: look right thrice after run opposite left twice
+IN: look around right and jump opposite right
+IN: run right thrice after turn right
+IN: look opposite right twice and run opposite left twice
+IN: jump around right after look right twice
+IN: turn left thrice after walk opposite right twice
+IN: walk and walk opposite left
+IN: turn opposite right twice and walk right twice
+IN: walk and turn left thrice
+IN: look left thrice after look left
+IN: jump left twice and run around right twice
+IN: look opposite right thrice and jump left
+IN: jump twice after run right thrice
+IN: look around right thrice and walk around right
+IN: run and run around left thrice
+IN: look around left thrice and jump twice
+IN: run opposite right thrice after run around left thrice
+IN: run twice and jump left
+IN: walk opposite right twice and walk right twice
+IN: walk left thrice and run
+IN: walk around right and look right thrice
+IN: jump opposite right twice and look opposite right thrice
+IN: turn opposite left thrice and jump opposite left twice
+IN: turn left and look
+IN: walk right twice after look left thrice
+IN: run opposite left twice and turn opposite right twice
+IN: look around left thrice after jump right twice
+IN: look around right thrice after jump around left twice
+IN: walk left after run left twice
+IN: turn opposite left and look opposite right
+IN: jump around left thrice and turn around right
+IN: run around left thrice and turn opposite right
+IN: look left thrice and run left thrice
+IN: walk around left twice and jump around left
+IN: run around left thrice and turn around left twice
+IN: run around right after jump right twice
+IN: turn left thrice and look opposite left twice
+IN: walk left twice after look around left
+IN: look opposite right thrice after jump around left thrice
+IN: jump around left thrice after walk opposite left thrice
+IN: walk right twice after run opposite left twice
+IN: walk right thrice after walk around right
+IN: jump around right twice and run around right twice
+IN: jump opposite left thrice and look opposite left
+IN: run opposite left twice after jump left thrice
+IN: jump around right and jump right
+IN: walk right after run right
+IN: walk opposite left and jump opposite right twice
+IN: look right and look left twice
+IN: jump twice and jump around right
+IN: walk opposite left and turn left twice
+IN: look around left twice after look around left thrice
+IN: look around right twice and jump opposite right thrice
+IN: jump opposite right after walk around left twice
+IN: walk left thrice after jump around left thrice
+IN: walk left twice after walk left
+IN: run left twice and run opposite left twice
+IN: run right thrice and walk
+IN: turn right thrice and walk around left twice
+IN: look thrice and look opposite right
+IN: look opposite right and turn right twice
+IN: look opposite left twice and turn right thrice
+IN: jump opposite left thrice and walk right twice
+IN: turn opposite right twice
+IN: look left and run twice
+IN: look left thrice and turn around right thrice
+IN: look around right thrice and walk around left twice
+IN: look right thrice after walk
+IN: run twice and turn left
+IN: walk and walk left twice
+IN: look left thrice after jump around left twice
+IN: jump opposite left after look around left twice
+IN: jump thrice after look around left thrice
+IN: walk around right twice and run around right thrice
+IN: turn opposite left and walk left thrice
+IN: turn around right thrice and jump opposite left twice
+IN: look around left and turn around left
+IN: turn around right and walk opposite right twice
+IN: run left after walk right thrice
+IN: walk thrice after look around right
+IN: run around left thrice and jump around right twice
+IN: turn opposite right after run opposite left
+IN: jump around right after jump opposite left
+IN: run opposite left twice and look around left thrice
+IN: walk opposite left thrice and look around right twice
+IN: run around right after run opposite left thrice
+IN: walk around right after walk right
+IN: walk right thrice and look left thrice
+IN: walk around left thrice and look right thrice
+IN: turn around left twice after look right twice
+IN: run around right thrice and walk right twice
+IN: walk left and jump thrice
+IN: run thrice after jump around right
+IN: turn right twice and jump left thrice
+IN: look opposite right and turn around right
+IN: turn opposite right and jump opposite right twice
+IN: look left twice and turn left
+IN: run around right thrice after turn around left twice
+IN: look around right twice and walk left thrice
+IN: run left twice after walk around right
+IN: run right and turn around right thrice
+IN: run right after look around left thrice
+IN: run right twice after walk around right twice
+IN: look opposite right twice after jump opposite right twice
+IN: run around right after run
+IN: walk around right thrice and jump right
+IN: walk around right after walk left thrice
+IN: walk opposite right thrice and turn left twice
+IN: look opposite right after run right
+IN: turn around right thrice after jump opposite right
+IN: look left twice after turn left twice
+IN: walk around right twice and walk right thrice
+IN: walk right twice and jump around right
+IN: run around left thrice after walk opposite right thrice
+IN: turn opposite left twice and walk right thrice
+IN: walk left and jump left twice
+IN: jump around right twice after walk opposite right thrice
+IN: walk after jump opposite right twice
+IN: look right thrice and jump left
+IN: turn opposite right thrice and run opposite left

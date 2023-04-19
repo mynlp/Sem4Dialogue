@@ -1,0 +1,15 @@
+save_data: MultiWoz/run/example
+## Where the vocab(s) will be written
+src_vocab: MultiWoz/vocab/multiwoz.vocab.src
+tgt_vocab: MultiWoz/vocab/multiwoz.vocab.tgt
+# Prevent overwriting existing files in the folder
+overwrite: True
+
+# Corpus opts:
+data:
+    corpus_1:
+        path_src: MultiWoz/MultiWoz_processed/train_src.txt
+        path_tgt: MultiWoz/MultiWoz_processed/train_tgt.txt
+    valid:
+        path_src: MultiWoz/MultiWoz_processed/test_src.txt
+        path_tgt: MultiWoz/MultiWoz_processed/test_tgt.txt
