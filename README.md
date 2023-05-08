@@ -2,7 +2,8 @@
 Semantic Parsing for Task-Oriented Dialogue
 
 ## Models
-For now, the implemented models are Transformer model and LSTM with Copy mechanism.
+For now, the implemented models are Transformer model and LSTM with Copy mechanism. However, the key idea is the paper proposed a framework to unify different semantics of different machine-readable formats.
+![avatar](emnlp_page-0001.jpg)
 
 ## Datasets
 Current datasets covered in the repository contains:  
@@ -66,5 +67,5 @@ This refers to the code `sem4diag_rewriting.py`
 `mo_sql_parsing` for SQL language parsing
 `pyparsing` for nested parenthesis Parsing
 `anytree` and `treelib` for tree representation
-`onmt` for some default use tokens
-For new task processing, you need to add your own parsing code to you data and add new code to the tree linearization. However, the tree linearization may not require to be rewritten, this is mostly case by case. This choice largely depends on the nature of your data.
+`onmt` for some default use tokens  
+For new task processing, you need to add your own parsing code to you data and add new code to the tree linearization. However, the tree linearization may not require to be rewritten, this is mostly case by case. This choice largely depends on the nature of your data. Therefore, use the code in the repository in a careaful manner. Since the code may not apply to your format and you may need to write your own.
