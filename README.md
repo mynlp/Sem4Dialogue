@@ -1,8 +1,8 @@
-# sem4dial
-Semantic Parsing for Task-Oriented Dialogue
+# Semantic for Dialogue
+This is the repository for the paper Syntactic and Semantic Uniformity for Semantic Parsing and Task-Oriented Dialogue Systems
 
 ## Models
-For now, the implemented models are Transformer model and LSTM with Copy mechanism. However, the key idea is the paper proposed a framework to unify different semantics of different machine-readable formats.
+For now, the implemented models are Transformer model and LSTM with Copy mechanism which you can use directly to get some initial results. However, the key idea is the paper proposed a framework to unify different semantics of different machine-readable formats.
 ![avatar](emnlp_page-0001.jpg)
 
 ## Datasets
