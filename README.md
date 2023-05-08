@@ -25,7 +25,27 @@ Current datasets covered in the repository contains:
 
 Some datasets are beyond the limit of GitHub's storage, so I uploaded some of the datasets in the [Google Drive](https://drive.google.com/file/d/1Bxm29zjtLkLiuzMNHMUAIWmOSvBWlGu6/view?usp=sharing), you could download these datasets via this link and unzip it, then place each datasets to corresponding folder. Since some datasets has been updated, if you downloaded these datasets before 2022.02.23, you should redownload it.
 
-## How to run the code
+## Regarding Language Production Codes and New Task Processing
+To achieve language rewriting into proposed format, you need to have the following additional packages:  
+Please refer to the code `sem4diag_rewriting.py` which contains the processing script we used for different formats of differnet datasets, but in order to make the script work, you need some of the following packages:  
+ - `mo_sql_parsing` for SQL language parsing  
+ - `pyparsing` for nested parenthesis Parsing  
+ - `anytree` and `treelib` for tree representation  
+ - `onmt` for some default use tokens  
+
+### For new task processing
+You need to add your own parsing code if:
+ - your data is not in the format that the script can be used processing directly which contains SQL Query, FunQL Query, Dialogue States, NLmaps etc.
+
+If your data is not listed in the above format, you will need to add new code to parse you data and linearize the tree based on the method that we used in the paper. However, the code may not need to be completely rewritten, this is mostly case by case, you may be able to reuse some parts of the code. 
+
+This choice largely depends on the nature of your data. Therefore, use the code in the repository in a careaful manner. Since the code may not apply to your format and you may need to write your own.
+
+If you just want to use our processed data, please download the data listed in the page in the Google Drive.
+
+
+
+## How to run the code for experiments
 
 ### File Introdocution
 Each dataset folder all contains these necessary files:
@@ -60,12 +80,3 @@ GeoQuery specifies the target task you want to run, for the acceptable parameter
 Transformer specifies the target model you want to train, however, this parameter does not automatically choose model to run. Before you train the model, you should modify the YAML file of each task to change the model selection. For example, if you want to use LSTM model in GeoQuery, you should comment the Transformer setting in the GeoQuery.YAML and uncomment the LSTM setting. Otherwise, even if you input ```sh train.sh GeoQuery LSTM 10000```, it will still train a Transformer model. For detail about the YAML configuration, you should refer to the [OpenNMT](https://github.com/OpenNMT/OpenNMT-py) for detail.
 
 Last numeric parameter specifies the model of particular step as the evaluation model. For the above example program, it uses Transformer trained at 10000 step as the model for evaluation. It will automatically translate the test file and evaluate the translated test file with the gold file.The results will be reported after the evaluation is finished. However, the automatic evaluation only supports Word EM, Sent EM and BLEU score, if you want to execute SQL query in database, refer to [test-suite-sql-eval](https://github.com/taoyds/test-suite-sql-eval) for detail, in conclusion, the SQL execution accuracy is not automatically reported, you should run it by yourself.
-
-### Regarding Language Production
-To achieve language rewriting into proposed format, you need to have the following additional packages:
-This refers to the code `sem4diag_rewriting.py`
-`mo_sql_parsing` for SQL language parsing
-`pyparsing` for nested parenthesis Parsing
-`anytree` and `treelib` for tree representation
-`onmt` for some default use tokens  
-For new task processing, you need to add your own parsing code to you data and add new code to the tree linearization. However, the tree linearization may not require to be rewritten, this is mostly case by case. This choice largely depends on the nature of your data. Therefore, use the code in the repository in a careaful manner. Since the code may not apply to your format and you may need to write your own.
