@@ -4,7 +4,7 @@ This is the repository for the paper Syntactic and Semantic Uniformity for Seman
 ## Models
 For now, the implemented models are Transformer model and LSTM with Copy mechanism which you can use directly to get some initial results. However, the key idea is the paper proposed a framework to unify different semantics of different machine-readable formats.
 ![avatar](emnlp_page-0001.jpg)
-
+If you are interested in this paper, you can refer to the [paper](https://aclanthology.org/2022.findings-emnlp.60/) for detail.
 ## Datasets
 Current datasets covered in the repository contains:  
 1. Semantic Parsing
