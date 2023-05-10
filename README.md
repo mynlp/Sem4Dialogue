@@ -40,9 +40,9 @@ You need to add your own parsing code if:
 If your data is not listed in the above format, you will need to add new code to parse your data and linearize the tree based on the method we used in the paper. However, the code may not need to be completely rewritten, this is mostly case by case, you may be able to reuse some parts of the code.  
 
 This choice largely depends on the nature of your data. Therefore, use the code in the repository in a careful manner. Since the code may not apply to your format and you may need to write your own.  
-## How to run the code for experiments
+## Codes for Experiments
 
-### File Introdocution
+### File Introduction
 Each dataset folder contains following files:
   - `processe_xxx.py` this is the pre-process code of each dataset, use this to do pre-processing.
   - `processed_xxx` folder, this folder is for pre-processed datasets.
