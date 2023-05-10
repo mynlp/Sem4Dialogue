@@ -1,11 +1,11 @@
-# Uniform semantics for Semantic Parsing and Task-Oriented Dialogue Systems
+## Uniform semantics for Semantic Parsing and Task-Oriented Dialogue Systems
 This is the repository for the paper Syntactic and Semantic Uniformity for Semantic Parsing and Task-Oriented Dialogue Systems (EMNLP Findings 2022)
 
-## Introduction
+### Introduction
 ![avatar](emnlp_page-0001.jpg)
 For now, you can find the implemented models are the Transformer model and LSTM with Copy mechanism which you can use directly to get some initial results. In conclusion, the paper's key idea is a framework to unify different semantics of different machine-readable formats in Semantic Parsing and Task-Oriented Dialgoue. Performance is not the main focus of this paper.
 If you are interested in this research, you can refer to the [paper](https://aclanthology.org/2022.findings-emnlp.60/) for detail.
-## Datasets
+### Datasets
 Current datasets covered in the repository are:  
 1. Semantic Parsing
   - GeoQuery-FunQL Version
@@ -25,7 +25,7 @@ Current datasets covered in the repository are:
 
 <!---Some datasets are beyond the limit of GitHub's storage, so I uploaded some of the datasets in the [Google Drive](https://drive.google.com/file/d/1Bxm29zjtLkLiuzMNHMUAIWmOSvBWlGu6/view?usp=sharing), you could download these datasets via this link and unzip it, then place each dataset to the corresponding folder. Since some datasets have been updated, if you downloaded these datasets before 2022.02.23, you should re-download them.-->
 
-## Codes for Producing Proposed Format and New Task Processing
+### Codes Related to the Proposed Format
 To obtain the format proposed in the paper, you need to have the following additional packages:  
 Please refer to the code `sem4diag_rewriting.py` which contains the processing script we used for different formats of different datasets, but to make the script work, you may need some of the following packages:  
  - `mo_sql_parsing` for SQL language parsing  
@@ -40,7 +40,7 @@ You need to add your parsing code if:
 If your data is not listed in the above format, you will need to add new code to parse your data and linearize the tree based on the method we used in the paper. However, the code may not need to be completely rewritten, this is mostly case by case, you may be able to reuse some parts of the code.  
 
 This choice largely depends on the nature of your data. Therefore, use the code in the repository in a careful manner. Since the code may not apply to your format and you may need to write your own.  
-## Codes for Experiments
+### Codes for Experiments
 
 ### File Introduction
 Each dataset folder contains the following files:
