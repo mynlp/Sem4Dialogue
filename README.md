@@ -25,7 +25,7 @@ Current datasets covered in the repository are:
 
 <!---Some datasets are beyond the limit of GitHub's storage, so I uploaded some of the datasets in the [Google Drive](https://drive.google.com/file/d/1Bxm29zjtLkLiuzMNHMUAIWmOSvBWlGu6/view?usp=sharing), you could download these datasets via this link and unzip it, then place each datasets to corresponding folder. Since some datasets has been updated, if you downloaded these datasets before 2022.02.23, you should redownload it.-->
 
-## Regarding Language Production Codes and New Task Processing
+## Codes for Producing Proposed Format and New Task Processing
 To obtain the format proposed in the paper, you need to have the following additional packages:  
 Please refer to the code `sem4diag_rewriting.py` which contains the processing script we used for different formats of different datasets, but in order to make the script work, you may need some of the following packages:  
  - `mo_sql_parsing` for SQL language parsing  
