@@ -1,9 +1,9 @@
 # Uniform semantics for Semantic Parsing and Task-Oriented Dialogue Systems
 This is the repository for the paper Syntactic and Semantic Uniformity for Semantic Parsing and Task-Oriented Dialogue Systems (EMNLP Findings 2022)
 
-## Models
-For now, the implemented models are the Transformer model and LSTM with Copy mechanism which you can use directly to get some initial results. However, the key idea is the paper proposed a framework to unify different semantics of different machine-readable formats.
+## Introduction
 ![avatar](emnlp_page-0001.jpg)
+For now, you can find the implemented models are the Transformer model and LSTM with Copy mechanism which you can use directly to get some initial results. In conclusion, the key idea of the paper is a framework to unify different semantics of different machine-readable formats in Semantic Parsing and Task-Oriented Dialgoue. The performance is not the main focus of this paper.
 If you are interested in this research, you can refer to the [paper](https://aclanthology.org/2022.findings-emnlp.60/) for detail.
 ## Datasets
 Current datasets covered in the repository are:  
